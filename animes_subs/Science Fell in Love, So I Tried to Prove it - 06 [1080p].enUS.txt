@@ -1,0 +1,506 @@
+Science Fell in Love, So I Tried to Prove It
+All right, Himuro.
+Close your eyes.
+Now hold it, and lift your chin 30 degrees.
+Proof 6 Science-types Fell in Love, So They Tried Kissing.
+Another 6.5 degrees.
+Good.
+According to the data, that will give us a height of 4 cm.
+Now, as long as I tilt my head at an angle of 40 degrees,
+even if I keep my glasses on, we should avoid a collision of noses.
+Times you didn't want to kiss +1
+Um...
+Himuro-senpai's doesn't want to counter is rising rapidly.
+Wh-What's the meaning of this, Himuro?!
+I thought you loved me!
+That hasn't been established for certain yet!
+It's not like that.
+It's not that I don't want you to, Yukimura-kun...
+I don't quite understand it myself, but...
+somehow... I don't want to do it like this, like it's work...
+And even if you asked me for specifics, I wouldn't really know, but...
+Himuro-senpai!
+You're adorable!
+Huh?
+She's right, Yukimura-senpai!
+A kiss isn't something you should do just to be done with it.
+The right mood is important for this kind of thing!
+Mood?
+Something like... Well, you know...
+A restaurant with a night view, or...
+Walking along a beach at sunset...
+Kissing somewhere with a nice mood like that is what gives it meaning!
+Meaning, is it?
+Oh, right! You remember?
+Like that time on the Ferris wheel when we were collecting date data?
+The mood was amazing, wasn't it?
+What?
+True...
+In that moment, I wouldn't have minded... probably...
+See? I knew it!
+I see.
+That's what it was.
+In order to kiss, the right mood is necessary!
+Mood Quantification
+If we can define a mood value,
+we should be able to find an efficient method of increasing the mood!
+I don't know.
+Can something as insubstantial as mood really exert such a strong influence?
+It's got a pretty big effect.
+Even if you just compare the external environments.
+For example, look at a situation with a high mood value...
+If you contrast it with a low value...
+hup
+hup
+hup
+hup
+hup
+hup
+hup
+hup
+Hup! Hup! Hup! Hup!
+What do you think?
+You're right!
+There's a tremendous difference!
+If you pushed for a kiss in those conditions, I would punch you, Yukimura-kun.
+Why is there so much variation when the action is the same?
+What could the difference between the situations be?
+Wouldn't it be the overabundance of muscles?
+I see.
+Which means...
+This!
+This, right?
+Definition 1.1: Mood value M (x) is hhhhhhhhhhhhhhhhhhhhhhhhinversely proportional to the amount hhhhhhhhhhhhhhhhhhhhhhhhof muscles in the vicinity.
+It's not wrong,
+but... this definition is useless.
+Well, it was an extreme example,
+but I don't think we can call this a correct interpretation.
+Okay. Self-proclaimed man who lives on love, Torasuke-kun.
+A list of situations that might provide the right mood.
+Well, if you insist.
+My 2D memories are gonna breathe some fire into this.
+Ferris wheel
+Beach at sunset
+Restaurant with a night view
+Cruise on the water
+Romantic movie at the theater
+Fireworks
+Planetarium
+White Christmas
+Watching adult videos
+If you're looking for situations overflowing with the right mood,
+it's gotta be something like these.
+Yeah. If you leave out that one part, they all have nice moods!
+Now, then. What do these have in common?
+That one part aside, maybe it's that they're all rather fashionable places...?
+Trying to quantify prettiness is incredibly difficult.
+A clearer factor might be that
+they're all places without a lot of people where the two can be alone, perhaps.
+I don't think that's quite accurate...
+For example, what do you think of this?
+A secret kiss during the fireworks!
+How wonderful!
+Yes.
+What about this?
+Wow! Look at that.
+They're all staring.
+That would be difficult.
+Definition 1.2: Mood value M(x) is inversely proportional hhhhhhhhhhhhhhhhhhhhhhhhto the number of people in the area hhhhhhhhhhhhhhhhhhhhhhhhpaying attention to the couple.
+Which would make it something like this.
+I see.
+Another thing might be a quiet place, maybe?
+If there's a lot of noise around, it'd ruin the mood.
+decibels
+decibels
+decibels
+The express leaving at 16:15 is...
+decibels
+decibels
+Who's gonna be angels in the land of death?
+decibels
+Looking at the results of the comparisons,
+we can probably say that when the surrounding noise rises above a certain level,
+the mood value decreases.
+Just the mention of decibels makes the mood drop.
+Wouldn't you agree that dimness is important too?
+Daylight
+Dusk
+Night
+When people are in the dark, they start feeling naughty
+Psychologically speaking,
+it's true that dark places can allow more openness and freedom.
+And, to take an approach other than looking at environmental factors,
+a relaxed conversation with lots of silence and pauses,
+might be the kind of things that works, too.
+The two of you are always chattering away, debating,
+but how about you two keep quiet a sec and look into each other's eyes?
+Keep quiet?
+This is amazing!
+The mood really did increase!
+Is this the effect of silence?
+We can add this into the calculation of mood value.
+The most important factors are these five!
+When will these two ever be able to kiss?
+Beauty of surroundings
+Lack of people in surroundings
+Dimness
+Quietness
+Length of time spent silently gazing at each other
+The question is how to combine them.
+Can't you just give each of them a value of 20 out of 100 and add them together?
+Beauty 20 pts
+Number of 3rd parties 20 pts
+Dimness 20 pts
+Quietness 20 pts
+Silence 20 pts
+100 pts
+I don't think that'll work this time.
+We're talking somewhere beautiful, without many people,
+and dim lighting where you can gaze at each other, right?
+But what if it were super noisy there?
+For the sake of a brighter future, all we ask is that you cast your vote honestly and fairly!
+Wouldn't that kill the mood?
+That's true!
+Which means...
+Beauty
+Number of 3rd parties
+Dimness
+Quietness
+Silence
+If any single factor out of these five is radically lower than the others,
+Beauty 20 pts
+Number of 3rd parties 20 pts
+Dimness 20 pts
+Quietness 0 pts
+Silence 20 pts
+the entire mood value decreases. It has to be defined to express that.
+Mood Value Ultra Low
+Th-That seems difficult...
+All we have to do is multiply instead of add, right?
+That would make regulating the numbers a pain.
+Sounds like you're working on something interesting.
+What about something like this?
+First, we'll make x the value of quiet and indicate a total value of 100.
+Let's see...
+That should do it.
+For example, let's use this equation and change the total value to 20.
+Uh... What?
+This is high school math, Kosuke-kun.
+When you graph this equation,
+33.33... pts 100 pts
+anything less than 33 points rapidly becomes negative.
+Of course.
+If we use this...
+In cases where it's insanely loud...
+The value of quietness would become negative infinity.
+Even if the other values are the highest they can be,
+Quietness
+Beauty 3rd Parties Dimness Quietness Silence h20 pts 20 pts 20 pts 20 pts
+when you add them together, no matter what you do,
+Mood Value
+the mood value would be negative infinity!
+Plus, with this method, the value becomes intuitive and easy to understand!
+Just what we'd expect from you, Professor!
+I'll leave the setup and investigation of each factor to you two.
+Yes, sir!
+Yukimura-senpai and Himuro-senpai became immersed in research and...
+It's done!
+We really did it!
+Mood Value M is defined as follows.
+(Beauty index)
+(number of 3rd parties)
+(expresses the average of the scores for beauty, fashionability)
+amount of evaluators
+Here the number of people paying attention to the couple is defined as X2
+then then
+(Brightness index)
+missing
+X3 = the degree of illumination (lux)
+(Quietness index)
+The value of noise in the area is expressed as X4
+then then then
+(Gazing at each other)
+The number of seconds spent silently gazing at each other is expressed as X5
+then then then
+It's so long I don't get it...
+Equation to Define Mood Value
+The equation to define mood value!
+I'll make the effort and go over it for you, bear.
+Beauty Index
+Beauty Index
+The beauty index!
+You give it a point value based on feeling,
+and take the average of a bunch of people, bear.
+100 points!
+It's the same! It-It's the same!
+The same! We're all... We're all the same!
+Number of 3rd Parties
+The number of third parties!
+Number of 3rd Parties
+When there's a lot of people who have nothing to do with it around,
+you give them each a -10,000, bear.
+Though, honestly, if you gave'em negative one trillion,
+it wouldn't change the results, bear.
+Degree of Illumination
+The degree of illumination!
+Degree of Illumination
+There's some crazy equation written here, bear,
+approx.
+lux
+but when you graph it, it turns out something like this, bear.
+The highest points are about the brightness level of a candle,
+and if it gets much darker, the points drop drastically, bear.
+I can't see anything, bear...
+Quietness Index
+Quietness index!
+Quietness Index
+This one's complicated too, bear.
+Basically, with this one...
+If it's loud, the mood value drops to negative infinity, bear!
+Silently Gazing at Each Other Index
+The silently gazing at each other index!
+Silently Gazing at Each Other Index
+Another troublesome equation, bear.
+The number of seconds spent silently gazing at each other is expressed as X5
+then
+then
+then
+In short, the longer the period of time spent looking at each other,
+the higher the points, with 30 seconds as the highest score.
+And if it exceeds 60 seconds, it starts getting stupid and the points decrease, bear.
+And now, from the results of the investigation...
+The most beautiful place on campus,
+where there aren't any other people,
+and where the brightness and quietness help create the right mood...
+This is that place.
+We've determined it's the roof of the joint research tower at dusk!
+Science Fell in Love, So I Tried to Prove It
+The place most suited to kissing.
+The mood value is 92!
+Would you...
+kiss me... Kanade.
+Well... um...
+I'd really rather not.
+Why?
+The current mood value is extremely high.
+It's not that I have anything against you, Yukimura-senpai...
+It's just that kissing someone who isn't my boyfriend is a little...
+We need to perform a control experiment to collect data!
+Kissing someone you love
+Comparison
+Kissing someone you don't love
+In order to investigate the base conditions of love,
+we must compare a kiss with someone you love with a kiss with someone you don't love!
+S-Still, there's no reason to do this with everyone...
+Honestly. It's so embarrassing...
+Experiment, stage 1 complete.
+And why am I stage 1?
+It was decided by ladder lottery. No complaining.
+Yukimura-kun didn't do anything weird to you, did he?
+Having no other choice, he offered the option of a kiss on the hand.
+Was that all? There wasn't anything else, was there?
+If it's gonna make you cry, don't conduct this kind of experiment.
+In Western countries, kissing's an everyday thing, after all.
+There's no reason to take it so seriously, is there?
+Like this, see?
+I-Ibarada!
+What do you think you're doing?
+This is part of the control experiment, too.
+Don't most girls do this much with each other?
+No, they don't!
+I-I haven't done that, either.
+Really?
+Back in high school, pretty much everyone was doing it.
+Don't worry, you two,
+a kiss between two girls isn't really a kiss. It doesn't count.
+Now, then. Who would the next pair for the experiment be?
+Experiment 3: Himuro - Kosuke Pair
+Kosuke-kun, I know you may be reluctant, but
+if you'd please cooperate, for the sake of the experiment.
+I, Inukai Kosuke, am a man who lives for one love alone,
+but if it will help make your love a reality, then it would be my pleasure!
+As for location... Cheek, nose, forehead, ear...
+I don't want it to be anywhere near my face.
+That said, I feel like a kiss on the foot would carry too much meaning.
+Therefore I'll have the same as Kanade-chan, the back of my hand.
+Gotcha.
+Take a moment to savor this kiss of mine...
+Thank you, Kosuke-kun!
+I felt... absolutely nothing!
+That's a lovely smile and a horrible comment!
+Experiment 4: Himuro - Kanade Pair
+It's really... a long time, isn't it? Thirty seconds...
+You just start feeling the urge to laugh, don't you?
+Um... Himuro-senpai?
+Your hand. Why...?
+I-I'm sorry!
+You see, I...
+I've never had any friends of the same gender as me.
+Maybe it's my personality.
+I've just never been able to fit into groups of girls.
+There wasn't a single one I felt close to.
+That's why, when you treat me like a friend, it makes me so happy.
+I thought, it's sort of like having a little sister...
+I'm sorry.
+Himuro-senpai!
+Right now... I think I could kiss you!
+What?
+Me, too. I've always wanted an older sister.
+Kanade-chan...
+What is this? What is this? What is this?
+Hold on! Hold on! Hold on!
+This is super embarrassing! So absolutely embarrassing!
+Experiment 5: Yukimura - Kosuke Pair
+Thirty seconds sure is long.
+You just start feeling the urge to kill yourself.
+Are we seriously gonna kiss?
+The experiment is necessary. It cannot be avoided!
+All right!
+Inukai Kosuke's gonna show you how manly he is!
+I will end this in a split second! Grit your teeth and take it!
+Research sure is rough, isn't it?
+Kosuke, let me ask just one thing...
+What did you do during your experiment with Himuro.
+J-Just a kiss on the hand.
+Was that all? There wasn't anything else, was there?
+N-No, there wasn't!
+Experiment 6: Yukimura - Ibarada Pair
+Yukimura...
+Will you kiss me here?
+I will not!
+Yukimura-kun, close your eyes.
+Unhand me! Get lost!
+Can't do that. We have to kiss.
+You need something to compare Himuro to, don't you?
+In the event that irrational comparisons
+threaten to corrupt the results of an experiment,
+there is no need to engage in them.
+And who determines whether or not they're irrational?
+Besides, romantic emotions are irrational to begin with, aren't they?
+She's so eloquent, it's nearly impossible to out talk this woman.
+In which case, there's only one method!
+Wait...
+How slow a runner are you, exactly?
+You think... you're one to talk?
+Experiment 7: Ibarada - Kosuke Pair
+If you get a 5-star out of the 10-pull gacha, you can kiss me wherever you want.
+If you don't, you kiss my foot.
+Who's gonna do what? You just watch my tremendous luck!
+Okay! Draw!
+Experiment 8: Kanade - Kosuke Pair
+I know it's late to say this, but we really picked a difficult lab to join.
+What are they making us do?
+I did hear rumors that the Ikeda lab was crazy.
+It's even more insane than expected.
+Oh, right. We can just do an indirect kiss, right?
+Experiment 9: Yukimura - Himuro Pair
+We've finally managed to reach the final experiment.
+Sorry to keep you waiting, Yukimura-kun.
+Uh, sure...
+Are you ready?
+Yes. I'm okay to go any time.
+Still, to think a kiss was something this difficult...
+Once we've cleared this,
+it will have brought us one step closer to proving our love, don't you think?
+You're really all right with this?
+Having to kiss a man as part of a verification process.
+Yukimura-kun...
+Right now... I'm sort of happy.
+It's so beautiful here. And quiet.
+It's just you and me, alone together.
+It really is a lovely atmosphere.
+This place showed a high mood value,
+and it's substantiating that finding.
+The process we built together...
+it was right!
+Right now, I feel like I could do anything!
+Wh-What is this atmosphere?
+Mood Value
+Himuro looks 1.8 times more beautiful than normal.
+Is this the effect of the mood?
+Right. Time to begin.
+Oh... Um...
+G-Go slowly... please... Okay?
+Now. I can't let this mood slip away.
+Mood Value
+A-A helicopter?!
+If the noise level exceeds 70 decibels, the mood plummets drastically!
+Yukimura-kun! The mood value is...
+This is not an issue.
+Once the helicopter passes, the noise level will subside.
+If we stay like this and gaze at each other,
+the mood value should increase again!
+Th-That's true.
+Mood Value
+Right. Now, if we just wait 30 seconds...
+Oh, no! The sun set!
+There are no lights on the roof!
+No. I thought this might happen, so...
+I prepared a fashionable candle!
+This should achieve the highest value for brightness!
+Um...
+Himuro-senpai! Yukimura-senpai! Have you... finished?
+Oh. Sorry if you haven't yet...
+Mood Value
+When there's a third party...
+the mood drops by negative ten thousand points!
+Sorry to interrupt. I'd like to lock up the roof before it gets dark.
+Now there's another one!
+Oh? This is where you two have been?
+And now we even have an overabundance of muscle!
+Curses! Is this the end?
+There is no hope of restoring the mood.
+This experiment was a failure.
+Our carefully detailed plan...
+The theory we devoted so much time to composing...
+Oh, honestly!
+I don't care about mood anymore! Hurry up and kiss me!
+Y-You're the one who said mood was necessary!
+Your execution is entirely too poor!
+I-It's not my fault the mood value dropped!
+Well, no, but...
+Oh, dear...
+Oops. Did I barge in on a young couple?
+Apparently, those two aren't dating.
+What? But they're so insistent about needing to kiss...
+At this rate, we will never be able to kiss!
+Well, I don't want to give up, either!
+But, what do you mean to do about this mood value?
+W-Well, I mean...
+It might be an experiment, but it's my first, so...
+if I have to, I'd prefer a wonderful kiss, but...
+I don't know anything about romance, so it just isn't possible for me.
+All the other experiments we performed will go to waste.
+We just need to hurry up and do it.
+Come on. Quickly.
+For today...
+I've chosen a spot that seems like it would cause the least damage.
+It isn't possible for me?
+Don't base decisions on supposition.
+One day...
+I will...
+give you a kiss of the highest theoretical value.
+Just you wait.
+I will.
+What are they making us watch?
+These are the findings.
+In the kissing experiment,
+the pair with the greatest change in vitals, the best pair is...
+the Yukimura-Ibarada pair.
+Shock!
+Yukimura - Ibarada Pair
+Yukimura - Kosuke Pair
+Himuro - Yukimura Pair
+Himuro - Kanade Pair
+Ibarada - Kosuke Pair
+I couldn't even measure up to Kosuke-kun...
+That can't be!
+That doesn't make me happy at all.
+Hang on, Ibarada!
+No matter how you think about it, it's all because we ran around like that!
+You've got to be kidding me!
+What was the point of this experiment?
+Next Time
+Proof 7 Science-types Fell in Love, So They Tried Having a Drinking Party.
+Next time, Proof 7.
+Science-types Fell in Love, So They Tried Having a Drinking Party.
