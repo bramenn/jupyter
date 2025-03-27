@@ -1,0 +1,444 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (América Latina)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,22,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleNext,Times New Roman,26,&H00FCFFFF,&H000000FF,&H00313131,&H00313131,0,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0050,1
+Style: Cart_C_TreNo,Trebuchet MS,22,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_C_TreNoBord,Trebuchet MS,22,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_C_TreNoShad,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_TitleSerie,Times New Roman,60,&H000F0063,&H000000FF,&H002F1595,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H28FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0028,0050,1
+Style: Cart_Avance,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00060503,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,7,0025,0020,0010,1
+Style: Cart_Nota,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H006A6A6A,&H009D9D9D,-1,0,0,0,100,100,0,0,1,2,1,5,0020,0020,0020,1
+Style: Cart_B_Ari,Arial,24,&H00000000,&H000000FF,&H00AFAFAF,&H00AFAFAF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleEp,Times New Roman,24,&H00E7EAE4,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.23,0:00:03.54,Gen_Main,Gojou,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:00:21.79,0:00:24.12,Gen_Main,Gojou,0000,0000,0000,,¿Cuál de los dos serás ahora?
+Dialogue: 0,0:00:25.29,0:00:27.80,Gen_Main,Yuuji,0000,0000,0000,,Creo que tú eras…
+Dialogue: 0,0:00:28.09,0:00:32.09,Gen_Main,Gojou,0000,0000,0000,,Satoru Gojou. Estoy a cargo de los de\Nprimer año en la Preparatoria Jujutsu.
+Dialogue: 0,0:00:32.92,0:00:34.45,Gen_Main,Yuuji,0000,0000,0000,,Jujutsu…
+Dialogue: 0,0:00:34.59,0:00:37.32,Gen_Main,Yuuji,0000,0000,0000,,¡Fushiguro está…!
+Dialogue: 0,0:00:41.56,0:00:43.02,Gen_Main,Yuuji,0000,0000,0000,,¿Qué es esto?
+Dialogue: 0,0:00:45.35,0:00:49.52,Gen_Main,Gojou,0000,0000,0000,,No puedes darte el lujo\Nde pensar en otros, Yuuji Itadori.
+Dialogue: 0,0:00:50.82,0:00:54.11,Gen_Main,Gojou,0000,0000,0000,,Tu ejecución secreta ya se determinó.
+Dialogue: 0,0:01:05.00,0:01:11.96,Cart_TitleSerie,Logo,0000,0000,0000,,{\blur1\fad(1191,431)\t(1192,1316,1 \c&H0700D7&\3c&H6659E4&)\t(1317,1941,1 \c&H172918&\3c&H8CCECB&)\t(6197,6529,1 \c&H0F0063&\3c&H222781&)}Jujutsu Kaisen
+Dialogue: 0,0:02:25.52,0:02:31.70,Cart_TitleEp,Episodio,0000,0000,0000,,{\fad(500,1)\pos(612,310)}Episodio 1: Ryomen Sukuna
+Dialogue: 0,0:02:28.27,0:02:31.70,Cart_C_TreNo,Cartel,0000,0000,0000,,{\pos(314,104)\an8\b1\c&H1D394B&\bord0\shad0\fs28\be.25}Itadori
+Dialogue: 0,0:02:29.29,0:02:31.71,Gen_Italics,Enfermera,0000,0000,0000,,-Hospital Sugisawa, ¿diga?\N{\i0}-Soy Itadori.{\i1}
+Dialogue: 0,0:02:31.88,0:02:33.11,Gen_Main,Yuuji,0000,0000,0000,,Llamé hace poco.
+Dialogue: 0,0:02:33.75,0:02:35.46,Gen_Main,Yuuji,0000,0000,0000,,Sí.
+Dialogue: 0,0:02:35.80,0:02:39.22,Gen_Main,Yuuji,0000,0000,0000,,Perdón por llamar tanto,\Npero ¿cómo está mi abuelo?
+Dialogue: 0,0:02:39.38,0:02:42.25,Gen_Main,Enfermera,0000,0000,0000,,¿Qué? ¿No te lo había dicho?
+Dialogue: 0,0:02:42.89,0:02:46.49,Gen_Main,Enfermera,0000,0000,0000,,Espera un poco. Iré a preguntar.
+Dialogue: 0,0:02:49.23,0:02:52.04,Gen_Main,Enfermera,0000,0000,0000,,Itadori no usa el botón\Npara llamar a las enfermeras.
+Dialogue: 0,0:02:52.19,0:02:53.98,Gen_Main,Enfermera,0000,0000,0000,,Da un poco de miedo que no lo haga.
+Dialogue: 0,0:02:54.48,0:02:56.76,Gen_Main,Enfermera,0000,0000,0000,,Señor Itadori, tiene una llamada.
+Dialogue: 0,0:02:57.15,0:02:58.95,Gen_Main,Enfermera,0000,0000,0000,,Yuuji pregunta que si quiere algo.
+Dialogue: 0,0:02:59.11,0:03:00.20,Gen_Main,Grandpa,0000,0000,0000,,¡No molestes!
+Dialogue: 0,0:03:00.36,0:03:01.70,Gen_Main,Grandpa,0000,0000,0000,,¡Que no venga!
+Dialogue: 0,0:03:01.86,0:03:03.95,Gen_Italics,Grandpa,0000,0000,0000,,¡Que vaya al club!
+Dialogue: 0,0:03:06.37,0:03:07.55,Gen_Italics,Enfermera,0000,0000,0000,,¿Qué le pasa?
+Dialogue: 0,0:03:08.79,0:03:09.79,Gen_Italics,Enfermera,0000,0000,0000,,Ya oíste.
+Dialogue: 0,0:03:09.96,0:03:11.42,Gen_Italics,Enfermera,0000,0000,0000,,¿En qué club estás, Yuuji?
+Dialogue: 0,0:03:12.79,0:03:13.89,Gen_Main,Yuuji,0000,0000,0000,,Lo escuché.
+Dialogue: 0,0:03:14.04,0:03:16.21,Gen_Main,Yuuji,0000,0000,0000,,Iré mañana por la tarde.
+Dialogue: 0,0:03:19.24,0:03:20.54,Cart_A_Tim,Cartel,0000,0000,0000,,{\c&H988c8e&}3.ª Preparatoria de Sugisawa
+Dialogue: 0,0:03:30.33,0:03:33.58,Gen_Main,Fushiguro,0000,0000,0000,,¿Mantienen un objeto maldito\Nen un lugar como este?
+Dialogue: 0,0:03:33.73,0:03:35.02,Gen_Main,Fushiguro,0000,0000,0000,,¿Podrían ser más idiotas?
+Dialogue: 0,0:03:48.12,0:03:49.12,Gen_Main,Fushiguro,0000,0000,0000,,No hay nada.
+Dialogue: 0,0:03:50.11,0:03:51.87,Gen_Main,Fushiguro,0000,0000,0000,,Está vacío.
+Dialogue: 0,0:03:52.08,0:03:54.27,Gen_Italics,Gojou,0000,0000,0000,,¿En serio? Qué gracioso.
+Dialogue: 0,0:03:54.42,0:03:55.77,Gen_Italics,Gojou,0000,0000,0000,,¿Habrá salido de paseo?
+Dialogue: 0,0:03:55.92,0:03:57.00,Gen_Main,Fushiguro,0000,0000,0000,,Te voy a golpear.
+Dialogue: 0,0:03:57.41,0:04:00.37,Gen_Italics,Gojou,0000,0000,0000,,Nada de irse hasta recuperarlo, ¿bien?
+Dialogue: 0,0:04:02.93,0:04:05.01,Gen_Main,Fushiguro,0000,0000,0000,,De verdad lo voy a golpear.
+Dialogue: 0,0:04:10.60,0:04:11.81,Gen_Main,Yuuji,0000,0000,0000,,Vamos a empezar.
+Dialogue: 0,0:04:11.81,0:04:13.76,Cart_C_Tre,Sign,0000,0000,0000,,Club de ocultismo
+Dialogue: 0,0:04:11.98,0:04:13.77,Gen_Main,Yuuji,0000,0000,0000,,¿Están seguros?
+Dialogue: 0,0:04:14.40,0:04:15.90,Gen_Main,Yuuji,0000,0000,0000,,¿Sasaki?
+Dialogue: 0,0:04:16.48,0:04:18.02,Gen_Main,Yuuji,0000,0000,0000,,¿Iguchi?
+Dialogue: 0,0:04:18.41,0:04:20.10,Gen_Main,Yuuji,0000,0000,0000,,Bien, ¡Aquí vamos!
+Dialogue: 0,0:04:20.30,0:04:24.93,Gen_Main,Yuuji,0000,0000,0000,,Espíritus, ¿cuál es el animal más débil\Nal que el presidente no podría vencer?
+Dialogue: 0,0:04:27.30,0:04:30.12,Gen_Main,All&Screen,0000,0000,0000,,¿Ángel de mar?
+Dialogue: 0,0:04:30.14,0:04:32.94,Cart_C_Tre,Cartel,0000,0000,0000,,{\fs14\c&H7B93D7&\pos(556,161)}Ángel de mar
+Dialogue: 0,0:04:30.33,0:04:31.86,Gen_Main,Yuuji,0000,0000,0000,,¡¿Le gana un ángel de mar?!
+Dialogue: 0,0:04:32.04,0:04:33.41,Gen_Main,Yuuji,0000,0000,0000,,¡Qué debilucho!
+Dialogue: 0,0:04:33.58,0:04:34.72,Gen_Main,Presidente,0000,0000,0000,,¡Club de ocultismo!
+Dialogue: 0,0:04:34.87,0:04:37.33,Gen_Main,Yuuji,0000,0000,0000,,¿Qué pasa, presidente plancton?
+Dialogue: 0,0:04:38.59,0:04:43.54,Gen_Main,Presidente,0000,0000,0000,,Los clubes sin actividades reales\Ndeben dejar sus salas.
+Dialogue: 0,0:04:43.72,0:04:45.07,Gen_Main,Presidente,0000,0000,0000,,¡Lárguense de una vez!
+Dialogue: 0,0:04:45.22,0:04:49.35,Gen_Main,Yuuji,0000,0000,0000,,No deberías subestimar\Na nuestros miembros, presidente.
+Dialogue: 0,0:04:51.97,0:04:53.15,Gen_Main,Presidente,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:04:54.37,0:04:57.44,Gen_Main,Sasaki,0000,0000,0000,,Sabes que clausuraron\Nla cancha de rugby, ¿no?
+Dialogue: 0,0:04:57.98,0:05:01.57,Gen_Main,Presidente,0000,0000,0000,,Sí. Luego de que todo el club\Nde rugby acabara en el hospital.
+Dialogue: 0,0:05:01.73,0:05:03.49,Gen_Main,Sasaki,0000,0000,0000,,¿No te parece extraño?
+Dialogue: 0,0:05:03.65,0:05:05.70,Gen_Main,Sasaki,0000,0000,0000,,¡Los jugadores son tipos duros!
+Dialogue: 0,0:05:06.49,0:05:09.29,Gen_Main,Sasaki,0000,0000,0000,,De hecho, muchos de ellos dijeron
+Dialogue: 0,0:05:09.07,0:05:10.28,Cart_C_Tre,Cartel,0000,0000,0000,,{\fad(197,1)\3c&HE2E5E4&\4c&HE2E5E4&\pos(291,103)}Ting
+Dialogue: 0,0:05:10.28,0:05:13.79,Cart_C_Tre,Cartel,0000,0000,0000,,{\frz0\c&H000000&\4c&HE2E5E4&\3c&HE2E5E4&\pos(294,75)\fs28}Uuuuuu
+Dialogue: 0,0:05:10.87,0:05:13.79,Gen_Main,,0000,0000,0000,,que oyeron ruidos extraños\Nantes de enfermarse.
+Dialogue: 0,0:05:13.95,0:05:17.25,Gen_Main,Sasaki,0000,0000,0000,,Y descubrimos\Nque en este periódico de hace 30 años
+Dialogue: 0,0:05:17.29,0:05:19.38,Cart_A_Ari,Cartel,0000,0000,0000,,{\fad(300,1)\pos(320,20)\an8\3c&H515C60&\4c&H515C60&\c&HC0C5CB&}Exempleado (35) desaparece en Sugisawa
+Dialogue: 0,0:05:17.42,0:05:20.79,Gen_Main,Sasaki,0000,0000,0000,,se habla de la desaparición\Ndel obrero Yoshida,
+Dialogue: 0,0:05:20.96,0:05:25.80,Gen_Main,Sasaki,0000,0000,0000,,cuyo último paradero conocido fue\Nla construcción de esta preparatoria.
+Dialogue: 0,0:05:26.82,0:05:29.01,Cart_C_Tim,Cartel,0000,0000,0000,,{\fad(632,140)\3c&HF9FDFD&\shad0\bord3\pos(171,44)}Despedido\NInversiones fallidas
+Dialogue: 0,0:05:27.30,0:05:29.32,Gen_Main,Sasaki,0000,0000,0000,,Como tenía problemas financieros,
+Dialogue: 0,0:05:28.89,0:05:31.01,Cart_C_Tim,Cartel,0000,0000,0000,,{\fad(147,138)\pos(503,15)\3c&HE4F5F7&\4c&HE4F5F7&}Acosado por cobradores
+Dialogue: 0,0:05:29.47,0:05:32.81,Gen_Main,Sasaki,0000,0000,0000,,pidió varios préstamos\Ny las organizaciones iban tras él.
+Dialogue: 0,0:05:30.89,0:05:32.80,Cart_C_Tim,Cartel,0000,0000,0000,,{\fad(149,1)\pos(130,72)\3c&HE4F5F7&\4c&HE4F5F7&\fs28}Posible secuestro
+Dialogue: 0,0:05:33.47,0:05:37.48,Gen_Main,Sasaki,0000,0000,0000,,¡En otras palabras, el desastre\Ndel campo de rugby es obra
+Dialogue: 0,0:05:37.64,0:05:40.81,Gen_Main,Sasaki,0000,0000,0000,,del espíritu vengativo de Yoshida\Nque fue sepultado allí!
+Dialogue: 0,0:05:39.21,0:05:41.11,Cart_C_Tim,Cartel,0000,0000,0000,,{\fs18\fad(0,200)\b1\c&H4F524E&\3c&HF8F8F8&\shad0\pos(265,240)}Espíritu vengativo
+Dialogue: 0,0:05:40.98,0:05:43.32,Gen_Main,Presidente,0000,0000,0000,,No, había garrapatas.
+Dialogue: 0,0:05:41.11,0:05:43.32,Cart_C_Tim,Cartel,0000,0000,0000,,{\fad(200,0)\fs18\b1\c&H4F524E&\3c&HF8F8F8&\shad0\pos(117,240)}Espíritu vengativo
+Dialogue: 0,0:05:44.92,0:05:52.19,Cart_C_Tre,Cartel,0000,0000,0000,,{\c&H4538A4&\pos(95,1)}Garrapata
+Dialogue: 0,0:05:45.36,0:05:46.33,Gen_Main,Presidente,0000,0000,0000,,Garrapatas.
+Dialogue: 0,0:05:46.49,0:05:48.20,Gen_Main,Presidente,0000,0000,0000,,Enormes insectos chupasangre.
+Dialogue: 0,0:05:48.36,0:05:52.20,Gen_Main,Presidente,0000,0000,0000,,Una picadura con el virus FSST\Npuede ser letal, tengan cuidado.
+Dialogue: 0,0:05:52.54,0:05:53.92,Gen_Main,Yuuji,0000,0000,0000,,¡¿Y qué?!
+Dialogue: 0,0:05:54.08,0:05:58.08,Gen_Main,Yuuji,0000,0000,0000,,¡Develamos actividades paranormales,\Neso cuenta como actividad!
+Dialogue: 0,0:05:58.25,0:05:59.94,Gen_Main,Presidente,0000,0000,0000,,¡Esto no es un juego de niños!
+Dialogue: 0,0:06:00.38,0:06:01.76,Gen_Main,Presidente,0000,0000,0000,,Además, su mayor problema…
+Dialogue: 0,0:06:01.92,0:06:02.92,Gen_Main,Presidente,0000,0000,0000,,¡Yuuji Itadori!
+Dialogue: 0,0:06:03.06,0:06:05.38,Gen_Main,Presidente,0000,0000,0000,,Estás registrado\Nen el club de atletismo,
+Dialogue: 0,0:06:05.55,0:06:10.05,Gen_Main,Presidente,0000,0000,0000,,así que su club ni siquiera cumple\Ncon el mínimo de tres miembros.
+Dialogue: 0,0:06:08.49,0:06:10.04,Cart_B_Ari,Cartel,0000,0000,0000,,{\fad(295,1)\b1\an8\c&H0E1A18&\bord4\shad0\3c&HFAFAFA&\fs28\pos(163,16)}Miembros\Ninsuficientes
+Dialogue: 0,0:06:10.97,0:06:12.43,Gen_Main,Sasaki,0000,0000,0000,,Itadori…
+Dialogue: 0,0:06:12.60,0:06:14.56,Gen_Main,Yuuji,0000,0000,0000,,Sé que puse "club de ocultismo".
+Dialogue: 0,0:06:14.72,0:06:16.56,Gen_Main,Takagi,0000,0000,0000,,Yo lo reescribí.
+Dialogue: 0,0:06:16.73,0:06:18.99,Gen_Main,Yuuji,0000,0000,0000,,¡Entrenador Takagi!
+Dialogue: 0,0:06:19.14,0:06:21.94,Gen_Main,Takagi,0000,0000,0000,,¡Itadori, tienes que ir\Npor el campeonato nacional!
+Dialogue: 0,0:06:22.60,0:06:25.25,Gen_Italics,Presidente,0000,0000,0000,,Apareció un profesor\Npeor que los alumnos…
+Dialogue: 0,0:06:26.32,0:06:29.00,Gen_Main,Yuuji,0000,0000,0000,,¡Ríndase!\N¿Cuántas veces tendré que negarme?
+Dialogue: 0,0:06:29.20,0:06:30.57,Gen_Main,Takagi,0000,0000,0000,,-¡No puedes!\N-¿No puedo?
+Dialogue: 0,0:06:30.74,0:06:32.52,Gen_Main,Takagi,0000,0000,0000,,Pero no soy un déspota.
+Dialogue: 0,0:06:32.74,0:06:34.99,Gen_Main,Takagi,0000,0000,0000,,Si logras vencerme, me olvidaré de ti.
+Dialogue: 0,0:06:35.58,0:06:38.50,Gen_Main,Takagi,0000,0000,0000,,¡Resolvamos esto de manera justa\Nen la cancha!
+Dialogue: 0,0:06:38.66,0:06:41.65,Gen_Main,Yuuji,0000,0000,0000,,¡Así me gusta! ¡Hagámoslo!
+Dialogue: 0,0:06:41.10,0:06:43.42,Cart_C_Tre,Cartel,0000,0000,0000,,{\fad(509,150)\bord1\shad2\fs18\pos(312,8)}Entrenador de atletismo\N{\fs36}Takagi
+Dialogue: 0,0:06:41.10,0:06:43.42,Cart_C_Tre,Cartel,0000,0000,0000,,{\fad(509,150)\bord1\shad2\fs38\pos(317,125)}Itadori
+Dialogue: 0,0:06:44.17,0:06:47.47,Gen_Italics,Presidente,0000,0000,0000,,¿Es justo adulterar\Nel formulario de un alumno?
+Dialogue: 0,0:06:52.54,0:06:54.91,Gen_Italics,Fushiguro,0000,0000,0000,,¿Qué pasa en esta cancha de rugby?
+Dialogue: 0,0:06:57.49,0:06:59.65,Gen_Italics,Fushiguro,0000,0000,0000,,¿Tiene un cadáver sepultado o qué?
+Dialogue: 0,0:07:00.76,0:07:01.98,Gen_Italics,Fushiguro,0000,0000,0000,,Aunque así sea,
+Dialogue: 0,0:07:02.77,0:07:04.57,Gen_Italics,Fushiguro,0000,0000,0000,,este es un nivel bastante alto.
+Dialogue: 0,0:07:05.20,0:07:07.06,Gen_Italics,Fushiguro,0000,0000,0000,,Ha de ser una Maldición de clase 2.
+Dialogue: 0,0:07:07.69,0:07:09.47,Gen_Italics,Fushiguro,0000,0000,0000,,¿Por influencia del objeto maldito?
+Dialogue: 0,0:07:11.76,0:07:14.90,Gen_Italics,Fushiguro,0000,0000,0000,,Maldita sea. Su presencia es\Ndemasiado amplia.
+Dialogue: 0,0:07:15.22,0:07:18.49,Gen_Italics,Fushiguro,0000,0000,0000,,Siento que podría estar cerca,\Npero también podría estar lejos.
+Dialogue: 0,0:07:19.62,0:07:22.29,Gen_Italics,Fushiguro,0000,0000,0000,,Este objeto maldito especial\Nes un fastidio.
+Dialogue: 0,0:07:23.15,0:07:24.68,Gen_Italics,Fushiguro,0000,0000,0000,,¿Quién lo sacó de allí?
+Dialogue: 0,0:07:25.25,0:07:26.61,Gen_Italics,Fushiguro,0000,0000,0000,,¿Dónde estará?
+Dialogue: 0,0:07:27.63,0:07:28.87,Gen_Main,Alumno,0000,0000,0000,,¡Vengan a ver!
+Dialogue: 0,0:07:29.05,0:07:32.25,Gen_Main,Alumno,0000,0000,0000,,¡El entrenador Takagi e Itadori\Nestán por enfrentarse!
+Dialogue: 0,0:07:32.43,0:07:34.27,Gen_Main,Alumno,0000,0000,0000,,Vaya, ¿en qué competirán?
+Dialogue: 0,0:07:38.89,0:07:40.27,Gen_Main,Alumno,0000,0000,0000,,¡Catorce metros!
+Dialogue: 0,0:07:40.37,0:07:41.84,Cart_C_TreNoShad,Cartel,0000,0000,0000,,{\b0\fs36\blur1\bord1\pos(327,186)\3c&H676767&\c&HEEEBEB&}*Récord japonés{\b1\b0}
+Dialogue: 0,0:07:42.02,0:07:44.62,Gen_Main,Alumno,0000,0000,0000,,¡No pasan los años por Takagi!
+Dialogue: 0,0:07:44.77,0:07:45.86,Gen_Main,Alumno,0000,0000,0000,,¿Qué harás, Itadori?
+Dialogue: 0,0:07:46.23,0:07:48.13,Gen_Main,Sasaki,0000,0000,0000,,Oye, ¿Itadori es famoso o qué?
+Dialogue: 0,0:07:48.61,0:07:51.50,Gen_Main,Iguchi,0000,0000,0000,,Dicen que pasó todos los recorridos\Nde Guerrero Ninja
+Dialogue: 0,0:07:51.66,0:07:53.89,Gen_Main,Iguchi,0000,0000,0000,,y que es la reencarnación\Nde Mirko Cro Cop.
+Dialogue: 0,0:07:54.91,0:07:56.83,Gen_Main,Sasaki,0000,0000,0000,,Pero si Mirko sigue vivo.
+Dialogue: 0,0:07:57.33,0:07:59.94,Gen_Main,Iguchi,0000,0000,0000,,Lo apodaban "el tigre\Nde la secundaria occidente".
+Dialogue: 0,0:08:00.16,0:08:01.08,Gen_Main,Sasaki,0000,0000,0000,,Qué feo apodo.
+Dialogue: 0,0:08:01.25,0:08:03.34,Gen_Main,Yuuji,0000,0000,0000,,¿Puedo lanzarla como quiera?
+Dialogue: 0,0:08:04.33,0:08:06.52,Gen_Main,Takagi,0000,0000,0000,,No te preocupes por las faltas.\NTú lanza.
+Dialogue: 0,0:08:06.67,0:08:09.95,Gen_Main,Takagi,0000,0000,0000,,Lo siento. Para demostrarte\Nmi seriedad, elegí una disciplina
+Dialogue: 0,0:08:10.13,0:08:12.05,Gen_Main,,0000,0000,0000,,que no fuera tu punto fuerte.
+Dialogue: 0,0:08:15.72,0:08:18.69,Gen_Main,Alumno,0000,0000,0000,,Imagino que unos 30 metros.
+Dialogue: 0,0:08:16.57,0:08:19.05,Cart_C_TreNoShad,Cartel,0000,0000,0000,,{\b0\fs36\blur1\bord1\3c&H676767&\c&HEEEBEB&\pos(504,197)}*Récord mundial
+Dialogue: 0,0:08:19.22,0:08:21.08,Gen_Main,Yuuji,0000,0000,0000,,¡Eso! ¡Le gané!
+Dialogue: 0,0:08:21.68,0:08:23.83,Gen_Main,Sasaki,0000,0000,0000,,Es más gorila que tigre, ¿no?
+Dialogue: 0,0:08:23.98,0:08:25.52,Gen_Main,Iguchi,0000,0000,0000,,Y lanzó como un pitcher.
+Dialogue: 0,0:08:26.31,0:08:29.02,Gen_Main,Sasaki,0000,0000,0000,,Itadori, eres bastante atlético.
+Dialogue: 0,0:08:29.65,0:08:32.11,Gen_Main,Sasaki,0000,0000,0000,,No tienes que forzarte\Na estar en nuestro club.
+Dialogue: 0,0:08:33.18,0:08:35.96,Gen_Main,Yuuji,0000,0000,0000,,Pero pese a lo mucho\Nque les gusta lo aterrador,
+Dialogue: 0,0:08:36.11,0:08:38.99,Gen_Main,Yuuji,0000,0000,0000,,no pueden ir sin mí\Na sitios embrujados, ¿verdad?
+Dialogue: 0,0:08:36.24,0:08:38.97,Cart_C_Ari,Cartel,0000,0000,0000,,{\fad(300,0)\3c&H1AE6EC&\c&H192B2B&\bord3\shad0\blur.5\pos(573,247)}Hace 3 días
+Dialogue: 0,0:08:39.16,0:08:40.62,Gen_Main,Sasaki,0000,0000,0000,,Nos gusta porque nos asusta.
+Dialogue: 0,0:08:40.93,0:08:43.80,Gen_Main,Yuuji,0000,0000,0000,,Y la escuela nos obliga\Na estar en un club, ¿no?
+Dialogue: 0,0:08:43.96,0:08:45.25,Gen_Main,Yuuji,0000,0000,0000,,Eso no es para mí.
+Dialogue: 0,0:08:45.27,0:08:50.24,Cart_C_Tre,Cartel,0000,0000,0000,,{\b1\c&H1C1C1C&\3c&HF9F9F9&\shad0\bord3\an8\fs20\fscx80\pos(110,19)\frz336.7}Club de ocultismo
+Dialogue: 0,0:08:45.42,0:08:46.84,Gen_Main,Sasaki,0000,0000,0000,,¡No tienes que hacer nada!
+Dialogue: 0,0:08:47.01,0:08:49.54,Gen_Main,Sasaki,0000,0000,0000,,¡Hasta puedes ser\Nun miembro fantasma!
+Dialogue: 0,0:08:50.42,0:08:51.76,Gen_Main,Sasaki,0000,0000,0000,,Recuerdo eso.
+Dialogue: 0,0:08:51.92,0:08:54.76,Gen_Main,Yuuji,0000,0000,0000,,Tengo mis motivos\Npara volver a casa sobre las cinco.
+Dialogue: 0,0:08:54.97,0:08:56.76,Gen_Main,Yuuji,0000,0000,0000,,Así que quiero quedarme en el club.
+Dialogue: 0,0:08:57.22,0:09:00.01,Gen_Main,Yuuji,0000,0000,0000,,Me gusta mucho el ambiente del club.
+Dialogue: 0,0:09:00.18,0:09:02.52,Gen_Main,Sasaki,0000,0000,0000,,Si lo dices así, no nos oponemos.
+Dialogue: 0,0:09:02.98,0:09:03.98,Gen_Main,Iguchi,0000,0000,0000,,Cierto.
+Dialogue: 0,0:09:04.85,0:09:06.55,Gen_Italics,Fushiguro,0000,0000,0000,,Vaya sujeto.
+Dialogue: 0,0:09:06.73,0:09:09.32,Gen_Italics,Fushiguro,0000,0000,0000,,¿Y lo logró sin Maldiciones?
+Dialogue: 0,0:09:09.48,0:09:11.42,Gen_Italics,Fushiguro,0000,0000,0000,,¿Será parecido a Zen'in?
+Dialogue: 0,0:09:12.75,0:09:14.41,Gen_Main,Yuuji,0000,0000,0000,,¡Ya son las cuatro y media!
+Dialogue: 0,0:09:14.95,0:09:17.28,Gen_Main,Yuuji,0000,0000,0000,,¡Profe, debo atender unos asuntos!
+Dialogue: 0,0:09:26.76,0:09:28.14,Gen_Italics,Fushiguro,0000,0000,0000,,¡Siento el objeto maldito!
+Dialogue: 0,0:09:28.29,0:09:29.21,Gen_Main,Fushiguro,0000,0000,0000,,¡Oye, tú!
+Dialogue: 0,0:09:29.38,0:09:31.40,Gen_Main,Fushiguro,0000,0000,0000,,¡Qué rápido!
+Dialogue: 0,0:09:31.55,0:09:34.29,Gen_Main,Alumno,0000,0000,0000,,Dicen que recorre 50 metros\Nen 3 segundos.
+Dialogue: 0,0:09:34.36,0:09:35.71,Cart_C_TreNoShad,Cartel,0000,0000,0000,,{\b0\fs36\blur1\bord1\3c&H676767&\c&HEEEBEB&\pos(315,166)}*Récord mundial
+Dialogue: 0,0:09:34.46,0:09:35.72,Gen_Main,Alumno,0000,0000,0000,,¿Tendrá motor?
+Dialogue: 0,0:09:46.79,0:09:49.26,Cart_C_Tre,Cartel,0000,0000,0000,,{\fs22\c&H3D8A92&\3c&HBCF9F4&\shad0\fay-.21\pos(384,47)\frx0\fry348}Hospital Sugisawa
+Dialogue: 0,0:09:49.29,0:09:51.26,Cart_C_Tim,Cartel,0000,0000,0000,,{\fs20\shad0\c&H989B9A&\3c&HFAFDFD&\fay.17\frx0\fry20\b0\pos(379,153)}Itadori{\b1\b0}
+Dialogue: 0,0:09:49.29,0:09:51.26,Cart_C_Tim,Cartel,0000,0000,0000,,{\fs20\shad0\c&H989B9A&\3c&HFAFDFD&\fay.12\frx0\fry20\pos(378,226)\b0}Saitou{\b1\b0}
+Dialogue: 0,0:09:49.77,0:09:51.27,Gen_Main,Grandpa,0000,0000,0000,,Te dije que no vinieras.
+Dialogue: 0,0:09:51.86,0:09:53.76,Gen_Main,Grandpa,0000,0000,0000,,Y deja de traerme flores.
+Dialogue: 0,0:09:53.94,0:09:55.20,Gen_Main,Yuuji,0000,0000,0000,,Siempre dices lo mismo.
+Dialogue: 0,0:09:55.36,0:09:58.24,Gen_Main,Yuuji,0000,0000,0000,,Y no son para ti,\Nsino para las enfermeras.
+Dialogue: 0,0:09:58.41,0:09:59.68,Gen_Main,Grandpa,0000,0000,0000,,¡Mayor razón aún!
+Dialogue: 0,0:09:59.82,0:10:01.28,Gen_Main,Grandpa,0000,0000,0000,,¿Y qué hay de tu club?
+Dialogue: 0,0:10:01.74,0:10:02.97,Gen_Main,Grandpa,0000,0000,0000,,¡Ve a tu club!
+Dialogue: 0,0:10:03.12,0:10:04.87,Gen_Main,Yuuji,0000,0000,0000,,Cállate un rato.
+Dialogue: 0,0:10:05.04,0:10:06.80,Gen_Main,Yuuji,0000,0000,0000,,Termina antes de las cinco.
+Dialogue: 0,0:10:06.96,0:10:09.93,Gen_Main,Yuuji,0000,0000,0000,,Si te visito\Nes porque tengo tiempo libre.
+Dialogue: 0,0:10:10.08,0:10:11.13,Gen_Main,Grandpa,0000,0000,0000,,Bien.
+Dialogue: 0,0:10:11.29,0:10:14.13,Gen_Main,Grandpa,0000,0000,0000,,Ya que te sobra el tiempo,\Nescúchame un rato.
+Dialogue: 0,0:10:14.30,0:10:15.68,Gen_Main,Yuuji,0000,0000,0000,,No me interesa.
+Dialogue: 0,0:10:15.84,0:10:17.18,Gen_Main,Grandpa,0000,0000,0000,,Presta atención.
+Dialogue: 0,0:10:17.34,0:10:19.49,Gen_Main,Grandpa,0000,0000,0000,,Tengo que decirte algo antes de morir.
+Dialogue: 0,0:10:20.09,0:10:24.14,Gen_Main,Grandpa,0000,0000,0000,,-Se trata de tu padres.\N-Ya te dije que no me interesa.
+Dialogue: 0,0:10:24.72,0:10:28.10,Gen_Main,Yuuji,0000,0000,0000,,Abuelo, ¿por qué no dejas\Nde hacerte el genial antes de morir?
+Dialogue: 0,0:10:28.27,0:10:31.60,Gen_Main,Grandpa,0000,0000,0000,,Todo hombre quiere\Nmorir con estilo, ¿no?
+Dialogue: 0,0:10:31.77,0:10:33.79,Gen_Main,Grandpa,0000,0000,0000,,¡Lee entre líneas! Nieto de porquería.
+Dialogue: 0,0:10:34.24,0:10:36.07,Gen_Main,Yuuji,0000,0000,0000,,No seas cascarrabias.
+Dialogue: 0,0:10:36.94,0:10:38.64,Gen_Main,Yuuji,0000,0000,0000,,Puedes ser el de siempre.
+Dialogue: 0,0:10:40.58,0:10:42.85,Gen_Main,Grandpa,0000,0000,0000,,Te faltó mano dura de pequeño.
+Dialogue: 0,0:10:49.37,0:10:50.54,Gen_Main,Grandpa,0000,0000,0000,,Yuuji.
+Dialogue: 0,0:10:52.08,0:10:54.48,Gen_Main,Grandpa,0000,0000,0000,,Eres un chico fuerte,\Nayuda a los demás.
+Dialogue: 0,0:10:54.96,0:10:56.70,Gen_Main,Grandpa,0000,0000,0000,,No tiene que ser a todo el mundo,
+Dialogue: 0,0:10:56.92,0:10:58.90,Gen_Main,Grandpa,0000,0000,0000,,pero ayuda a quienes puedas.
+Dialogue: 0,0:10:59.05,0:11:03.14,Gen_Main,Grandpa,0000,0000,0000,,Puedes dudar si quieres,\Npero nunca esperes nada a cambio.
+Dialogue: 0,0:11:03.72,0:11:06.52,Gen_Main,Grandpa,0000,0000,0000,,Solo te pido\Nque ayudes a otros cuando puedas.
+Dialogue: 0,0:11:07.27,0:11:10.53,Gen_Main,Grandpa,0000,0000,0000,,Cuando mueras,\Ndeberías estar rodeado de gente.
+Dialogue: 0,0:11:11.37,0:11:13.57,Gen_Main,Grandpa,0000,0000,0000,,No acabes como yo.
+Dialogue: 0,0:11:24.49,0:11:25.52,Gen_Main,Yuuji,0000,0000,0000,,¿Abuelo?
+Dialogue: 0,0:11:26.01,0:11:27.94,Cart_C_Tim,Cartel,0000,0000,0000,,{\pos(580,10)\c&H879491&\3c&HD3DCDD&\4c&HD3DCDD&}Matsumoto
+Dialogue: 0,0:11:26.01,0:11:27.94,Cart_C_Tim,Cartel,0000,0000,0000,,{\pos(581.333,74.667)\c&H879491&\3c&HD3DCDD&\4c&HD3DCDD&}Hanai
+Dialogue: 0,0:11:26.01,0:11:27.94,Cart_C_Tim,Cartel,0000,0000,0000,,{\pos(580,138)\c&H879491&\3c&HD3DCDD&\4c&HD3DCDD&}Eguchi
+Dialogue: 0,0:11:26.01,0:11:27.94,Cart_C_Tim,Cartel,0000,0000,0000,,{\pos(580,200)\3c&HDAE3E2&\c&H68706E&\4c&HD3DCDD&}Akita
+Dialogue: 0,0:11:26.01,0:11:27.94,Cart_C_Tim,Cartel,0000,0000,0000,,{\pos(580,268)\c&H606464&\3c&HC1C4CC&\4c&HD3DCDD&}Itadori
+Dialogue: 0,0:11:26.01,0:11:27.94,Cart_C_Tim,Cartel,0000,0000,0000,,{\pos(580,332)\c&H484A4A&\3c&HD3DCDD&\4c&H879491&}Kosaka
+Dialogue: 0,0:11:28.49,0:11:30.52,Gen_Main,Enfermera,0000,0000,0000,,Sí, ¿sucede algo?
+Dialogue: 0,0:11:32.83,0:11:33.99,Gen_Main,Enfermera,0000,0000,0000,,¿Hola?
+Dialogue: 0,0:11:34.17,0:11:35.17,Gen_Main,Enfermera,0000,0000,0000,,¡¿Señor Itadori?!
+Dialogue: 0,0:11:38.59,0:11:39.66,Gen_Italics,Enfermera,0000,0000,0000,,¿Hola?
+Dialogue: 0,0:11:42.34,0:11:45.14,Gen_Main,Yuuji,0000,0000,0000,,Mi abuelo murió.
+Dialogue: 0,0:12:07.60,0:12:09.57,Cart_C_TreNo,Cartel,0000,0000,0000,,{\fs20\c&H7C7C7C&\fax-0.2\3c&HF2F2F2&\shad0\frz138.4\pos(205,300)\frx36\fry4\org(206,299)}Acta de defunción
+Dialogue: 0,0:12:11.29,0:12:14.27,Gen_Main,Enfermera,0000,0000,0000,,Bien. Ese es todo el papeleo necesario.
+Dialogue: 0,0:12:14.42,0:12:16.62,Gen_Main,Yuuji,0000,0000,0000,,Bien, gracias por todo.
+Dialogue: 0,0:12:16.79,0:12:18.34,Gen_Main,Enfermera,0000,0000,0000,,¿Seguro que estarás bien?
+Dialogue: 0,0:12:19.00,0:12:22.33,Gen_Main,Yuuji,0000,0000,0000,,No sé, nunca había pasado por esto.
+Dialogue: 0,0:12:22.51,0:12:24.40,Gen_Main,Yuuji,0000,0000,0000,,Aún no se siente real.
+Dialogue: 0,0:12:24.97,0:12:29.26,Gen_Main,Yuuji,0000,0000,0000,,Pero mi abuelo me regañaría\Npor no dejar de lamentarme,
+Dialogue: 0,0:12:29.68,0:12:31.89,Gen_Main,Yuuji,0000,0000,0000,,así que me reiré cuando lo cremen.
+Dialogue: 0,0:12:32.06,0:12:33.25,Gen_Main,Enfermera,0000,0000,0000,,Esa es la actitud.
+Dialogue: 0,0:12:35.52,0:12:36.86,Gen_Main,Fushiguro,0000,0000,0000,,Yuuji Itadori, ¿verdad?
+Dialogue: 0,0:12:38.66,0:12:40.93,Gen_Main,Fushiguro,0000,0000,0000,,Soy Fushiguro,\Nde la Preparatoria Jujutsu.
+Dialogue: 0,0:12:41.11,0:12:43.36,Gen_Main,Fushiguro,0000,0000,0000,,Necesito hablar contigo. Ahora.
+Dialogue: 0,0:12:43.95,0:12:45.89,Gen_Main,Yuuji,0000,0000,0000,,¿Sabes? Estoy de luto.
+Dialogue: 0,0:12:46.08,0:12:47.62,Gen_Main,Fushiguro,0000,0000,0000,,Lo siento, pero no hay tiempo.
+Dialogue: 0,0:12:47.78,0:12:50.31,Gen_Main,Fushiguro,0000,0000,0000,,El objeto maldito que tienes\Nes muy peligroso.
+Dialogue: 0,0:12:50.45,0:12:51.98,Gen_Main,Fushiguro,0000,0000,0000,,Entrégamelo de inmediato.
+Dialogue: 0,0:12:52.16,0:12:53.37,Gen_Main,Yuuji,0000,0000,0000,,¿Objeto maldito?
+Dialogue: 0,0:12:53.87,0:12:54.87,Gen_Main,Fushiguro,0000,0000,0000,,Esto.
+Dialogue: 0,0:12:55.92,0:12:58.13,Gen_Main,Yuuji,0000,0000,0000,,Ah, sí. Me lo encontré.
+Dialogue: 0,0:12:58.75,0:13:02.51,Gen_Main,Yuuji,0000,0000,0000,,A mí me da igual,\Npero a mis amigos les gusta mucho.
+Dialogue: 0,0:13:02.67,0:13:04.25,Gen_Main,Yuuji,0000,0000,0000,,¿Y por qué es peligroso?
+Dialogue: 0,0:13:05.16,0:13:07.56,Gen_Main,Fushiguro,0000,0000,0000,,Las muertes y desapariciones\Nsin explicación
+Dialogue: 0,0:13:07.97,0:13:11.01,Gen_Main,,0000,0000,0000,,en Japón superan las 10,000 al año.
+Dialogue: 0,0:13:11.64,0:13:14.54,Gen_Main,Fushiguro,0000,0000,0000,,Y casi todo es resultado\Nde las Maldiciones.
+Dialogue: 0,0:13:15.32,0:13:16.53,Gen_Main,Yuuji,0000,0000,0000,,¿Maldiciones?
+Dialogue: 0,0:13:16.69,0:13:18.71,Gen_Main,Fushiguro,0000,0000,0000,,Me da igual si no me crees.
+Dialogue: 0,0:13:18.86,0:13:20.02,Gen_Main,Fushiguro,0000,0000,0000,,Pero existen.
+Dialogue: 0,0:13:20.36,0:13:21.53,Gen_Main,Fushiguro,0000,0000,0000,,Continuaré.
+Dialogue: 0,0:13:22.44,0:13:26.03,Gen_Main,Fushiguro,0000,0000,0000,,La energía negativa se acumula\Nfácilmente en escuelas y hospitales.
+Dialogue: 0,0:13:26.20,0:13:28.88,Gen_Main,Fushiguro,0000,0000,0000,,Pesares, arrepentimiento, vergüenza…
+Dialogue: 0,0:13:29.03,0:13:31.79,Gen_Main,Fushiguro,0000,0000,0000,,La negatividad humana es\Nla fuente de las Maldiciones.
+Dialogue: 0,0:13:32.70,0:13:37.00,Gen_Main,Fushiguro,0000,0000,0000,,Por eso, varias escuelas ocultan un\Nobjeto maldito como talismán protector.
+Dialogue: 0,0:13:37.71,0:13:39.50,Gen_Main,Fushiguro,0000,0000,0000,,Lo que encontraste es uno de ellos.
+Dialogue: 0,0:13:39.67,0:13:42.26,Gen_Main,Yuuji,0000,0000,0000,,Si nos protege, es algo bueno, ¿no?
+Dialogue: 0,0:13:42.42,0:13:43.63,Gen_Main,Fushiguro,0000,0000,0000,,Escucha hasta el final.
+Dialogue: 0,0:13:44.67,0:13:49.14,Gen_Main,Fushiguro,0000,0000,0000,,Utilizar un mal mayor es como un veneno\Nque ahuyenta a las demás Maldiciones.
+Dialogue: 0,0:13:49.63,0:13:51.95,Gen_Main,Fushiguro,0000,0000,0000,,Pero no es más que una mala práctica.
+Dialogue: 0,0:13:52.99,0:13:55.38,Gen_Main,Fushiguro,0000,0000,0000,,Con el paso de los años,\Nel sello se debilita
+Dialogue: 0,0:13:55.73,0:13:59.52,Gen_Main,Fushiguro,0000,0000,0000,,y se vuelve un señuelo que atrae\Na otras Maldiciones y se las come.
+Dialogue: 0,0:14:00.93,0:14:02.44,Gen_Main,Fushiguro,0000,0000,0000,,El objeto que encontraste
+Dialogue: 0,0:14:02.98,0:14:05.54,Gen_Main,Fushiguro,0000,0000,0000,,es uno peligroso,\Nde categoría especial.
+Dialogue: 0,0:14:05.69,0:14:07.45,Gen_Main,Fushiguro,0000,0000,0000,,Dámelo antes de que muera gente.
+Dialogue: 0,0:14:07.61,0:14:10.51,Gen_Main,Yuuji,0000,0000,0000,,Ya te dije que yo no me opongo.
+Dialogue: 0,0:14:10.66,0:14:12.00,Gen_Main,Yuuji,0000,0000,0000,,Habla con mis amigos.
+Dialogue: 0,0:14:13.20,0:14:14.26,Gen_Italics,Fushiguro,0000,0000,0000,,¿Está vacío?
+Dialogue: 0,0:14:14.41,0:14:17.05,Gen_Italics,Fushiguro,0000,0000,0000,,¡¿Perseguía el rastro\Nque quedaba en la caja?!
+Dialogue: 0,0:14:19.23,0:14:20.42,Gen_Main,Fushiguro,0000,0000,0000,,¡¿Y el contenido?!
+Dialogue: 0,0:14:20.58,0:14:23.39,Gen_Main,Yuuji,0000,0000,0000,,Ya te lo dije, mis amigos lo tienen.
+Dialogue: 0,0:14:23.96,0:14:24.97,Gen_Main,Fushiguro,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:14:25.13,0:14:29.05,Gen_Main,Fushiguro,0000,0000,0000,,Creo que dijeron que le quitarían\Nel talismán esta noche en la escuela.
+Dialogue: 0,0:14:32.26,0:14:33.75,Gen_Main,Fushiguro,0000,0000,0000,,¿Es malo?
+Dialogue: 0,0:14:35.56,0:14:37.39,Gen_Main,Fushiguro,0000,0000,0000,,Es peor que malo
+Dialogue: 0,0:14:38.10,0:14:40.53,Gen_Main,Fushiguro,0000,0000,0000,,Van a morir.
+Dialogue: 0,0:14:45.44,0:14:46.91,Gen_Main,Sasaki,0000,0000,0000,,No se quita.
+Dialogue: 0,0:14:47.07,0:14:49.37,Gen_Main,Iguchi,0000,0000,0000,,¿Hacía falta venir a escondidas?
+Dialogue: 0,0:14:49.80,0:14:51.03,Gen_Main,Iguchi,0000,0000,0000,,Encenderé la luz.
+Dialogue: 0,0:14:51.20,0:14:53.12,Gen_Main,Sasaki,0000,0000,0000,,¡No! ¡No arruines el ambiente!
+Dialogue: 0,0:14:53.53,0:14:56.28,Gen_Main,Sasaki,0000,0000,0000,,La emoción es\Nparte del club de ocultismo, ¿no?
+Dialogue: 0,0:14:56.45,0:14:58.65,Gen_Main,Sasaki,0000,0000,0000,,Además, dudo que pase algo.
+Dialogue: 0,0:15:00.42,0:15:01.55,Gen_Main,Sasaki,0000,0000,0000,,¡Oh, salió!
+Dialogue: 0,0:15:15.56,0:15:17.35,Gen_Main,Iguchi,0000,0000,0000,,¿Es un dedo humano?
+Dialogue: 0,0:15:18.10,0:15:19.35,Gen_Main,Sasaki,0000,0000,0000,,¿Será real?
+Dialogue: 0,0:15:23.61,0:15:24.61,Gen_Main,Sasaki,0000,0000,0000,,Esto…
+Dialogue: 0,0:15:28.36,0:15:29.52,Gen_Main,Sasaki,0000,0000,0000,,¿Qué será?
+Dialogue: 0,0:15:33.32,0:15:35.45,Gen_Main,Yuuji,0000,0000,0000,,¿Los talismanes se quitan con facilidad?
+Dialogue: 0,0:15:35.62,0:15:38.54,Gen_Main,Fushiguro,0000,0000,0000,,No, sería imposible\Npara alguien sin energía maldita.
+Dialogue: 0,0:15:39.29,0:15:40.44,Gen_Main,Fushiguro,0000,0000,0000,,Pero eso es lo normal.
+Dialogue: 0,0:15:41.08,0:15:42.75,Gen_Main,Yuuji,0000,0000,0000,,¡Por la derecha! ¡Es un atajo!
+Dialogue: 0,0:15:43.04,0:15:45.17,Gen_Main,Fushiguro,0000,0000,0000,,En ese caso, el objeto se fortaleció.
+Dialogue: 0,0:15:45.34,0:15:48.13,Gen_Main,Fushiguro,0000,0000,0000,,Y como el sello es antiguo,\Nya es prácticamente papel.
+Dialogue: 0,0:15:48.30,0:15:52.11,Gen_Main,Yuuji,0000,0000,0000,,Sigo sin entender mucho\Nsobre las Maldiciones.
+Dialogue: 0,0:15:52.29,0:15:54.76,Gen_Main,Fushiguro,0000,0000,0000,,-¡¿Dónde están?!\N-En el cuarto piso.
+Dialogue: 0,0:15:58.85,0:16:00.68,Gen_Main,Yuuji,0000,0000,0000,,¿Qué es esta presión?
+Dialogue: 0,0:16:00.91,0:16:02.44,Gen_Main,Fushiguro,0000,0000,0000,,Quédate aquí.
+Dialogue: 0,0:16:03.94,0:16:04.94,Gen_Main,Yuuji,0000,0000,0000,,¡Voy contigo!
+Dialogue: 0,0:16:05.31,0:16:06.44,Gen_Main,Yuuji,0000,0000,0000,,Es peligroso, ¿no?
+Dialogue: 0,0:16:06.61,0:16:09.61,Gen_Main,Yuuji,0000,0000,0000,,Los conocí hace unos unos meses,\Npero ya son mis amigos.
+Dialogue: 0,0:16:09.78,0:16:10.94,Gen_Main,Yuuji,0000,0000,0000,,¡Debo ir!
+Dialogue: 0,0:16:12.53,0:16:13.70,Gen_Main,Fushiguro,0000,0000,0000,,Quédate aquí.
+Dialogue: 0,0:16:14.34,0:16:17.07,Cart_C_Tre,Cartel,0000,0000,0000,,{\frz331.6\pos(287,243)\fs18\3c&H867E0D&\4c&H867E0D&\c&H000000&}Club de ocultismo
+Dialogue: 0,0:16:17.83,0:16:24.00,Gen_Main,Curse,0000,0000,0000,,¿Qué hora es?
+Dialogue: 0,0:16:25.29,0:16:31.64,Gen_Main,Curse,0000,0000,0000,,La manecilla está en las 11.
+Dialogue: 0,0:16:31.97,0:16:34.08,Gen_Italics,Sasaki,0000,0000,0000,,¿Qué es ese monstruo?
+Dialogue: 0,0:16:34.26,0:16:35.34,Gen_Main,Iguchi,0000,0000,0000,,Sasaki…
+Dialogue: 0,0:16:35.81,0:16:38.77,Gen_Main,Sasaki,0000,0000,0000,,¿Iguchi? ¡Menos mal!\N¿Dónde estabas…?
+Dialogue: 0,0:16:38.93,0:16:41.89,Gen_Main,Iguchi,0000,0000,0000,,Ayúdame…
+Dialogue: 0,0:16:45.65,0:16:48.07,Gen_Main,Curse,0000,0000,0000,,¿Qué hora es?
+Dialogue: 0,0:16:48.48,0:16:50.03,Gen_Main,Fushiguro,0000,0000,0000,,¡La Maldición se liberó!
+Dialogue: 0,0:16:50.19,0:16:52.61,Gen_Main,Fushiguro,0000,0000,0000,,¡Su presencia inunda todo el lugar!
+Dialogue: 0,0:16:55.57,0:16:56.78,Gen_Main,Fushiguro,0000,0000,0000,,¡Estorbas!
+Dialogue: 0,0:16:57.20,0:16:58.20,Gen_Main,Fushiguro,0000,0000,0000,,¡Perros demonio!
+Dialogue: 0,0:17:05.93,0:17:07.30,Gen_Main,Fushiguro,0000,0000,0000,,Cómanselo.
+Dialogue: 0,0:17:08.80,0:17:12.32,Gen_Italics,Yuuji,0000,0000,0000,,¿Voy a quedarme esperando como me dijo?
+Dialogue: 0,0:17:12.92,0:17:15.63,Gen_Italics,Yuuji,0000,0000,0000,,¿A qué le tengo tanto miedo?
+Dialogue: 0,0:17:16.16,0:17:18.22,Gen_Main,Fushiguro,0000,0000,0000,,Van a morir.
+Dialogue: 0,0:17:18.60,0:17:21.63,Gen_Italics,Yuuji,0000,0000,0000,,Es verdad. Percibo la muerte desde aquí.
+Dialogue: 0,0:17:22.14,0:17:23.81,Gen_Italics,Yuuji,0000,0000,0000,,Le temo a la muerte.
+Dialogue: 0,0:17:24.18,0:17:25.47,Gen_Italics,Yuuji,0000,0000,0000,,¿Le temía entonces?
+Dialogue: 0,0:17:25.81,0:17:27.92,Gen_Italics,Yuuji,0000,0000,0000,,No me dio esa impresión.
+Dialogue: 0,0:17:29.02,0:17:31.10,Gen_Italics,Yuuji,0000,0000,0000,,No lloré porque estuviera asustado.
+Dialogue: 0,0:17:31.69,0:17:33.48,Gen_Italics,Yuuji,0000,0000,0000,,Estaba triste.
+Dialogue: 0,0:17:34.10,0:17:35.66,Gen_Italics,Yuuji,0000,0000,0000,,Pero la muerte de mi abuelo
+Dialogue: 0,0:17:36.03,0:17:37.54,Gen_Italics,Yuuji,0000,0000,0000,,y la muerte que tengo delante…
+Dialogue: 0,0:17:38.45,0:17:39.86,Gen_Italics,Yuuji,0000,0000,0000,,¿En qué se diferencian?
+Dialogue: 0,0:17:41.41,0:17:44.37,Gen_Main,Grandpa,0000,0000,0000,,Eres un chico fuerte,\Nayuda a los demás.
+Dialogue: 0,0:17:50.42,0:17:52.96,Gen_Main,Fushiguro,0000,0000,0000,,Las Maldiciones aumentan en número.\NMe acerco.
+Dialogue: 0,0:18:01.28,0:18:02.47,Gen_Main,Fushiguro,0000,0000,0000,,Allí estás.
+Dialogue: 0,0:18:04.39,0:18:06.14,Gen_Italics,Yuuji,0000,0000,0000,,Era terco e irascible.
+Dialogue: 0,0:18:06.52,0:18:09.15,Gen_Italics,Yuuji,0000,0000,0000,,Nunca nadie lo visitó.
+Dialogue: 0,0:18:10.81,0:18:12.68,Gen_Italics,Yuuji,0000,0000,0000,,"No acabes como yo", ¿eh?
+Dialogue: 0,0:18:13.19,0:18:14.65,Gen_Italics,Yuuji,0000,0000,0000,,Es verdad…
+Dialogue: 0,0:18:14.82,0:18:17.86,Gen_Main,Fushiguro,0000,0000,0000,,¡¿Intenta devorarla junto\Ncon el objeto maldito?!
+Dialogue: 0,0:18:19.73,0:18:20.82,Gen_Main,Fushiguro,0000,0000,0000,,¡No llegaré a tiempo!
+Dialogue: 0,0:18:30.46,0:18:31.54,Gen_Main,Fushiguro,0000,0000,0000,,¡Itadori!
+Dialogue: 0,0:18:31.93,0:18:35.01,Gen_Italics,Yuuji,0000,0000,0000,,Abuelo, tuviste una muerte digna.
+Dialogue: 0,0:18:35.84,0:18:37.51,Gen_Italics,Yuuji,0000,0000,0000,,¡Pero…!
+Dialogue: 0,0:18:39.55,0:18:41.08,Gen_Italics,Yuuji,0000,0000,0000,,Nadie debería…
+Dialogue: 0,0:18:43.30,0:18:44.97,Gen_Italics,Yuuji,0000,0000,0000,,morir de este modo.
+Dialogue: 0,0:18:49.92,0:18:51.37,Gen_Main,Yuuji,0000,0000,0000,,¿Eso es una Maldición?
+Dialogue: 0,0:18:51.52,0:18:53.07,Gen_Main,Yuuji,0000,0000,0000,,No es lo que me imaginé.
+Dialogue: 0,0:18:57.94,0:19:01.67,Gen_Main,Fushiguro,0000,0000,0000,,Quisiera preguntarte qué haces aquí,\Npero lo hiciste bien.
+Dialogue: 0,0:19:01.82,0:19:03.48,Gen_Main,Yuuji,0000,0000,0000,,¿Por qué suenas tan engreído?
+Dialogue: 0,0:19:04.22,0:19:07.45,Gen_Main,Yuuji,0000,0000,0000,,Por cierto, ¿qué son las cosas\Nque se comen a la Maldición?
+Dialogue: 0,0:19:07.62,0:19:08.99,Gen_Main,Fushiguro,0000,0000,0000,,Mis shikigami.
+Dialogue: 0,0:19:09.16,0:19:10.25,Gen_Main,Fushiguro,0000,0000,0000,,¿Los ves?
+Dialogue: 0,0:19:10.78,0:19:12.93,Gen_Main,Fushiguro,0000,0000,0000,,Las Maldiciones no suelen ser visibles.
+Dialogue: 0,0:19:13.08,0:19:16.19,Gen_Main,Fushiguro,0000,0000,0000,,A menos que estés muriendo\No en un sitio especial como este.
+Dialogue: 0,0:19:16.34,0:19:18.07,Gen_Main,Yuuji,0000,0000,0000,,Sí, tiene sentido.
+Dialogue: 0,0:19:18.21,0:19:20.72,Gen_Main,Yuuji,0000,0000,0000,,Nunca antes había visto\Nun fantasma ni nada.
+Dialogue: 0,0:19:21.89,0:19:23.72,Gen_Main,Fushiguro,0000,0000,0000,,¿No tienes miedo?
+Dialogue: 0,0:19:23.89,0:19:26.36,Gen_Main,Yuuji,0000,0000,0000,,Bueno, sí pasé un buen susto.
+Dialogue: 0,0:19:26.89,0:19:29.69,Gen_Main,Yuuji,0000,0000,0000,,Pero había gente\Nque podía morir de verdad.
+Dialogue: 0,0:19:31.23,0:19:36.04,Gen_Main,Yuuji,0000,0000,0000,,Lo mínimo que quiero para la gente que\Nconozco es que tengan muertes dignas.
+Dialogue: 0,0:19:36.19,0:19:38.54,Gen_Main,Yuuji,0000,0000,0000,,En fin, ni siquiera yo me entiendo.
+Dialogue: 0,0:19:38.69,0:19:41.24,Gen_Main,Yuuji,0000,0000,0000,,-¡Casi! ¿Era esto?\N-Sí.
+Dialogue: 0,0:19:41.46,0:19:44.33,Gen_Main,Fushiguro,0000,0000,0000,,Es el objeto maldito especial,\Nel dedo de Ryomen Sukuna.
+Dialogue: 0,0:19:44.49,0:19:46.63,Gen_Main,Fushiguro,0000,0000,0000,,Es un milagro que no se lo devorara.
+Dialogue: 0,0:19:46.78,0:19:49.96,Gen_Main,Yuuji,0000,0000,0000,,-¿Y esto se come? ¿Sabe bien?\N-No seas tonto.
+Dialogue: 0,0:19:50.42,0:19:52.44,Gen_Main,Fushiguro,0000,0000,0000,,Se hace para obtener energía maldita.
+Dialogue: 0,0:19:52.58,0:19:54.14,Gen_Main,Fushiguro,0000,0000,0000,,Es peligroso, dámelo.
+Dialogue: 0,0:19:54.83,0:19:56.11,Gen_Main,Yuuji,0000,0000,0000,,Claro, claro.
+Dialogue: 0,0:20:01.01,0:20:02.30,Gen_Main,Fushiguro,0000,0000,0000,,¡Huye!
+Dialogue: 0,0:20:11.20,0:20:12.31,Gen_Main,Yuuji,0000,0000,0000,,¡Fushiguro!
+Dialogue: 0,0:20:13.63,0:20:14.81,Gen_Main,Fushiguro,0000,0000,0000,,¡Nue!
+Dialogue: 0,0:20:36.13,0:20:38.96,Gen_Main,Fushiguro,0000,0000,0000,,Demonios, no puedo pensar con claridad…
+Dialogue: 0,0:20:40.63,0:20:41.75,Gen_Main,Fushiguro,0000,0000,0000,,¡Itadori!
+Dialogue: 0,0:20:41.92,0:20:44.89,Gen_Main,Fushiguro,0000,0000,0000,,¡¿Por qué no huyes de una vez\Ncon esos dos?!
+Dialogue: 0,0:20:45.54,0:20:47.98,Gen_Main,Yuuji,0000,0000,0000,,¡Tú también estás en problemas!
+Dialogue: 0,0:20:52.06,0:20:54.42,Gen_Main,Fushiguro,0000,0000,0000,,¡Solo una Maldición\Nexorciza otra Maldición!
+Dialogue: 0,0:20:54.60,0:20:55.69,Gen_Main,Fushiguro,0000,0000,0000,,¡No puedes ganar!
+Dialogue: 0,0:20:55.85,0:20:57.36,Gen_Main,Yuuji,0000,0000,0000,,¡¿Cómo puedes decirme eso?!
+Dialogue: 0,0:20:57.82,0:21:00.32,Gen_Main,Yuuji,0000,0000,0000,,¡Corres el riesgo de morir!
+Dialogue: 0,0:21:01.86,0:21:04.99,Gen_Main,Yuuji,0000,0000,0000,,¡Si me fuera a casa,\Nluego tendría pesadillas!
+Dialogue: 0,0:21:05.15,0:21:06.24,Gen_Main,Yuuji,0000,0000,0000,,Además,
+Dialogue: 0,0:21:09.62,0:21:11.00,Gen_Main,Yuuji,0000,0000,0000,,yo también tengo…
+Dialogue: 0,0:21:11.16,0:21:13.00,Gen_Main,Grandpa,0000,0000,0000,,Ayuda a los demás.
+Dialogue: 0,0:21:13.16,0:21:15.78,Gen_Main,Yuuji,0000,0000,0000,,…mi propia maldición.
+Dialogue: 0,0:21:25.88,0:21:29.35,Gen_Main,Fushiguro,0000,0000,0000,,¡Idiota! ¡Dame eso o te va a comer!
+Dialogue: 0,0:21:33.81,0:21:37.06,Gen_Main,Yuuji,0000,0000,0000,,-¿Y esto se come? ¿Sabe bien?\N-No seas tonto.
+Dialogue: 0,0:21:37.30,0:21:39.18,Gen_Main,Fushiguro,0000,0000,0000,,Se hace para obtener energía maldita.
+Dialogue: 0,0:21:42.65,0:21:45.51,Gen_Main,Yuuji,0000,0000,0000,,¡Existe una manera\Nde salvarlos a todos!
+Dialogue: 0,0:21:45.65,0:21:47.95,Gen_Main,Yuuji,0000,0000,0000,,¡Necesito energía maldita,\N¿no, Fushiguro?!
+Dialogue: 0,0:21:48.95,0:21:49.95,Gen_Main,Fushiguro,0000,0000,0000,,Para…
+Dialogue: 0,0:21:50.32,0:21:51.38,Gen_Main,Fushiguro,0000,0000,0000,,¡Para!
+Dialogue: 0,0:21:53.16,0:21:54.78,Gen_Italics,Fushiguro,0000,0000,0000,,¡El dedo de Ryomen Sukuna!
+Dialogue: 0,0:21:54.95,0:21:56.38,Gen_Italics,Fushiguro,0000,0000,0000,,¡Es de categoría especial!
+Dialogue: 0,0:21:56.54,0:21:58.79,Gen_Italics,Fushiguro,0000,0000,0000,,¡Es como veneno! ¡Morirá!
+Dialogue: 0,0:21:58.96,0:22:03.30,Gen_Italics,Fushiguro,0000,0000,0000,,Pero hay una posibilidad\Nentre un millón…
+Dialogue: 0,0:22:43.71,0:22:45.55,Gen_Main,Sukuna,0000,0000,0000,,¡Lo sabía!
+Dialogue: 0,0:22:45.71,0:22:48.63,Gen_Main,Sukuna,0000,0000,0000,,¡Qué bien se siente\Nla luz contra la piel!
+Dialogue: 0,0:22:49.53,0:22:50.68,Gen_Italics,Fushiguro,0000,0000,0000,,¡Es el peor caso!
+Dialogue: 0,0:22:50.84,0:22:52.60,Gen_Italics,Fushiguro,0000,0000,0000,,¡El peor resultado entre un millón!
+Dialogue: 0,0:22:53.14,0:22:55.57,Gen_Italics,Fushiguro,0000,0000,0000,,¡La encarnación\Nde un objeto maldito especial!
+Dialogue: 0,0:22:55.72,0:22:57.99,Gen_Main,Sukuna,0000,0000,0000,,La carne de un espectro no tiene gracia.
+Dialogue: 0,0:22:58.14,0:23:00.98,Gen_Main,Sukuna,0000,0000,0000,,¿Dónde está la gente? ¡¿Y las mujeres?!
+Dialogue: 0,0:23:01.98,0:23:04.58,Gen_Main,Sukuna,0000,0000,0000,,Pero qué buena época.
+Dialogue: 0,0:23:04.73,0:23:08.28,Gen_Main,Sukuna,0000,0000,0000,,Mujeres y niños se arrastran\Npor doquier como gusanos.
+Dialogue: 0,0:23:08.69,0:23:10.41,Gen_Main,Sukuna,0000,0000,0000,,¡Qué maravilla!
+Dialogue: 0,0:23:10.57,0:23:12.56,Gen_Main,Sukuna,0000,0000,0000,,¡Será una masacre!
+Dialogue: 0,0:23:18.41,0:23:21.38,Gen_Main,Yuuji,0000,0000,0000,,¿Qué haces con mi cuerpo? Devuélvemelo.
+Dialogue: 0,0:23:21.74,0:23:23.88,Gen_Main,Sukuna,0000,0000,0000,,¿Cómo puedes moverte?
+Dialogue: 0,0:23:24.08,0:23:25.95,Gen_Main,Yuuji,0000,0000,0000,,Es mi cuerpo, ¿no?
+Dialogue: 0,0:23:27.64,0:23:29.51,Gen_Main,Sukuna,0000,0000,0000,,¿Me está conteniendo?
+Dialogue: 0,0:23:30.30,0:23:33.60,Gen_Main,Fushiguro,0000,0000,0000,,No te muevas. Ya no eres humano.
+Dialogue: 0,0:23:36.14,0:23:39.18,Gen_Main,Fushiguro,0000,0000,0000,,Yuuji Itadori, conforme\Na las normas de Jujutsu,
+Dialogue: 0,0:23:39.81,0:23:43.54,Gen_Main,Fushiguro,0000,0000,0000,,¡te exorcizaré como una Maldición!
+Dialogue: 0,0:23:52.03,0:23:55.65,Cart_TitleNext,Próximo,0000,0000,0000,,{\fad(984,1)}Episodio 2\N{\fs36}Por mí
