@@ -1,0 +1,388 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Box,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:09.11,0:00:14.11,Cart_Serieslogo,,0000,0000,0000,,{\fad(600,900)\fs28\3c&H9EF2FA&\move(320,47.64,320,48.85,20,4983)}{\t(0,5050,\fs-0.3)}JUJUTSU KAISEN
+Dialogue: 0,0:00:09.11,0:00:14.11,Cart_Serieslogo,,0000,0000,0000,,{\fad(600,900)\fs28\3c&H9EF2FA&\move(325,272,325,270,20,4983)}{\t(0,5050,\fs-0.3)}{\fscy100}{\bord0}Hidden Inventory • Premature Death
+Dialogue: 0,0:01:29.98,0:01:31.98,Cart_A_Box,,0000,0000,0000,,{\an5\b0\fs50}Un año después\NAgosto de 2007
+Dialogue: 0,0:01:33.03,0:01:34.63,Gen_Main,Shoko,0000,0000,0000,,Aquí vamos.
+Dialogue: 0,0:01:39.75,0:01:41.45,Gen_Main,Gojo,0000,0000,0000,,Sí, me salió perfecto.
+Dialogue: 0,0:01:41.62,0:01:44.22,Gen_Main,Shoko,0000,0000,0000,,¿Qué fue lo que hiciste?
+Dialogue: 0,0:01:44.32,0:01:46.91,Gen_Main,Geto,0000,0000,0000,,¿Una elección automática\Ndel objetivo del ritual?
+Dialogue: 0,0:01:47.09,0:01:51.04,Gen_Main,Gojo,0000,0000,0000,,Sí. Aunque, siendo precisos,\Nel objetivo del ritual soy yo.
+Dialogue: 0,0:01:51.55,0:01:54.49,Gen_Main,Gojo,0000,0000,0000,,Puse en automático\Nlo que estaba haciendo en manual.
+Dialogue: 0,0:01:54.72,0:01:58.47,Gen_Main,Gojo,0000,0000,0000,,No solo por la intensidad del poder\Nmaldito, también puedo determinar
+Dialogue: 0,0:01:58.68,0:02:01.30,Gen_Main,Gojo,0000,0000,0000,,el peligro del objeto según su masa,\Nvelocidad y forma.
+Dialogue: 0,0:02:01.48,0:02:04.37,Gen_Main,Gojo,0000,0000,0000,,También me gustaría poder detectar\Nsustancias tóxicas,
+Dialogue: 0,0:02:04.60,0:02:06.47,Gen_Main,Gojo,0000,0000,0000,,pero eso aún es un poco complicado.
+Dialogue: 0,0:02:06.65,0:02:11.60,Gen_Main,Gojo,0000,0000,0000,,Ahora puedo dejar el Infinito siempre\Nactivado usando el mínimo de recursos.
+Dialogue: 0,0:02:11.78,0:02:14.57,Gen_Main,Shoko,0000,0000,0000,,¿Activado todo el tiempo?\NSe te quemará el cerebro.
+Dialogue: 0,0:02:14.74,0:02:18.60,Gen_Main,Gojo,0000,0000,0000,,Para compensarlo,\Ndejaré trabajando los rituales inversos.
+Dialogue: 0,0:02:18.83,0:02:21.21,Gen_Main,Gojo,0000,0000,0000,,Así tendré\Nun cerebro fresco todo el tiempo.
+Dialogue: 0,0:02:21.89,0:02:24.82,Gen_Main,Gojo,0000,0000,0000,,La simplificación de los sellos\Nque hacía ya quedó perfecta.
+Dialogue: 0,0:02:25.04,0:02:26.89,Gen_Main,Gojo,0000,0000,0000,,Rojo y Azul…
+Dialogue: 0,0:02:27.04,0:02:30.02,Gen_Main,Gojo,0000,0000,0000,,Lanzar múltiples de ellos simultáneamente\Nva más o menos.
+Dialogue: 0,0:02:30.14,0:02:34.17,Gen_Main,Gojo,0000,0000,0000,,Me falta trabajar en la expansión\Nde dominio y en el teletransporte.
+Dialogue: 0,0:02:34.84,0:02:39.67,Gen_Main,Gojo,0000,0000,0000,,Con una trayectoria sin obstáculos con\Nla escuela como partida, creo lograrlo.
+Dialogue: 0,0:02:40.10,0:02:42.97,Gen_Main,Gojo,0000,0000,0000,,Shoko, préstame una rata\Npara experimentar.
+Dialogue: 0,0:02:44.26,0:02:46.59,Gen_Italics,Geto,0000,0000,0000,,Satoru se volvió\Nel hechicero más poderoso.
+Dialogue: 0,0:02:46.65,0:02:49.09,Gen_Main,Gojo,0000,0000,0000,,Suguru, ¿estás un poco más flaco?
+Dialogue: 0,0:02:49.32,0:02:50.64,Gen_Main,Gojo,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,0:02:50.82,0:02:53.40,Gen_Italics,Geto,0000,0000,0000,,Puede llevar a cabo\Ntodas las misiones él solo.
+Dialogue: 0,0:02:53.74,0:02:57.27,Gen_Italics,Geto,0000,0000,0000,,Shoko en principio\Nno sale a misiones peligrosas.
+Dialogue: 0,0:02:57.87,0:03:01.06,Gen_Italics,Geto,0000,0000,0000,,Por consecuencia,\Nme encuentro más tiempo solo.
+Dialogue: 0,0:03:01.70,0:03:04.56,Gen_Main,Geto,0000,0000,0000,,Solo es un caso de fatiga veraniega.\NEstoy bien.
+Dialogue: 0,0:03:05.54,0:03:07.28,Gen_Main,Gojo,0000,0000,0000,,¿Comiste demasiados fideos fríos?
+Dialogue: 0,0:03:08.75,0:03:11.21,Gen_Italics,Geto,0000,0000,0000,,Ese verano estuvimos muy ocupados.
+Dialogue: 0,0:03:12.54,0:03:15.54,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)}Episodio 29\N\N\N\N\N\N\N\N\N\N{\fs30}El tesoro perdido
+Dialogue: 0,0:03:16.24,0:03:19.85,Gen_Italics,Geto,0000,0000,0000,,Quizá fue por los múltiples\Ndesastres naturales del año anterior.
+Dialogue: 0,0:03:20.48,0:03:22.94,Gen_Italics,Geto,0000,0000,0000,,Se crearon espíritus malditos\Ncomo gusanos.
+Dialogue: 0,0:03:24.60,0:03:26.69,Gen_Italics,Geto,0000,0000,0000,,Exorcizar y absorber
+Dialogue: 0,0:03:26.85,0:03:28.62,Gen_Italics,Geto,0000,0000,0000,,se repetían una y otra vez para mí.
+Dialogue: 0,0:03:28.73,0:03:30.52,Gen_Italics,Geto,0000,0000,0000,,Exorcizar. Absorber.
+Dialogue: 0,0:03:31.50,0:03:34.41,Gen_Italics,Geto,0000,0000,0000,,Ninguno de ellos conoce\Nel sabor de las maldiciones.
+Dialogue: 0,0:03:34.99,0:03:38.27,Gen_Italics,Geto,0000,0000,0000,,Es como intentar tragar un trapo\Nempapado de vómito y excremento.
+Dialogue: 0,0:03:40.99,0:03:42.39,Gen_Italics,Geto,0000,0000,0000,,¿Para el bien de quiénes?
+Dialogue: 0,0:03:46.54,0:03:48.40,Gen_Italics,Geto,0000,0000,0000,,Exorcizar. Absorber.
+Dialogue: 0,0:03:49.50,0:03:52.51,Gen_Italics,Geto,0000,0000,0000,,Desde aquel día, me lo he estado\Npreguntando a mí mismo.
+Dialogue: 0,0:03:52.77,0:03:55.55,Gen_Italics,Geto,0000,0000,0000,,Las cosas de las que fui testigo\Nno tienen nada de raro.
+Dialogue: 0,0:03:55.65,0:03:57.38,Gen_Italics,Geto,0000,0000,0000,,La bien conocida mezquindad humana.
+Dialogue: 0,0:03:57.80,0:04:01.12,Gen_Italics,Geto,0000,0000,0000,,Se suponía que tenía\Neso en cuenta cuando elegí
+Dialogue: 0,0:04:01.35,0:04:03.85,Gen_Italics,Geto,0000,0000,0000,,ser hechicero para salvar personas.
+Dialogue: 0,0:04:13.32,0:04:14.64,Gen_Italics,Geto,0000,0000,0000,,No te desvíes.
+Dialogue: 0,0:04:15.03,0:04:17.35,Gen_Italics,Geto,0000,0000,0000,,Cumple tu obligación como hechicero.
+Dialogue: 0,0:04:36.96,0:04:38.38,Gen_Main,Geto,0000,0000,0000,,Malditos monos…
+Dialogue: 0,0:04:41.97,0:04:43.23,Gen_Main,Haibara,0000,0000,0000,,¡Geto!
+Dialogue: 0,0:04:44.51,0:04:45.76,Gen_Main,Geto,0000,0000,0000,,Haibara…
+Dialogue: 0,0:04:46.38,0:04:48.28,Gen_Main,Haibara,0000,0000,0000,,Que todo esté bien y en orden.
+Dialogue: 0,0:04:48.73,0:04:50.01,Gen_Main,Geto,0000,0000,0000,,¿Quieres beber algo?
+Dialogue: 0,0:04:50.29,0:04:53.62,Gen_Main,Haibara,0000,0000,0000,,¡¿Eh?! Siento las molestias…\N¡Un refresco de cola!
+Dialogue: 0,0:04:56.57,0:04:59.65,Gen_Main,Haibara,0000,0000,0000,,La misión de mañana será\Nen un lugar bastante lejos.
+Dialogue: 0,0:04:59.82,0:05:02.08,Gen_Main,Geto,0000,0000,0000,,Ah, ¿sí?\NPues te encargo un recuerdo.
+Dialogue: 0,0:05:02.32,0:05:03.49,Gen_Main,Haibara,0000,0000,0000,,¡Muy bien!
+Dialogue: 0,0:05:03.66,0:05:06.50,Gen_Main,Haibara,0000,0000,0000,,¿Quieres algo dulce o salado?
+Dialogue: 0,0:05:07.41,0:05:11.16,Gen_Main,Geto,0000,0000,0000,,Algo dulce, por favor,\Nporque Satoru tal vez también querrá.
+Dialogue: 0,0:05:11.54,0:05:12.92,Gen_Main,Haibara,0000,0000,0000,,¡De acuerdo!
+Dialogue: 0,0:05:16.67,0:05:17.91,Gen_Main,Geto,0000,0000,0000,,Haibara,
+Dialogue: 0,0:05:18.30,0:05:21.89,Gen_Main,Geto,0000,0000,0000,,¿crees poder seguir trabajando\Ncomo hechicero? ¿No es pesado?
+Dialogue: 0,0:05:23.22,0:05:24.63,Gen_Main,Haibara,0000,0000,0000,,Pues…
+Dialogue: 0,0:05:25.80,0:05:29.51,Gen_Main,Haibara,0000,0000,0000,,No soy de los que piensan\Nlas cosas demasiado.
+Dialogue: 0,0:05:29.98,0:05:34.14,Gen_Main,Haibara,0000,0000,0000,,Es muy gratificante dar lo mejor\Nde mí mismo en algo que puedo hacer.
+Dialogue: 0,0:05:36.07,0:05:37.33,Gen_Main,Geto,0000,0000,0000,,Ah, ya.
+Dialogue: 0,0:05:38.11,0:05:39.43,Gen_Main,Geto,0000,0000,0000,,Pues sí, ¿verdad?
+Dialogue: 0,0:05:43.78,0:05:45.44,Gen_Main,Tsukumo,0000,0000,0000,,¿Tú eres Geto?
+Dialogue: 0,0:05:46.49,0:05:49.03,Gen_Main,Tsukumo,0000,0000,0000,,¿Cuál es tu tipo de mujer?
+Dialogue: 0,0:05:50.54,0:05:52.10,Gen_Main,Geto,0000,0000,0000,,¿Quién es usted, señorita?
+Dialogue: 0,0:05:52.75,0:05:55.25,Gen_Main,Haibara,0000,0000,0000,,¡A mí me gustan\Nlas chicas que comen mucho!
+Dialogue: 0,0:05:56.34,0:05:57.68,Gen_Main,Geto,0000,0000,0000,,Haibara…
+Dialogue: 0,0:05:57.84,0:06:01.24,Gen_Main,Haibara,0000,0000,0000,,No hay problema. No es una mala persona.
+Dialogue: 0,0:06:01.47,0:06:03.67,Gen_Main,Haibara,0000,0000,0000,,Sé distinguir a las buenas personas.
+Dialogue: 0,0:06:04.09,0:06:06.51,Gen_Main,Geto,0000,0000,0000,,¿Y pese a ello te sientas a mi lado?
+Dialogue: 0,0:06:08.06,0:06:09.35,Gen_Main,Haibara,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:06:11.06,0:06:13.53,Gen_Main,Tsukumo,0000,0000,0000,,Eso fue sarcasmo, ¿sabes?
+Dialogue: 0,0:06:14.81,0:06:16.07,Gen_Main,Haibara,0000,0000,0000,,Con su permiso.
+Dialogue: 0,0:06:17.27,0:06:20.65,Gen_Main,Tsukumo,0000,0000,0000,,¿Es menor que tú?\NSe ve muy franco y adorable.
+Dialogue: 0,0:06:20.86,0:06:24.02,Gen_Main,Geto,0000,0000,0000,,Creo que, al ser hechicero,\Ndebería sospechar más de la gente.
+Dialogue: 0,0:06:24.24,0:06:27.82,Gen_Main,Tsukumo,0000,0000,0000,,Entonces, ¿no me vas a responder, Geto?
+Dialogue: 0,0:06:28.41,0:06:32.32,Gen_Main,Geto,0000,0000,0000,,Primero contésteme usted,\Npor favor. ¿Quién es?
+Dialogue: 0,0:06:32.75,0:06:35.32,Gen_Main,Tsukumo,0000,0000,0000,,Yuki Tsukumo,\Nhechicera de grado especial.
+Dialogue: 0,0:06:35.54,0:06:37.24,Gen_Main,Tsukumo,0000,0000,0000,,¿Eso te da más o menos una idea?
+Dialogue: 0,0:06:38.09,0:06:39.45,Gen_Main,Geto,0000,0000,0000,,¿Usted es la que…?
+Dialogue: 0,0:06:39.67,0:06:42.08,Gen_Main,Tsukumo,0000,0000,0000,,Ah, eso me agrada. ¡¿La que qué?!
+Dialogue: 0,0:06:43.20,0:06:45.95,Gen_Main,Geto,0000,0000,0000,,La que no acepta misiones\Npese a ser de grado especial.
+Dialogue: 0,0:06:46.30,0:06:49.06,Gen_Main,Geto,0000,0000,0000,,Una inútil que se pasa\Nvagando por el extranjero.
+Dialogue: 0,0:06:49.64,0:06:52.31,Gen_Main,Tsukumo,0000,0000,0000,,Odio la Escuela de Brujería.
+Dialogue: 0,0:06:52.51,0:06:53.47,Cart_A_Tre,,0000,0000,0000,,{\c&H4B4747&\bord1.5\3c&HEDEDED&\fad(400,0)\fax0.1\pos(134,6)\frz3.113}Se enfurruñó…
+Dialogue: 0,0:06:52.58,0:06:53.49,Gen_Italics,Geto,0000,0000,0000,,Se enfurruñó.
+Dialogue: 0,0:06:53.90,0:06:55.17,Gen_Main,Geto,0000,0000,0000,,Es broma.
+Dialogue: 0,0:06:55.39,0:06:59.05,Gen_Main,Tsukumo,0000,0000,0000,,Pero es cierto que no concuerdo\Ncon las políticas de la institución.
+Dialogue: 0,0:06:59.44,0:07:02.73,Gen_Main,Tsukumo,0000,0000,0000,,Lo que la gente de aquí hace\Nson contramedidas contra los síntomas.
+Dialogue: 0,0:07:02.94,0:07:05.36,Gen_Main,Tsukumo,0000,0000,0000,,Yo quiero crearlas para la causa raíz.
+Dialogue: 0,0:07:05.78,0:07:07.57,Gen_Main,Geto,0000,0000,0000,,¿Contramedidas para la causa raíz?
+Dialogue: 0,0:07:07.74,0:07:13.03,Gen_Main,Tsukumo,0000,0000,0000,,Me refiero a no ir cazando maldiciones,\Nsino a crear un mundo donde no nazcan.
+Dialogue: 0,0:07:15.71,0:07:17.73,Gen_Main,Tsukumo,0000,0000,0000,,¿Qué tal si te doy una pequeña clase?
+Dialogue: 0,0:07:18.21,0:07:20.66,Gen_Main,Tsukumo,0000,0000,0000,,En primera instancia,\N¿qué son las maldiciones?
+Dialogue: 0,0:07:20.84,0:07:24.80,Gen_Main,Geto,0000,0000,0000,,Son sedimentos hechos del poder\Nmaldito que se fuga de las personas
+Dialogue: 0,0:07:24.96,0:07:26.79,Gen_Main,Geto,0000,0000,0000,,y se acumulan hasta tomar forma.
+Dialogue: 0,0:07:26.97,0:07:28.56,Gen_Main,Tsukumo,0000,0000,0000,,Excelente.
+Dialogue: 0,0:07:28.80,0:07:33.05,Gen_Main,Tsukumo,0000,0000,0000,,Entonces, habría dos maneras de crear\Nun mundo donde no nazcan maldiciones.
+Dialogue: 0,0:07:33.22,0:07:36.85,Gen_Main,Tsukumo,0000,0000,0000,,Uno, eliminar el poder maldito\Nde toda la humanidad.
+Dialogue: 0,0:07:37.06,0:07:41.05,Gen_Main,Tsukumo,0000,0000,0000,,Dos, hacer que toda la humanidad\Nsea capaz de controlar el poder maldito.
+Dialogue: 0,0:07:41.44,0:07:44.91,Gen_Main,Tsukumo,0000,0000,0000,,Creía que la número uno tendría\Nbuenas posibilidades, ¿sabes?
+Dialogue: 0,0:07:45.28,0:07:48.19,Gen_Main,Tsukumo/Geto,0000,0000,0000,,-Había un caso modelo y todo.\N-¿Un caso modelo?
+Dialogue: 0,0:07:48.61,0:07:52.40,Gen_Main,Tsukumo,0000,0000,0000,,Alguien que conociste muy bien:\NToji Zenin.
+Dialogue: 0,0:07:53.45,0:07:54.66,Gen_Main,Tsukumo,0000,0000,0000,,He visto varios casos
+Dialogue: 0,0:07:54.78,0:07:58.66,Gen_Main,Tsukumo,0000,0000,0000,,de atadura celestial con el poder\Nmaldito de una persona normal.
+Dialogue: 0,0:07:58.87,0:08:03.54,Gen_Main,Tsukumo,0000,0000,0000,,Pero, luego de buscar por todo el mundo,\Nél fue el único con cero poder maldito.
+Dialogue: 0,0:08:04.63,0:08:07.94,Gen_Main,Tsukumo,0000,0000,0000,,Eso no era lo único interesante de él.
+Dialogue: 0,0:08:08.59,0:08:13.88,Gen_Main,Tsukumo,0000,0000,0000,,Aun sin poder maldito, podía detectar\Nlas maldiciones con sus cinco sentidos.
+Dialogue: 0,0:08:14.22,0:08:18.16,Gen_Main,Tsukumo,0000,0000,0000,,Al deshacerse por completo del\Npoder maldito, su cuerpo cruzó una línea
+Dialogue: 0,0:08:18.39,0:08:21.18,Gen_Main,Tsukumo,0000,0000,0000,,donde obtuvo\Ntolerancia a las maldiciones.
+Dialogue: 0,0:08:21.65,0:08:23.35,Gen_Main,Tsukumo,0000,0000,0000,,En verdad era un superhombre.
+Dialogue: 0,0:08:23.77,0:08:25.81,Gen_Main,Tsukumo,0000,0000,0000,,No te sientas mal porque te venció.
+Dialogue: 0,0:08:26.94,0:08:30.61,Gen_Main,Tsukumo,0000,0000,0000,,Quería estudiarlo, pero me rechazó.
+Dialogue: 0,0:08:30.82,0:08:32.69,Gen_Main,Tsukumo,0000,0000,0000,,Perdimos a una persona invaluable.
+Dialogue: 0,0:08:33.33,0:08:38.10,Gen_Main,Tsukumo,0000,0000,0000,,Hay pocos casos de atadura celestial,\Nasí que le voy más a la opción dos.
+Dialogue: 0,0:08:38.38,0:08:41.99,Gen_Main,Tsukumo,0000,0000,0000,,Hacer que toda la humanidad sea capaz\Nde controlar el poder maldito.
+Dialogue: 0,0:08:43.00,0:08:46.99,Gen_Main,Tsukumo,0000,0000,0000,,¿Sabías que no se producen\Nespíritus malditos de los hechiceros?
+Dialogue: 0,0:08:48.01,0:08:52.63,Gen_Main,Tsukumo,0000,0000,0000,,Exceptuando el caso en que el hechicero\Nrenace como maldición después de morir.
+Dialogue: 0,0:08:53.39,0:08:58.03,Gen_Main,Tsukumo,0000,0000,0000,,Nuestra fuga de poder maldito es ínfima\Nen comparación con los no hechiceros.
+Dialogue: 0,0:08:58.27,0:09:02.56,Gen_Main,Tsukumo,0000,0000,0000,,El consumo y la capacidad de poder\Nmaldito varían según la técnica ritual.
+Dialogue: 0,0:09:02.90,0:09:05.04,Gen_Main,Tsukumo,0000,0000,0000,,Pero lo más importante es el flujo.
+Dialogue: 0,0:09:05.27,0:09:09.52,Gen_Main,Tsukumo,0000,0000,0000,,El poder maldito de los hechiceros\Nfluye dentro del cuerpo.
+Dialogue: 0,0:09:09.70,0:09:13.95,Gen_Main,Tsukumo,0000,0000,0000,,Si se plasmara a grandes rasgos, en caso\Nde que todos se volvieran hechiceros,
+Dialogue: 0,0:09:14.13,0:09:15.78,Gen_Main,Tsukumo,0000,0000,0000,,ya no nacerían más maldiciones.
+Dialogue: 0,0:09:17.04,0:09:21.39,Gen_Main,Geto,0000,0000,0000,,Entonces, solo bastaría con matar\Na todos los no hechiceros, ¿no cree?
+Dialogue: 0,0:09:23.38,0:09:24.92,Gen_Main,Tsukumo,0000,0000,0000,,Geto,
+Dialogue: 0,0:09:25.88,0:09:27.62,Gen_Main,Tsukumo,0000,0000,0000,,esa es una posibilidad.
+Dialogue: 0,0:09:28.34,0:09:29.53,Gen_Main,Geto,0000,0000,0000,,No, este…
+Dialogue: 0,0:09:30.59,0:09:34.30,Gen_Main,Tsukumo,0000,0000,0000,,De hecho, eso quizás sería lo más fácil.
+Dialogue: 0,0:09:34.89,0:09:36.90,Gen_Main,Tsukumo,0000,0000,0000,,Sería ir sacrificando no hechiceros
+Dialogue: 0,0:09:37.12,0:09:40.48,Gen_Main,Tsukumo,0000,0000,0000,,hasta que se volvieran hechiceros\Ncomo estrategia de supervivencia.
+Dialogue: 0,0:09:40.64,0:09:42.61,Gen_Main,Tsukumo,0000,0000,0000,,Es decir, sería estimular la evolución.
+Dialogue: 0,0:09:42.98,0:09:45.45,Gen_Main,Tsukumo,0000,0000,0000,,Al igual que los pájaros obtuvieron alas
+Dialogue: 0,0:09:45.69,0:09:48.25,Gen_Main,Tsukumo,0000,0000,0000,,por el terror y sensación de peligro.
+Dialogue: 0,0:09:48.48,0:09:52.25,Gen_Main,Tsukumo,0000,0000,0000,,Pero, por desgracia,\Ntodavía no estoy tan loca.
+Dialogue: 0,0:09:52.49,0:09:55.57,Gen_Main,Tsukumo,0000,0000,0000,,¿Aborreces a los no hechiceros, Geto?
+Dialogue: 0,0:09:59.66,0:10:01.17,Gen_Main,Geto,0000,0000,0000,,No lo sé.
+Dialogue: 0,0:10:01.33,0:10:05.23,Gen_Main,Geto,0000,0000,0000,,Creía que los hechiceros existíamos\Npara proteger a la gente corriente.
+Dialogue: 0,0:10:05.42,0:10:10.51,Gen_Main,Geto,0000,0000,0000,,Pero últimamente no tengo\Nmuy claro su valor, por así decirlo.
+Dialogue: 0,0:10:11.21,0:10:14.96,Gen_Main,Geto,0000,0000,0000,,¿Son valiosos por ser débiles?\N¿O eso los hacer ser horrendos?
+Dialogue: 0,0:10:15.14,0:10:18.47,Gen_Main,Geto,0000,0000,0000,,Esa línea se ha vuelto borrosa\Ny ya no la puedo distinguir.
+Dialogue: 0,0:10:19.01,0:10:22.89,Gen_Main,Geto,0000,0000,0000,,Por un lado, los considero inferiores.\NPor otro lado, niego que sea verdad.
+Dialogue: 0,0:10:23.23,0:10:25.36,Gen_Main,Geto,0000,0000,0000,,Ser hechicero es un maratón
+Dialogue: 0,0:10:25.60,0:10:27.91,Gen_Main,Geto,0000,0000,0000,,cuyo final me resulta muy incierto.
+Dialogue: 0,0:10:28.57,0:10:30.73,Gen_Main,Geto,0000,0000,0000,,Ya ni sé qué es lo que realmente creo.
+Dialogue: 0,0:10:31.74,0:10:33.91,Gen_Main,Tsukumo,0000,0000,0000,,No crees en ninguna de las dos opciones.
+Dialogue: 0,0:10:37.57,0:10:39.65,Gen_Main,Tsukumo,0000,0000,0000,,Todavía no llegas a esa etapa.
+Dialogue: 0,0:10:40.04,0:10:44.41,Gen_Main,Tsukumo,0000,0000,0000,,Una parte de ti los considera\Ninferiores, pero otra parte lo niega.
+Dialogue: 0,0:10:44.72,0:10:47.72,Gen_Main,Tsukumo,0000,0000,0000,,La siguiente es solo una posibilidad\Nque se me ocurre.
+Dialogue: 0,0:10:48.34,0:10:52.98,Gen_Main,Tsukumo,0000,0000,0000,,Creo que estás a punto de elegir cuál\Nde las dos partes es tu verdadero yo.
+Dialogue: 0,0:10:56.93,0:11:00.85,Gen_Main,Tsukumo,0000,0000,0000,,Hasta luego. La verdad es que también\Nquería saludar a Gojo, pero
+Dialogue: 0,0:11:01.20,0:11:03.14,Gen_Main,Tsukumo,0000,0000,0000,,parece que no era un buen momento.
+Dialogue: 0,0:11:03.63,0:11:06.90,Gen_Main,Tsukumo,0000,0000,0000,,Como hechiceros de grado especial,\Nlos tres debemos llevarnos bien.
+Dialogue: 0,0:11:08.23,0:11:10.95,Gen_Main,Geto,0000,0000,0000,,Se lo voy a comentar a Satoru.
+Dialogue: 0,0:11:11.44,0:11:14.13,Gen_Main,Tsukumo,0000,0000,0000,,Ah, es cierto.\NUna cosa más.
+Dialogue: 0,0:11:14.29,0:11:16.96,Gen_Main,Tsukumo,0000,0000,0000,,No te preocupes\Npor lo del Cuerpo de Plasma Estelar.
+Dialogue: 0,0:11:17.20,0:11:20.60,Gen_Main,Tsukumo,0000,0000,0000,,En aquella ocasión, o ya había\Notro Cuerpo de Plasma Estelar,
+Dialogue: 0,0:11:20.83,0:11:24.17,Gen_Main,Tsukumo,0000,0000,0000,,o ya había nacido uno nuevo.
+Dialogue: 0,0:11:24.83,0:11:28.31,Gen_Main,Tsukumo,0000,0000,0000,,Sea como sea,\NTengen ahora se encuentra estable.
+Dialogue: 0,0:11:32.13,0:11:33.46,Gen_Main,Geto,0000,0000,0000,,Me lo imagino.
+Dialogue: 0,0:11:34.46,0:11:34.84,Cart_C_Tre,,0000,0000,0000,,{\c&H171B1C&\bord1.5\3c&HEDEDED&\fad(0,100)\\fs38\pos(296,48)}Ah
+Dialogue: 0,0:11:35.63,0:11:37.39,Gen_Main,Tsukumo,0000,0000,0000,,No me dijo cuál era su tipo.
+Dialogue: 0,0:11:35.75,0:11:36.59,Cart_C_Tre,,0000,0000,0000,,{\c&H171B1C&\an3\bord1.5\3c&HF7F7F7&\fad(110,110)\\fs24\3a&H21&\move(338,95,319,88,28,779)}No me dijo\Ncuál era su tipo
+Dialogue: 0,0:11:40.18,0:11:44.83,Gen_Main,Nanami,0000,0000,0000,,Era una misión de rutina para eliminar\Na una maldición de segundo grado.
+Dialogue: 0,0:11:49.69,0:11:50.97,Gen_Main,Nanami,0000,0000,0000,,¡Con un carajo!
+Dialogue: 0,0:11:55.53,0:11:57.51,Gen_Main,Nanami,0000,0000,0000,,El dios guardián del nacimiento…
+Dialogue: 0,0:11:59.66,0:12:01.59,Gen_Main,Nanami,0000,0000,0000,,Se trataba de una deidad local.
+Dialogue: 0,0:12:02.14,0:12:03.87,Gen_Main,Nanami,0000,0000,0000,,¡Era una misión de primer grado!
+Dialogue: 0,0:12:07.08,0:12:09.70,Gen_Main,Geto,0000,0000,0000,,Ahora por lo pronto descansa, Nanami.
+Dialogue: 0,0:12:10.17,0:12:12.20,Gen_Main,Geto,0000,0000,0000,,Satoru se encargará de la misión.
+Dialogue: 0,0:12:14.42,0:12:17.58,Gen_Main,Nanami,0000,0000,0000,,¿No es mejor que ya haga todo él solo?
+Dialogue: 0,0:12:19.51,0:12:22.21,Gen_Italics,Geto,0000,0000,0000,,Ser hechicero es un maratón…
+Dialogue: 0,0:12:24.56,0:12:26.59,Gen_Italics,Geto,0000,0000,0000,,¿Y si lo que hubiera al final
+Dialogue: 0,0:12:28.48,0:12:31.67,Gen_Italics,Geto,0000,0000,0000,,fuera una montaña de cadáveres\Nde mis compañeros hechiceros?
+Dialogue: 1,0:12:35.52,0:12:40.53,Cart_A_Tre,,0000,0000,0000,,{\p1\c&HC7D5F6&\an8\blur4\fscx288\fscy44\3c&H4D6298&\1a&H58&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 2,0:12:35.52,0:12:40.53,Cart_C_Tim,,0000,0000,0000,,{\an8\b0\bord0\shad0\fs14\an8)\pos(320,27)}Informe sobre la investigación de la masacre causada\Npor un estudiante de la Escuela de Brujería
+Dialogue: 0,0:12:43.20,0:12:44.70,Gen_Main,Geto,0000,0000,0000,,¿De qué trata esto?
+Dialogue: 0,0:12:45.12,0:12:49.45,Gen_Main,Aldeano 1,0000,0000,0000,,¿Cómo que qué? Estas dos eran\Nla causa de lo que pasaba, ¿no?
+Dialogue: 0,0:12:52.13,0:12:53.20,Gen_Main,Geto,0000,0000,0000,,Se equivocan.
+Dialogue: 1,0:12:55.17,0:12:57.67,Cart_A_Tre,,0000,0000,0000,,{\p1\c&HC7D5F6&\an9\blur4\fscx300\fscy210\3c&H4D6298&\1a&H58&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 2,0:12:55.17,0:12:57.67,Cart_C_Tim,,0000,0000,0000,,{\an7\b0\bord0\shad0\fs13\pos(329,27)}Objetivo de la investigación: Suguru Geto,\Nestudiante de tercer año de la Escuela de Brujería de Tokio\N\N1. Bitácora del incidente:\NHora y fecha: 9:00 PM, 23 de septiembre de 2007\NLugar: Municipio de ■■■■ (antigua aldea ■■■■),\Nen la prefectura ■■■■\NCómo se descubrió: Ya que el encargado de la misión (Geto)\Nno regresaba, el director asistente fue en su búsqueda\Ny descubrió la masacre. Habían pasado cinco días\Ndesde que se envío a Geto.\N\N2. Sobre la misión de la que Geto estaba encargado:\NSe trataba de exorcizar al espíritu maldito que se cree\Nque es la causa de las desapariciones y muertes extrañas\Nque están ocurriendo dentro de la comunidad.
+Dialogue: 0,0:12:59.93,0:13:01.88,Gen_Main,Aldeano 1,0000,0000,0000,,Las dos están mal de la cabeza.
+Dialogue: 0,0:13:02.22,0:13:05.80,Gen_Main,Aldeano 1,0000,0000,0000,,A veces atacan a los aldeanos\Ncon una fuerza maléfica.
+Dialogue: 0,0:13:06.31,0:13:09.43,Gen_Main,Geto,0000,0000,0000,,Ya me encargué de eliminar\Nla raíz de los incidentes.
+Dialogue: 0,0:13:09.55,0:13:12.56,Gen_Main,Aldeana 1,0000,0000,0000,,Mi nieto estuvo a punto\Nde ser asesinado por estas niñas.
+Dialogue: 0,0:13:12.73,0:13:15.10,Gen_Main,Nanako Niña/Aldeana 1,0000,0000,0000,,-¡Eso no es cierto!\N-¡Cállense, brujas!
+Dialogue: 0,0:13:15.61,0:13:17.73,Gen_Main,Aldeana 1,0000,0000,0000,,Su madre también era como ustedes.
+Dialogue: 0,0:13:17.90,0:13:21.11,Gen_Main,Maldición,0000,0000,0000,,Ya todo está bien.
+Dialogue: 0,0:13:23.78,0:13:27.45,Gen_Italics,Tsukumo,0000,0000,0000,,Una parte de ti los considera\Ninferiores, pero otra parte lo niega.
+Dialogue: 0,0:13:27.99,0:13:30.16,Gen_Italics,Tsukumo,0000,0000,0000,,Creo que estás a punto de elegir…
+Dialogue: 0,0:13:30.66,0:13:31.84,Gen_Main,Geto,0000,0000,0000,,Si son tan amables,
+Dialogue: 0,0:13:32.42,0:13:34.62,Gen_Main,Geto,0000,0000,0000,,¿por qué no vamos afuera un poco?
+Dialogue: 0,0:13:34.79,0:13:37.32,Gen_Italics,Tsukumo,0000,0000,0000,,…cuál de las dos partes\Nes tu verdadero yo.
+Dialogue: 0,0:13:42.47,0:13:43.79,Gen_Main,Aldeana 1,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:13:44.62,0:13:45.82,Gen_Main,Aldeano 1,0000,0000,0000,,¡¿Por qué?!
+Dialogue: 0,0:13:47.72,0:13:49.19,Gen_Main,Aldeana 2,0000,0000,0000,,¡No!
+Dialogue: 0,0:14:00.86,0:14:02.86,Cart_A_Tre,,0000,0000,0000,,{\p1\c&HC7D5F6&\an9\blur4\fscx300\fscy210\3c&H4D6298&\1a&H58&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 2,0:14:00.86,0:14:02.86,Cart_C_Tim,,0000,0000,0000,,{\an7\b0\bord0\shad0\fs12\pos(329,27)}El 19 de septiembre (hora desconocida) se originó el incidente de\Nla masacre. Cinco días después de haber despachado al encargado\Nde la misión (Suguru Geto, estudiante de tercer año de la Escuela\Nde Brujería), se confirma la muerte de 112 habitantes de\Nla aldea ■■■■.\NSe asumió que todas habían sido causadas por espíritus malditos,\Npero a través del análisis de la suciedad residual se determinó que\Nla verdadera causa fue la manipulación de maldiciones de Suguru\NGeto. Se cree que prendió fuego a la aldea y se dio a la fuga.\N\NSe desconoce el motivo por el que llevó a cabo la atrocidad.\NNo había parientes suyos en la aldea.\N\N4. Medidas a tomar:\NSuguru Geto se dio a la fuga. Con fundamento en el artículo 9.°\Nde las regulaciones de la brujería, se le condena a muerte\Ncomo hechicero maléfico.
+Dialogue: 1,0:14:02.86,0:14:05.19,Cart_C_Tim,,0000,0000,0000,,{\p1\c&HC7D5F6&\an9\blur4\fscx348\fscy180\3c&H4D6298&\1a&H21&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 2,0:14:02.86,0:14:05.19,Cart_C_Tim,,0000,0000,0000,,{\an7\b0\bord0\shad0\fs14\pos(279,31)}El 19 de septiembre (hora desconocida) se originó el incidente de\Nla masacre. Cinco días después de haber despachado al encargado\Nde la misión (Suguru Geto, estudiante de tercer año de la Escuela\Nde Brujería), se confirma la muerte de 112 habitantes de\Nla aldea ■■■■.\NSe asumió que todas habían sido causadas por espíritus malditos,\Npero a través del análisis de la suciedad residual se determinó que\Nla verdadera causa fue la manipulación de maldiciones de Suguru\NGeto. Se cree que prendió fuego a la aldea y se dio a la fuga.\N\NSe desconoce el motivo por el que llevó a cabo la atrocidad.\NNo había parientes suyos en la aldea.
+Dialogue: 0,0:14:05.19,0:14:07.57,Cart_A_Tre,,0000,0000,0000,,{\p1\c&HC7D5F6&\an7\blur4\fscx456\fscy96\3c&H4D6298&\1a&H21&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 2,0:14:05.19,0:14:07.57,Cart_C_Tim,,0000,0000,0000,,{\an7\b0\blur0.3\bord0\shad0\fs18\pos(31,33)\c&H161D40&}Se asumió que todas habían sido causadas por espíritus malditos,\Npero a través del análisis de la suciedad residual se determinó que\Nla verdadera causa fue {\blur0}la manipulación de maldiciones de Suguru\NGeto. {\blur0.3}Se cree que prendió fuego a la aldea y se dio a la fuga.
+Dialogue: 0,0:14:07.57,0:14:10.95,Cart_C_Tim,,0000,0000,0000,,{\bord0\shad0\fscx95\blur0.5\fs40\q2\b1\pos(320,84)\c&H212F47&}condena a muerte como hechicero maléfico.
+Dialogue: 0,0:14:18.09,0:14:22.17,Gen_Main,Yaga,0000,0000,0000,,No me hagas repetirlo tantas veces.\NSuguru masacró a todos los aldeanos.
+Dialogue: 0,0:14:22.34,0:14:23.97,Gen_Main,Gojo,0000,0000,0000,,Ya lo escuché.
+Dialogue: 0,0:14:24.22,0:14:26.38,Gen_Main,Gojo,0000,0000,0000,,Por eso la expresión de sorpresa.
+Dialogue: 0,0:14:27.85,0:14:31.29,Gen_Main,Yaga,0000,0000,0000,,La casa de los padres de Suguru\Nya estaba vacía cuando llegamos,
+Dialogue: 0,0:14:31.65,0:14:34.90,Gen_Main,Yaga,0000,0000,0000,,pero por la suciedad residual\Ny la sangre, quizá ya los mató.
+Dialogue: 0,0:14:35.06,0:14:36.65,Gen_Main,Gojo,0000,0000,0000,,¡Eso no puede ser posible!
+Dialogue: 0,0:14:36.81,0:14:41.48,Gen_Main,Yaga,0000,0000,0000,,Satoru, yo tampoco entiendo\Nqué diablos está pasando.
+Dialogue: 0,0:14:50.24,0:14:51.37,Cart_C_Tre,,0000,0000,0000,,{\fad(300,0)\c&H65655E&\frz349.5\pos(344,29)\3c&HEBEEE2&}¿Una chica de prepa?
+Dialogue: 0,0:14:55.37,0:14:56.99,Gen_Main,Geto,0000,0000,0000,,¿Quieres fuego?
+Dialogue: 0,0:14:58.71,0:14:59.79,Gen_Main,Geto,0000,0000,0000,,Hola.
+Dialogue: 0,0:15:00.92,0:15:03.86,Gen_Main,Shoko,0000,0000,0000,,Nada menos que el señor criminal.\N¿Se te ofrece algo?
+Dialogue: 0,0:15:04.09,0:15:06.10,Gen_Main,Geto,0000,0000,0000,,Solo probar mi suerte, tal vez.
+Dialogue: 0,0:15:07.84,0:15:10.89,Gen_Main,Shoko,0000,0000,0000,,Para que no digas que no pregunté,\N¿son falsas acusaciones?
+Dialogue: 0,0:15:11.22,0:15:13.48,Gen_Main,Geto,0000,0000,0000,,Es una lástima, pero no.
+Dialogue: 0,0:15:14.06,0:15:16.92,Gen_Main,Shoko,0000,0000,0000,,Una última pregunta,\N¿por qué lo hiciste?
+Dialogue: 0,0:15:17.27,0:15:19.34,Gen_Main,Geto,0000,0000,0000,,Para crear un mundo solo de hechiceros.
+Dialogue: 0,0:15:20.52,0:15:22.34,Gen_Main,Shoko,0000,0000,0000,,No le encuentro ningún sentido.
+Dialogue: 0,0:15:22.57,0:15:24.17,Gen_Main,Geto,0000,0000,0000,,No soy un niño.
+Dialogue: 0,0:15:24.40,0:15:27.61,Gen_Main,Geto,0000,0000,0000,,No espero que cualquier persona\Nme vaya a comprender.
+Dialogue: 0,0:15:28.20,0:15:31.24,Gen_Main,Shoko,0000,0000,0000,,Los que se quejan de que nadie\Nlos va a entender
+Dialogue: 0,0:15:31.45,0:15:33.75,Gen_Main,Shoko,0000,0000,0000,,también son unos mocosos, en mi opinión.
+Dialogue: 0,0:15:34.00,0:15:35.50,Gen_Main,Shoko,0000,0000,0000,,Ah. ¿Gojo?
+Dialogue: 0,0:15:35.87,0:15:37.38,Gen_Main,Shoko,0000,0000,0000,,Aquí está Geto.
+Dialogue: 0,0:15:37.62,0:15:39.20,Gen_Main,Shoko,0000,0000,0000,,Sí, en Shinjuku.
+Dialogue: 0,0:15:40.38,0:15:43.00,Gen_Main,Shoko,0000,0000,0000,,Claro que no. No quiero que me mate.
+Dialogue: 0,0:15:51.97,0:15:54.35,Gen_Main,Gojo,0000,0000,0000,,Explícate, Suguru.
+Dialogue: 0,0:15:58.81,0:16:00.87,Gen_Main,Geto,0000,0000,0000,,Ya te lo contó Shoko, ¿no?
+Dialogue: 0,0:16:01.11,0:16:03.30,Gen_Main,Geto,0000,0000,0000,,No es nada más y nada menos que eso.
+Dialogue: 0,0:16:03.48,0:16:05.82,Gen_Main,Gojo,0000,0000,0000,,¿Por eso vas a matar\Na todos los no hechiceros
+Dialogue: 0,0:16:06.54,0:16:07.82,Gen_Main,Gojo,0000,0000,0000,,incluyendo a tus padres?
+Dialogue: 0,0:16:07.99,0:16:10.78,Gen_Main,Geto,0000,0000,0000,,Solo por ser mis padres\Nno van a ser especiales, ¿o sí?
+Dialogue: 0,0:16:10.99,0:16:14.08,Gen_Main,Geto,0000,0000,0000,,Además,\Nellos ya no eran mi única familia.
+Dialogue: 0,0:16:14.24,0:16:15.95,Gen_Main,Gojo,0000,0000,0000,,No te estoy preguntando eso.
+Dialogue: 0,0:16:16.45,0:16:19.17,Gen_Main,Gojo,0000,0000,0000,,¿No habías dicho que no ibas\Na matar sin sentido?
+Dialogue: 0,0:16:20.00,0:16:23.67,Gen_Main,Geto,0000,0000,0000,,Tiene sentido y una causa también.\NUna gran causa justa, a decir verdad.
+Dialogue: 0,0:16:23.84,0:16:25.05,Gen_Main,Gojo,0000,0000,0000,,¡Claro que no!
+Dialogue: 0,0:16:25.30,0:16:28.55,Gen_Main,Gojo,0000,0000,0000,,¡¿Matar a los no hechieros para crear\Nun mundo de solo hechiceros?!
+Dialogue: 0,0:16:28.76,0:16:30.18,Gen_Main,Gojo,0000,0000,0000,,¡Claro que no es posible!
+Dialogue: 0,0:16:30.91,0:16:34.68,Gen_Main,Gojo,0000,0000,0000,,¡Digo que no tiene sentido sacrificarse\Npor algo que al final será imposible!
+Dialogue: 0,0:16:36.31,0:16:37.85,Gen_Main,Geto,0000,0000,0000,,Qué arrogante.
+Dialogue: 0,0:16:38.60,0:16:39.81,Gen_Main,Gojo,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:16:40.48,0:16:43.18,Gen_Main,Geto,0000,0000,0000,,Tú sí podrías hacerlo, ¿no, Satoru?
+Dialogue: 0,0:16:45.82,0:16:47.98,Gen_Main,Geto,0000,0000,0000,,¿Quieres convencer a los demás
+Dialogue: 0,0:16:48.74,0:16:52.64,Gen_Main,Geto,0000,0000,0000,,de que no son capaces\Nde hacer algo que tú sí podrías?
+Dialogue: 0,0:16:56.29,0:16:59.54,Gen_Main,Geto,0000,0000,0000,,¿Eres el más poderoso\Nporque eres Satoru Gojo?
+Dialogue: 0,0:16:59.75,0:17:02.21,Gen_Main,Geto,0000,0000,0000,,¿O eres Satoru Gojo\Nporque eres el más poderoso?
+Dialogue: 0,0:17:02.38,0:17:04.33,Gen_Main,Gojo,0000,0000,0000,,¿Qué demonios quieres decir?
+Dialogue: 0,0:17:04.50,0:17:07.12,Gen_Main,Geto,0000,0000,0000,,Si yo pudiera ser alguien como tú,
+Dialogue: 0,0:17:07.63,0:17:11.13,Gen_Main,Geto,0000,0000,0000,,¿no crees que sí sería factible\Nllevar a cabo este ideal absurdo?
+Dialogue: 0,0:17:12.96,0:17:14.69,Gen_Main,Geto,0000,0000,0000,,Ya decidí lo que haré con mi vida.
+Dialogue: 0,0:17:14.80,0:17:17.65,Gen_Main,Geto,0000,0000,0000,,Ahora solo me queda\Nesforzarme al máximo para lograrlo.
+Dialogue: 0,0:17:27.28,0:17:28.86,Gen_Main,Geto,0000,0000,0000,,Mátame si así lo deseas.
+Dialogue: 0,0:17:31.03,0:17:32.61,Gen_Main,Geto,0000,0000,0000,,Eso también tendría sentido.
+Dialogue: 0,0:17:42.71,0:17:44.70,Gen_Main,Yaga,0000,0000,0000,,¿Por qué no fuiste tras él?
+Dialogue: 0,0:17:48.17,0:17:50.65,Gen_Main,Gojo,0000,0000,0000,,¿En serio me lo pregunta?
+Dialogue: 0,0:17:52.59,0:17:55.64,Gen_Main,Yaga,0000,0000,0000,,No, está bien. Lo siento.
+Dialogue: 0,0:17:59.52,0:18:02.02,Gen_Main,Gojo,0000,0000,0000,,Maestro, yo soy fuerte, ¿verdad?
+Dialogue: 0,0:18:02.19,0:18:04.81,Gen_Main,Yaga,0000,0000,0000,,Sí, insufriblemente.
+Dialogue: 0,0:18:06.73,0:18:10.19,Gen_Main,Gojo,0000,0000,0000,,Pero parece que no es suficiente\Ncon que solo yo sea el fuerte.
+Dialogue: 0,0:18:10.99,0:18:15.48,Gen_Main,Gojo,0000,0000,0000,,Solo puedo salvar a los tipos que están\Ndispuestos a ser salvados por otros.
+Dialogue: 0,0:18:20.45,0:18:22.98,Gen_Main,Geto,0000,0000,0000,,La Secta del Manto Estelar\Nfue disuelta, ¿no?
+Dialogue: 0,0:18:23.09,0:18:25.92,Gen_Main,Gong,0000,0000,0000,,Es otra organización,\Npero con las mismas raíces podridas.
+Dialogue: 0,0:18:26.29,0:18:29.80,Gen_Main,Gong,0000,0000,0000,,¿No te importa quedarte con todo,\Naun con la basura incluida?
+Dialogue: 0,0:18:29.97,0:18:33.67,Gen_Main,Geto,0000,0000,0000,,No, mientras consiga maldiciones\Ny dinero, cualquier cosa me viene bien.
+Dialogue: 0,0:18:34.05,0:18:36.38,Gen_Main,Gong,0000,0000,0000,,¿En verdad vas a salir con ese traje?
+Dialogue: 0,0:18:36.59,0:18:39.40,Gen_Main,Geto,0000,0000,0000,,Está bien, ¿no?\NEl drama también es importante.
+Dialogue: 0,0:18:39.81,0:18:41.21,Gen_Main,Nanako Niña,0000,0000,0000,,Mi señor Geto…
+Dialogue: 0,0:18:41.43,0:18:42.84,Gen_Main,Geto,0000,0000,0000,,Abran bien los ojos.
+Dialogue: 0,0:18:43.23,0:18:44.41,Gen_Main,Geto,0000,0000,0000,,¿Están todos reunidos?
+Dialogue: 0,0:18:44.53,0:18:47.70,Gen_Main,Gong,0000,0000,0000,,El jefe de cada región,\Nla mesa directiva, el director general
+Dialogue: 0,0:18:47.84,0:18:49.94,Gen_Main,Gong,0000,0000,0000,,y demás peces gordos están aquí.
+Dialogue: 0,0:18:54.98,0:18:58.26,Gen_Main,Geto,0000,0000,0000,,Damas y caballeros,\Ngracias por haberse reunido aquí hoy.
+Dialogue: 0,0:18:58.58,0:19:00.28,Gen_Main,Geto,0000,0000,0000,,Seré breve y conciso.
+Dialogue: 0,0:19:00.66,0:19:04.18,Gen_Main,Geto,0000,0000,0000,,A partir de este instante,\Nme apodero de esta organización.
+Dialogue: 0,0:19:04.83,0:19:09.17,Gen_Main,Geto,0000,0000,0000,,Le cambiaremos el nombre, y ahora\Nustedes harán todo lo que yo diga.
+Dialogue: 0,0:19:09.17,0:19:11.17,Cart_A_Box,,0000,0000,0000,,{\bord5\shad0\fs48\an5\b0\3c&H000000&}Mayoría en desacuerdo
+Dialogue: 0,0:19:11.34,0:19:13.24,Gen_Main,Geto,0000,0000,0000,,Pues qué problemón.
+Dialogue: 0,0:19:13.92,0:19:18.08,Gen_Main,Geto,0000,0000,0000,,¡Ya sé! Señor Sonoda,\N¿gusta subir al escenario?
+Dialogue: 0,0:19:19.14,0:19:20.93,Gen_Main,Geto,0000,0000,0000,,¡Sí, usted!
+Dialogue: 0,0:19:21.59,0:19:23.60,Cart_C_Tim,,0000,0000,0000,,{\c&H624B48&\3c&HEAE0DF&\fscx80\fs16\pos(445,131)}Felicidad
+Dialogue: 0,0:19:21.76,0:19:23.60,Gen_Main,Geto,0000,0000,0000,,En fin, lo diré de otra forma.
+Dialogue: 0,0:19:24.18,0:19:25.60,Gen_Italics,Geto,0000,0000,0000,,Aborrezco a los monos.
+Dialogue: 0,0:19:25.77,0:19:27.52,Gen_Main,Geto,0000,0000,0000,,Sigan mis órdenes,
+Dialogue: 0,0:19:27.78,0:19:30.02,Gen_Italics,Geto,0000,0000,0000,,Ese es mi verdadero yo,\Nlo que elegí ser…
+Dialogue: 0,0:19:30.73,0:19:32.20,Gen_Italics,Geto,0000,0000,0000,,malditos monos.
+Dialogue: 0,0:19:34.74,0:19:37.53,Gen_Main,Gojo,0000,0000,0000,,Eres Megumi Fushiguro, ¿verdad?
+Dialogue: 0,0:19:39.82,0:19:43.37,Gen_Main,Megumi Niño,0000,0000,0000,,¿Y usted quién es?\NPor cierto, ¿esa cara qué?
+Dialogue: 0,0:19:44.91,0:19:47.34,Gen_Main,Gojo,0000,0000,0000,,No, nada. Es que eres igualito.
+Dialogue: 0,0:19:48.67,0:19:50.41,Gen_Main,Gojo,0000,0000,0000,,Pero eso no es importante.
+Dialogue: 0,0:19:50.63,0:19:55.22,Gen_Main,Gojo,0000,0000,0000,,Tu papá viene de una buena familia\Nde hechiceros, los Zenin,
+Dialogue: 0,0:19:55.31,0:19:57.72,Gen_Main,Gojo,0000,0000,0000,,pero es un inútil\Nque hasta a mí me cae mal.
+Dialogue: 0,0:19:58.05,0:20:00.80,Gen_Main,Gojo,0000,0000,0000,,Se escapó de casa y luego te tuvo a ti.
+Dialogue: 0,0:20:00.97,0:20:04.76,Gen_Main,Gojo,0000,0000,0000,,Tú eres capaz de verlas\Ny también tienes el don, ¿verdad?
+Dialogue: 0,0:20:05.52,0:20:08.14,Gen_Main,Gojo,0000,0000,0000,,Ya te diste cuenta\Nde tu propio poder, ¿no es así?
+Dialogue: 0,0:20:08.73,0:20:11.19,Gen_Main,Gojo,0000,0000,0000,,Al clan Zenin le encanta\Nla gente con talento.
+Dialogue: 0,0:20:11.40,0:20:14.30,Gen_Main,Gojo,0000,0000,0000,,Los rituales se manifiestan\Nentre los 4 y 6 años.
+Dialogue: 0,0:20:14.43,0:20:16.94,Gen_Main,Gojo,0000,0000,0000,,Este es el mejor momento\Npara venderte, ¿verdad?
+Dialogue: 0,0:20:17.36,0:20:18.82,Gen_Main,Gojo,0000,0000,0000,,Megumi, tú eres la carta
+Dialogue: 0,0:20:19.03,0:20:23.20,Gen_Main,Gojo,0000,0000,0000,,más poderosa que tu padre guardaba\Nbajo la manga contra el clan Zenin.
+Dialogue: 0,0:20:23.37,0:20:24.82,Gen_Main,Gojo,0000,0000,0000,,Es para enfadarse, ¿no?
+Dialogue: 0,0:20:25.04,0:20:27.65,Gen_Main,Gojo,0000,0000,0000,,Y, hablando de tu papá,\Nfíjate que yo lo ma…
+Dialogue: 0,0:20:27.87,0:20:29.16,Gen_Main,Megumi Niño,0000,0000,0000,,No me importa.
+Dialogue: 0,0:20:29.33,0:20:32.17,Gen_Main,Megumi Niño,0000,0000,0000,,No me interesa dónde esté ni qué haga.
+Dialogue: 0,0:20:32.34,0:20:35.04,Gen_Main,Megumi Niño,0000,0000,0000,,No lo he visto por años.\NYa ni recuerdo su cara.
+Dialogue: 0,0:20:35.38,0:20:37.67,Gen_Main,Megumi Niño,0000,0000,0000,,Con lo que me dijo,\Nya más o menos entendí.
+Dialogue: 0,0:20:38.51,0:20:41.47,Gen_Main,Megumi Niño,0000,0000,0000,,También hace poco\Nque la mamá de Tsumiki se fue.
+Dialogue: 0,0:20:41.68,0:20:43.71,Gen_Main,Tsumiki Niña,0000,0000,0000,,Ah, Megumi ya regresó.
+Dialogue: 0,0:20:44.35,0:20:46.44,Gen_Main,Megumi Niño,0000,0000,0000,,Quiere decir que ya no les interesamos.
+Dialogue: 0,0:20:46.68,0:20:49.10,Gen_Main,Megumi Niño,0000,0000,0000,,Y que nos las veamos como podamos, ¿no?
+Dialogue: 0,0:20:50.52,0:20:53.07,Gen_Main,Gojo,0000,0000,0000,,¿En serio estás en primero de primaria?
+Dialogue: 0,0:20:53.69,0:20:54.95,Gen_Main,Gojo,0000,0000,0000,,Bueno, como sea.
+Dialogue: 0,0:20:55.19,0:20:57.93,Gen_Main,Gojo,0000,0000,0000,,Pregúntame cuando sea\Nsi quieres saber sobre tu padre.
+Dialogue: 0,0:20:58.36,0:20:59.95,Gen_Main,Gojo,0000,0000,0000,,A la una, a las dos…
+Dialogue: 0,0:21:00.20,0:21:02.31,Gen_Main,Gojo,0000,0000,0000,,Creo que sería una historia interesante.
+Dialogue: 0,0:21:02.53,0:21:05.69,Gen_Main,Gojo,0000,0000,0000,,Y, yendo al grano, ¿qué quieres hacer?
+Dialogue: 0,0:21:05.91,0:21:07.57,Gen_Main,Gojo,0000,0000,0000,,¿Quieres irte con el clan Zenin?
+Dialogue: 0,0:21:08.54,0:21:10.17,Gen_Main,Megumi Niño,0000,0000,0000,,¿Qué pasaría ahí con Tsumiki?
+Dialogue: 0,0:21:10.42,0:21:13.05,Gen_Main,Megumi Niño,0000,0000,0000,,¿Ella podría ser feliz si nos vamos ahí?
+Dialogue: 0,0:21:13.29,0:21:16.21,Gen_Main,Megumi Niño/Gojo,0000,0000,0000,,-De eso dependería…\N-No. Para nada lo sería.
+Dialogue: 0,0:21:16.42,0:21:18.13,Gen_Main,Gojo,0000,0000,0000,,Te lo puedo asegurar.
+Dialogue: 0,0:21:21.51,0:21:23.07,Gen_Main,Gojo,0000,0000,0000,,¡Okey!
+Dialogue: 0,0:21:24.01,0:21:25.81,Gen_Main,Gojo,0000,0000,0000,,Déjame a mí el resto.
+Dialogue: 0,0:21:27.72,0:21:30.83,Gen_Main,Gojo,0000,0000,0000,,Pero tú también vas a tener\Nque poner de tu parte.
+Dialogue: 0,0:21:31.23,0:21:32.27,Gen_Main,Gojo,0000,0000,0000,,Échale ganas, ¿eh?
+Dialogue: 0,0:21:33.15,0:21:35.02,Gen_Main,Gojo,0000,0000,0000,,Tienes que volverte muy fuerte
+Dialogue: 0,0:21:35.48,0:21:37.63,Gen_Italics,Gojo,0000,0000,0000,,para que no te quedes atrás de mí.
+Dialogue: 0,0:21:39.36,0:21:43.36,Cart_A_Box,,0000,0000,0000,,{\an5\fs50\fad(0,145)\b0}19 de octubre de 2018{\b1}
+Dialogue: 0,0:21:44.62,0:21:45.90,Gen_Main,Megumi,0000,0000,0000,,Maestro Gojo…
+Dialogue: 0,0:21:46.12,0:21:47.68,Gen_Main,Yuji,0000,0000,0000,,El profe también duerme.
+Dialogue: 0,0:21:47.91,0:21:50.22,Gen_Main,Nobara,0000,0000,0000,,Claro que sí. No seas tonto.
+Dialogue: 0,0:21:50.46,0:21:52.01,Gen_Main,Megumi,0000,0000,0000,,¡Maestro Gojo!
+Dialogue: 0,0:21:52.96,0:21:54.36,Gen_Main,Yuji,0000,0000,0000,,Ya se despertó.
+Dialogue: 0,0:21:54.58,0:21:56.88,Gen_Main,Nobara,0000,0000,0000,,Esa silla es una de esas caras, ¿verdad?
+Dialogue: 0,0:21:57.05,0:21:59.50,Gen_Main,Megumi,0000,0000,0000,,No nos llame si luego\Nse va a quedar dormido.
+Dialogue: 0,0:22:01.38,0:22:03.06,Gen_Main,Yuji,0000,0000,0000,,¡Oye, cuidado! ¡Sigo yo, ¿eh?!
+Dialogue: 0,0:22:03.30,0:22:04.72,Gen_Main,Yuji,0000,0000,0000,,¡Eh, ¿me oíste?!
+Dialogue: 0,0:22:05.05,0:22:06.47,Gen_Main,Megumi,0000,0000,0000,,¿De qué se ríe?
+Dialogue: 0,0:22:08.10,0:22:09.50,Gen_Main,Gojo,0000,0000,0000,,No, de nada.
+Dialogue: 0,0:23:36.85,0:23:39.98,Cart_A_Tre,,0000,0000,0000,,{\b0\fs20\bord1.5\3c&H161622&}Traducción: Abraham Gayuvas y Antonio Valdez\NPautado: Thomas Benaissa\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:41.11,0:23:43.40,Gen_Main,Yuji,0000,0000,0000,,¿Con qué {\i1}kanji{\i0} se escribe "más"?
+Dialogue: 0,0:23:43.90,0:23:46.07,Gen_Main,Yuji,0000,0000,0000,,¿Con {\i1}katakana{\i0}?\N¿Es una palabra extranjera?
+Dialogue: 0,0:23:47.09,0:23:48.73,Gen_Main,Yuji,0000,0000,0000,,Próximamente: "De eso se trata".
+Dialogue: 0,0:23:47.40,0:23:54.99,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord2.5\blur3}Próximo episodio\N\N\N\N\N\N\N\N\N\N{\fs30}De eso se trata
+Dialogue: 0,0:23:50.20,0:23:53.36,Gen_Main,Yuji,0000,0000,0000,,Ha de haber muchas cosas que crees\Nsaber pero no tienes idea, ¿no?
+

@@ -1,0 +1,345 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleEp,Times New Roman,22,&H00E7EAE4,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,9,0020,0028,0020,1
+Style: Cart_TitleNext,Times New Roman,20,&H00FCFFFF,&H000000FF,&H00313131,&H00313131,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0050,1
+Style: Cart_C_TreNo,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Times New Roman,56,&H00000000,&H000000FF,&H00B7BD80,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_Intermedio,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_Meeting,Arial,24,&H00151815,&H000000FF,&H00F9FEFC,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0020,0020,0070,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:20.05,0:01:23.81,Cart_TitleSeries,,0000,0000,0000,,{\fad(1398,1)\c&H0F0D09&\3c&HB7BD80&\t(1236,1817,1 \3c&H85A2A4&)\t(1819,2945,1 \3c&H95DED9&)}JUJUTSU KAISEN
+Dialogue: 0,0:01:30.26,0:01:32.00,Gen_Main,Mai,0000,0000,0000,,¿Maki?
+Dialogue: 0,0:01:31.48,0:01:38.49,Cart_TitleEp,Screen,0000,0000,0000,,{\fad(522,514)\an7\pos(48,19)}Episodio 17: El evento de intercambio\Ncon la escuela de Kioto -Combate grupal 3-
+Dialogue: 0,0:01:32.15,0:01:34.57,Gen_Main,Mai,0000,0000,0000,,No es más que una debilucha.
+Dialogue: 0,0:01:34.74,0:01:36.36,Gen_Main,Mai,0000,0000,0000,,Ni puede ver Maldiciones.
+Dialogue: 0,0:01:36.53,0:01:38.91,Gen_Main,Mai,0000,0000,0000,,Es una persona normal\Ncon objetos malditos.
+Dialogue: 0,0:01:39.41,0:01:41.04,Gen_Main,Mai,0000,0000,0000,,Siempre será de cuarta clase.
+Dialogue: 0,0:01:41.62,0:01:44.71,Gen_Main,Mai,0000,0000,0000,,Ni siquiera sé por qué es hechicera.
+Dialogue: 0,0:01:45.20,0:01:46.98,Gen_Main,Utahime,0000,0000,0000,,Se acabó el descanso.
+Dialogue: 0,0:01:47.12,0:01:48.12,Gen_Main,Mai,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:01:48.71,0:01:49.71,Gen_Italics,Miwa,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:01:50.75,0:01:52.18,Gen_Italics,Miwa,0000,0000,0000,,Es un alivio.
+Dialogue: 0,0:01:53.25,0:01:54.26,Gen_Italics,Miwa,0000,0000,0000,,¡Estúpida Mai!
+Dialogue: 0,0:01:54.67,0:01:58.17,Gen_Italics,Miwa,0000,0000,0000,,¡Esta mujer es increíblemente fuerte!
+Dialogue: 0,0:01:58.57,0:02:01.26,Gen_Italics,Miwa,0000,0000,0000,,¡Su arma es larga\Ny quisiera acortar distancias,
+Dialogue: 0,0:02:01.42,0:02:03.55,Gen_Italics,Miwa,0000,0000,0000,,pero solo puedo\Nevitar y desviar ataques!
+Dialogue: 0,0:02:03.73,0:02:05.36,Gen_Italics,Miwa,0000,0000,0000,,¡Si usara algo con filo,
+Dialogue: 0,0:02:06.39,0:02:08.69,Gen_Italics,Miwa,0000,0000,0000,,ya me habría matado dos veces!
+Dialogue: 0,0:02:08.85,0:02:10.41,Gen_Italics,Miwa,0000,0000,0000,,¡¿Y es de cuarta clase?!
+Dialogue: 0,0:02:11.36,0:02:14.46,Gen_Italics,Miwa,0000,0000,0000,,¡Vencería espíritus de categoría 2\Ncon facilidad!
+Dialogue: 0,0:02:16.28,0:02:21.74,Gen_Italics,Miwa,0000,0000,0000,,¡¿Y cómo mueve tanto un arma tan larga\Nen un bosque con tantos obstáculos?!
+Dialogue: 0,0:02:41.84,0:02:46.17,Gen_Main,,0000,0000,0000,,Nuevo Estilo Sombrío, ¡Dominio Sencillo!
+Dialogue: 0,0:02:47.89,0:02:51.39,Gen_Italics,,0000,0000,0000,,Me permite atacar lo que ingrese\Nal radio de 2.21 m de mi dominio
+Dialogue: 0,0:02:51.56,0:02:53.53,Gen_Italics,,0000,0000,0000,,de manera automática.
+Dialogue: 0,0:02:53.98,0:02:57.66,Gen_Italics,,0000,0000,0000,,Desaparece si muevo los pies\Ndel lugar de activación.
+Dialogue: 0,0:02:58.36,0:03:02.08,Gen_Italics,,0000,0000,0000,,Además, mi Desenvaine se especializa\Nen enemigos que atacan de frente.
+Dialogue: 0,0:03:02.24,0:03:05.52,Gen_Italics,,0000,0000,0000,,Es la técnica más veloz\Nde todo el Nuevo Estilo Sombrío.
+Dialogue: 0,0:03:05.70,0:03:08.30,Gen_Italics,,0000,0000,0000,,Cubre la hoja con energía\Npara acelerarla.
+Dialogue: 0,0:03:08.45,0:03:10.65,Gen_Italics,,0000,0000,0000,,Pero no bastará\Npara decidir el encuentro.
+Dialogue: 0,0:03:10.83,0:03:12.96,Gen_Italics,,0000,0000,0000,,Debo centrarme en bajar su guardia.
+Dialogue: 0,0:03:13.13,0:03:14.42,Gen_Italics,Maki,0000,0000,0000,,Iaijutsu, ¿eh?
+Dialogue: 0,0:03:14.59,0:03:18.69,Gen_Italics,Maki,0000,0000,0000,,Ha de tener algún truco preparado,\Npero con esta diferencia de alcance,
+Dialogue: 0,0:03:18.84,0:03:22.13,Gen_Italics,Maki,0000,0000,0000,,en vez de atacarme directamente,\Nprimero querrá apartar mi arma.
+Dialogue: 0,0:03:23.80,0:03:25.76,Gen_Main,Maki,0000,0000,0000,,Por lo tanto…
+Dialogue: 0,0:03:26.39,0:03:29.44,Gen_Italics,Miwa,0000,0000,0000,,¡¿La rompió?!\N¡¿Se deshizo de su ventaja?!
+Dialogue: 0,0:03:31.23,0:03:32.56,Gen_Italics,Miwa,0000,0000,0000,,¡¿La lanzó?!
+Dialogue: 0,0:03:33.52,0:03:35.36,Gen_Italics,Miwa,0000,0000,0000,,¿Un arma oculta? ¡Qué astuta!
+Dialogue: 0,0:03:35.52,0:03:37.44,Gen_Italics,Miwa,0000,0000,0000,,¡Acortará la distancia distrayéndome!
+Dialogue: 0,0:03:41.65,0:03:42.79,Gen_Italics,Miwa,0000,0000,0000,,¡Moví las piernas!
+Dialogue: 0,0:03:43.32,0:03:46.83,Gen_Italics,Miwa,0000,0000,0000,,Pero no importa,\Nsi la acerco un poco más…
+Dialogue: 0,0:03:50.29,0:03:52.44,Gen_Italics,Miwa,0000,0000,0000,,¡¿Aikido?! ¡Qué lista!
+Dialogue: 0,0:03:53.79,0:03:54.84,Gen_Main,Miwa,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:03:55.83,0:03:57.92,Gen_Main,Maki,0000,0000,0000,,Qué bonita espada.
+Dialogue: 0,0:03:58.71,0:04:00.25,Gen_Main,Miwa,0000,0000,0000,,¿Me la quitó?
+Dialogue: 0,0:04:00.71,0:04:01.93,Gen_Main,Miwa,0000,0000,0000,,¿Me la devuelves?
+Dialogue: 0,0:04:07.39,0:04:09.52,Gen_Main,Mei Mei,0000,0000,0000,,Qué chica tan interesante.
+Dialogue: 0,0:04:09.68,0:04:12.76,Gen_Main,Mei Mei,0000,0000,0000,,Deberían ascenderla\Na la segunda clase de una vez.
+Dialogue: 0,0:04:13.14,0:04:17.82,Gen_Main,Gojou,0000,0000,0000,,Yo opino lo mismo, pero los Zen'in\Nson unos tercos entrometidos.
+Dialogue: 0,0:04:17.98,0:04:21.02,Gen_Main,Gojou,0000,0000,0000,,Deberían retractarse\Ny aceptarla de una buena vez.
+Dialogue: 0,0:04:22.57,0:04:26.10,Gen_Main,Mei Mei,0000,0000,0000,,Nunca comprenderé las limitaciones\Nque no tengan que ver con dinero.
+Dialogue: 0,0:04:26.28,0:04:28.20,Gen_Main,Gojou,0000,0000,0000,,Tan frívola como siempre.
+Dialogue: 0,0:04:28.37,0:04:32.54,Gen_Main,Gojou,0000,0000,0000,,A todo esto, las imágenes del área\Nde Yuuji no dejan de fallar.
+Dialogue: 0,0:04:32.71,0:04:34.86,Gen_Main,Mei Mei,0000,0000,0000,,Los animales son impredecibles.
+Dialogue: 0,0:04:35.04,0:04:37.29,Gen_Main,Mei Mei,0000,0000,0000,,Y compartir mis sentidos es agotador.
+Dialogue: 0,0:04:37.46,0:04:39.59,Gen_Main,Gojou,0000,0000,0000,,¿Será cierto lo que dices?
+Dialogue: 0,0:04:39.75,0:04:42.17,Gen_Main,Gojou,0000,0000,0000,,Por cierto, ¿de qué lado estás, Mei?
+Dialogue: 0,0:04:42.34,0:04:43.48,Gen_Main,Mei Mei,0000,0000,0000,,¿De qué lado?
+Dialogue: 0,0:04:43.63,0:04:45.63,Gen_Main,Mei Mei,0000,0000,0000,,Del lado del dinero.
+Dialogue: 0,0:04:45.80,0:04:48.26,Gen_Main,Mei Mei,0000,0000,0000,,Si algo no tiene valor monetario,\Nno vale nada.
+Dialogue: 0,0:04:48.60,0:04:51.53,Gen_Main,Mei Mei,0000,0000,0000,,Pues no te deja hacer más dinero.
+Dialogue: 0,0:04:52.06,0:04:54.02,Gen_Main,Gojou,0000,0000,0000,,¿Cuánto tienes ahorrado?
+Dialogue: 0,0:04:55.23,0:04:57.86,Gen_Italics,Gojou,0000,0000,0000,,No sé qué pretenderá el viejo,
+Dialogue: 0,0:04:58.36,0:05:02.28,Gen_Italics,Gojou,0000,0000,0000,,pero ya no le será tan fácil\Nlidiar con Yuuji.
+Dialogue: 0,0:05:04.98,0:05:06.57,Gen_Main,Gojou,0000,0000,0000,,¡Algo de acción!
+Dialogue: 0,0:05:08.16,0:05:11.66,Gen_Main,Ijichi,0000,0000,0000,,Los espíritus malditos del evento\Ntienen amuletos pegados.
+Dialogue: 0,0:05:12.20,0:05:14.30,Gen_Main,Ijichi,0000,0000,0000,,Y cuando una espíritu desaparece,
+Dialogue: 0,0:05:13.37,0:05:14.29,Cart_C_Tre,Screen,0000,0000,0000,,{\fad(200,300)\fs40\blur1\shad0}Maldición
+Dialogue: 0,0:05:15.54,0:05:19.38,Gen_Main,Ijichi,0000,0000,0000,,su amuleto correspondiente\Nse quema en la sala de observación.
+Dialogue: 0,0:05:20.34,0:05:25.13,Gen_Main,Ijichi,0000,0000,0000,,Cada uno arde diferente dependiendo\Ndel tipo de energía maldita que detecte.
+Dialogue: 0,0:05:25.13,0:05:27.51,Cart_C_Tre,Screen,0000,0000,0000,,{\fs26\3c&HE3E8E6&\shad0\blur1}Tokio
+Dialogue: 0,0:05:25.59,0:05:28.73,Gen_Main,Ijichi,0000,0000,0000,,Si lo exorciza alguien de Tokio,\Narde rojo.
+Dialogue: 0,0:05:27.51,0:05:28.72,Cart_A_Tre,Screen,0000,0000,0000,,{\fs36\pos(232,27)\shad0\bord3\blur4\3c&H2122E9&}Tokio
+Dialogue: 0,0:05:28.72,0:05:30.55,Cart_C_Tre,Screen,0000,0000,0000,,{\fs26\3c&HE3E8E6&\shad0\blur1}Kioto
+Dialogue: 0,0:05:28.89,0:05:32.43,Gen_Main,Ijichi,0000,0000,0000,,Si lo exorciza alguien de Kioto,\Narde azul.
+Dialogue: 0,0:05:30.55,0:05:32.43,Cart_A_Tre,Screen,0000,0000,0000,,{\fs36\pos(232,27)\shad0\bord3\blur4\3c&HF5873A&}Kioto
+Dialogue: 0,0:05:32.77,0:05:38.40,Gen_Main,Ijichi,0000,0000,0000,,Como Maki también participa, si no\Nse detecta energía, también arde rojo.
+Dialogue: 0,0:05:35.93,0:05:38.40,Cart_C_TreNo,Screen,0000,0000,0000,,{\3c&H070BE4&\fs48\bord2\blur5\fad(300,0)}Tokio
+Dialogue: 0,0:05:39.06,0:05:40.87,Gen_Main,Gojou,0000,0000,0000,,Uno a uno, ¿eh?
+Dialogue: 0,0:05:41.02,0:05:43.59,Gen_Main,Gojou,0000,0000,0000,,Nadie se centra en el juego.
+Dialogue: 0,0:05:43.73,0:05:46.52,Gen_Main,Utahime,0000,0000,0000,,¿Por qué no podrán llevarse bien?
+Dialogue: 0,0:05:46.70,0:05:49.99,Gen_Main,Gojou,0000,0000,0000,,-Porque se parecen a ti.\N-¡Yo solo me llevo mal contigo!
+Dialogue: 0,0:05:50.42,0:05:52.84,Gen_Main,Ijichi,0000,0000,0000,,Por cierto, este exorcismo fue de Panda.
+Dialogue: 0,0:05:53.20,0:05:54.75,Gen_Main,Panda,0000,0000,0000,,¡Qué suerte!
+Dialogue: 0,0:05:55.16,0:05:57.58,Gen_Main,Kugisaki,0000,0000,0000,,¡Baja, bruja de porquería!
+Dialogue: 0,0:05:58.25,0:06:01.00,Gen_Main,Momo,0000,0000,0000,,He bajado varias veces.
+Dialogue: 0,0:06:01.17,0:06:04.97,Gen_Main,Momo,0000,0000,0000,,¡Intenta alcanzarme, niña de primero!
+Dialogue: 0,0:06:07.05,0:06:09.54,Gen_Main,Kugisaki,0000,0000,0000,,¡Su energía es tan fuerte que me empuja!
+Dialogue: 0,0:06:09.72,0:06:11.92,Gen_Italics,Kugisaki,0000,0000,0000,,¡Y el escombro que levanta me hace daño!
+Dialogue: 0,0:06:12.10,0:06:14.34,Gen_Italics,Kugisaki,0000,0000,0000,,¡Si bajo la guardia,\Nme arrancará la carne!
+Dialogue: 0,0:06:22.69,0:06:25.03,Gen_Main,Kugisaki,0000,0000,0000,,¿Cómo te atreves\Na dañar mi bello rostro?
+Dialogue: 0,0:06:25.44,0:06:28.27,Gen_Main,Momo,0000,0000,0000,,Una cicatriz en el rostro\Nes un honor para un hombre,
+Dialogue: 0,0:06:29.49,0:06:32.16,Gen_Main,Momo,0000,0000,0000,,pero un desperfecto para una mujer.
+Dialogue: 0,0:06:33.95,0:06:36.99,Gen_Main,Momo,0000,0000,0000,,Crees que la fuerza lo es todo\Npara ser hechicera, ¿no?
+Dialogue: 0,0:06:37.16,0:06:38.75,Gen_Main,Kugisaki,0000,0000,0000,,Y lo es.
+Dialogue: 0,0:06:38.91,0:06:40.67,Gen_Main,Momo,0000,0000,0000,,Solo si eres hombre.
+Dialogue: 0,0:06:42.21,0:06:47.14,Gen_Main,Momo,0000,0000,0000,,Aunque una mujer sea fuerte,\Nno es valorada si no es atractiva.
+Dialogue: 0,0:06:47.30,0:06:51.64,Gen_Main,Momo,0000,0000,0000,,Y aunque sea ambas cosas,\Ntambién será infravalorada.
+Dialogue: 0,0:06:52.26,0:06:53.39,Gen_Main,Momo,0000,0000,0000,,¿Lo entiendes?
+Dialogue: 0,0:06:53.85,0:06:57.40,Gen_Main,Momo,0000,0000,0000,,Lo que esperan de las hechiceras\Nno es fuerza,
+Dialogue: 0,0:06:58.06,0:06:59.44,Gen_Main,Momo,0000,0000,0000,,sino perfección.
+Dialogue: 0,0:07:00.60,0:07:05.27,Gen_Main,Momo,0000,0000,0000,,Y, por si fuera poco, Mai debe lidiar\Ncon exigencias aún más indignantes.
+Dialogue: 0,0:07:06.23,0:07:10.46,Gen_Main,Kugisaki,0000,0000,0000,,¡Lo único que entiendo\Nes que eres una molestia!
+Dialogue: 0,0:07:16.62,0:07:20.88,Gen_Italics,Momo,0000,0000,0000,,¿Está acostumbrada a pelear\Naunque solo es de primero?
+Dialogue: 0,0:07:21.87,0:07:24.80,Gen_Italics,Momo,0000,0000,0000,,Se mantiene firme\Nsin importar cuánto arremeta.
+Dialogue: 0,0:07:25.63,0:07:29.87,Gen_Main,Kugisaki,0000,0000,0000,,Estoy acostumbrada a que me derriben.
+Dialogue: 0,0:07:31.18,0:07:34.29,Gen_Italics,Momo,0000,0000,0000,,Si aumento la potencia, podría matarla.
+Dialogue: 0,0:07:34.47,0:07:37.13,Gen_Italics,Kugisaki,0000,0000,0000,,No, solo estoy poniendo excusas.
+Dialogue: 0,0:07:37.31,0:07:40.60,Gen_Italics,Kugisaki,0000,0000,0000,,Si no la ataco con todas mis fuerzas\Nes por Inumaki.
+Dialogue: 0,0:07:42.48,0:07:46.24,Gen_Main,Kamo,0000,0000,0000,,Ya que el Discurso Maldito envuelve\Nel sonido con energía maldita,
+Dialogue: 0,0:07:46.40,0:07:50.11,Gen_Main,Kamo,0000,0000,0000,,deben proteger sus cerebros\Ny oídos con energía maldita.
+Dialogue: 0,0:07:50.53,0:07:54.11,Gen_Main,Kamo,0000,0000,0000,,Es un ritual especializado\Nen lidiar con espíritus.
+Dialogue: 0,0:07:54.28,0:07:59.75,Gen_Main,Kamo,0000,0000,0000,,Como dije antes, no es de temer\Npara un hechicero preparado.
+Dialogue: 0,0:08:00.16,0:08:05.87,Gen_Italics,Momo,0000,0000,0000,,Aunque sepas que va a atacarte o no,\Nmantenerte a la defensiva te distrae.
+Dialogue: 0,0:08:06.04,0:08:09.68,Gen_Italics,Momo,0000,0000,0000,,Y no estoy acostumbrada\Na proteger el interior de mi cabeza…
+Dialogue: 0,0:08:10.21,0:08:12.97,Gen_Italics,Momo,0000,0000,0000,,Esté o no esté, es una molestia.
+Dialogue: 0,0:08:13.93,0:08:16.56,Gen_Main,Kugisaki,0000,0000,0000,,¡¿Ya acabó tu sermón?!
+Dialogue: 0,0:08:16.72,0:08:22.01,Gen_Main,Momo,0000,0000,0000,,¡La perfección no es nada\Ncomparada con lo que se espera de Mai!
+Dialogue: 0,0:08:22.73,0:08:27.84,Gen_Main,Momo,0000,0000,0000,,Es de los Zen'in, uno de los tres\Nmejores clanes de hechiceros.
+Dialogue: 0,0:08:27.98,0:08:30.70,Gen_Main,Momo,0000,0000,0000,,Para ellos,\Nla perfección es el punto de partida.
+Dialogue: 0,0:08:30.86,0:08:34.33,Gen_Main,Momo,0000,0000,0000,,Se espera que todos reciban\Nel ritual hereditario de los Zen'in.
+Dialogue: 0,0:08:34.49,0:08:38.66,Gen_Main,Momo,0000,0000,0000,,Quien no esté a la altura, comienza\Nsu vida de hechicero como un fracaso.
+Dialogue: 0,0:08:39.08,0:08:43.92,Gen_Main,Momo,0000,0000,0000,,Y a las mujeres ni siquiera les permiten\Nponerse en la línea de partida.
+Dialogue: 0,0:08:44.58,0:08:47.82,Gen_Main,Momo,0000,0000,0000,,Si no estás a la altura de Zen'in,\Nno te consideran hechicero.
+Dialogue: 0,0:08:48.00,0:08:51.14,Gen_Main,Momo,0000,0000,0000,,Y si no eres hechicero,\Nni siquiera te consideran persona.
+Dialogue: 0,0:08:51.30,0:08:56.51,Gen_Main,Momo,0000,0000,0000,,La han despreciado toda su vida\Nen esa familia sin un ápice de afecto.
+Dialogue: 0,0:08:57.72,0:09:02.14,Gen_Main,Momo,0000,0000,0000,,¿Puedes imaginar lo que Mai\Ny otras han tenido que sufrir
+Dialogue: 0,0:09:02.31,0:09:05.27,Gen_Main,,0000,0000,0000,,para gozar de lo que damos por sentado?
+Dialogue: 0,0:09:07.31,0:09:13.49,Gen_Main,Momo,0000,0000,0000,,¿Puedes procesarlo con ese cerebrito\Nque confunde maldiciones con amigos?
+Dialogue: 0,0:09:15.86,0:09:20.52,Gen_Main,Kugisaki,0000,0000,0000,,Cierra el pico. ¿Crees que sufrir te da\Nel derecho de hacer lo que te plazca?
+Dialogue: 0,0:09:21.45,0:09:22.86,Gen_Main,Kugisaki,0000,0000,0000,,¿Y qué sigue?
+Dialogue: 0,0:09:23.04,0:09:26.46,Gen_Main,Kugisaki,0000,0000,0000,,¿Te conformas con hablar mal\Na espaldas de los más acomodados?
+Dialogue: 0,0:09:26.96,0:09:29.08,Gen_Main,Kugisaki,0000,0000,0000,,Así fue como Saori…
+Dialogue: 0,0:09:30.88,0:09:34.64,Gen_Main,Kugisaki,0000,0000,0000,,Sin importar su crianza,\Nno soporto a Mai.
+Dialogue: 0,0:09:35.38,0:09:39.34,Gen_Main,Kugisaki,0000,0000,0000,,Y adoro a Maki,\Nque se crio junto con ella.
+Dialogue: 0,0:09:40.01,0:09:44.56,Gen_Main,Kugisaki,0000,0000,0000,,¿Se han puesto a pensar alguna vez\Nqué tipo de persona podría ser
+Dialogue: 0,0:09:44.97,0:09:47.43,Gen_Main,Kugisaki,0000,0000,0000,,ese idiota que repudian como Maldición?
+Dialogue: 0,0:09:48.10,0:09:51.53,Gen_Main,Kugisaki,0000,0000,0000,,¿Qué los obliga\Na cumplir expectativas de otros?
+Dialogue: 0,0:09:52.65,0:09:55.82,Gen_Main,Kugisaki,0000,0000,0000,,¡¿Acaso sus vidas no son\Nmás que un trabajo?!
+Dialogue: 0,0:09:55.99,0:09:59.08,Gen_Main,,0000,0000,0000,,Técnica Vudú: ¡Hebilla!
+Dialogue: 0,0:10:04.70,0:10:08.42,Gen_Italics,Momo,0000,0000,0000,,¡¿Es por esto que siguió\Nlanzando clavos que no acertaban?!
+Dialogue: 0,0:10:25.35,0:10:28.52,Gen_Main,Momo,0000,0000,0000,,¡Puede que me derribes,\Npero no me alcanzarás!
+Dialogue: 0,0:10:31.15,0:10:33.36,Gen_Main,Kugisaki,0000,0000,0000,,¡No, ya te alcancé!
+Dialogue: 0,0:10:34.11,0:10:36.15,Gen_Main,Kugisaki,0000,0000,0000,,¡Esto es más que suficiente!
+Dialogue: 0,0:10:36.32,0:10:37.90,Gen_Italics,Momo,0000,0000,0000,,¡¿Una cerda de mi escoba?!
+Dialogue: 0,0:10:38.07,0:10:39.40,Gen_Italics,Momo,0000,0000,0000,,Pero si apenas la rozó.
+Dialogue: 0,0:10:40.16,0:10:43.45,Gen_Main,Kugisaki,0000,0000,0000,,¡"Los hombres esto,\Nlas mujeres aquello"!
+Dialogue: 0,0:10:43.76,0:10:46.38,Gen_Main,Kugisaki,0000,0000,0000,,¡Pueden guardarse todas esas idioteces!
+Dialogue: 0,0:10:46.54,0:10:49.84,Gen_Main,Kugisaki,0000,0000,0000,,Me gusta verme linda\Ny vestirme a la moda…
+Dialogue: 0,0:10:50.00,0:10:52.92,Gen_Main,Kugisaki,0000,0000,0000,,¡tanto como me gusta ser fuerte!
+Dialogue: 0,0:10:53.54,0:10:54.64,Gen_Main,Kugisaki,0000,0000,0000,,Yo soy…
+Dialogue: 0,0:10:56.21,0:10:58.48,Gen_Main,Kugisaki,0000,0000,0000,,¡Nobara Kugisaki!
+Dialogue: 0,0:11:01.43,0:11:03.35,Gen_Italics,Momo,0000,0000,0000,,¡¿No puedo controlar mi escoba?!
+Dialogue: 0,0:11:03.51,0:11:06.47,Gen_Italics,Kugisaki,0000,0000,0000,,Si la golpeo con mi martillo,\Npodría matarla.
+Dialogue: 0,0:11:07.68,0:11:09.15,Gen_Italics,Kugisaki,0000,0000,0000,,¡Así que…!
+Dialogue: 0,0:11:10.98,0:11:12.11,Gen_Main,Momo,0000,0000,0000,,¡¿Un chipote chillón?!
+Dialogue: 0,0:11:21.41,0:11:23.20,Gen_Main,Kugisaki,0000,0000,0000,,¡De nuevo!
+Dialogue: 0,0:11:31.16,0:11:33.59,Gen_Main,Mai,0000,0000,0000,,Justo dentro del rango efectivo.
+Dialogue: 0,0:11:34.29,0:11:38.01,Gen_Main,Mai,0000,0000,0000,,Menos mal que acerté.
+Dialogue: 0,0:11:40.22,0:11:43.01,Cart_Intermedio,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:11:45.68,0:11:48.01,Cart_Intermedio,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:11:49.10,0:11:50.97,Gen_Main,Mai,0000,0000,0000,,¿Hola? ¿Momo?
+Dialogue: 0,0:11:52.10,0:11:54.20,Gen_Main,Mai,0000,0000,0000,,Descuida, era de goma.
+Dialogue: 0,0:11:54.35,0:11:57.96,Gen_Main,Mai,0000,0000,0000,,Por cierto, la luz de antes\Nfue el Ultimate Cannon, ¿no?
+Dialogue: 0,0:11:58.57,0:12:01.28,Gen_Main,Mai,0000,0000,0000,,Pero no logro contactar a Mechamaru.
+Dialogue: 0,0:12:01.45,0:12:05.91,Gen_Italics,Mai,0000,0000,0000,,Si se vio obligado a utilizarlo\Ny no responde, puede que perdiera.
+Dialogue: 0,0:12:06.19,0:12:08.32,Gen_Italics,Mai,0000,0000,0000,,Panda podría regresar.
+Dialogue: 0,0:12:08.49,0:12:10.95,Gen_Italics,Mai,0000,0000,0000,,Deberías irte y apoyar al resto\Ndesde el aire.
+Dialogue: 0,0:12:11.75,0:12:13.69,Gen_Italics,Mai,0000,0000,0000,,Estarán en aprietos sin ti.
+Dialogue: 0,0:12:14.37,0:12:15.38,Gen_Main,Momo,0000,0000,0000,,Sí.
+Dialogue: 0,0:12:16.04,0:12:18.51,Gen_Italics,Momo,0000,0000,0000,,Mai, yo…
+Dialogue: 0,0:12:19.25,0:12:21.85,Gen_Main,Mai,0000,0000,0000,,Descuida, Momo, lo sé.
+Dialogue: 0,0:12:22.67,0:12:23.68,Gen_Italics,Momo,0000,0000,0000,,Sí.
+Dialogue: 0,0:12:24.09,0:12:27.45,Gen_Main,Maki,0000,0000,0000,,¿Cómo? ¿No llamarás a tu amiga?
+Dialogue: 0,0:12:28.29,0:12:31.81,Gen_Main,Maki,0000,0000,0000,,No me importaría un dos contra uno.
+Dialogue: 0,0:12:32.25,0:12:35.74,Gen_Main,Mai,0000,0000,0000,,Existen varias formas de divertirse.
+Dialogue: 0,0:12:36.44,0:12:38.53,Gen_Main,Mai,0000,0000,0000,,Podríamos atacarte en grupo,
+Dialogue: 0,0:12:38.69,0:12:40.69,Gen_Main,Mai,0000,0000,0000,,pero prefiero disfrutarte…
+Dialogue: 0,0:12:41.57,0:12:42.78,Gen_Main,Mai,0000,0000,0000,,yo sola.
+Dialogue: 0,0:12:43.20,0:12:46.74,Gen_Main,Maki,0000,0000,0000,,Llámame hermana mayor, hermanita.
+Dialogue: 0,0:12:48.03,0:12:50.36,Gen_Main,Kugisaki,0000,0000,0000,,Oye, ¿qué opinas de Maki?
+Dialogue: 0,0:12:50.62,0:12:53.71,Gen_Main,Yuuji,0000,0000,0000,,¡Diga lo que diga, se enojará!
+Dialogue: 0,0:12:54.33,0:12:57.25,Gen_Main,Yuuji,0000,0000,0000,,Me parece una señorita admirable.
+Dialogue: 0,0:12:58.45,0:13:00.27,Gen_Main,Kugisaki,0000,0000,0000,,Me refería como hechicera.
+Dialogue: 0,0:13:00.42,0:13:02.88,Gen_Main,Yuuji,0000,0000,0000,,Ah, ¿eso? Menos mal…
+Dialogue: 0,0:13:04.72,0:13:08.60,Gen_Main,Yuuji,0000,0000,0000,,La verdad, aún no sé mucho\Nsobre hechicería,
+Dialogue: 0,0:13:09.26,0:13:11.40,Gen_Main,Yuuji,0000,0000,0000,,pero es muy fuerte peleando.
+Dialogue: 0,0:13:11.56,0:13:14.77,Gen_Main,Yuuji,0000,0000,0000,,¿Será por su equilibrio?\NHasta cuando camina da miedo.
+Dialogue: 0,0:13:15.15,0:13:17.16,Gen_Main,Kugisaki,0000,0000,0000,,Maki es de cuarta clase.
+Dialogue: 0,0:13:17.31,0:13:19.06,Gen_Main,Yuuji,0000,0000,0000,,¿Eh? ¿En serio?
+Dialogue: 0,0:13:19.56,0:13:22.42,Gen_Main,Kugisaki,0000,0000,0000,,Su familia es un clan\Nde hechiceros problemático.
+Dialogue: 0,0:13:23.61,0:13:28.00,Gen_Main,Kugisaki,0000,0000,0000,,Así que han hecho todo lo posible para\Nimpedir su ascenso desde que los dejó.
+Dialogue: 0,0:13:28.66,0:13:32.62,Gen_Main,Yuuji,0000,0000,0000,,Creía que las familias de hechiceros\Npreferían a los hechiceros fuertes.
+Dialogue: 0,0:13:33.00,0:13:35.68,Gen_Main,Kugisaki,0000,0000,0000,,Jamás reconocerán a alguien\Na quien ya rechazaron
+Dialogue: 0,0:13:36.06,0:13:37.50,Gen_Main,Kugisaki,0000,0000,0000,,porque son unos imbéciles.
+Dialogue: 0,0:13:38.00,0:13:40.62,Gen_Main,Panda,0000,0000,0000,,Pero si le va bien\Nen el evento de intercambio,
+Dialogue: 0,0:13:40.79,0:13:46.38,Gen_Main,Panda,0000,0000,0000,,su nombre se hará más conocido\Ny no podrán seguir hostigándola.
+Dialogue: 0,0:13:46.84,0:13:50.01,Gen_Main,Kugisaki,0000,0000,0000,,¡Así que tenemos\Nque ganar el combate grupal!
+Dialogue: 0,0:13:50.18,0:13:52.97,Gen_Main,Kugisaki,0000,0000,0000,,¡Pelea como si fueras\Na morirte otra vez!
+Dialogue: 0,0:13:53.14,0:13:54.14,Gen_Main,Yuuji,0000,0000,0000,,Bien…
+Dialogue: 0,0:13:54.39,0:13:55.81,Gen_Main,Maki,0000,0000,0000,,¡Los escucho!
+Dialogue: 0,0:13:57.35,0:13:58.34,Gen_Main,Maki,0000,0000,0000,,Demonios…
+Dialogue: 0,0:13:59.56,0:14:03.07,Gen_Italics,Maki,0000,0000,0000,,No es momento para distraerse.
+Dialogue: 0,0:14:03.69,0:14:06.38,Gen_Main,Mai,0000,0000,0000,,¡¿Por qué sonríes?!
+Dialogue: 0,0:14:14.74,0:14:17.45,Gen_Main,Mai,0000,0000,0000,,¡¿Y qué si te ocultas?!
+Dialogue: 0,0:14:18.00,0:14:21.04,Gen_Main,Mai,0000,0000,0000,,¿Intentas crear distancia?\N¡¿Eres idiota o qué?!
+Dialogue: 0,0:14:22.63,0:14:24.00,Gen_Main,Mai,0000,0000,0000,,¡¿Por debajo?!
+Dialogue: 0,0:14:28.26,0:14:29.26,Gen_Italics,Mai,0000,0000,0000,,Siempre lo supe.
+Dialogue: 0,0:14:30.14,0:14:33.77,Gen_Italics,Mai,0000,0000,0000,,Maki tiene un talento que yo no.
+Dialogue: 0,0:14:34.85,0:14:37.97,Gen_Main,Voice,0000,0000,0000,,¿Ya te enteraste\Nsobre lo de las hijas de Ougi?
+Dialogue: 0,0:14:38.14,0:14:41.13,Gen_Main,Voice,0000,0000,0000,,Una no puede ver maldiciones\Nni usar rituales.
+Dialogue: 0,0:14:41.65,0:14:43.86,Gen_Main,Voice,0000,0000,0000,,Los gemelos son un mal presagio.
+Dialogue: 0,0:14:44.32,0:14:46.87,Gen_Main,Voice,0000,0000,0000,,Pero puede que sirvan de algo.
+Dialogue: 0,0:14:47.03,0:14:49.93,Gen_Main,Voice,0000,0000,0000,,No toleraría ver al hijo mayor\Ncomo un simple siervo.
+Dialogue: 0,0:14:54.87,0:14:55.88,Gen_Main,Maki,0000,0000,0000,,Mai.
+Dialogue: 0,0:14:56.62,0:14:59.37,Gen_Main,Maki,0000,0000,0000,,¿Qué pasa? Apúrate.
+Dialogue: 0,0:15:01.46,0:15:03.63,Gen_Main,Mai,0000,0000,0000,,-No quiero.\N-¿Qué te pasa?
+Dialogue: 0,0:15:04.34,0:15:06.77,Gen_Main,Maki,0000,0000,0000,,Volverán a regañarnos si tardamos.
+Dialogue: 0,0:15:08.27,0:15:09.38,Gen_Main,Mai,0000,0000,0000,,Hay uno.
+Dialogue: 0,0:15:12.27,0:15:13.40,Gen_Main,Maki,0000,0000,0000,,¿Otra vez?
+Dialogue: 0,0:15:13.89,0:15:18.27,Gen_Main,Maki,0000,0000,0000,,Pues qué remedio.
+Dialogue: 0,0:15:18.43,0:15:20.11,Gen_Main,Spirit,0000,0000,0000,,¿Estás en cas… ca…?
+Dialogue: 0,0:15:20.23,0:15:22.78,Gen_Main,Maki,0000,0000,0000,,Vamos. Cierra los ojos.
+Dialogue: 0,0:15:28.82,0:15:31.32,Gen_Main,Maki,0000,0000,0000,,Si no los ves, es como si no estuvieran.
+Dialogue: 0,0:15:33.11,0:15:36.28,Gen_Main,Mai,0000,0000,0000,,Siempre actuaste\Ncomo si no le temieras a nada
+Dialogue: 0,0:15:37.16,0:15:39.57,Gen_Main,Mai,0000,0000,0000,,y te abrías paso hacia tu futuro.
+Dialogue: 0,0:15:40.21,0:15:42.53,Gen_Main,Mai,0000,0000,0000,,Cuánto te detestaba.
+Dialogue: 0,0:15:44.46,0:15:47.13,Gen_Main,Naobito,0000,0000,0000,,¿Dejarás el clan, Maki?
+Dialogue: 0,0:15:47.63,0:15:49.92,Gen_Main,Maki,0000,0000,0000,,Les sobran los sirvientes, ¿no?
+Dialogue: 0,0:15:50.09,0:15:54.60,Gen_Main,Maki,0000,0000,0000,,Pero no te preocupes,\Nvolveré algún día, líder del clan.
+Dialogue: 0,0:15:56.60,0:15:57.94,Gen_Main,Naobito,0000,0000,0000,,¿Por qué volverías?
+Dialogue: 0,0:15:58.56,0:16:01.98,Gen_Main,Maki,0000,0000,0000,,¡Porque me convertiré\Nen la líder de los Zen'in!
+Dialogue: 0,0:16:05.40,0:16:09.40,Gen_Main,Naobito,0000,0000,0000,,¡Pues te haré pasar\Npor calvarios dignos de ello!
+Dialogue: 0,0:16:11.19,0:16:12.70,Gen_Main,Maki,0000,0000,0000,,Haz lo que quieras.
+Dialogue: 0,0:16:13.66,0:16:15.29,Gen_Main,Naobito,0000,0000,0000,,Y a Mai también.
+Dialogue: 0,0:16:18.41,0:16:20.36,Gen_Main,Maki,0000,0000,0000,,Ella no tiene nada que ver.
+Dialogue: 0,0:16:29.88,0:16:30.96,Gen_Main,Mai,0000,0000,0000,,Mentirosa.
+Dialogue: 0,0:16:33.84,0:16:35.47,Gen_Italics,Mai,0000,0000,0000,,¡Cómo te odio!
+Dialogue: 0,0:17:22.68,0:17:24.07,Gen_Italics,Maki,0000,0000,0000,,¡Fueron seis disparos!
+Dialogue: 0,0:17:24.23,0:17:25.27,Gen_Italics,Maki,0000,0000,0000,,¡No recargarás!
+Dialogue: 0,0:17:25.44,0:17:30.24,Gen_Italics,Mai,0000,0000,0000,,¡Te odio!
+Dialogue: 0,0:17:31.73,0:17:32.73,Gen_Italics,Mai,0000,0000,0000,,Por eso…
+Dialogue: 0,0:17:35.53,0:17:38.67,Gen_Italics,Mai,0000,0000,0000,,¡Nunca te conté sobre mi primer amor
+Dialogue: 0,0:17:39.78,0:17:43.10,Gen_Italics,Mai,0000,0000,0000,,ni sobre mis rituales!
+Dialogue: 0,0:17:44.66,0:17:50.09,Gen_Italics,Utahime,0000,0000,0000,,"Materializar" usa energía maldita\Npara crear materia de la nada.
+Dialogue: 0,0:17:50.67,0:17:56.00,Gen_Italics,Utahime,0000,0000,0000,,No es como la manifestación\Nde un Área Innata dentro de un Dominio.
+Dialogue: 0,0:17:56.17,0:18:02.60,Gen_Italics,Utahime,0000,0000,0000,,Lo que se crea con Materialización\Nno desaparece una vez acaba el ritual.
+Dialogue: 0,0:18:03.02,0:18:07.87,Gen_Italics,Utahime,0000,0000,0000,,Dado que consume tanta energía maldita\Ny desgasta tanto el cuerpo,
+Dialogue: 0,0:18:08.73,0:18:12.61,Gen_Italics,Utahime,0000,0000,0000,,Mai no puede\Ncrear más de una bala al día.
+Dialogue: 0,0:18:13.73,0:18:18.13,Gen_Italics,Utahime,0000,0000,0000,,El revolver es para hacer que el rival\Nse equivoque al contar los disparos.
+Dialogue: 0,0:18:19.57,0:18:22.16,Gen_Italics,Mai,0000,0000,0000,,Te gané.
+Dialogue: 0,0:18:28.58,0:18:31.31,Gen_Italics,Mai,0000,0000,0000,,¿La atrapó?
+Dialogue: 0,0:18:34.88,0:18:37.60,Gen_Main,Maki,0000,0000,0000,,No es algo que deba\Ntocarse con las manos.
+Dialogue: 0,0:18:42.47,0:18:45.31,Gen_Italics,Mai,0000,0000,0000,,Maki tiene un talento que yo no.
+Dialogue: 0,0:18:46.44,0:18:48.35,Gen_Italics,Mai,0000,0000,0000,,Se parece a Mechamaru,
+Dialogue: 0,0:18:48.52,0:18:50.62,Gen_Italics,Mai,0000,0000,0000,,pero es lo opuesto a un Pacto Celestial.
+Dialogue: 0,0:18:51.15,0:18:54.44,Gen_Italics,Mai,0000,0000,0000,,Lo normal es que ella\Nnaciera con algún ritual.
+Dialogue: 0,0:18:55.28,0:18:59.88,Gen_Italics,Mai,0000,0000,0000,,Y es por eso que recibió una destreza\Ny una fuerza sobrehumanas a cambio.
+Dialogue: 0,0:19:00.69,0:19:03.08,Gen_Italics,Mai,0000,0000,0000,,Los Zen'in se negaron a reconocerlo.
+Dialogue: 0,0:19:04.33,0:19:08.16,Gen_Italics,Mai,0000,0000,0000,,El talento que me hacía falta.
+Dialogue: 0,0:19:10.08,0:19:13.04,Gen_Main,Maki,0000,0000,0000,,¿Lo damos por terminado?
+Dialogue: 0,0:19:15.63,0:19:18.30,Gen_Main,Mai,0000,0000,0000,,¿Por qué abandonaste el clan?
+Dialogue: 0,0:19:19.54,0:19:22.83,Gen_Main,Maki,0000,0000,0000,,Seguro que ya lo sabes.\N¿No entraste a la escuela de hechicería?
+Dialogue: 0,0:19:23.05,0:19:24.06,Gen_Main,Mai,0000,0000,0000,,¡Yo…!
+Dialogue: 0,0:19:24.80,0:19:27.34,Gen_Main,Mai,0000,0000,0000,,¡Yo nunca quise ser hechicera!
+Dialogue: 0,0:19:28.60,0:19:30.17,Gen_Main,Mai,0000,0000,0000,,¡Todo es tu culpa!
+Dialogue: 0,0:19:30.35,0:19:31.93,Gen_Main,Mai,0000,0000,0000,,¡Como te esforzaste tanto,
+Dialogue: 0,0:19:32.10,0:19:34.19,Gen_Main,Mai,0000,0000,0000,,yo también me vi obligada a hacerlo!
+Dialogue: 0,0:19:35.06,0:19:39.11,Gen_Main,Mai,0000,0000,0000,,¡Estoy harta de esforzarme,\Nde sufrir y de tener miedo!
+Dialogue: 0,0:19:39.82,0:19:42.92,Gen_Main,Mai,0000,0000,0000,,¡¿Qué tiene de malo\Nser inferior en casa?!
+Dialogue: 0,0:19:43.07,0:19:46.94,Gen_Main,Mai,0000,0000,0000,,¡Podríamos tener vidas tranquilas\Nhaciendo unas cuantas tareas!
+Dialogue: 0,0:19:50.08,0:19:54.48,Gen_Main,Mai,0000,0000,0000,,¿Por qué no te quedaste conmigo\Nal fondo del abismo?
+Dialogue: 0,0:20:01.22,0:20:06.67,Gen_Main,Maki,0000,0000,0000,,Porque habría comenzado\Na odiarme a mí misma.
+Dialogue: 0,0:20:06.85,0:20:08.24,Gen_Main,Maki,0000,0000,0000,,Solo por eso.
+Dialogue: 0,0:20:10.01,0:20:11.17,Gen_Main,Maki,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:20:15.40,0:20:18.52,Gen_Main,Mai,0000,0000,0000,,Hermana, no me sueltes…
+Dialogue: 0,0:20:18.69,0:20:20.14,Gen_Main,Maki,0000,0000,0000,,No voy a soltarte.
+Dialogue: 0,0:20:20.32,0:20:21.40,Gen_Main,Mai,0000,0000,0000,,¿Nunca?
+Dialogue: 0,0:20:21.90,0:20:23.73,Gen_Main,Maki,0000,0000,0000,,Qué insistente.
+Dialogue: 0,0:20:23.91,0:20:26.53,Gen_Main,Mai,0000,0000,0000,,Nunca me dejes atrás.
+Dialogue: 0,0:20:27.24,0:20:28.58,Gen_Main,Maki,0000,0000,0000,,Claro que no.
+Dialogue: 0,0:20:29.12,0:20:30.54,Gen_Main,Maki,0000,0000,0000,,Somos hermanas.
+Dialogue: 0,0:20:36.17,0:20:37.63,Gen_Main,Mai,0000,0000,0000,,Mentirosa.
+Dialogue: 0,0:20:38.80,0:20:40.64,Gen_Main,Mai,0000,0000,0000,,Te odio.
+Dialogue: 0,0:20:40.51,0:20:45.01,Cart_A_Tim,Screen,0000,0000,0000,,{\shad1\an1\bord0.2\blur1\fad(600,0)\pos(36,86)}Evento de intercambio\NMai Zen'in y Nobara Kugisaki\NFuera de competencia
+Dialogue: 0,0:22:15.02,0:22:17.52,Cart_C_Tre,Screen&Three,0000,0000,0000,,{\bord0\shad0\fs30\blur0.5\frz25.38\pos(440.8,67.2)}Juju-Cortos
+Dialogue: 0,0:22:15.56,0:22:17.15,Gen_Main,Screen&Three,0000,0000,0000,,Juju-Cortos.
+Dialogue: 0,0:22:24.75,0:22:26.28,Gen_Italics,Miwa,0000,0000,0000,,Qué hambre tengo.
+Dialogue: 0,0:22:27.70,0:22:32.79,Gen_Italics,Miwa,0000,0000,0000,,Creo que dejé edamame\Nen el refrigerador…
+Dialogue: 0,0:22:45.42,0:22:46.43,Gen_Main,Momo,0000,0000,0000,,Perdón.
+Dialogue: 0,0:22:46.59,0:22:49.48,Gen_Main,Miwa,0000,0000,0000,,¡Pues no parecen lamentarlo!
+Dialogue: 0,0:22:49.93,0:22:56.68,Cart_A_Ari,Cup,0000,0000,0000,,{\pos(319,103)\shad0\c&H3CA9B3&\3c&H8C754C&\fs18\frx40}Marisco
+Dialogue: 0,0:22:50.55,0:22:52.81,Gen_Main,Momo,0000,0000,0000,,Mira, ¿me perdonas ahora?
+Dialogue: 0,0:22:52.97,0:22:56.12,Gen_Main,Miwa,0000,0000,0000,,No se me antoja comer fideos tan tarde.
+Dialogue: 0,0:22:59.56,0:23:00.69,Gen_Main,Momo,0000,0000,0000,,¡¿Y si hago esto?!
+Dialogue: 0,0:23:00.85,0:23:03.69,Gen_Main,Momo&Screen,0000,0000,0000,,¡Fideos de marisco al estilo Nishimiya!
+Dialogue: 0,0:23:04.52,0:23:09.67,Gen_Main,Momo&Screen,0000,0000,0000,,Primer paso, corta chiles con tijeras\Nsobre el envase de fideos.
+Dialogue: 0,0:23:09.82,0:23:13.23,Gen_Main,Momo&Screen,0000,0000,0000,,Segundo paso,\Nllénalo hasta la mitad con leche.
+Dialogue: 0,0:23:13.41,0:23:16.41,Gen_Main,Momo&Screen,0000,0000,0000,,Tercer paso, llena la otra mitad\Ncon agua caliente.
+Dialogue: 0,0:23:16.58,0:23:19.64,Gen_Main,Momo&Screen,0000,0000,0000,,Como usamos leche,\Nel agua tiene que estar hirviendo.
+Dialogue: 0,0:23:24.42,0:23:25.96,Gen_Italics,Miwa,0000,0000,0000,,¡Qué ricos!
+Dialogue: 0,0:23:26.84,0:23:28.65,Gen_Main,Miwa,0000,0000,0000,,¡Están muy ricos!
+Dialogue: 0,0:23:28.80,0:23:29.82,Gen_Main,Momo,0000,0000,0000,,¿Ya ves?
+Dialogue: 0,0:23:29.97,0:23:31.97,Gen_Main,Mai,0000,0000,0000,,Puede que los pruebe otro día.
+Dialogue: 0,0:23:32.14,0:23:35.93,Gen_Main,Miwa,0000,0000,0000,,Si saben tan bien,\N¿por qué no se prepararon uno de estos?
+Dialogue: 0,0:23:37.81,0:23:42.30,Gen_Main,Momo,0000,0000,0000,,Porque si comes eso muy tarde,\Nlo lamentas a la mañana siguiente.
+Dialogue: 0,0:23:51.49,0:23:54.99,Cart_TitleNext,Screen,0000,0000,0000,,{\fad(984,1)\c&HFCFFFF&\b0}Episodio 18\N{\fs26\b0}Sabio

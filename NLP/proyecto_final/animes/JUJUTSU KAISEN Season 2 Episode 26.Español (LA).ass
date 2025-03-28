@@ -1,0 +1,357 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:28.55,0:00:30.26,Gen_Main,Cocoon,0000,0000,0000,,¡Por favor, te lo ruego!
+Dialogue: 0,0:00:30.47,0:00:33.55,Gen_Main,Cocoon,0000,0000,0000,,¡Escúchame, por favor!\N¡Admito mi culpabilidad!
+Dialogue: 0,0:00:33.76,0:00:35.77,Gen_Main,Cocoon,0000,0000,0000,,¡Lo siento! ¡En serio lo siento!
+Dialogue: 0,0:00:36.14,0:00:37.56,Gen_Main,Maldición Beso,0000,0000,0000,,Bésame mucho.
+Dialogue: 0,0:00:38.18,0:00:40.23,Gen_Main,Maldición Beso,0000,0000,0000,,Debemos darnos unos besotes.
+Dialogue: 0,0:00:41.56,0:00:45.16,Gen_Main,Cocoon,0000,0000,0000,,¡Me retiraré de este caso!\N¡Renunciaré a ser hechicero maléfico!
+Dialogue: 0,0:00:45.36,0:00:48.90,Gen_Main,Maldición Beso,0000,0000,0000,,Solo un besito. No te hagas de rogar.
+Dialogue: 0,0:00:49.11,0:00:50.95,Gen_Main,Cocoon,0000,0000,0000,,¡Y por supuesto que también de Q!
+Dialogue: 0,0:00:51.16,0:00:54.12,Gen_Main,Cocoon,0000,0000,0000,,¡Ya sé, regresaré al campo\Ny me pondré a cultivar arroz!
+Dialogue: 0,0:00:56.12,0:00:57.54,Gen_Main,Cocoon,0000,0000,0000,,¡No finjas que no oyes!
+Dialogue: 0,0:00:58.33,0:01:00.87,Gen_Main,Geto,0000,0000,0000,,¿Un hechicero maléfico\Npodrá ser agricultor?
+Dialogue: 0,0:01:01.21,0:01:02.75,Gen_Main,Cocoon,0000,0000,0000,,¡Sí estabas oyendo!
+Dialogue: 0,0:01:02.96,0:01:05.29,Gen_Main,Cocoon,0000,0000,0000,,Te crees mucho porque vas a esa escuela…
+Dialogue: 0,0:01:05.50,0:01:07.67,Gen_Main,Cocoon,0000,0000,0000,,Pero ¡Bayer también está aquí!
+Dialogue: 0,0:01:07.92,0:01:09.92,Gen_Main,Cocoon,0000,0000,0000,,¡Es el agente más poderoso de Q!
+Dialogue: 0,0:01:11.09,0:01:13.80,Gen_Main,Cocoon/Geto,0000,0000,0000,,-¡Se encargará de ti y de esas…!\N-Dime…
+Dialogue: 0,0:01:14.47,0:01:16.31,Gen_Main,Geto,0000,0000,0000,,¿Ese tal Bayer es este de aquí?
+Dialogue: 0,0:01:21.02,0:01:23.31,Gen_Main,Cocoon,0000,0000,0000,,Sí, sin duda es él, señor.
+Dialogue: 0,0:01:24.36,0:01:27.82,Cart_A_Tre,,0000,0000,0000,,{\fad(875,0)\shad0\3a&HA0&\fnArial\b1\an8\pos(320,250)\fs28}Q
+Dialogue: 0,0:01:24.36,0:01:27.82,Cart_A_Tre,,0000,0000,0000,,{\fad(875,0)\shad0\3a&HA0&\fnGeorgia\b0\an8\pos(320,280)\fs20}La organización colapsa con el retiro de Bayer,\Nsu agente más poderoso.
+Dialogue: 0,0:01:33.28,0:01:35.78,Gen_Italics,Altavoz hombre,0000,0000,0000,,Tenemos unos competidores\Nmuy aguerridos hoy.
+Dialogue: 0,0:01:35.99,0:01:39.04,Gen_Italics,Altavoz hombre,0000,0000,0000,,Tenemos a Matsuda en el carril n.º 1…
+Dialogue: 0,0:01:39.25,0:01:41.79,Gen_Italics,Altavoz hombre,0000,0000,0000,,Y en los carriles n.º 2 y 3 están…
+Dialogue: 0,0:01:42.83,0:01:46.29,Gen_Main,Gong,0000,0000,0000,,De repente desapareces,\Ny aquí te encuentro. ¿Qué carajos haces?
+Dialogue: 0,0:01:49.13,0:01:51.22,Gen_Main,Toji,0000,0000,0000,,Estoy multiplicando el dinero.
+Dialogue: 0,0:01:52.01,0:01:54.76,Gen_Main,Gong,0000,0000,0000,,No he visto ni una sola vez que ganes.
+Dialogue: 0,0:01:55.09,0:01:56.72,Gen_Main,Gong,0000,0000,0000,,¿Qué pasó con el trabajo?
+Dialogue: 0,0:01:57.56,0:02:01.77,Gen_Main,Toji,0000,0000,0000,,No jodas. Deja de tratarme\Ncomo a un desempleado irresponsable.
+Dialogue: 0,0:02:03.48,0:02:05.02,Gen_Main,Gong,0000,0000,0000,,Pues eso eres.
+Dialogue: 0,0:02:05.48,0:02:10.40,Gen_Main,Gong,0000,0000,0000,,Como intermediario, debo reportarle\Nal cliente el progreso de tu trabajo.
+Dialogue: 0,0:02:10.61,0:02:12.70,Gen_Main,Toji,0000,0000,0000,,El enemigo es un muchacho del clan Gojo.
+Dialogue: 0,0:02:12.86,0:02:16.20,Gen_Main,Toji,0000,0000,0000,,No lograré nada\Nsi salgo a enfrentarlo al descubierto.
+Dialogue: 0,0:02:16.66,0:02:19.66,Gen_Main,Toji,0000,0000,0000,,Primero usaré carne de cañón\Npara diezmarlo.
+Dialogue: 0,0:02:19.99,0:02:21.62,Gen_Main,Toji,0000,0000,0000,,Tú ponte a trabajar, cabrón.
+Dialogue: 0,0:02:21.83,0:02:23.46,Gen_Main,Gong,0000,0000,0000,,Ya hice mi parte, tarado.
+Dialogue: 0,0:02:23.66,0:02:27.54,Gen_Main,Gong,0000,0000,0000,,¿En qué piensas al deshacerte así\Ndel dinero para los gastos?
+Dialogue: 0,0:02:28.07,0:02:30.21,Gen_Main,Toji,0000,0000,0000,,Te digo que es para diezmarlo.
+Dialogue: 0,0:02:30.42,0:02:32.92,Gen_Main,Toji,0000,0000,0000,,No te preocupes.\NEse dinero regresará enterito.
+Dialogue: 0,0:02:33.13,0:02:35.01,Gen_Main,Toji,0000,0000,0000,,Como el de esta carrera.
+Dialogue: 0,0:02:37.09,0:02:41.31,Gen_Italics,Altavoz hombre,0000,0000,0000,,El n.º 6, Hataon, llega a la meta.\NN.º 1, Doguchi, llega a la meta.
+Dialogue: 0,0:02:41.31,0:02:43.98,Gen_Italics,Altavoz hombre,0000,0000,0000,,Luego el n.º 3, Matsuda…
+Dialogue: 0,0:02:45.31,0:02:48.52,Gen_Main,Gong,0000,0000,0000,,Tú no estás hecho para hacerte rico\Ntan fácilmente.
+Dialogue: 0,0:02:49.61,0:02:52.48,Gen_Main,Gong,0000,0000,0000,,Haz bien tu trabajo,\Nasesino de hechiceros.
+Dialogue: 0,0:02:53.90,0:02:55.24,Gen_Main,Gong,0000,0000,0000,,Ah, por cierto,
+Dialogue: 0,0:02:55.91,0:02:57.53,Gen_Main,Gong,0000,0000,0000,,¿cómo está Megumi?
+Dialogue: 0,0:03:09.21,0:03:10.54,Gen_Main,Toji,0000,0000,0000,,¿Quién es ese?
+Dialogue: 0,0:03:10.96,0:03:13.96,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)}Episodio 26\N\N\N\N\N\N\N\N\N\N\N{\fs30}El tesoro escondido - Parte 2 -
+Dialogue: 0,0:03:23.10,0:03:28.10,Cart_Serieslogo,,0000,0000,0000,,{\fad(600,800)\fs28\3c&H9EF2FA&\move(320,47.64,320,48.85,20,4983)}{\t(0,5050,\fs-0.3)}JUJUTSU KAISEN{\fscy100}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\bord0}Hidden Inventory • Premature Death
+Dialogue: 0,0:04:44.97,0:04:46.93,Gen_Main,Gojo,0000,0000,0000,,¿Traemos a un médico por las dudas?
+Dialogue: 0,0:04:47.31,0:04:51.40,Gen_Main,Geto,0000,0000,0000,,Si tan solo pudiéramos usar\Nrituales inversos como Shoko…
+Dialogue: 0,0:04:51.60,0:04:52.86,Gen_Main,Gojo,0000,0000,0000,,Ahora es imposible.
+Dialogue: 0,0:04:53.06,0:04:55.65,Gen_Main,Gojo,0000,0000,0000,,No le entiendo ni pío cuando lo explica.
+Dialogue: 0,0:04:55.94,0:04:57.61,Gen_Main,Shoko,0000,0000,0000,,Hacen "fium" y "fuas" y listo.
+Dialogue: 0,0:04:58.32,0:05:00.95,Gen_Main,Shoko,0000,0000,0000,,¿No saben qué es "fium" ni "fuas"?
+Dialogue: 0,0:05:01.32,0:05:02.95,Gen_Main,Shoko,0000,0000,0000,,Carecen de talento.
+Dialogue: 0,0:05:07.75,0:05:08.95,Gen_Main,Gojo,0000,0000,0000,,Se despertó.
+Dialogue: 0,0:05:13.71,0:05:16.13,Gen_Main,Riko,0000,0000,0000,,¡Toma esto!
+Dialogue: 0,0:05:17.88,0:05:22.30,Gen_Main,Riko,0000,0000,0000,,¡Villano cobarde, si deseas matarme,\Nven acá si no temes por tu vida!
+Dialogue: 0,0:05:24.85,0:05:26.47,Gen_Main,Geto,0000,0000,0000,,Riko, tranquilízate.
+Dialogue: 0,0:05:26.81,0:05:30.23,Gen_Main,Geto,0000,0000,0000,,Nosotros no somos\Nlos canallas que te atacaron.
+Dialogue: 0,0:05:30.39,0:05:32.73,Gen_Main,Riko,0000,0000,0000,,¡Mientes!\N¡Esa es la cara de un mentiroso!
+Dialogue: 0,0:05:32.94,0:05:34.61,Gen_Main,Riko,0000,0000,0000,,¡Ese horrible mechón te delata!
+Dialogue: 0,0:05:37.61,0:05:40.24,Gen_Main,Riko,0000,0000,0000,,¡No! ¡Déjenme!
+Dialogue: 0,0:05:41.20,0:05:45.95,Cart_A_Verd,,0000,0000,0000,,{\fad(300,0)\fs28\an8\fnArial\b1\c&H826AEC&\bord0\shad0\pos(320,215)}Ñic Ñic Ñic Ñic
+Dialogue: 0,0:05:42.53,0:05:44.41,Gen_Main,Riko,0000,0000,0000,,¡Insolentes!
+Dialogue: 0,0:05:42.70,0:05:44.70,Cart_A_Tre,,0000,0000,0000,,{\fad(375,425)\an8\fnArial\b1\shad0\bord1\c&HF6EBCF&\3c&H424148&\pos(320,110)}¡¡Insolentes!!
+Dialogue: 0,0:05:44.62,0:05:46.95,Gen_Main,Kuroi/Riko,0000,0000,0000,,-¡Deténganse, por favor!\N-¡Kuroi!
+Dialogue: 0,0:05:49.29,0:05:52.29,Gen_Main,Kuroi,0000,0000,0000,,Señorita,\Nesos caballeros están de su parte.
+Dialogue: 0,0:05:53.25,0:05:56.38,Gen_Main,Riko,0000,0000,0000,,Pero ¿en qué estás montada?
+Dialogue: 0,0:05:56.75,0:05:59.38,Gen_Main,Kuroi,0000,0000,0000,,Esta es la técnica ritual\Ndel caballero del mechón.
+Dialogue: 0,0:05:59.55,0:06:01.76,Gen_Main,Geto,0000,0000,0000,,¿Podrían dejar de llamarme así?
+Dialogue: 0,0:06:02.88,0:06:04.39,Gen_Main,Geto,0000,0000,0000,,Manipulación de Maldiciones.
+Dialogue: 0,0:06:04.63,0:06:08.01,Gen_Main,Geto,0000,0000,0000,,Como el nombre dice, puedo controlar\Nlas maldiciones que absorbo.
+Dialogue: 0,0:06:08.39,0:06:11.27,Gen_Main,Gojo,0000,0000,0000,,Es una mocosa mucho más agresiva\Nde lo que pensaba.
+Dialogue: 0,0:06:11.52,0:06:13.73,Gen_Main,Gojo,0000,0000,0000,,Y yo que pensaba cómo animarla
+Dialogue: 0,0:06:13.89,0:06:16.36,Gen_Main,Gojo,0000,0000,0000,,porque debía andar triste\Npor lo de la fusión.
+Dialogue: 0,0:06:17.66,0:06:20.32,Gen_Main,Riko,0000,0000,0000,,Es sin duda una forma de pensar\Nde la clase baja.
+Dialogue: 0,0:06:20.53,0:06:22.11,Gen_Main,Gojo/Riko,0000,0000,0000,,-¿Qué?\N-Apréndanse esto.
+Dialogue: 0,0:06:24.49,0:06:28.83,Gen_Main,Riko,0000,0000,0000,,El señor Tengen soy yo.\NY yo soy el señor Tengen, ¿me oyen?
+Dialogue: 0,0:06:29.03,0:06:32.58,Gen_Main,Riko,0000,0000,0000,,Habrá algunos como ustedes\Nque confundan la fusión con la muerte.
+Dialogue: 0,0:06:32.80,0:06:35.29,Gen_Main,Riko,0000,0000,0000,,Pero están muy equivocados, granujas.
+Dialogue: 0,0:06:35.58,0:06:38.50,Gen_Main,Riko,0000,0000,0000,,A través de la fusión me convertiré\Nen el señor Tengen.
+Dialogue: 0,0:06:38.67,0:06:41.17,Gen_Main,Riko,0000,0000,0000,,Pero el señor Tengen\Nse convertirá en mí.
+Dialogue: 0,0:06:41.51,0:06:45.88,Gen_Main,Riko,0000,0000,0000,,Mi voluntad, corazón y espíritu\Ntambién vivirán después de la fusión.
+Dialogue: 0,0:06:46.05,0:06:48.43,Gen_Main,Geto/Gojo,0000,0000,0000,,-¿Cambiaste de fondo de pantalla?\N-Waka Inoue.
+Dialogue: 0,0:06:48.60,0:06:49.51,Gen_Main,Riko,0000,0000,0000,,¡Escúchenme!
+Dialogue: 0,0:06:50.06,0:06:52.89,Gen_Main,Gojo,0000,0000,0000,,Con esa actitud altanera\Nno ha de tener amigos.
+Dialogue: 0,0:06:53.10,0:06:55.19,Gen_Main,Geto,0000,0000,0000,,Me dará gusto llevarla a la fusión.
+Dialogue: 0,0:06:55.52,0:06:57.40,Gen_Main,Riko,0000,0000,0000,,¡En la escuela me comporto normal!
+Dialogue: 0,0:07:00.15,0:07:02.15,Gen_Main,Kuroi,0000,0000,0000,,¡Ah, la escuela! Kuroi, ¿qué horas son?
+Dialogue: 0,0:07:02.36,0:07:05.36,Gen_Main,Kuroi,0000,0000,0000,,Aún no es mediodía,\Npero ir a la escuela no es buena idea…
+Dialogue: 0,0:07:05.57,0:07:08.16,Gen_Main,Kuroi,0000,0000,0000,,¡Calla! ¡Si digo que iremos, iremos!
+Dialogue: 0,0:07:12.49,0:07:15.50,Gen_Main,Gojo,0000,0000,0000,,¡Es más seguro regresar ya\Na la Escuela de Brujería!
+Dialogue: 0,0:07:15.96,0:07:20.59,Gen_Italics,Yaga,0000,0000,0000,,Me gustaría que fuera así,\Npero es orden del señor Tengen.
+Dialogue: 0,0:07:21.04,0:07:24.59,Gen_Italics,Yaga,0000,0000,0000,,Dice que debemos aceptar\Ntodas las peticiones de Riko Amanai.
+Dialogue: 0,0:07:30.47,0:07:32.60,Gen_Main,Gojo,0000,0000,0000,,No podría ser más malcriada.
+Dialogue: 0,0:07:33.18,0:07:34.77,Gen_Main,Geto,0000,0000,0000,,No la culpes tanto, Satoru.
+Dialogue: 0,0:07:34.98,0:07:38.27,Gen_Main,Geto,0000,0000,0000,,A pesar de lo que dijo,\Ndespués de la fusión, será parte
+Dialogue: 0,0:07:38.48,0:07:40.98,Gen_Main,Geto,0000,0000,0000,,de los cimientos de las barreras\Njunto a Tengen.
+Dialogue: 0,0:07:41.57,0:07:46.65,Gen_Main,Geto,0000,0000,0000,,Ya no podrá ver a sus amigos,\Nfamilia y seres queridos.
+Dialogue: 0,0:07:47.70,0:07:49.20,Gen_Main,Amiga A,0000,0000,0000,,¡Riko!
+Dialogue: 0,0:07:50.41,0:07:52.49,Gen_Main,Amiga A/Riko,0000,0000,0000,,-Tenemos que ir a otro salón.\N-Muy bien.
+Dialogue: 0,0:07:52.91,0:07:54.41,Gen_Main,Geto,0000,0000,0000,,Que haga lo que quiera.
+Dialogue: 0,0:07:55.04,0:07:57.79,Gen_Main,Geto,0000,0000,0000,,Esa es nuestra misión.
+Dialogue: 0,0:08:00.67,0:08:03.17,Gen_Main,Kuroi,0000,0000,0000,,La señorita Riko no tiene familia.
+Dialogue: 0,0:08:03.34,0:08:05.01,Gen_Main,Kuroi,0000,0000,0000,,Murieron cuando era pequeña.
+Dialogue: 0,0:08:05.21,0:08:08.13,Gen_Main,Kuroi,0000,0000,0000,,Después yo me encargué de cuidarla.
+Dialogue: 0,0:08:08.80,0:08:12.14,Gen_Main,Kuroi,0000,0000,0000,,Por eso quisiera que pasara\Nun poco más de tiempo con sus amigas.
+Dialogue: 0,0:08:13.35,0:08:15.81,Gen_Main,Geto,0000,0000,0000,,Entonces, usted es su familia.
+Dialogue: 0,0:08:18.31,0:08:19.31,Gen_Main,Kuroi,0000,0000,0000,,Sí.
+Dialogue: 0,0:08:22.40,0:08:25.73,Gen_Main,Gojo,0000,0000,0000,,Suguru, ¿y los espíritus malditos\Nque dejaste vigilando?
+Dialogue: 0,0:08:25.94,0:08:30.78,Gen_Main,Geto,0000,0000,0000,,Listos. Ojalá pudieran compartirme\Nsu vista como lo hace Mei.
+Dialogue: 0,0:08:30.99,0:08:33.79,Gen_Main,Geto,0000,0000,0000,,Como sea, si hay una anomalía,\Nme dirán de inmediato…
+Dialogue: 0,0:08:34.83,0:08:37.87,Gen_Main,Geto,0000,0000,0000,,Satoru, vayamos rápido con Riko.
+Dialogue: 0,0:08:40.42,0:08:42.33,Gen_Main,Geto,0000,0000,0000,,Exorcizaron a dos de mis maldiciones.
+Dialogue: 0,0:08:42.79,0:08:44.92,Gen_Italics,Altavoz hombre,0000,0000,0000,,¿Quién será el nuevo as\Nde la generación?
+Dialogue: 0,0:08:45.13,0:08:47.88,Gen_Italics,Altavoz hombre,0000,0000,0000,,Esta carrera será un vistazo\Nhacia ese futuro.
+Dialogue: 0,0:08:48.51,0:08:51.34,Gen_Italics,Altavoz hombre,0000,0000,0000,,Los seis pilotos jinetes tienen\Nmucho que probar.
+Dialogue: 0,0:08:51.55,0:08:54.97,Gen_Italics,Altavoz hombre,0000,0000,0000,,Al fin comienza la quinta carrera\Nque tanto esperaban.
+Dialogue: 0,0:09:00.35,0:09:01.85,Cart_A_Verd,Laptop,0000,0000,0000,,{\an8\q2\pos(320,110)\fs22\fscx80\c&H29FF2C&\b1\bord0\shad0}Riko Amanai\NSegundo año de secundaria de la Academia para Señoritas Renchoku\N	#VivaOMuerta
+Dialogue: 0,0:09:15.15,0:09:16.95,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\c&H3B4F3C&\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:09:17.66,0:09:19.00,Gen_Main,Gojo,0000,0000,0000,,¿Dónde está Amanai?
+Dialogue: 0,0:09:19.20,0:09:23.13,Gen_Main,Kuroi,0000,0000,0000,,Es la hora de Música. Debe estar\Nen el salón de música o la capilla.
+Dialogue: 0,0:09:23.42,0:09:24.67,Gen_Main,Gojo,0000,0000,0000,,¡¿Capilla?!
+Dialogue: 0,0:09:24.84,0:09:27.05,Gen_Main,Kuroi,0000,0000,0000,,Puede cambiar según el plan\Nde la maestra.
+Dialogue: 0,0:09:27.21,0:09:29.05,Gen_Main,Kuroi,0000,0000,0000,,Como ven, es una escuela cristiana.
+Dialogue: 0,0:09:29.38,0:09:32.43,Gen_Main,Geto,0000,0000,0000,,Satoru, ve a la capilla.\NY usted, señorita Kuroi, al salón.
+Dialogue: 0,0:09:32.63,0:09:34.34,Gen_Main,Geto,0000,0000,0000,,Yo enfrentaré a los dos intrusos.
+Dialogue: 0,0:09:34.55,0:09:36.01,Gen_Main,Kuroi,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:09:36.51,0:09:40.23,Gen_Main,Riko,0000,0000,0000,,No se me peguen.\N¿Qué les diré a mis amigas si los ven?
+Dialogue: 0,0:09:40.43,0:09:44.73,Gen_Main,Kuroi,0000,0000,0000,,Lo siento mucho. Le dije que mandara un\Nmensaje cada vez que cambiara de salón.
+Dialogue: 0,0:09:44.94,0:09:49.03,Gen_Main,Gojo,0000,0000,0000,,Por eso le dije a la niña que nos dejara\Nescoltarla donde la pudiéramos ver.
+Dialogue: 0,0:09:52.24,0:09:56.07,Gen_Italics,Altavoz hombre,0000,0000,0000,,Y comienza la carrera.\NEl n.º 1 y 5 inician un poco lento.
+Dialogue: 0,0:09:56.28,0:10:00.04,Gen_Main,Toji,0000,0000,0000,,¿Qué les pasa a esos?\N¿No regresaron a la Escuela de Brujería?
+Dialogue: 0,0:10:00.25,0:10:01.79,Gen_Main,Toji,0000,0000,0000,,Qué suerte para nosotros.
+Dialogue: 0,0:10:02.79,0:10:06.75,Gen_Main,Toji,0000,0000,0000,,Ahora la recompensa solo atraerá\Na imbéciles con algo de sentido común.
+Dialogue: 0,0:10:06.96,0:10:09.50,Gen_Main,Gong/Toji,0000,0000,0000,,-{\i1}¿No importa?{\i0}\N-¿Qué cosa?
+Dialogue: 0,0:10:09.92,0:10:14.38,Gen_Italics,Gong,0000,0000,0000,,La recompensa son los 30 millones\Nque te pagó la secta para tus gastos.
+Dialogue: 0,0:10:14.61,0:10:17.88,Gen_Italics,Gong,0000,0000,0000,,Si matan al Cuerpo de Plasma Estelar,\Nesa cantidad se perdería.
+Dialogue: 0,0:10:18.09,0:10:20.67,Gen_Italics,Gong,0000,0000,0000,,Lo peor podría ser\Nque dificultara tu pago final.
+Dialogue: 0,0:10:20.95,0:10:25.40,Gen_Italics,Gong,0000,0000,0000,,Podrían decir que ofrecer una recompensa\Nera lo mejor y no encargártelo a ti.
+Dialogue: 0,0:10:25.90,0:10:28.82,Gen_Main,Toji,0000,0000,0000,,Ellos cuentan con Satoru Gojo, ¿sabes?
+Dialogue: 0,0:10:29.07,0:10:33.15,Gen_Main,Toji,0000,0000,0000,,Es una mezcla de los Seis Ojos y el\NInfinito que se da cada cientos de años.
+Dialogue: 0,0:10:33.36,0:10:37.32,Gen_Main,Toji,0000,0000,0000,,Mientras Gojo esté cerca, no podrán\Nasesinar al Cuerpo de Plasma Estelar.
+Dialogue: 0,0:10:37.53,0:10:38.83,Gen_Italics,Gong,0000,0000,0000,,¿Tú tampoco?
+Dialogue: 0,0:10:47.71,0:10:51.59,Gen_Italics,Altavoz hombre,0000,0000,0000,,El n.º 3 recupera la ventaja\Nen la vuelta y se pone a la cabeza.
+Dialogue: 0,0:10:51.80,0:10:54.34,Gen_Main,Toji,0000,0000,0000,,No sé. ¿Tú qué crees?
+Dialogue: 0,0:10:56.09,0:11:00.81,Gen_Main,Toji,0000,0000,0000,,Por lo pronto, en las 47 horas que siga\Nvigente la recompensa,
+Dialogue: 0,0:11:01.01,0:11:05.35,Gen_Main,Toji,0000,0000,0000,,veamos cuánto los idiotas diezman\Nla moral de Gojo y sus compañeros.
+Dialogue: 0,0:11:13.86,0:11:15.03,Gen_Main,Hombre A,0000,0000,0000,,Oye, tú…
+Dialogue: 0,0:11:15.36,0:11:16.70,Gen_Main,Hombre A,0000,0000,0000,,Espera un segundo, amigo.
+Dialogue: 0,0:11:22.99,0:11:24.54,Gen_Main,Toji,0000,0000,0000,,No, no pasa nada.
+Dialogue: 0,0:11:27.83,0:11:31.59,Gen_Main,Toji,0000,0000,0000,,Claro que no podrán matar al Cuerpo\Nde Plasma Estelar. Trabajarán gratis.
+Dialogue: 0,0:11:32.25,0:11:34.92,Gen_Italics,Gong,0000,0000,0000,,Fue buena idea\Nestablecer un límite de tiempo.
+Dialogue: 0,0:11:35.13,0:11:37.68,Gen_Italics,Gong,0000,0000,0000,,Conseguir a los hechiceros maléficos\Nfue fácil.
+Dialogue: 0,0:11:38.09,0:11:39.89,Gen_Main,Toji,0000,0000,0000,,Pero tampoco es solo eso, ¿eh?
+Dialogue: 0,0:11:41.81,0:11:44.35,Gen_Main,Toji/Altavoz Hombre,0000,0000,0000,,-Aquí entre nos…\N-{\i1}¡Miren eso!{\i0}
+Dialogue: 0,0:11:45.06,0:11:48.73,Gen_Italics,Altavoz hombre,0000,0000,0000,,El n.º 3 pierde el control en la curva\Ny los n.º 1 y 2 van a la cabeza.
+Dialogue: 0,0:11:49.06,0:11:53.19,Gen_Main,Toji,0000,0000,0000,,Me estoy preparando para ir.\NTodo va más rápido de lo que preveía.
+Dialogue: 0,0:11:53.73,0:11:56.61,Gen_Main,Toji,0000,0000,0000,,Recupera esos 30 millones sin falta.
+Dialogue: 0,0:11:56.82,0:11:58.82,Gen_Italics,Altavoz hombre,0000,0000,0000,,El n.º 1, Yamazaki, cruza la meta.
+Dialogue: 0,0:11:59.24,0:12:02.99,Gen_Italics,Gong,0000,0000,0000,,No digas estupideces. No es cualquier\Ntablón de anuncios anónimo, ¿eh?
+Dialogue: 0,0:12:03.20,0:12:05.75,Gen_Main,Gong/Toji,0000,0000,0000,,-{\i1}Cobra una comisión por el…{\i0}\N-Me quedé sin señal.
+Dialogue: 0,0:12:06.08,0:12:07.21,Gen_Main,Gong,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:12:08.54,0:12:10.29,Gen_Main,Gong,0000,0000,0000,,Ese desgraciado…
+Dialogue: 0,0:12:20.18,0:12:22.39,Gen_Italics,Geto,0000,0000,0000,,¿Los intrusos serán otros agentes de Q?
+Dialogue: 0,0:12:22.80,0:12:26.31,Gen_Italics,Geto,0000,0000,0000,,Si son mercenarios de la Secta\Ndel Manto Estelar, serán una molestia.
+Dialogue: 0,0:12:28.85,0:12:31.31,Gen_Main,Hechicero Maléfico Viejo,0000,0000,0000,,Ese uniforme…
+Dialogue: 0,0:12:36.53,0:12:39.82,Gen_Italics,Geto,0000,0000,0000,,Al ver mi uniforme,\Nteme un ataque de varios contra uno.
+Dialogue: 0,0:12:40.03,0:12:42.41,Gen_Italics,Geto,0000,0000,0000,,Conjuró {\i0}shikigami{\i1}\Npara proteger dos frentes.
+Dialogue: 0,0:12:42.62,0:12:44.24,Gen_Italics,Geto,0000,0000,0000,,Este viejo sabe lo que hace.
+Dialogue: 0,0:12:45.45,0:12:47.20,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,¿Sin medio de invocación?
+Dialogue: 0,0:12:47.41,0:12:51.08,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Y el poder maldito no es el mismo\Nque el del hechicero. No puede ser.
+Dialogue: 0,0:12:51.29,0:12:52.83,Gen_Main,Hechicero Maléfico Viejo,0000,0000,0000,,¿Manipulación de Maldiciones?
+Dialogue: 0,0:12:53.21,0:12:57.21,Gen_Main,Geto,0000,0000,0000,,Justo en el blanco.\NHabla la experiencia de una larga vida.
+Dialogue: 0,0:12:57.46,0:13:00.26,Gen_Main,Hechicero Maléfico Viejo,0000,0000,0000,,No te recomiendo vivir muchos años.
+Dialogue: 0,0:13:00.47,0:13:03.68,Gen_Main,Hechicero Maléfico Viejo,0000,0000,0000,,El simple hecho de estar vivo\Ncuesta dinero.
+Dialogue: 0,0:13:04.01,0:13:06.22,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Su técnica ritual es mejor que la mía.
+Dialogue: 0,0:13:06.43,0:13:09.73,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Pero debe pensar igual\Nque un domador de {\i0}shikigami{\i1}.
+Dialogue: 0,0:13:09.94,0:13:11.90,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Además, es muy joven.
+Dialogue: 0,0:13:12.10,0:13:15.48,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Sé precisamente lo que tienes\Nen la cabeza, muchacho.
+Dialogue: 0,0:13:16.07,0:13:20.20,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Lo sabía. Los de su tipo no tratan\Nde acercarse al enemigo.
+Dialogue: 0,0:13:20.49,0:13:22.99,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Debe ser malo\Npara el combate cuerpo a cuerpo.
+Dialogue: 0,0:13:23.20,0:13:28.54,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Debe imaginarse que un domador\Nde {\i0}shikigami{\i1} como yo no lo atacará.
+Dialogue: 0,0:13:28.75,0:13:32.08,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Alguien malo en el combate físico\Nque no espera un ataque directo
+Dialogue: 0,0:13:32.25,0:13:35.09,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,es la presa más fácil que puede haber.
+Dialogue: 0,0:13:35.50,0:13:38.55,Gen_Main,Geto,0000,0000,0000,,Parece que está sopesando varias cosas.
+Dialogue: 0,0:13:38.84,0:13:40.22,Gen_Main,Geto,0000,0000,0000,,Pero no tiene ningún caso.
+Dialogue: 0,0:13:45.97,0:13:48.72,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Invocó a las otras dos\Npara que no pensara esto.
+Dialogue: 0,0:13:53.69,0:13:56.23,Gen_Main,Geto,0000,0000,0000,,Muy bien. Ahora solo queda uno.
+Dialogue: 0,0:14:00.24,0:14:01.90,Gen_Main,Hechicero Maléfico Viejo,0000,0000,0000,,¡Eres mío!
+Dialogue: 0,0:14:18.04,0:14:21.59,Gen_Main,Hechicero Maléfico Viejo,0000,0000,0000,,¡Tasuke! ¿Eres tú, Tasuke?
+Dialogue: 0,0:14:22.34,0:14:26.55,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Mis padres usaban su tiempo y dinero\Ncon el bien portado de mi hermano.
+Dialogue: 0,0:14:26.76,0:14:30.47,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Y me tenían miedo\Nporque yo podía ver cosas que ellos no.
+Dialogue: 0,0:14:31.18,0:14:36.15,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Tasuke era el único amigo\Nque me trataba bien incondicionalmente.
+Dialogue: 0,0:14:38.32,0:14:40.44,Gen_Main,Hechicero Maléfico Viejo,0000,0000,0000,,Te extrañaba mucho.
+Dialogue: 0,0:14:40.65,0:14:43.24,Gen_Main,Hechicero Maléfico Viejo,0000,0000,0000,,Ya han pasado más de 50 años, ¿no?
+Dialogue: 0,0:14:43.45,0:14:45.91,Gen_Main,Hechicero Maléfico Viejo,0000,0000,0000,,Tasuke, desde que moriste…
+Dialogue: 0,0:14:46.95,0:14:48.41,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Ahora me doy cuenta.
+Dialogue: 0,0:14:54.33,0:14:56.04,Gen_Italics,Hechicero Maléfico Viejo,0000,0000,0000,,Era una visión antes de mi caída.
+Dialogue: 0,0:14:56.58,0:14:58.71,Gen_Main,Hechicero Maléfico Viejo,0000,0000,0000,,¡Me engañaste para que me acercara!
+Dialogue: 0,0:14:58.92,0:15:03.21,Gen_Main,Geto,0000,0000,0000,,Algo así. Estaba impaciente\Npor venir a atacarme, ¿no?
+Dialogue: 0,0:15:03.47,0:15:07.89,Gen_Main,Geto,0000,0000,0000,,Los que se creen ganadores caen fácil\Nsi les muestras lo que quieren ver.
+Dialogue: 0,0:15:09.93,0:15:13.18,Gen_Main,Geto,0000,0000,0000,,Pero ahora tratemos temas importantes.\N¿Q lo mandó?
+Dialogue: 0,0:15:13.35,0:15:15.19,Gen_Main,Geto,0000,0000,0000,,¿O la Secta del Manto Estelar?
+Dialogue: 0,0:15:17.81,0:15:23.03,Gen_Italics,Coro de Niñas,0000,0000,0000,,La muñeca se cayó.
+Dialogue: 0,0:15:23.23,0:15:28.53,Gen_Italics,Coro de Niñas,0000,0000,0000,,La niña no la rescató.
+Dialogue: 0,0:15:28.74,0:15:33.91,Gen_Italics,Coro de Niñas,0000,0000,0000,,Y desapareció en una esfera de luz.
+Dialogue: 0,0:15:34.12,0:15:39.46,Gen_Italics,Coro de Niñas,0000,0000,0000,,-En una luz de la que estaba hecha.\N{\i0}-¡Amanai!{\i1}
+Dialogue: 0,0:15:39.96,0:15:42.84,Gen_Italics,Coro de Niñas,0000,0000,0000,,Pero en ese momento…
+Dialogue: 0,0:15:49.09,0:15:50.76,Gen_Main,Amiga A,0000,0000,0000,,¿Quién es ese, Riko? ¿Tu novio?
+Dialogue: 0,0:15:50.97,0:15:53.68,Gen_Main,Riko,0000,0000,0000,,¡No, es mi primo!
+Dialogue: 0,0:15:53.89,0:15:57.02,Gen_Main,Amiga B/Riko,0000,0000,0000,,-Qué pronto te conseguiste uno.\N-¡Les digo que no!
+Dialogue: 0,0:15:57.23,0:15:59.40,Gen_Main,Amiga C,0000,0000,0000,,¿Es de prepa? ¡Qué alto!
+Dialogue: 0,0:15:59.56,0:16:00.86,Gen_Main,Amiga C,0000,0000,0000,,¡Amigo!
+Dialogue: 0,0:16:01.06,0:16:02.52,Gen_Main,Amiga D,0000,0000,0000,,¡A ver, quítate los lentes!
+Dialogue: 0,0:16:05.28,0:16:06.82,Gen_Main,Amigas,0000,0000,0000,,¡Iaaah! ¡Qué guapo es!
+Dialogue: 0,0:16:05.44,0:16:07.02,Cart_A_Verd,Screen,0000,0000,0000,,{\fad(100,0)\an8\fnArial\b1\c&HD1FEFF&\fs35\bord4\shad0\pos(320,20)\3c&H02080E&}¡Iaaah!
+Dialogue: 1,0:16:05.44,0:16:07.02,Cart_A_Verd,Screen,0000,0000,0000,,{\fad(100,0)\an8\fnArial\b1\c&HD1FEFF&\fs35\bord3\shad0\pos(320,20)\3c&H3033D1&}¡Iaaah!
+Dialogue: 2,0:16:05.44,0:16:07.02,Cart_A_Verd,Screen,0000,0000,0000,,{\fad(100,0)\an8\fnArial\b1\c&HD1FEFF&\fs35\bord1\shad0\pos(320,20)}¡Iaaah!
+Dialogue: 0,0:16:07.03,0:16:08.41,Gen_Main,Amiga A/Gojo,0000,0000,0000,,-¡Qué pestañotas!\N-Hola.
+Dialogue: 0,0:16:08.57,0:16:11.37,Gen_Main,Amga B/Amiga C,0000,0000,0000,,-¿Por qué tienes los ojos azules?\N-Posa para la foto.
+Dialogue: 0,0:16:12.73,0:16:14.74,Gen_Main,Riko,0000,0000,0000,,¡Oye, no seas payaso!
+Dialogue: 0,0:16:15.00,0:16:16.96,Gen_Main,Maestra,0000,0000,0000,,¡Oigan, señoritas, guarden silencio!
+Dialogue: 0,0:16:17.16,0:16:18.71,Gen_Main,Maestra,0000,0000,0000,,No es propio de unas damas.
+Dialogue: 0,0:16:18.92,0:16:21.13,Gen_Main,Amiga A,0000,0000,0000,,A usted también le interesa,\N¿no, maestra?
+Dialogue: 0,0:16:21.32,0:16:22.42,Gen_Main,Amiga B,0000,0000,0000,,¡Sí, no finja!
+Dialogue: 0,0:16:22.79,0:16:26.46,Gen_Main,Maestra,0000,0000,0000,,Aunque sea un familiar, no debe\Ninterrumpir la clase de esa manera.
+Dialogue: 0,0:16:26.63,0:16:30.09,Gen_Main,Gojo,0000,0000,0000,,Es que es una emergencia.\NDisculpe, profesora.
+Dialogue: 0,0:16:32.97,0:16:34.60,Gen_Main,Maestra,0000,0000,0000,,Este es mi número de teléfono.
+Dialogue: 0,0:16:34.81,0:16:36.73,Gen_Main,Amigas,0000,0000,0000,,¡Oiga, está quebrando el reglamento!
+Dialogue: 0,0:16:34.97,0:16:35.97,Cart_A_Verd,,0000,0000,0000,,{\fad(400,400)\c&HC4FBFC&\fs30\3c&H796140&\frz22.78\pos(192.75,119.5)}Baaang
+Dialogue: 0,0:16:36.78,0:16:39.69,Gen_Main,Maestra,0000,0000,0000,,¡Cállense! ¡Como docente,\Nes difícil conocer a alguien!
+Dialogue: 0,0:16:39.89,0:16:41.86,Gen_Main,Amiga A,0000,0000,0000,,¡También lo es para nosotras!
+Dialogue: 0,0:16:42.06,0:16:44.23,Gen_Main,Amiga B,0000,0000,0000,,¡Qué asco que le gusten más jóvenes!
+Dialogue: 0,0:16:44.44,0:16:46.74,Gen_Main,Maestra,0000,0000,0000,,Las mayores también apreciamos lo bueno.
+Dialogue: 0,0:16:46.94,0:16:48.78,Gen_Main,Gojo,0000,0000,0000,,Qué escuela tan divertida.
+Dialogue: 0,0:16:48.99,0:16:52.07,Gen_Main,Riko,0000,0000,0000,,¡Imbécil, te dije\Nque no aparecieras delante de ellas!
+Dialogue: 0,0:16:52.71,0:16:55.54,Gen_Main,Gojo,0000,0000,0000,,Hechiceros maléficos nos atacan.\NAsí que imagínate.
+Dialogue: 0,0:16:56.91,0:16:58.25,Gen_Main,Riko,0000,0000,0000,,¡¿Estoy flotando?!
+Dialogue: 0,0:17:03.59,0:17:05.25,Gen_Main,Gojo,0000,0000,0000,,Vamos a la Escuela de Brujería.
+Dialogue: 0,0:17:05.60,0:17:08.05,Gen_Main,Gojo,0000,0000,0000,,No querrás\Nque tus amigas salgan involucradas.
+Dialogue: 0,0:17:09.80,0:17:12.15,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,¿Oh? ¿Ahí van mis 30 millones?
+Dialogue: 0,0:17:12.34,0:17:16.10,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,El que está con ella es un colega.\NSí, un guardaespaldas tiene sentido.
+Dialogue: 0,0:17:16.47,0:17:20.52,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,Qué buen trato. 30 millones por una\Ncolegiala que ni siquiera es hechicera.
+Dialogue: 0,0:17:20.81,0:17:24.53,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,Hoy cenaré anguila. La comida sabe\Nexquisita luego de asesinar a alguien.
+Dialogue: 0,0:17:24.69,0:17:27.23,Gen_Main,Kuroi,0000,0000,0000,,¿Lo habrá enviado\Nla Secta del Manto Estelar?
+Dialogue: 0,0:17:27.86,0:17:31.91,Gen_Main,Kuroi,0000,0000,0000,,Porque los agentes de Q lucían\Natuendos todavía más extraños.
+Dialogue: 0,0:17:32.20,0:17:35.78,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,¿Una amateur?\NSi vas a darme, calla y ven por mí.
+Dialogue: 0,0:17:39.87,0:17:41.12,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,Qué lenta eres.
+Dialogue: 0,0:17:54.51,0:17:56.76,Gen_Main,Kuroi,0000,0000,0000,,No le toque ni un pelo a la señorita.
+Dialogue: 0,0:17:57.64,0:17:58.93,Gen_Main,Kuroi,0000,0000,0000,,O lo mataré.
+Dialogue: 0,0:18:04.06,0:18:05.31,Gen_Main,Geto,0000,0000,0000,,Vaya…
+Dialogue: 0,0:18:06.15,0:18:07.90,Gen_Main,Geto,0000,0000,0000,,Resultó ser muy buena, Kuroi.
+Dialogue: 0,0:18:09.03,0:18:10.32,Gen_Main,Geto,0000,0000,0000,,¿Y Riko?
+Dialogue: 0,0:18:11.03,0:18:13.45,Gen_Main,Kuroi,0000,0000,0000,,Salió del campus\Njunto con el señor Gojo.
+Dialogue: 0,0:18:13.66,0:18:16.20,Gen_Main,Geto,0000,0000,0000,,Bien. Tenemos que reunirnos con ellos.
+Dialogue: 0,0:18:16.49,0:18:18.83,Gen_Main,Geto,0000,0000,0000,,La situación\Nse está complicando un poco.
+Dialogue: 0,0:18:20.20,0:18:22.75,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,La de hace rato\Nsí eran mis 30 millones, ¿eh?
+Dialogue: 0,0:18:25.92,0:18:27.09,Gen_Main,Kuroi,0000,0000,0000,,¿Un {\i1}shikigami{\i0}?
+Dialogue: 0,0:18:27.25,0:18:29.67,Gen_Main,Geto,0000,0000,0000,,No, no era precisamente un {\i1}shikigami{\i0}.
+Dialogue: 0,0:18:30.00,0:18:31.26,Gen_Main,Geto,0000,0000,0000,,Satoru…
+Dialogue: 0,0:18:31.55,0:18:34.26,Gen_Main,Gojo,0000,0000,0000,,¿Una recompensa de 30 millones\Npor su cabeza?
+Dialogue: 0,0:18:34.51,0:18:38.05,Gen_Italics,Geto,0000,0000,0000,,Sí. Un sitio ilegal para hechiceros\Nla ofertó con un límite de tiempo
+Dialogue: 0,0:18:38.26,0:18:41.02,Gen_Italics,Geto,0000,0000,0000,,que, al parecer,\Ntermina pasado mañana a las 11:00.
+Dialogue: 0,0:18:41.39,0:18:42.98,Gen_Main,Gojo,0000,0000,0000,,Ahora entiendo.
+Dialogue: 0,0:18:43.85,0:18:45.77,Gen_Main,Riko,0000,0000,0000,,Dos, tres, cuatro de ellos…
+Dialogue: 0,0:18:45.98,0:18:49.07,Gen_Main,Riko,0000,0000,0000,,Todas con la misma apariencia.\N¿Son {\i1}shikigami{\i0}?
+Dialogue: 0,0:18:49.40,0:18:53.49,Gen_Main,Gojo,0000,0000,0000,,Diantres. A los hechiceros buenos\Nnos hace falta personal todo el año.
+Dialogue: 0,0:18:53.70,0:18:56.66,Gen_Main,Gojo,0000,0000,0000,,Te recibimos con los brazos abiertos\Nsi quieres, viejo.
+Dialogue: 0,0:18:56.95,0:18:59.83,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,No, gracias.\NNo debe ser un trabajo muy seguro.
+Dialogue: 0,0:19:00.03,0:19:02.37,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,Con que me des a la chica,\Nno habrá problema.
+Dialogue: 0,0:19:02.58,0:19:04.16,Gen_Main,Riko,0000,0000,0000,,¡Salió otro! ¡Ya son cinco!
+Dialogue: 0,0:19:04.37,0:19:07.50,Gen_Main,Gojo,0000,0000,0000,,¿Qué le ven todos a esta mocosa?
+Dialogue: 0,0:19:16.68,0:19:18.18,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,¿Qué fue eso?
+Dialogue: 0,0:19:18.43,0:19:20.01,Gen_Main,Riko,0000,0000,0000,,¡Los {\i1}shikigami{\i0} no desaparecen!
+Dialogue: 0,0:19:20.22,0:19:21.64,Gen_Main,Riko,0000,0000,0000,,¡¿Cuál es el original?!
+Dialogue: 0,0:19:21.85,0:19:24.31,Gen_Main,Gojo,0000,0000,0000,,No son {\i1}shikigami{\i0}. Son copias suyas.
+Dialogue: 0,0:19:24.68,0:19:26.56,Gen_Main,Gojo,0000,0000,0000,,Cada uno de ellos es el original.
+Dialogue: 0,0:19:31.44,0:19:32.61,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,¡No me puedo mover!
+Dialogue: 0,0:19:32.82,0:19:35.70,Gen_Main,Gojo,0000,0000,0000,,Es el Infinito.\NComo el cuento de Aquiles y la tortuga.
+Dialogue: 0,0:19:36.45,0:19:38.82,Gen_Main,Gojo,0000,0000,0000,,No hay que descuidar el estudio, ¿sabes?
+Dialogue: 0,0:19:40.59,0:19:44.29,Gen_Main,Gojo,0000,0000,0000,,Incluyendo al original, es un ritual\Nque crea un máximo de cinco copias.
+Dialogue: 0,0:19:44.58,0:19:48.21,Gen_Main,Gojo,0000,0000,0000,,Y puedes elegir libremente\Ncuál es el original, ¿no es así?
+Dialogue: 0,0:19:48.42,0:19:52.80,Gen_Main,Gojo,0000,0000,0000,,Si el original está en peligro, haces\Nque una copia que esté segura lo sea.
+Dialogue: 0,0:19:53.05,0:19:54.76,Gen_Main,Gojo,0000,0000,0000,,Posees un poder excelente.
+Dialogue: 0,0:19:55.13,0:19:57.68,Gen_Main,Gojo,0000,0000,0000,,No sé por qué tú mismo eres tan débil.
+Dialogue: 0,0:19:58.76,0:20:02.14,Gen_Main,Gojo,0000,0000,0000,,Cuando destruyen una copia,\Ntardas tiempo en producir otra, ¿eh?
+Dialogue: 0,0:20:02.35,0:20:04.64,Gen_Main,Hechicero Maléfico Joven,0000,0000,0000,,¿Cómo sabes cuál es mi técnica ritual?
+Dialogue: 0,0:20:04.85,0:20:07.98,Gen_Main,Gojo,0000,0000,0000,,Por desgracia para ti,\Nposeo unos ojos excelentes.
+Dialogue: 0,0:20:08.60,0:20:10.71,Gen_Main,Gojo,0000,0000,0000,,Mi técnica ritual\Nes como la convergencia
+Dialogue: 0,0:20:10.91,0:20:13.65,Gen_Main,Gojo,0000,0000,0000,,de una infinidad de series matemáticas,
+Dialogue: 0,0:20:13.86,0:20:16.57,Gen_Main,Gojo,0000,0000,0000,,y todo lo que se me acerca\Nse vuelve más lento.
+Dialogue: 0,0:20:16.78,0:20:19.57,Gen_Main,Gojo,0000,0000,0000,,Y, a fin de cuentas,\Nnunca podrá llegar a mí.
+Dialogue: 0,0:20:20.16,0:20:22.53,Gen_Main,Gojo,0000,0000,0000,,Al reforzar eso,\Nel resultado es el Infinito.
+Dialogue: 0,0:20:22.74,0:20:25.20,Gen_Main,Gojo,0000,0000,0000,,Algo así\Ncomo números naturales negativos.
+Dialogue: 0,0:20:25.50,0:20:29.12,Gen_Main,Gojo,0000,0000,0000,,Y nace una invención ficticia\Ndel tipo de "-1 manzana".
+Dialogue: 0,0:20:29.58,0:20:32.59,Gen_Main,Gojo,0000,0000,0000,,Así puedo crear una reacción\Nde atracción como antes.
+Dialogue: 0,0:20:32.96,0:20:34.59,Gen_Main,Gojo,0000,0000,0000,,Pero no es tan conveniente, ¿eh?
+Dialogue: 0,0:20:35.00,0:20:38.68,Gen_Main,Gojo,0000,0000,0000,,No puedo generar\Nuna reacción muy grande cerca de mí.
+Dialogue: 0,0:20:38.88,0:20:44.01,Gen_Main,Gojo,0000,0000,0000,,Si dirijo el movimiento, la manipulación\Ndel poder maldito es un fastidio.
+Dialogue: 0,0:20:44.47,0:20:46.98,Gen_Main,Gojo,0000,0000,0000,,En otras palabras, me canso a montones.
+Dialogue: 0,0:20:50.44,0:20:54.23,Gen_Main,Gojo,0000,0000,0000,,Bueno, todo esto era sobre\Nla rotación normal de la técnica ritual.
+Dialogue: 0,0:20:56.28,0:20:58.07,Gen_Main,Gojo,0000,0000,0000,,Cúbrete la cabeza.
+Dialogue: 0,0:21:14.71,0:21:16.96,Gen_Main,Gojo,0000,0000,0000,,Ahora esta\Nes la divergencia del Infinito.
+Dialogue: 0,0:21:19.34,0:21:21.05,Gen_Main,Gojo,0000,0000,0000,,Inversión del Ritual,
+Dialogue: 0,0:21:22.55,0:21:23.55,Gen_Main,Gojo,0000,0000,0000,,¡Rojo!
+Dialogue: 0,0:21:38.86,0:21:40.36,Gen_Main,Gojo,0000,0000,0000,,¡No me salió!
+Dialogue: 0,0:21:50.29,0:21:53.21,Gen_Main,Gojo,0000,0000,0000,,Me dio la impresión\Nde que sí la podría hacer.
+Dialogue: 0,0:21:54.29,0:21:56.29,Gen_Italics,Riko,0000,0000,0000,,En serio, ¿este tipo qué se cree?
+Dialogue: 0,0:21:59.17,0:22:00.76,Gen_Main,Riko,0000,0000,0000,,Un mensaje de Kuroi.
+Dialogue: 0,0:22:02.97,0:22:05.80,Gen_Main,Riko,0000,0000,0000,,¿Qué vamos a hacer? ¡Está en apuros!
+Dialogue: 0,0:22:06.14,0:22:07.43,Gen_Main,Riko,0000,0000,0000,,¡Kuroi está en apuros!
+Dialogue: 0,0:23:36.81,0:23:39.94,Cart_A_Tre,Gojo,0000,0000,0000,,{\b0\fs20\bord1.5\3c&H161622&}Traducción: Abraham Gayuvas y Antonio Valdez\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:40.48,0:23:44.57,Gen_Main,Kuroi,0000,0000,0000,,Quiero que los jóvenes aprendan\Nde mi ejemplo. Siempre voy a votar.
+Dialogue: 0,0:23:44.78,0:23:47.95,Gen_Main,Kuroi,0000,0000,0000,,Pero no sé hasta cuándo\Npueda llamarme una chica joven.
+Dialogue: 0,0:23:48.11,0:23:50.70,Gen_Main,Kuroi,0000,0000,0000,,Próximamente:\N"El tesoro escondido, parte 3".
+Dialogue: 0,0:23:48.16,0:23:55.02,Cart_A_Tim,Shoko,0000,0000,0000,,{\pos(320,111.15)\bord2.5\blur3}Próximo episodio\N\N\N\N\N\N\N\N\N\N\N{\fs30}El tesoro escondido - Parte 3 -
+Dialogue: 0,0:23:50.91,0:23:54.49,Gen_Main,Riko,0000,0000,0000,,-¿Cuántos años tienes, Kuroi?\N-Es un {\i1}checreto{\i0}. Qué {\i1}lindíchima{\i0} {\i1}choy{\i0}.
+

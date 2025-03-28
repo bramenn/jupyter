@@ -1,0 +1,309 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleEp,Times New Roman,22,&H00E7EAE4,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,9,0020,0028,0020,1
+Style: Cart_TitleNext,Times New Roman,20,&H00FCFFFF,&H000000FF,&H00313131,&H00313131,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0050,1
+Style: Cart_C_TreNo,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Times New Roman,56,&H00000000,&H000000FF,&H00B7BD80,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_Intermedio,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_Meeting,Arial,24,&H00151815,&H000000FF,&H00F9FEFC,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0020,0020,0070,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.98,0:00:07.98,Cart_TitleEp,Screen,0000,0000,0000,,{\fad(522,514)\an7\pos(378,277)}Episodio 19: Destello Negro
+Dialogue: 0,0:00:10.93,0:00:14.74,Gen_Main,Fushiguro,0000,0000,0000,,-¿Estás bien, Inumaki?\N-Salmón.
+Dialogue: 0,0:00:15.57,0:00:16.62,Gen_Main,Kamo,0000,0000,0000,,¡Ya viene!
+Dialogue: 0,0:00:17.49,0:00:18.45,Gen_Main,Toge,0000,0000,0000,,Alto.
+Dialogue: 0,0:00:20.45,0:00:21.45,Gen_Main,Kamo,0000,0000,0000,,¡Convergencia!
+Dialogue: 0,0:00:21.95,0:00:23.12,Gen_Main,Kamo,0000,0000,0000,,¡Sangre Perforante!
+Dialogue: 0,0:00:25.88,0:00:27.42,Gen_Italics,Fushiguro,0000,0000,0000,,¿Le hizo daño?
+Dialogue: 0,0:00:28.13,0:00:30.87,Gen_Italics,Fushiguro,0000,0000,0000,,¿Significa que se contuvo en mi contra?
+Dialogue: 0,0:00:32.21,0:00:34.93,Gen_Main,Kamo,0000,0000,0000,,¡Deprisa! ¡No tardará en sanarse!
+Dialogue: 0,0:00:37.34,0:00:41.31,Gen_Italics,Kamo,0000,0000,0000,,Inumaki hace que pare,\Natacamos y escapamos.
+Dialogue: 0,0:00:41.52,0:00:46.07,Gen_Italics,Kamo,0000,0000,0000,,Seguiremos así para poder dejar el Velo\Ny reunirnos con el director y el resto.
+Dialogue: 0,0:00:47.35,0:00:51.34,Gen_Italics,Kamo,0000,0000,0000,,Pero no sabemos hasta cuándo\Npodremos mantener este equilibrio.
+Dialogue: 0,0:00:53.32,0:00:55.93,Gen_Italics,Kamo,0000,0000,0000,,Su Discurso Maldito no surte\Nmucho efecto
+Dialogue: 0,0:00:56.07,0:00:58.32,Gen_Italics,Kamo,0000,0000,0000,,y no podemos contactar a los profesores.
+Dialogue: 0,0:00:59.49,0:01:03.02,Gen_Main,Kamo,0000,0000,0000,,Si descubre cómo lidiar\Ncontra el Discurso Maldito, se acabó.
+Dialogue: 0,0:01:06.30,0:01:07.36,Gen_Main,Kamo,0000,0000,0000,,¡Deprisa!
+Dialogue: 0,0:01:10.17,0:01:12.51,Gen_Italics,Kamo,0000,0000,0000,,No sabemos cuál es su objetivo.
+Dialogue: 0,0:01:12.71,0:01:15.40,Gen_Italics,Kamo,0000,0000,0000,,Es posible que el director\Ny los demás hechiceros
+Dialogue: 0,0:01:15.62,0:01:17.48,Gen_Italics,Kamo,0000,0000,0000,,no hayan reaccionado.
+Dialogue: 0,0:01:18.98,0:01:20.67,Gen_Italics,Kamo,0000,0000,0000,,Quisiera reunirme con Toudou.
+Dialogue: 0,0:01:20.85,0:01:23.90,Gen_Italics,Kamo,0000,0000,0000,,O, al menos, con Miwa…
+Dialogue: 0,0:01:35.64,0:01:37.36,Gen_Main,Fushiguro,0000,0000,0000,,Inumaki lo detendrá.
+Dialogue: 0,0:01:37.53,0:01:38.70,Gen_Main,Fushiguro,0000,0000,0000,,¡Ve con confianza!
+Dialogue: 0,0:01:39.91,0:01:40.91,Gen_Main,Toge,0000,0000,0000,,¡Det…!
+Dialogue: 0,0:01:49.15,0:01:51.48,Gen_Italics,Kamo,0000,0000,0000,,¿Fue el primero en alcanzar su límite?
+Dialogue: 0,0:02:00.85,0:02:02.75,Gen_Main,Fushiguro,0000,0000,0000,,¿Sigues vivo, Kamo?
+Dialogue: 0,0:02:06.91,0:02:10.54,Gen_Italics,Fushiguro,0000,0000,0000,,No usaba palabras fuertes,\Npero su garganta no puede más.
+Dialogue: 0,0:02:11.36,0:02:15.51,Gen_Italics,Fushiguro,0000,0000,0000,,¡Así de enorme es\Nla diferencia de poder!
+Dialogue: 0,0:02:22.66,0:02:23.74,Gen_Main,Toge,0000,0000,0000,,Hoja de mostaza.
+Dialogue: 0,0:02:26.29,0:02:27.76,Gen_Main,Fushiguro,0000,0000,0000,,¡Inumaki!
+Dialogue: 0,0:02:28.50,0:02:29.73,Gen_Main,Fushiguro,0000,0000,0000,,¡Ya basta!
+Dialogue: 0,0:02:40.43,0:02:41.64,Gen_Main,Toge,0000,0000,0000,,¡Sal volando!
+Dialogue: 0,0:03:00.07,0:03:03.19,Gen_Main,Hanami,0000,0000,0000,,No me cortarás con esa hoja sin filo.
+Dialogue: 0,0:03:16.52,0:03:18.98,Gen_Main,Fushiguro,0000,0000,0000,,Sus ojos con forma de rama\Nson más frágiles.
+Dialogue: 0,0:03:20.01,0:03:22.91,Gen_Main,Hanami,0000,0000,0000,,Esa espada no está tan mal.
+Dialogue: 0,0:03:27.18,0:03:28.90,Gen_Main,Maki,0000,0000,0000,,Tenemos algo mejor.
+Dialogue: 0,0:03:30.22,0:03:34.30,Gen_Main,Maki,0000,0000,0000,,Pero no es nada agradable de utilizar.
+Dialogue: 0,0:03:37.69,0:03:41.58,Gen_Main,Ijichi,0000,0000,0000,,Las herramientas malditas son\Narmas impregnadas de maldiciones.
+Dialogue: 0,0:03:42.86,0:03:45.29,Gen_Main,Ijichi,0000,0000,0000,,Según su fuerza y su efecto,
+Dialogue: 0,0:03:45.52,0:03:49.70,Gen_Main,Ijichi,0000,0000,0000,,se dividen en clases, de la primera\Na la cuarta, como los hechiceros.
+Dialogue: 0,0:03:50.45,0:03:52.60,Gen_Main,Ijichi,0000,0000,0000,,Una herramienta maldita mejor calificada
+Dialogue: 0,0:03:52.75,0:03:56.67,Gen_Main,Ijichi,0000,0000,0000,,otorga una mayor ventaja\Nen una contienda de hechicería.
+Dialogue: 0,0:03:57.42,0:04:00.16,Gen_Main,Maki,0000,0000,0000,,Megumi, más te vale no perderla.
+Dialogue: 0,0:04:00.34,0:04:01.79,Gen_Main,Fushiguro,0000,0000,0000,,¿Por qué la perdería?
+Dialogue: 0,0:04:02.30,0:04:04.77,Gen_Main,Maki,0000,0000,0000,,Podría venderse por 5000 millones.
+Dialogue: 0,0:04:06.26,0:04:09.14,Gen_Main,Maki,0000,0000,0000,,Arma maldita de clase especial:\N¡Nube Errante!
+Dialogue: 0,0:04:24.24,0:04:26.85,Gen_Main,Hanami,0000,0000,0000,,Admito que es una buena arma.
+Dialogue: 0,0:04:28.91,0:04:30.37,Gen_Main,Fushiguro,0000,0000,0000,,Perro Demonio…
+Dialogue: 0,0:04:30.87,0:04:35.46,Gen_Italics,Fushiguro,0000,0000,0000,,Con la excepción de mi ritual expandido,\NPozo sin Fondo,
+Dialogue: 0,0:04:35.62,0:04:37.89,Gen_Italics,Fushiguro,0000,0000,0000,,si destruyen alguno de mis 10 shikigami,
+Dialogue: 0,0:04:38.29,0:04:41.13,Gen_Italics,Fushiguro,0000,0000,0000,,no puedo volver a manifestarlo.
+Dialogue: 0,0:04:44.97,0:04:50.51,Gen_Italics,Fushiguro,0000,0000,0000,,Sin embargo, el poder y las técnicas\Ndel shikigami eliminado
+Dialogue: 0,0:04:53.06,0:04:55.49,Gen_Italics,Fushiguro,0000,0000,0000,,pueden legarse a los demás.
+Dialogue: 0,0:04:59.23,0:05:00.61,Gen_Main,Fushiguro,0000,0000,0000,,¡Cabal!
+Dialogue: 0,0:05:06.61,0:05:07.61,Gen_Main,Hanami,0000,0000,0000,,Qué veloz.
+Dialogue: 0,0:05:07.78,0:05:10.31,Gen_Main,Hanami,0000,0000,0000,,¿Intenta arrancarme el brazo lastimado?
+Dialogue: 0,0:05:12.66,0:05:15.58,Gen_Main,Hanami,0000,0000,0000,,El joven hechicero está en el bosque…
+Dialogue: 0,0:05:19.88,0:05:21.62,Gen_Main,Hanami,0000,0000,0000,,La espada del joven.
+Dialogue: 0,0:05:24.76,0:05:26.01,Gen_Main,Fushiguro,0000,0000,0000,,¡Maki!
+Dialogue: 0,0:05:34.89,0:05:37.69,Gen_Main,Fushiguro,0000,0000,0000,,¡No vuelvas a hacerme usar\Nese báculo partido en tres!
+Dialogue: 0,0:05:38.26,0:05:39.67,Gen_Main,Fushiguro,0000,0000,0000,,¡Es muy complicado!
+Dialogue: 0,0:05:39.81,0:05:41.11,Gen_Main,Maki,0000,0000,0000,,Cuando te acostumbras…
+Dialogue: 0,0:05:41.48,0:05:42.53,Gen_Main,Maki,0000,0000,0000,,¡Megumi!
+Dialogue: 0,0:05:47.65,0:05:48.66,Gen_Main,Fushiguro,0000,0000,0000,,¡Maki!
+Dialogue: 0,0:05:49.13,0:05:51.13,Gen_Italics,Fushiguro,0000,0000,0000,,¡Maldición! ¡Todo por mi descuido!
+Dialogue: 0,0:05:53.87,0:05:56.55,Gen_Main,Hanami,0000,0000,0000,,Había apuntado al corazón.
+Dialogue: 0,0:05:56.71,0:05:58.78,Gen_Main,Hanami,0000,0000,0000,,Excelente reacción.
+Dialogue: 0,0:06:00.04,0:06:04.20,Gen_Main,Hanami,0000,0000,0000,,Los hechiceros pueden ser\Nextraordinariamente compasivos.
+Dialogue: 0,0:06:04.76,0:06:08.68,Gen_Main,Hanami,0000,0000,0000,,Siempre bajan la guardia\Ncuando un aliado se lastima.
+Dialogue: 0,0:06:11.61,0:06:13.02,Gen_Italics,Maki,0000,0000,0000,,¡¿Lo destruyó?!
+Dialogue: 0,0:06:13.56,0:06:16.66,Gen_Italics,Maki,0000,0000,0000,,No, Megumi desactivó el ritual.
+Dialogue: 0,0:06:17.73,0:06:20.51,Gen_Main,Hanami,0000,0000,0000,,No deberías usar más rituales.
+Dialogue: 0,0:06:21.58,0:06:25.54,Gen_Main,Hanami,0000,0000,0000,,El brote incrustado en ti\Nama la energía maldita.
+Dialogue: 0,0:06:25.69,0:06:30.66,Gen_Main,Hanami,0000,0000,0000,,Cuantos más rituales uses,\Nmás extenderá sus raíces dentro de ti.
+Dialogue: 0,0:06:31.12,0:06:32.92,Gen_Main,Fushiguro,0000,0000,0000,,Cuánta consideración.
+Dialogue: 0,0:06:33.08,0:06:35.16,Gen_Main,Fushiguro,0000,0000,0000,,Aunque planeas matarnos de todas formas.
+Dialogue: 0,0:06:35.66,0:06:38.92,Gen_Main,Hanami,0000,0000,0000,,Actúa más rápido\Ncuando explico lo que hace.
+Dialogue: 0,0:06:41.28,0:06:43.22,Gen_Main,Hanami,0000,0000,0000,,Te mueves bien.
+Dialogue: 0,0:06:48.84,0:06:52.24,Gen_Main,Hanami,0000,0000,0000,,Pero ya no lo haces tan bien\Ncomo al principio.
+Dialogue: 0,0:06:59.25,0:07:01.88,Gen_Main,Fushiguro,0000,0000,0000,,Extraeré mi energía maldita
+Dialogue: 0,0:07:02.40,0:07:05.15,Gen_Main,Fushiguro,0000,0000,0000,,¡aunque me desgarre el estómago!
+Dialogue: 0,0:07:06.40,0:07:08.51,Gen_Main,Fushiguro,0000,0000,0000,,No soy como el resto.
+Dialogue: 0,0:07:09.61,0:07:11.78,Gen_Main,Fushiguro,0000,0000,0000,,Yo elijo a quién proteger.
+Dialogue: 0,0:07:13.41,0:07:16.32,Gen_Main,Fushiguro,0000,0000,0000,,Yo soy el que tiene\Nmenos responsabilidades.
+Dialogue: 0,0:07:16.88,0:07:18.20,Gen_Main,Fushiguro,0000,0000,0000,,Por eso…
+Dialogue: 0,0:07:19.53,0:07:26.09,Gen_Main,Fushiguro,0000,0000,0000,,¡no puedo permitirme caer\Nantes que el resto!
+Dialogue: 0,0:07:28.71,0:07:30.61,Gen_Main,Maki,0000,0000,0000,,¡Megumi, detente!
+Dialogue: 0,0:07:35.22,0:07:37.94,Gen_Main,Maki,0000,0000,0000,,Nuestro trabajo terminó.
+Dialogue: 0,0:07:38.10,0:07:39.90,Gen_Main,Maki,0000,0000,0000,,Es hora del relevo.
+Dialogue: 0,0:07:55.70,0:07:58.58,Gen_Main,Toudou,0000,0000,0000,,¿Puedes pelear, amigo mío?
+Dialogue: 0,0:08:02.29,0:08:03.94,Gen_Main,Yuuji,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:24.00,0:09:27.77,Cart_TitleSeries,,0000,0000,0000,,{\fad(1398,1)\c&H0F0D09&\3c&HB7BD80&\t(1236,1817,1 \3c&H85A2A4&)\t(1819,2945,1\3c&H95DED9&)}JUJUTSU KAISEN
+Dialogue: 0,0:09:39.34,0:09:41.05,Gen_Main,Momo,0000,0000,0000,,¡Qué pesados!
+Dialogue: 0,0:09:41.93,0:09:45.01,Gen_Italics,Momo,0000,0000,0000,,No puedo creer que pudieran\Ndejarlos así de mal…
+Dialogue: 0,0:09:45.85,0:09:48.27,Gen_Main,Momo,0000,0000,0000,,Contamos contigo, Toudou.
+Dialogue: 0,0:09:49.56,0:09:53.14,Gen_Main,Momo,0000,0000,0000,,Ser fuerte es lo único bueno que tienes.
+Dialogue: 0,0:09:57.65,0:09:59.54,Gen_Main,Fushiguro,0000,0000,0000,,¡Detente, Itadori!
+Dialogue: 0,0:09:59.70,0:10:01.70,Gen_Main,Fushiguro,0000,0000,0000,,No es algo contra lo que podamos…
+Dialogue: 0,0:10:05.12,0:10:06.12,Gen_Main,Toudou,0000,0000,0000,,Panda.
+Dialogue: 0,0:10:06.46,0:10:07.76,Gen_Main,Panda,0000,0000,0000,,¿Dime?
+Dialogue: 0,0:10:09.15,0:10:11.69,Gen_Main,Toudou,0000,0000,0000,,Llévatelos y sácalos del Velo.
+Dialogue: 0,0:10:11.96,0:10:16.01,Gen_Main,Toudou,0000,0000,0000,,Según Nishimiya,\Nes un Velo anti Satoru Gojou,
+Dialogue: 0,0:10:16.55,0:10:19.26,Gen_Main,Toudou,0000,0000,0000,,así que podemos entrar y salir a gusto.
+Dialogue: 0,0:10:19.43,0:10:22.54,Gen_Main,Fushiguro,0000,0000,0000,,-¡Espera! Ni siquiera tú…\N-Fushiguro.
+Dialogue: 0,0:10:26.56,0:10:27.89,Gen_Main,Yuuji,0000,0000,0000,,Tranquilo.
+Dialogue: 0,0:10:28.14,0:10:29.14,Gen_Main,Yuuji,0000,0000,0000,,Por favor.
+Dialogue: 0,0:10:31.92,0:10:33.80,Gen_Main,Toudou,0000,0000,0000,,Parece que te diste cuenta.
+Dialogue: 0,0:10:34.19,0:10:38.70,Gen_Main,Toudou,0000,0000,0000,,Nadie puede detener a aquellos\Nque comenzaron a abrir las alas.
+Dialogue: 0,0:10:39.14,0:10:42.18,Gen_Main,Toudou,0000,0000,0000,,E Itadori está pasando\Njustamente por esa etapa.
+Dialogue: 0,0:10:43.33,0:10:45.24,Gen_Main,Fushiguro,0000,0000,0000,,¡Si vuelves a morir, te mato!
+Dialogue: 0,0:10:45.68,0:10:48.04,Gen_Main,Panda,0000,0000,0000,,Bueno, vámonos.
+Dialogue: 0,0:10:49.04,0:10:50.60,Gen_Main,Panda,0000,0000,0000,,¡Pandash!
+Dialogue: 0,0:10:51.21,0:10:54.17,Gen_Main,Yuuji,0000,0000,0000,,Pues parece\Nque no tengo permitido morir.
+Dialogue: 0,0:10:55.46,0:10:57.67,Gen_Main,Toudou,0000,0000,0000,,No pienso interferir,
+Dialogue: 0,0:10:58.25,0:10:59.41,Gen_Main,Toudou,0000,0000,0000,,Itadori.
+Dialogue: 0,0:11:00.01,0:11:02.86,Gen_Main,Toudou,0000,0000,0000,,No hasta que asestes un Destello Negro.
+Dialogue: 0,0:11:03.90,0:11:05.74,Gen_Main,Toudou,0000,0000,0000,,Si no lanzas un Destello Negro,
+Dialogue: 0,0:11:05.89,0:11:08.11,Gen_Main,Toudou,0000,0000,0000,,sin importar lo que pase,
+Dialogue: 0,0:11:08.27,0:11:10.81,Gen_Main,Toudou,0000,0000,0000,,observaré tu muerte desde aquí.
+Dialogue: 0,0:11:11.70,0:11:12.81,Gen_Main,Yuuji,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:11:13.15,0:11:17.09,Gen_Italics,Hanami,0000,0000,0000,,El recipiente de Sukuna y…\N¿quién será ese hombre?
+Dialogue: 0,0:11:17.94,0:11:19.47,Gen_Italics,Hanami,0000,0000,0000,,Admito que es imponente,
+Dialogue: 0,0:11:20.07,0:11:22.32,Gen_Italics,Hanami,0000,0000,0000,,pero su cantidad de energía maldita
+Dialogue: 0,0:11:22.70,0:11:25.25,Gen_Italics,Hanami,0000,0000,0000,,sigue siendo inferior a la mía.
+Dialogue: 0,0:11:26.22,0:11:28.56,Gen_Italics,Hanami,0000,0000,0000,,Sin embargo,\Nmuestra un misterioso descaro.
+Dialogue: 0,0:11:28.70,0:11:31.30,Gen_Italics,Hanami,0000,0000,0000,,Ha de tener un buen ritual,
+Dialogue: 0,0:11:31.70,0:11:34.84,Gen_Italics,Hanami,0000,0000,0000,,pues no pude moverme\Nsin tenerlo presente.
+Dialogue: 0,0:11:35.42,0:11:37.31,Gen_Italics,Hanami,0000,0000,0000,,¿Y qué será eso del Destello Negro?
+Dialogue: 0,0:11:38.46,0:11:40.37,Gen_Italics,Hanami,0000,0000,0000,,Veamos, ¿cómo atacarán?
+Dialogue: 0,0:11:43.05,0:11:45.89,Gen_Main,Yuuji,0000,0000,0000,,Oye, ¿puedes hablar?
+Dialogue: 0,0:11:47.43,0:11:49.43,Gen_Main,Yuuji,0000,0000,0000,,Quiero preguntarte algo.
+Dialogue: 0,0:11:51.39,0:11:53.01,Gen_Main,Yuuji,0000,0000,0000,,¿Tienes como aliado
+Dialogue: 0,0:11:53.56,0:11:57.14,Gen_Main,Yuuji,0000,0000,0000,,a un espíritu humanoide\Ncon el rostro hecho de retazos?
+Dialogue: 0,0:11:58.73,0:12:01.14,Gen_Main,Hanami,0000,0000,0000,,¿Y si te dijera que sí?
+Dialogue: 0,0:12:04.88,0:12:07.06,Gen_Main,Hanami,0000,0000,0000,,No acorta la distancia sin cuidado.
+Dialogue: 0,0:12:07.24,0:12:09.54,Gen_Main,Hanami,0000,0000,0000,,Tengo que reconocerlo.
+Dialogue: 0,0:12:11.21,0:12:12.28,Gen_Italics,Hanami,0000,0000,0000,,Es rápido.
+Dialogue: 0,0:12:12.46,0:12:15.08,Gen_Italics,Hanami,0000,0000,0000,,Su energía es más explosiva\Nque la de la chica.
+Dialogue: 0,0:12:15.79,0:12:18.88,Gen_Italics,Hanami,0000,0000,0000,,Sin embargo, tiene menos intensidad.
+Dialogue: 0,0:12:19.71,0:12:21.34,Gen_Italics,Yuuji,0000,0000,0000,,Tiene el torso descubierto.
+Dialogue: 0,0:12:21.51,0:12:24.17,Gen_Italics,Yuuji,0000,0000,0000,,Baja la guardia\Nporque contuve mi fuerza.
+Dialogue: 0,0:12:24.50,0:12:25.84,Gen_Italics,Yuuji,0000,0000,0000,,¡Ahora puedo arremeter!
+Dialogue: 0,0:12:26.01,0:12:27.01,Gen_Main,Yuuji,0000,0000,0000,,¡Destello Negro!
+Dialogue: 0,0:12:32.10,0:12:33.60,Gen_Italics,Yuuji,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:12:39.86,0:12:41.22,Gen_Main,Toudou,0000,0000,0000,,Amigo mío.
+Dialogue: 0,0:12:44.78,0:12:48.69,Gen_Main,Toudou,0000,0000,0000,,La ira es un detonante importante\Npara los hechiceros.
+Dialogue: 0,0:12:49.24,0:12:51.61,Gen_Main,Toudou,0000,0000,0000,,A veces pueden ganar un encuentro
+Dialogue: 0,0:12:51.85,0:12:54.42,Gen_Main,,0000,0000,0000,,porque hicieron enojar al rival.
+Dialogue: 0,0:12:55.83,0:12:57.82,Gen_Main,Toudou,0000,0000,0000,,Lo contrario también ocurre.
+Dialogue: 0,0:12:58.00,0:13:01.63,Gen_Main,Toudou,0000,0000,0000,,Pueden perder porque su propia ira\Nperturba su energía
+Dialogue: 0,0:13:01.84,0:13:03.92,Gen_Main,,0000,0000,0000,,y no pueden usar bien sus habilidades.
+Dialogue: 0,0:13:04.83,0:13:06.69,Gen_Main,Toudou,0000,0000,0000,,Tu amigo está herido
+Dialogue: 0,0:13:06.84,0:13:11.57,Gen_Main,Toudou,0000,0000,0000,,y se arruinó tu luna de miel conmigo,\Ntu mejor amigo.
+Dialogue: 0,0:13:11.72,0:13:16.50,Gen_Main,Toudou,0000,0000,0000,,No me extraña\Nque estés hirviendo de rabia.
+Dialogue: 0,0:13:17.40,0:13:20.35,Gen_Main,Toudou,0000,0000,0000,,Pero ese enojo te está superando.
+Dialogue: 0,0:13:21.27,0:13:22.98,Gen_Main,Toudou,0000,0000,0000,,Tienes que contenerlo.
+Dialogue: 0,0:13:26.24,0:13:28.95,Gen_Italics,Hanami,0000,0000,0000,,¿Se están peleando?
+Dialogue: 0,0:13:30.16,0:13:32.95,Gen_Main,Toudou,0000,0000,0000,,Dime, ¿ya te despejaste?
+Dialogue: 0,0:13:34.62,0:13:37.12,Gen_Main,Yuuji,0000,0000,0000,,Sí, completamente.
+Dialogue: 0,0:13:37.87,0:13:41.36,Gen_Main,Yuuji,0000,0000,0000,,¡Muchísimas gracias, mejor amigo!
+Dialogue: 0,0:13:43.42,0:13:45.00,Gen_Italics,Toudou,0000,0000,0000,,El Destello Negro.
+Dialogue: 0,0:13:45.17,0:13:49.52,Gen_Italics,Toudou,0000,0000,0000,,Una distorsión en el espacio\Nque surge cuando la energía maldita
+Dialogue: 0,0:13:49.68,0:13:54.18,Gen_Italics,,0000,0000,0000,,se libera una billonésima de segundo\Ndespués de un golpe.
+Dialogue: 0,0:13:54.85,0:13:58.69,Gen_Italics,Toudou,0000,0000,0000,,Proporciona 2.5 veces\Nla fuerza de un golpe normal.
+Dialogue: 0,0:13:59.25,0:14:03.06,Gen_Italics,Toudou,0000,0000,0000,,No hay hechiceros que puedan usar\Nel Destello Negro de forma consistente.
+Dialogue: 0,0:14:03.90,0:14:05.69,Gen_Italics,Toudou,0000,0000,0000,,Sin embargo,
+Dialogue: 0,0:14:06.17,0:14:10.09,Gen_Italics,Toudou,0000,0000,0000,,existe un mundo de diferencia\Nentre los núcleos de energía maldita
+Dialogue: 0,0:14:10.87,0:14:15.70,Gen_Italics,Toudou,0000,0000,0000,,de los que han experimentado\Nel Destello Negro y los que no.
+Dialogue: 0,0:14:21.88,0:14:24.01,Gen_Italics,Hanami,0000,0000,0000,,Cuánta concentración.
+Dialogue: 0,0:14:24.63,0:14:30.97,Gen_Italics,Toudou,0000,0000,0000,,Cuando se libera energía una billonésima\Nde segundo después de un golpe…
+Dialogue: 0,0:14:33.01,0:14:34.56,Gen_Italics,Toudou,0000,0000,0000,,el espacio se distorsiona…
+Dialogue: 0,0:14:35.27,0:14:37.77,Gen_Italics,Toudou,0000,0000,0000,,y la energía maldita\Nbrilla de color negro.
+Dialogue: 0,0:14:38.64,0:14:40.10,Gen_Main,Yuuji,0000,0000,0000,,¡Destello Negro!
+Dialogue: 0,0:14:43.88,0:14:45.09,Gen_Main,Hanami,0000,0000,0000,,¡¿Qué…?!
+Dialogue: 0,0:14:50.86,0:14:52.56,Gen_Main,Toudou,0000,0000,0000,,Ha progresado.
+Dialogue: 0,0:14:56.20,0:14:58.98,Cart_Intermedio,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:15:01.63,0:15:03.96,Cart_Intermedio,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:15:10.93,0:15:12.59,Gen_Main,Toudou,0000,0000,0000,,Ha progresado.
+Dialogue: 0,0:15:16.93,0:15:20.10,Gen_Main,Yuuji,0000,0000,0000,,¿Eso fue el Destello Negro?
+Dialogue: 0,0:15:21.52,0:15:22.74,Gen_Italics,Yuuji,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:15:23.19,0:15:26.85,Gen_Italics,,0000,0000,0000,,Esta es mi energía maldita, ¿no?
+Dialogue: 0,0:15:27.03,0:15:30.11,Gen_Main,Toudou,0000,0000,0000,,Ahora aprecias\Nel sabor de la energía maldita.
+Dialogue: 0,0:15:34.45,0:15:39.08,Gen_Main,Toudou,0000,0000,0000,,Hasta la fecha habías estado\Nlanzando ingredientes a la olla
+Dialogue: 0,0:15:39.42,0:15:44.08,Gen_Main,,0000,0000,0000,,sin siquiera probarlos\Ny sin saber el porqué.
+Dialogue: 0,0:15:44.71,0:15:47.25,Gen_Main,Toudou,0000,0000,0000,,Pero tras experimentar el Destello Negro
+Dialogue: 0,0:15:47.42,0:15:50.56,Gen_Main,Toudou,0000,0000,0000,,y descubrir el sabor\Nde tu propia energía maldita,
+Dialogue: 0,0:15:51.63,0:15:56.60,Gen_Main,Toudou,0000,0000,0000,,eres mucho mejor chef de lo que\Nlo eras hasta hace tres segundos.
+Dialogue: 0,0:15:57.26,0:16:00.10,Gen_Main,Toudou,0000,0000,0000,,{\i1}Congratulations, brother.{\i0}
+Dialogue: 0,0:16:00.85,0:16:03.60,Gen_Main,Toudou,0000,0000,0000,,Podrás fortalecerte.
+Dialogue: 0,0:16:04.23,0:16:09.36,Gen_Italics,Hanami,0000,0000,0000,,Me dijeron que el recipiente de Sukuna\Nera inmaduro como hechicero,
+Dialogue: 0,0:16:09.82,0:16:12.77,Gen_Italics,Hanami,0000,0000,0000,,pero tanto él\Ncomo ese hombre misterioso…
+Dialogue: 0,0:16:12.95,0:16:16.62,Gen_Italics,Hanami,0000,0000,0000,,tienen algo que los diferencia\Nde la muchedumbre.
+Dialogue: 0,0:16:16.78,0:16:18.54,Gen_Main,Yuuji,0000,0000,0000,,¿Puede sanarse?
+Dialogue: 0,0:16:18.70,0:16:21.98,Gen_Main,Toudou,0000,0000,0000,,Su cuerpo está conformado\Npor energía maldita.
+Dialogue: 0,0:16:22.12,0:16:27.07,Gen_Main,Toudou,0000,0000,0000,,A diferencia de nosotros, no necesita\Nun ritual inverso avanzado para sanarse.
+Dialogue: 0,0:16:27.79,0:16:31.63,Gen_Main,Toudou,0000,0000,0000,,Una herida como esa no es nada\Npara un categoría especial.
+Dialogue: 0,0:16:32.11,0:16:35.47,Gen_Main,Toudou,0000,0000,0000,,Aun así, tiene que consumir energía\Npara sanarse,
+Dialogue: 0,0:16:35.64,0:16:38.39,Gen_Main,Toudou,0000,0000,0000,,y si le aplastas la cabeza,\Nse acabó el juego.
+Dialogue: 0,0:16:39.21,0:16:42.39,Gen_Main,Toudou,0000,0000,0000,,Dime, ¿comenzamos a cocinar?
+Dialogue: 0,0:16:44.25,0:16:47.90,Gen_Main,Hanami,0000,0000,0000,,Al parecer, contra ustedes…
+Dialogue: 0,0:16:49.48,0:16:53.65,Gen_Main,Hanami,0000,0000,0000,,tendré que pelear\Nrelativamente en serio.
+Dialogue: 0,0:17:11.92,0:17:14.40,Gen_Main,Yuuji,0000,0000,0000,,¡Es un ataque muy amplio!
+Dialogue: 0,0:17:14.64,0:17:17.68,Gen_Main,Toudou,0000,0000,0000,,¡No flaquees! ¡Tanto alcance\Nlo vuelve más lento y débil!
+Dialogue: 0,0:17:26.14,0:17:27.14,Gen_Italics,Hanami,0000,0000,0000,,¡Qué fuerza!
+Dialogue: 0,0:17:27.31,0:17:30.69,Gen_Italics,Hanami,0000,0000,0000,,Sus golpes no son tan terribles\Ncomo el del destello,
+Dialogue: 0,0:17:31.18,0:17:36.27,Gen_Italics,Hanami,0000,0000,0000,,pero contienen la potencia necesaria\Npara hacerme daño poco a poco.
+Dialogue: 0,0:17:36.98,0:17:40.91,Gen_Main,Yuuji,0000,0000,0000,,-¡Toudou! ¡Sincronicémonos!\N-¡Sí!
+Dialogue: 0,0:17:43.66,0:17:45.00,Gen_Italics,Yuuji,0000,0000,0000,,¡No hay qué pisar!
+Dialogue: 0,0:17:45.16,0:17:46.37,Gen_Italics,Toudou,0000,0000,0000,,¡Me equivoqué!
+Dialogue: 0,0:17:46.54,0:17:51.25,Gen_Italics,,0000,0000,0000,,¡Creía que hacía fluir su energía\Npor objetos para controlar tanta masa,
+Dialogue: 0,0:17:51.94,0:17:55.36,Gen_Italics,Toudou,0000,0000,0000,,pero todo era una manifestación\Nde su propia energía maldita!
+Dialogue: 0,0:17:55.51,0:17:57.26,Gen_Italics,Toudou,0000,0000,0000,,¡Propio de un categoría especial!
+Dialogue: 0,0:17:58.05,0:18:01.14,Gen_Main,Hanami,0000,0000,0000,,¡Les enseñaré a respetar la tierra!
+Dialogue: 0,0:18:01.51,0:18:03.82,Gen_Italics,Toudou,0000,0000,0000,,¿Ataca mientras caemos? ¡Brutal!
+Dialogue: 0,0:18:03.97,0:18:04.89,Gen_Main,Toudou,0000,0000,0000,,Pero…
+Dialogue: 0,0:18:05.06,0:18:06.10,Gen_Italics,Toudou,0000,0000,0000,,¡Brother!
+Dialogue: 0,0:18:10.06,0:18:11.44,Gen_Italics,Hanami,0000,0000,0000,,¿Lo esquivaron?
+Dialogue: 0,0:18:11.96,0:18:13.44,Gen_Italics,Hanami,0000,0000,0000,,Pero ¿qué será…?
+Dialogue: 0,0:18:14.33,0:18:16.82,Gen_Italics,Hanami,0000,0000,0000,,¿Qué será esto que siento?
+Dialogue: 0,0:18:23.58,0:18:27.29,Gen_Main,Mahito,0000,0000,0000,,Hanami, no te vendría mal\Nun poco más de sinceridad.
+Dialogue: 0,0:18:28.08,0:18:31.17,Gen_Main,Hanami,0000,0000,0000,,No creo haber mentido sobre nada.
+Dialogue: 0,0:18:31.88,0:18:34.55,Gen_Main,Mahito,0000,0000,0000,,No te digo que estés mintiendo.
+Dialogue: 0,0:18:35.14,0:18:37.46,Gen_Main,Mahito,0000,0000,0000,,Se por qué peleas.
+Dialogue: 0,0:18:37.88,0:18:39.78,Gen_Main,Mahito,0000,0000,0000,,Pero en cuanto al método…
+Dialogue: 0,0:18:39.93,0:18:44.56,Gen_Main,Mahito,0000,0000,0000,,Solo digo que deberías\Ndisfrutar de las peleas, del presente.
+Dialogue: 0,0:18:45.68,0:18:48.01,Gen_Main,Hanami,0000,0000,0000,,¿Tú las disfrutas?
+Dialogue: 0,0:18:48.39,0:18:49.39,Gen_Main,Mahito,0000,0000,0000,,Pues claro.
+Dialogue: 0,0:18:49.69,0:18:50.81,Gen_Main,Mahito,0000,0000,0000,,Aunque…
+Dialogue: 0,0:18:51.44,0:18:57.57,Gen_Main,Mahito,0000,0000,0000,,no fue sino hasta hace poco\Nque aquella dicha comenzó a motivarme.
+Dialogue: 0,0:18:57.96,0:19:02.27,Gen_Main,Mahito,0000,0000,0000,,Sin darme cuenta, comencé\Na tramar, engañar, matar…
+Dialogue: 0,0:19:02.45,0:19:04.83,Gen_Main,,0000,0000,0000,,y sentirme realizado gracias a ello.
+Dialogue: 0,0:19:05.37,0:19:11.08,Gen_Main,Mahito,0000,0000,0000,,Ha de ser nuestro instinto, como el de\Nlos humanos es comer, dormir y destruir.
+Dialogue: 0,0:19:11.96,0:19:15.20,Gen_Main,Mahito,0000,0000,0000,,Puede que nos hayamos\Nconvertido en seres racionales
+Dialogue: 0,0:19:15.84,0:19:20.40,Gen_Main,Mahito,0000,0000,0000,,pero eso no es motivo\Npara ir en contra de nuestros instintos.
+Dialogue: 0,0:19:22.22,0:19:25.32,Gen_Main,Mahito,0000,0000,0000,,El alma es una mezcla\Nde instinto y razón.
+Dialogue: 0,0:19:26.93,0:19:31.35,Gen_Main,Mahito,0000,0000,0000,,Las proporciones del alma de cada cual\Nson algo personal,
+Dialogue: 0,0:19:31.94,0:19:35.86,Gen_Main,Mahito,0000,0000,0000,,pero noto cierta rigidez en tu alma.
+Dialogue: 0,0:19:37.28,0:19:40.69,Gen_Main,Mahito,0000,0000,0000,,Hanami, en realidad eres…
+Dialogue: 0,0:19:41.81,0:19:43.55,Gen_Main,Mahito,0000,0000,0000,,mucho más fuerte, ¿no?
+Dialogue: 0,0:19:45.53,0:19:47.61,Gen_Main,Yuuji,0000,0000,0000,,Ay, ay…
+Dialogue: 0,0:19:48.33,0:19:49.62,Gen_Main,Yuuji,0000,0000,0000,,¡Toudou!
+Dialogue: 0,0:19:50.16,0:19:51.75,Gen_Main,Toudou,0000,0000,0000,,¡Estoy bien!
+Dialogue: 0,0:20:07.18,0:20:09.27,Gen_Italics,Yuuji,0000,0000,0000,,¡Desplegó mucha energía maldita!
+Dialogue: 0,0:20:09.97,0:20:12.39,Gen_Italics,Toudou,0000,0000,0000,,¡Hay que aprovechar para atacar!
+Dialogue: 0,0:20:12.81,0:20:14.52,Gen_Italics,Toudou,0000,0000,0000,,¡Maldito monstruo!
+Dialogue: 0,0:20:23.31,0:20:27.03,Gen_Italics,Hanami,0000,0000,0000,,Mahito, en este instante
+Dialogue: 0,0:20:27.99,0:20:32.92,Gen_Italics,Hanami,0000,0000,0000,,¡estoy disfrutando una pelea!
+Dialogue: 0,0:20:35.00,0:20:36.96,Gen_Main,Toudou,0000,0000,0000,,¿Estás bien, {\i1}brother{\i0}?
+Dialogue: 0,0:20:37.59,0:20:39.64,Gen_Main,Yuuji,0000,0000,0000,,-¡Sin problema!\N-¡Perfecto!
+Dialogue: 0,0:20:39.80,0:20:44.28,Gen_Main,Toudou,0000,0000,0000,,En ese caso,\Nes hora de liberar mi ritual.
+Dialogue: 0,0:22:14.97,0:22:17.48,Cart_C_Tre,Both&Screen,0000,0000,0000,,{\bord0\shad0\fs30\blur0.5\frz25.38\pos(440.8,67.2)}Juju-Cortos
+Dialogue: 0,0:22:15.44,0:22:17.06,Gen_Main,Both&Screen,0000,0000,0000,,Juju-Cortos.
+Dialogue: 0,0:22:17.64,0:22:19.37,Gen_Main,Kumiya,0000,0000,0000,,¡Un perchero!
+Dialogue: 0,0:22:19.52,0:22:23.36,Gen_Main,Kumiya,0000,0000,0000,,¡Voy a hacer un lindo perchero!
+Dialogue: 0,0:22:24.35,0:22:29.28,Gen_Main,Mahito,0000,0000,0000,,Oye, ¿qué tipo de perchero\Nsería Satoru Gojou?
+Dialogue: 0,0:22:30.70,0:22:32.28,Gen_Main,Kumiya,0000,0000,0000,,Un perchero de pie.
+Dialogue: 0,0:22:33.49,0:22:38.99,Gen_Main,Kumiya,0000,0000,0000,,Usaría la cadera con el hueso sacro\Ny el coxis como base para el soporte
+Dialogue: 0,0:22:39.50,0:22:42.37,Gen_Main,,0000,0000,0000,,y lo estabilizaría con cortes de fémur.
+Dialogue: 0,0:22:43.50,0:22:47.05,Gen_Main,Kumiya,0000,0000,0000,,Usaría sus vértebras lumbares,\Nlas vértebras torácicas
+Dialogue: 0,0:22:47.22,0:22:49.68,Gen_Main,Kumiya,0000,0000,0000,,y hasta la tercera vértebra cervical.
+Dialogue: 0,0:22:49.84,0:22:54.22,Gen_Main,Kumiya,0000,0000,0000,,Podría darle más altura\Ncon alcanfor antiguo.
+Dialogue: 0,0:22:54.39,0:22:59.77,Gen_Main,Kumiya,0000,0000,0000,,Alternaría vértebras y réplicas\Nde alcanfor para lograr lindos acentos.
+Dialogue: 0,0:23:01.23,0:23:03.61,Gen_Main,Kumiya,0000,0000,0000,,Luego extendería las apófisis espinosas
+Dialogue: 0,0:23:04.26,0:23:08.67,Gen_Main,Kumiya,0000,0000,0000,,y las transversas\Npara crear las perchas.
+Dialogue: 0,0:23:11.95,0:23:15.03,Gen_Main,Kumiya,0000,0000,0000,,Lo haría injertando\Nmás alcanfor antiguo.
+Dialogue: 0,0:23:15.95,0:23:20.62,Gen_Main,Kumiya,0000,0000,0000,,Dependiendo del color, podría\Ncubrir el cráneo con piel curtida…
+Dialogue: 0,0:23:21.25,0:23:24.36,Gen_Main,Kumiya,0000,0000,0000,,¡Qué bien! ¡Me gusta!
+Dialogue: 0,0:23:24.50,0:23:28.53,Gen_Main,Kumiya,0000,0000,0000,,¡Podré hacer un perchero estupendo!
+Dialogue: 0,0:23:28.67,0:23:29.93,Gen_Main,Mahito,0000,0000,0000,,Nadie lo usaría.
+Dialogue: 0,0:23:36.43,0:25:24.95,Cart_TitleNext,Screen,0000,0000,0000,,{\fad(984,1)\c&HFCFFFF&\b0}Episodio 20\N{\fs26\b0}Fuera de lo común

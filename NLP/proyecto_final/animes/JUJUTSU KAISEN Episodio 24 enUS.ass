@@ -1,0 +1,453 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,56,&H00000000,&H000000FF,&H00B7BD80,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H28FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0028,0050,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.90,0:00:10.06,Main,Yuji,0000,0000,0000,,Kugisaki! Don't let that blood touch you!
+Dialogue: 0,0:00:10.28,0:00:11.98,Main,Kugisaki,0000,0000,0000,,You think I don't know that?!
+Dialogue: 0,0:00:14.27,0:00:16.49,Main,Eso,0000,0000,0000,,Run away,
+Dialogue: 0,0:00:16.88,0:00:18.75,Main,Eso,0000,0000,0000,,with your backs to me.
+Dialogue: 0,0:00:23.12,0:00:25.81,Main,Yuji,0000,0000,0000,,Kugisaki, can you go any faster?
+Dialogue: 0,0:00:25.81,0:00:26.96,Main,Kugisaki,0000,0000,0000,,No way!
+Dialogue: 0,0:00:34.16,0:00:35.52,Main,Kugisaki,0000,0000,0000,,I've got your back.
+Dialogue: 0,0:00:36.34,0:00:37.31,Main,Yuji,0000,0000,0000,,Thanks.
+Dialogue: 0,0:00:39.39,0:00:40.15,Main,Kugisaki,0000,0000,0000,,Huh?
+Dialogue: 0,0:00:46.05,0:00:47.39,Main,Kugisaki,0000,0000,0000,,Huh?!
+Dialogue: 0,0:00:47.94,0:00:49.72,Italics,Eso,0000,0000,0000,,What speed...
+Dialogue: 0,0:00:49.72,0:00:51.40,Italics,Eso,0000,0000,0000,,While carrying someone, too.
+Dialogue: 0,0:00:55.52,0:00:58.17,Italics,Eso,0000,0000,0000,,Tsk... They'll get away.
+Dialogue: 0,0:00:58.17,0:00:59.40,Italics,Eso,0000,0000,0000,,Well, no matter.
+Dialogue: 0,0:01:13.01,0:01:15.09,Main,Yuji,0000,0000,0000,,Okay, we're out of range now.
+Dialogue: 0,0:01:15.95,0:01:18.94,Main,Kugisaki,0000,0000,0000,,Well done. You have my compliments.
+Dialogue: 0,0:01:18.94,0:01:20.09,Main,Yuji,0000,0000,0000,,Yeah, yeah.
+Dialogue: 0,0:01:20.09,0:01:22.09,Main,Kugisaki,0000,0000,0000,,I'm kidding. Thank you.
+Dialogue: 0,0:01:29.51,0:01:31.94,Italics,Yuji,0000,0000,0000,,It took the shortest route \Nand got ahead of us?
+Dialogue: 0,0:01:32.06,0:01:33.17,Main,Kugisaki,0000,0000,0000,,Itado—
+Dialogue: 0,0:01:40.06,0:01:41.44,Main,Yuji,0000,0000,0000,,Kugisaki!
+Dialogue: 0,0:01:41.44,0:01:43.46,Main,Eso,0000,0000,0000,,You don't need to worry.
+Dialogue: 0,0:01:43.46,0:01:47.40,Main,Eso,0000,0000,0000,,My younger brother's blood doesn't \Nhave the same quality as mine.
+Dialogue: 0,0:01:47.98,0:01:53.84,Main,Eso,0000,0000,0000,,And even mine won't kill you \Nunless your entire body's bathed in it.
+Dialogue: 0,0:01:53.84,0:01:57.59,Main,Eso,0000,0000,0000,,Though it will hurt like hell.
+Dialogue: 0,0:01:57.59,0:02:01.39,Main,Eso,0000,0000,0000,,This is where our technique starts.
+Dialogue: 0,0:02:01.39,0:02:05.10,Italics,,0000,0000,0000,,Rot Technique: Decay.
+Dialogue: 0,0:02:11.30,0:02:12.42,Main,Kugisaki,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:33.08,0:03:36.83,Show_Title,,0000,0000,0000,,{\fad(1398,1)\c&H0F0D09&\3c&HB7BD80&\t(1236,1817,1 \3c&H85A2A4&)\t(1819,2945,1 \3c&H95DED9&)}JUJUTSU KAISEN
+Dialogue: 0,0:03:43.82,0:03:46.95,Main,Eso,0000,0000,0000,,{\an8}My blood, and my brothers' blood,
+Dialogue: 0,0:03:43.99,0:03:51.00,Ep_Title_Shadow,Screen,0000,0000,0000,,{\fad(613,520)}Episode 24: Accomplices
+Dialogue: 1,0:03:43.99,0:03:51.00,Ep_Title,Screen,0000,0000,0000,,{\fad(613,520)}Episode 24: Accomplices
+Dialogue: 0,0:03:46.95,0:03:50.26,Main,Eso,0000,0000,0000,,{\an8}is absorbed through wounds and membranes,
+Dialogue: 0,0:03:50.26,0:03:53.95,Main,Eso,0000,0000,0000,,{\an8}and then, once any of us \Nbrothers activates the technique,
+Dialogue: 0,0:03:53.95,0:03:58.00,Main,Eso,0000,0000,0000,,{\an8}it begins to rot you away \Nfrom the point of incursion.
+Dialogue: 0,0:03:58.28,0:04:01.26,Main,Eso,0000,0000,0000,,I'd give that young man \Nabout fifteen minutes.
+Dialogue: 0,0:04:01.26,0:04:04.51,Main,Eso,0000,0000,0000,,Ten minutes max for you, young lady.
+Dialogue: 0,0:04:05.23,0:04:08.30,Main,Eso,0000,0000,0000,,By morning, nothing but bones will remain.
+Dialogue: 0,0:04:08.82,0:04:11.02,Italics,Yuji,0000,0000,0000,,If it's a technique,
+Dialogue: 0,0:04:11.02,0:04:13.18,Italics,Yuji,0000,0000,0000,,we just need to make them release it!
+Dialogue: 0,0:04:13.79,0:04:15.18,Main,Yuji,0000,0000,0000,,So it{\i1} is{\i0} poisonous.
+Dialogue: 0,0:04:15.40,0:04:18.14,Main,Eso,0000,0000,0000,,The result is essentially a poison,
+Dialogue: 0,0:04:18.14,0:04:22.19,Main,Eso,0000,0000,0000,,but our technique is purely "decomposition."
+Dialogue: 0,0:04:22.48,0:04:25.15,Italics,Eso,0000,0000,0000,,I've finished revealing our technique.
+Dialogue: 0,0:04:25.15,0:04:27.70,Italics,Eso,0000,0000,0000,,Now they'll actually die even faster.
+Dialogue: 0,0:04:28.03,0:04:31.20,Main,Eso,0000,0000,0000,,So, what will you do now?
+Dialogue: 0,0:04:31.82,0:04:35.43,Main,Eso,0000,0000,0000,,Elder Brother, these sorcerers \Ndidn't amount to much.
+Dialogue: 0,0:04:36.58,0:04:38.18,Italics,Geto,0000,0000,0000,,At the beginning of the Meiji Era,
+Dialogue: 0,0:04:38.18,0:04:41.63,Italics,Geto,0000,0000,0000,,there was a girl with a unique trait that \Nallowed her to bear a cursed spirit's child.
+Dialogue: 0,0:04:41.63,0:04:43.95,Italics,Geto,0000,0000,0000,,She conceived a child \Nwith no recollection of how,
+Dialogue: 0,0:04:43.95,0:04:46.90,Italics,Geto,0000,0000,0000,,and the criticism she endured from \Nher parents and relatives was extreme.
+Dialogue: 0,0:04:46.90,0:04:49.22,Italics,Geto,0000,0000,0000,,She fled with the corpse \Nof her baby in her arms,
+Dialogue: 0,0:04:49.22,0:04:52.61,Italics,Geto,0000,0000,0000,,ending up at a temple run \Nby a certain jujutsu sorcerer.
+Dialogue: 0,0:04:52.61,0:04:56.73,Italics,Geto,0000,0000,0000,,However, that was where her luck ran out.
+Dialogue: 0,0:04:57.33,0:04:59.01,Italics,Geto,0000,0000,0000,,Kamo Noritoshi.
+Dialogue: 0,0:04:59.01,0:05:00.93,Italics,Geto,0000,0000,0000,,Among all of jujutsu \Nsorcery's cultural legacy,
+Dialogue: 0,0:05:00.93,0:05:03.52,Italics,Geto,0000,0000,0000,,he's remembered as \Nthe most vile of sorcerers
+Dialogue: 0,0:05:03.52,0:05:05.33,Italics,Geto,0000,0000,0000,,and a disgrace to the three major clans.
+Dialogue: 0,0:05:05.33,0:05:07.24,Italics,Geto,0000,0000,0000,,His intellectual curiosity
+Dialogue: 0,0:05:07.24,0:05:10.58,Italics,Geto,0000,0000,0000,,was captivated by the possibility of a \Nchild born of a human and a cursed spirit.
+Dialogue: 0,0:05:11.18,0:05:12.63,Italics,Geto,0000,0000,0000,,Nine times, he impregnated her.
+Dialogue: 0,0:05:12.63,0:05:14.03,Italics,Geto,0000,0000,0000,,Nine times, he aborted her.
+Dialogue: 0,0:05:14.03,0:05:16.11,Italics,Geto,0000,0000,0000,,All records of how he did it
+Dialogue: 0,0:05:16.11,0:05:20.86,Italics,Geto,0000,0000,0000,,and what happened to her \Nafterward were destroyed.
+Dialogue: 0,0:05:21.78,0:05:24.83,Italics,,0000,0000,0000,,The Cursed Wombs: \NDeath Paintings One through Three
+Dialogue: 0,0:05:24.83,0:05:27.52,Italics,,0000,0000,0000,,became cursed objects powerful enough \Nto be classified as special-grade.
+Dialogue: 0,0:05:27.52,0:05:31.38,Italics,,0000,0000,0000,,Perhaps the origin of that power \Nwas the mother's resentment,
+Dialogue: 0,0:05:31.38,0:05:32.26,Italics,,0000,0000,0000,,or perhaps...
+Dialogue: 0,0:05:32.72,0:05:34.76,Italics,Eso,0000,0000,0000,,I have no memories of a mother.
+Dialogue: 0,0:05:35.63,0:05:37.77,Italics,Eso,0000,0000,0000,,Humans and sorcerers...
+Dialogue: 0,0:05:37.89,0:05:41.39,Italics,Eso,0000,0000,0000,,It's not that I hold any \Nspecial grudge against them.
+Dialogue: 0,0:05:41.72,0:05:43.45,Italics,Eso,0000,0000,0000,,For 150 years,
+Dialogue: 0,0:05:44.13,0:05:48.16,Italics,Eso,0000,0000,0000,,we remained sealed away with nothing \Nbut each others' existence to rely on.
+Dialogue: 0,0:05:48.28,0:05:50.40,Flashback,Choso,0000,0000,0000,,We'll side with the cursed spirits.
+Dialogue: 0,0:05:50.67,0:05:52.44,Flashback,Eso,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:05:52.44,0:05:54.92,Flashback,Eso,0000,0000,0000,,They seemed shady, Elder Brother.
+Dialogue: 0,0:05:55.49,0:06:00.42,Flashback,Choso,0000,0000,0000,,The future those cursed spirits painted \Nis more convenient for us.
+Dialogue: 0,0:06:00.43,0:06:03.10,Flashback,Choso,0000,0000,0000,,That's all there is to it.
+Dialogue: 0,0:06:03.10,0:06:05.08,Flashback,Choso,0000,0000,0000,,Forget about owing them \Nfor our manifestation.
+Dialogue: 0,0:06:05.58,0:06:07.42,Flashback,Choso,0000,0000,0000,,Now listen, brothers.
+Dialogue: 0,0:06:07.94,0:06:09.92,Flashback,Choso,0000,0000,0000,,Eso, you live for Kechizu.
+Dialogue: 0,0:06:10.16,0:06:12.43,Flashback,Choso,0000,0000,0000,,Kechizu, you live for me.
+Dialogue: 0,0:06:12.86,0:06:14.93,Flashback,Choso,0000,0000,0000,,And I'll live for you, Eso.
+Dialogue: 0,0:06:15.89,0:06:19.44,Flashback,Choso,0000,0000,0000,,We three are one.
+Dialogue: 0,0:06:19.68,0:06:21.43,Italics,Eso,0000,0000,0000,,I live for my brothers.
+Dialogue: 0,0:06:21.43,0:06:23.54,Italics,Eso,0000,0000,0000,,If it is what my brothers desire,
+Dialogue: 0,0:06:23.54,0:06:26.19,Italics,Eso,0000,0000,0000,,I will give my life to grant it for them.
+Dialogue: 0,0:06:26.43,0:06:28.27,Main,Eso,0000,0000,0000,,If the suffering is too great,
+Dialogue: 0,0:06:28.27,0:06:31.40,Main,Eso,0000,0000,0000,,would you like me to end you right away?
+Dialogue: 0,0:06:33.24,0:06:35.63,Main,Kugisaki,0000,0000,0000,,A technique that guarantees \Nvictory once it hits...
+Dialogue: 0,0:06:35.63,0:06:37.20,Main,Kugisaki,0000,0000,0000,,You two are strong.
+Dialogue: 0,0:06:37.21,0:06:38.96,Main,Kugisaki,0000,0000,0000,,Too bad for you, though.
+Dialogue: 0,0:06:39.51,0:06:42.56,Main,Kugisaki,0000,0000,0000,,That makes me the worst match for you!
+Dialogue: 0,0:06:43.12,0:06:46.46,Italics,,0000,0000,0000,,Straw Doll Technique: Resonance!
+Dialogue: 0,0:06:50.33,0:06:52.43,Main,,0000,0000,0000,,Let's play a game of chicken!
+Dialogue: 0,0:06:53.44,0:06:54.92,Main,,0000,0000,0000,,You don't like pain, do you?
+Dialogue: 0,0:06:56.05,0:06:58.93,Main,,0000,0000,0000,,Then start crying and \Nrelease your technique.
+Dialogue: 0,0:07:00.84,0:07:03.31,Italics,Eso,0000,0000,0000,,A technique to turn the curse on the user?
+Dialogue: 0,0:07:03.31,0:07:04.44,Italics,Eso,0000,0000,0000,,A game of chicken...
+Dialogue: 0,0:07:05.07,0:07:09.44,Italics,Eso,0000,0000,0000,,So unless I release our technique, \Nthis will continue?
+Dialogue: 0,0:07:10.11,0:07:12.24,Italics,Kugisaki,0000,0000,0000,,Straw Doll Technique: Resonance.
+Dialogue: 0,0:07:12.57,0:07:17.68,Italics,Kugisaki,0000,0000,0000,,It's a technique that deals damage \Nto the target's main body
+Dialogue: 0,0:07:17.68,0:07:21.33,Italics,Kugisaki,0000,0000,0000,,by driving cursed energy through an effigy \Nand a lost portion of the target.
+Dialogue: 0,0:07:21.80,0:07:24.32,Italics,Kugisaki,0000,0000,0000,,The technique's range is broad,
+Dialogue: 0,0:07:24.32,0:07:26.09,Italics,Kugisaki,0000,0000,0000,,and the effect varies
+Dialogue: 0,0:07:26.09,0:07:29.05,Italics,Kugisaki,0000,0000,0000,,with the difference in strength between \Nus and the value of the lost portion.
+Dialogue: 0,0:07:29.84,0:07:32.05,Italics,Kugisaki,0000,0000,0000,,As far as Straw Doll Technique is concerned,
+Dialogue: 0,0:07:32.05,0:07:34.00,Italics,Kugisaki,0000,0000,0000,,blood isn't very valuable.
+Dialogue: 0,0:07:34.74,0:07:38.36,Italics,Kugisaki,0000,0000,0000,,But Resonance uses the link to its target.
+Dialogue: 0,0:07:39.46,0:07:43.11,Italics,Kugisaki,0000,0000,0000,,And their blood that's inside me now
+Dialogue: 0,0:07:43.12,0:07:47.06,Italics,,0000,0000,0000,,is strongly linking us and \Ntheir rot technique together!
+Dialogue: 0,0:07:47.80,0:07:50.91,Italics,Kugisaki,0000,0000,0000,,It's a nice surprise that it worked \Non the younger brother, too.
+Dialogue: 0,0:07:50.91,0:07:53.03,Italics,Kugisaki,0000,0000,0000,,If I'm going to die here anyway,
+Dialogue: 0,0:07:53.82,0:07:57.00,Italics,Kugisaki,0000,0000,0000,,then I'll keep hammering \NResonance into them!
+Dialogue: 0,0:07:57.38,0:07:59.65,Italics,Eso,0000,0000,0000,,That's quite intense,
+Dialogue: 0,0:07:59.65,0:08:03.25,Italics,Eso,0000,0000,0000,,but no matter how many times she \Ndoes it, it won't end our lives.
+Dialogue: 0,0:08:03.25,0:08:07.01,Italics,Eso,0000,0000,0000,,As long as we hold out, \Nyou'll be the ones to die!
+Dialogue: 0,0:08:07.35,0:08:08.51,Italics,Eso,0000,0000,0000,,Not to mention,
+Dialogue: 0,0:08:08.51,0:08:12.46,Italics,,0000,0000,0000,,while Decay is active, the pain \Nand poison will keep you from mov—
+Dialogue: 0,0:08:17.47,0:08:19.65,Italics,Eso,0000,0000,0000,,How are you able to move that well?
+Dialogue: 0,0:08:22.64,0:08:23.89,Italics,Kugisaki,0000,0000,0000,,Resonance!
+Dialogue: 0,0:08:29.31,0:08:30.93,Italics,Kugisaki,0000,0000,0000,,Itadori is the vessel
+Dialogue: 0,0:08:30.93,0:08:33.77,Italics,Kugisaki,0000,0000,0000,,for Ryomen Sukuna, \Nthe King of Curses and Deadly Poisons.
+Dialogue: 0,0:08:34.41,0:08:37.33,Italics,Kugisaki,0000,0000,0000,,So he has resistance to all forms of poison.
+Dialogue: 0,0:08:37.82,0:08:40.40,Flashback_Italics,Eso,0000,0000,0000,,The result is essentially a poison,
+Dialogue: 0,0:08:40.40,0:08:44.76,Flashback_Italics,Eso,0000,0000,0000,,but our technique is purely "decomposition."
+Dialogue: 0,0:08:44.76,0:08:47.25,Italics,Kugisaki,0000,0000,0000,,He's probably feeling pain \Nfrom the decomposition,
+Dialogue: 0,0:08:47.25,0:08:49.88,Italics,Kugisaki,0000,0000,0000,,but the resulting poison doesn't affect him.
+Dialogue: 0,0:08:50.29,0:08:52.33,Italics,Kugisaki,0000,0000,0000,,And if it's just pain...
+Dialogue: 0,0:08:56.34,0:08:58.09,Italics,Kugisaki,0000,0000,0000,,Itadori Yuji...
+Dialogue: 0,0:09:00.59,0:09:02.15,Italics,Kugisaki,0000,0000,0000,,won't stop!
+Dialogue: 0,0:09:06.86,0:09:08.73,Main,Eso,0000,0000,0000,,Kechizu!
+Dialogue: 0,0:09:09.89,0:09:11.73,Main,Kugisaki,0000,0000,0000,,Shut up already!
+Dialogue: 0,0:09:11.73,0:09:12.98,Main,Kugisaki,0000,0000,0000,,Resonance!
+Dialogue: 0,0:09:12.98,0:09:14.32,Main,Eso,0000,0000,0000,,That's nothing!
+Dialogue: 0,0:09:17.32,0:09:18.76,Italics,Eso,0000,0000,0000,,He switched!
+Dialogue: 0,0:09:18.76,0:09:20.35,Italics,Eso,0000,0000,0000,,With the woman close to death,
+Dialogue: 0,0:09:20.35,0:09:22.41,Italics,Eso,0000,0000,0000,,putting her against my brother, \Nwho's closer to death!
+Dialogue: 0,0:09:22.93,0:09:25.37,Italics,Eso,0000,0000,0000,,Does she think she can stop \Nmy movement forever?!
+Dialogue: 0,0:09:26.99,0:09:29.18,Main,Eso,0000,0000,0000,,Woman!
+Dialogue: 0,0:09:29.18,0:09:31.44,Italics,Eso,0000,0000,0000,,Do I release the technique or not?
+Dialogue: 0,0:09:31.44,0:09:33.86,Italics,Eso,0000,0000,0000,,I can't go and save my brother like this!
+Dialogue: 0,0:09:33.86,0:09:36.97,Italics,Eso,0000,0000,0000,,I can't unleash Wing King \Nwhile Decay is active.
+Dialogue: 0,0:09:36.97,0:09:41.82,Italics,Eso,0000,0000,0000,,But does that woman have enough \Nstrength left to kill my brother?
+Dialogue: 0,0:09:42.98,0:09:44.83,Italics,Eso,0000,0000,0000,,Even with her interference,
+Dialogue: 0,0:09:44.83,0:09:49.41,Italics,Eso,0000,0000,0000,,this man won't be able \Nto kill me before she dies,
+Dialogue: 0,0:09:50.11,0:09:52.98,Italics,Eso,0000,0000,0000,,so I cannot release the technique!
+Dialogue: 0,0:09:53.42,0:09:55.90,Main,Kechizu,0000,0000,0000,,B-Brother!
+Dialogue: 0,0:09:57.52,0:10:00.40,Flashback_Italics,Choso,0000,0000,0000,,We three are one.
+Dialogue: 0,0:10:11.29,0:10:14.29,Main,Eso,0000,0000,0000,,I was already releasing it before I even knew it.
+Dialogue: 0,0:10:18.22,0:10:19.55,Italics,Eso,0000,0000,0000,,Wing King!
+Dialogue: 0,0:11:00.22,0:11:04.18,Italics,Eso,0000,0000,0000,,What was that black light just now?
+Dialogue: 0,0:11:05.26,0:11:10.48,Italics,Eso,0000,0000,0000,,I know I reinforced my arm with \Ncursed energy before taking his punch!
+Dialogue: 0,0:11:11.16,0:11:14.77,Italics,Eso,0000,0000,0000,,But the next thing I knew, my whole arm \Nand shoulder had been blown away.
+Dialogue: 0,0:11:15.10,0:11:17.03,Main,Eso,0000,0000,0000,,Ahh, younger brother!
+Dialogue: 0,0:11:17.15,0:11:19.53,Main,Eso,0000,0000,0000,,Don't die, my brother!
+Dialogue: 0,0:11:21.74,0:11:23.95,Main,Kechizu,0000,0000,0000,,Elder Brother!
+Dialogue: 0,0:11:27.45,0:11:30.96,Main,Kugisaki,0000,0000,0000,,I haven't shown you this one yet, have I?
+Dialogue: 0,0:11:36.08,0:11:37.37,Main,Kugisaki,0000,0000,0000,,Hairpin.
+Dialogue: 0,0:11:42.43,0:11:44.22,Main,Kugisaki,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:11:44.98,0:11:48.12,Main,Kugisaki,0000,0000,0000,,I'll be sending your older \Nbrother to join you soon.
+Dialogue: 0,0:11:49.86,0:11:51.23,Main,Eso,0000,0000,0000,,Kechizu...
+Dialogue: 0,0:11:51.68,0:11:56.27,Main,Choso,0000,0000,0000,,We three are one.
+Dialogue: 0,0:11:56.99,0:11:59.31,Main,Eso,0000,0000,0000,,I'm sorry, Elder Brother.
+Dialogue: 0,0:11:59.31,0:12:01.36,Main,Eso,0000,0000,0000,,Even though I was with him...
+Dialogue: 0,0:12:03.05,0:12:04.96,Italics,Kugisaki,0000,0000,0000,,Why isn't this thing vanishing?
+Dialogue: 0,0:12:04.96,0:12:06.03,Italics,Kugisaki,0000,0000,0000,,Is it still alive?
+Dialogue: 0,0:12:06.71,0:12:07.53,Italics,Kugisaki,0000,0000,0000,,No!
+Dialogue: 0,0:12:07.65,0:12:09.18,Italics,Kugisaki,0000,0000,0000,,It's not a cursed spirit!
+Dialogue: 0,0:12:09.18,0:12:10.54,Italics,Kugisaki,0000,0000,0000,,It has a physical body!
+Dialogue: 0,0:12:14.84,0:12:16.33,Main,ManA,0000,0000,0000,,Watch it!
+Dialogue: 0,0:12:16.90,0:12:18.09,Main,ManA,0000,0000,0000,,Christ.
+Dialogue: 0,0:12:21.08,0:12:22.36,Main,ManB,0000,0000,0000,,S-Sawamura-san?!
+Dialogue: 0,0:12:22.36,0:12:23.80,Main,Eso,0000,0000,0000,,Speed up.
+Dialogue: 0,0:12:24.93,0:12:26.83,Main,Eso,0000,0000,0000,,Hit the brakes and you're dead.
+Dialogue: 0,0:12:26.83,0:12:28.19,Main,Eso,0000,0000,0000,,Both you and him.
+Dialogue: 0,0:12:28.78,0:12:30.26,Main,Eso,0000,0000,0000,,Got it?
+Dialogue: 0,0:12:39.07,0:12:41.28,Main,Eso,0000,0000,0000,,Don't follow me, jujutsu sorcerer.
+Dialogue: 0,0:12:41.82,0:12:42.99,Italics,Eso,0000,0000,0000,,Once I heal my wounds,
+Dialogue: 0,0:12:42.99,0:12:46.74,Italics,Eso,0000,0000,0000,,I'll make sure to kill these two, \Nespecially that woman.
+Dialogue: 0,0:12:47.05,0:12:48.69,Italics,Eso,0000,0000,0000,,I'm sorry, Kechizu...
+Dialogue: 0,0:12:48.69,0:12:50.24,Italics,Eso,0000,0000,0000,,I wasn't able to mourn you.
+Dialogue: 0,0:12:50.59,0:12:53.42,Italics,Eso,0000,0000,0000,,But I will get revenge for—
+Dialogue: 0,0:12:54.42,0:12:57.08,Main,Eso,0000,0000,0000,,What is that woman doing?
+Dialogue: 0,0:12:57.38,0:12:58.66,Main,Yuji,0000,0000,0000,,Kugisaki!
+Dialogue: 0,0:13:00.93,0:13:04.43,Main,Kugisaki,0000,0000,0000,,Don't rush me!
+Dialogue: 0,0:13:04.43,0:13:06.01,Main,Kugisaki,0000,0000,0000,,Straw Doll Technique:
+Dialogue: 0,0:13:07.26,0:13:09.79,Main,Kugisaki,0000,0000,0000,,Resonance!
+Dialogue: 0,0:13:19.93,0:13:21.56,Flashback,Nanami,0000,0000,0000,,Once they land a Black Flash,
+Dialogue: 0,0:13:21.56,0:13:26.57,Flashback,,0000,0000,0000,,sorcerers temporarily enter \Na state athletes call "the zone."
+Dialogue: 0,0:13:28.57,0:13:30.01,Main,Eso,0000,0000,0000,,Damn it!
+Dialogue: 0,0:13:31.91,0:13:35.08,Italics,Eso,0000,0000,0000,,It wasn't a technique to \Nturn the curse on the user?!
+Dialogue: 0,0:13:38.86,0:13:39.76,Main,Yuji,0000,0000,0000,,Sorry.
+Dialogue: 0,0:14:00.11,0:14:01.60,Main,Yuji,0000,0000,0000,,That hurt.
+Dialogue: 0,0:14:06.48,0:14:08.07,Main,Mahito,0000,0000,0000,,Geto, the stock certificate.
+Dialogue: 0,0:14:08.54,0:14:10.33,Main,Geto,0000,0000,0000,,What's the matter, Choso?
+Dialogue: 0,0:14:09.61,0:14:10.32,Main,Mahito,0000,0000,0000,,Hurry up.
+Dialogue: 0,0:14:12.18,0:14:14.84,Main,Mahito,0000,0000,0000,,Hey! Don't break the pieces!
+Dialogue: 0,0:14:14.84,0:14:17.06,Main,Choso,0000,0000,0000,,My younger brothers died.
+Dialogue: 0,0:14:17.06,0:14:19.21,Main,Geto,0000,0000,0000,,You can tell?
+Dialogue: 0,0:14:19.21,0:14:21.30,Main,Choso,0000,0000,0000,,What's going on?
+Dialogue: 0,0:14:21.30,0:14:23.25,Main,Choso,0000,0000,0000,,It's one thing if he was fully manifested,
+Dialogue: 0,0:14:23.25,0:14:27.17,Main,Choso,0000,0000,0000,,but I find it hard to believe those two were \Nkilled by a single finger of a cursed spirit.
+Dialogue: 0,0:14:23.25,0:14:27.17,Main,Mahito,0000,0000,0000,,{\an8}Jeez, do we have any more?
+Dialogue: 0,0:14:27.17,0:14:28.04,Main,Geto,0000,0000,0000,,Hold on.
+Dialogue: 0,0:14:27.17,0:14:29.73,Main,Mahito,0000,0000,0000,,{\an8}Why aren't there spares?
+Dialogue: 0,0:14:29.73,0:14:32.14,Main,Mahito,0000,0000,0000,,{\an8}And why did you break it?
+Dialogue: 0,0:14:32.97,0:14:34.96,Main,Geto,0000,0000,0000,,We just received a report.
+Dialogue: 0,0:14:34.96,0:14:37.41,Main,Geto,0000,0000,0000,,Eso and Kechizu were killed
+Dialogue: 0,0:14:36.67,0:14:37.86,Main,Mahito,0000,0000,0000,,{\an8}Jeez.
+Dialogue: 0,0:14:37.41,0:14:39.31,Main,Geto,0000,0000,0000,,by the first-years of Jujutsu High...
+Dialogue: 0,0:14:39.70,0:14:42.56,Main,Geto,0000,0000,0000,,Itadori Yuji and his group.
+Dialogue: 0,0:14:52.90,0:14:57.53,Italics,Phone,0000,0000,0000,,{\an8}The number you have dialed is—
+Dialogue: 0,0:14:56.34,0:14:57.53,Main,Nitta,0000,0000,0000,,I knew it! They're not answering!
+Dialogue: 0,0:14:58.10,0:15:00.49,Main,Nitta,0000,0000,0000,,Where did those brats go?!
+Dialogue: 0,0:15:03.50,0:15:05.50,Main,Yuji,0000,0000,0000,,Kugisaki, you okay?
+Dialogue: 0,0:15:05.86,0:15:07.86,Main,Kugisaki,0000,0000,0000,,Oh, yeah.
+Dialogue: 0,0:15:07.86,0:15:10.29,Main,Kugisaki,0000,0000,0000,,Though it might leave scars.
+Dialogue: 0,0:15:10.29,0:15:13.41,Main,Kugisaki,0000,0000,0000,,I wonder if those old guys are all right. \NTheir truck's gone, too.
+Dialogue: 0,0:15:13.41,0:15:15.14,Main,Kugisaki,0000,0000,0000,,The poison's...
+Dialogue: 0,0:15:15.14,0:15:18.68,Main,Kugisaki,0000,0000,0000,,Well, if we head home now, \NI wonder if Shoko-san'll be awake.
+Dialogue: 0,0:15:18.68,0:15:20.21,Main,Kugisaki,0000,0000,0000,,And I wonder if she'll be sober...
+Dialogue: 0,0:15:20.86,0:15:23.52,Main,Kugisaki,0000,0000,0000,,What are you fidgeting for? It's creepy.
+Dialogue: 0,0:15:24.24,0:15:26.37,Main,Yuji,0000,0000,0000,,I was wondering if this was your first time
+Dialogue: 0,0:15:26.93,0:15:29.25,Main,Yuji,0000,0000,0000,,killing instead of exorcising.
+Dialogue: 0,0:15:29.76,0:15:31.03,Main,Kugisaki,0000,0000,0000,,What about you?
+Dialogue: 0,0:15:31.15,0:15:32.86,Main,Yuji,0000,0000,0000,,I did it once before...
+Dialogue: 0,0:15:32.86,0:15:36.00,Main,Yuji,0000,0000,0000,,No, I guess it isn't fair to call it once.
+Dialogue: 0,0:15:36.00,0:15:37.36,Main,Yuji,0000,0000,0000,,It was three people.
+Dialogue: 0,0:15:37.36,0:15:40.46,Main,Kugisaki,0000,0000,0000,,I think you're doing worse than me here.
+Dialogue: 0,0:15:41.88,0:15:44.11,Main,Kugisaki,0000,0000,0000,,To be blunt, this was nothing to me.
+Dialogue: 0,0:15:44.11,0:15:46.57,Main,Kugisaki,0000,0000,0000,,These things happen when you're a sorcerer.
+Dialogue: 0,0:15:47.51,0:15:49.65,Main,Kugisaki,0000,0000,0000,,I'm no Fushiguro,
+Dialogue: 0,0:15:49.65,0:15:52.88,Main,Kugisaki,0000,0000,0000,,but ultimately, there are only \Nso many people we can save.
+Dialogue: 0,0:15:53.73,0:15:57.06,Main,Kugisaki,0000,0000,0000,,There are only so many seats open in my life,
+Dialogue: 0,0:15:57.06,0:16:02.06,Main,Kugisaki,0000,0000,0000,,and I don't want to let my heart be swayed \Nby anyone who's not sitting in one of them.
+Dialogue: 0,0:16:02.61,0:16:03.88,Main,Kugisaki,0000,0000,0000,,Is that mean?
+Dialogue: 0,0:16:04.54,0:16:09.49,Main,Kugisaki,0000,0000,0000,,Of course, there are also people like you \Nwho bring their own seat and sit down.
+Dialogue: 0,0:16:11.10,0:16:13.06,Main,Kugisaki,0000,0000,0000,,It might not mean much,
+Dialogue: 0,0:16:13.06,0:16:16.64,Main,Kugisaki,0000,0000,0000,,but we didn't have room to worry about \Nwhether they were cursed spirits or curse users.
+Dialogue: 0,0:16:16.64,0:16:18.27,Main,Kugisaki,0000,0000,0000,,Even if they were human,
+Dialogue: 0,0:16:18.27,0:16:21.50,Main,Kugisaki,0000,0000,0000,,we don't have a technique to keep anyone \Nthat strong restrained long-term.
+Dialogue: 0,0:16:21.50,0:16:23.36,Main,Kugisaki,0000,0000,0000,,You know that, right?
+Dialogue: 0,0:16:23.36,0:16:28.08,Main,Yuji,0000,0000,0000,,But he cried when he saw \Nhis brother die before him.
+Dialogue: 0,0:16:29.64,0:16:31.35,Main,Kugisaki,0000,0000,0000,,I see.
+Dialogue: 0,0:16:31.46,0:16:35.78,Main,Yuji,0000,0000,0000,,I'm happy that you and I \Nwere spared and are still alive.
+Dialogue: 0,0:16:35.78,0:16:36.89,Main,Yuji,0000,0000,0000,,It's a big relief.
+Dialogue: 0,0:16:37.60,0:16:42.79,Main,Yuji,0000,0000,0000,,But tears were shed over \Nthe lives I ended tonight.
+Dialogue: 0,0:16:44.29,0:16:45.87,Main,Yuji,0000,0000,0000,,That's all.
+Dialogue: 0,0:16:46.78,0:16:48.02,Main,Kugisaki,0000,0000,0000,,I see.
+Dialogue: 0,0:16:48.46,0:16:51.80,Main,Kugisaki,0000,0000,0000,,In that case, we're accomplices.
+Dialogue: 0,0:16:54.67,0:16:56.36,Main,Both,0000,0000,0000,,F-Fushiguro?!
+Dialogue: 0,0:16:58.35,0:17:00.25,Main,Fushiguro,0000,0000,0000,,Oh, you're back.
+Dialogue: 0,0:17:00.25,0:17:01.37,Main,Fushiguro,0000,0000,0000,,I'm glad you're safe.
+Dialogue: 0,0:17:01.37,0:17:03.49,Main,Both,0000,0000,0000,,I-I was so scared!
+Dialogue: 0,0:17:03.49,0:17:04.99,Main,Both,0000,0000,0000,,I thought you were dead!
+Dialogue: 0,0:17:04.99,0:17:06.88,Main,Both,0000,0000,0000,,Thank goodness!
+Dialogue: 0,0:17:07.26,0:17:09.64,Main,Fushiguro,0000,0000,0000,,Could you lower your voices?
+Dialogue: 0,0:17:09.64,0:17:10.88,Main,Fushiguro,0000,0000,0000,,My head hurts.
+Dialogue: 0,0:17:11.12,0:17:14.89,Main,Kugisaki,0000,0000,0000,,Don't go to sleep with Sukuna's finger \Nin your hand. That's dangerous.
+Dialogue: 0,0:17:15.58,0:17:17.73,Main,Fushiguro,0000,0000,0000,,How do you know about the finger?
+Dialogue: 0,0:17:17.74,0:17:19.91,Main,Kugisaki,0000,0000,0000,,You have the energy to ask about that?
+Dialogue: 0,0:17:19.91,0:17:21.05,Main,Fushiguro,0000,0000,0000,,Nope.
+Dialogue: 0,0:17:21.05,0:17:23.15,Main,Fushiguro,0000,0000,0000,,Just contact Nitta-san for now.
+Dialogue: 0,0:17:23.58,0:17:25.67,Main,Fushiguro,0000,0000,0000,,We need to get it sealed at once.
+Dialogue: 0,0:17:25.68,0:17:26.89,Main,Fushiguro,0000,0000,0000,,Cursed spirits are approaching.
+Dialogue: 0,0:17:27.31,0:17:28.94,Main,Yuji,0000,0000,0000,,Should I eat it?
+Dialogue: 0,0:17:28.94,0:17:30.80,Main,Kugisaki,0000,0000,0000,,It's not leftovers.
+Dialogue: 0,0:17:30.80,0:17:33.74,Main,Fushiguro,0000,0000,0000,,We don't have a clear idea of \Nhow many fingers you can handle.
+Dialogue: 0,0:17:34.26,0:17:35.40,Main,Fushiguro,0000,0000,0000,,So don't eat it.
+Dialogue: 0,0:17:35.72,0:17:38.41,Main,Fushiguro,0000,0000,0000,,But I will hand it over to you, \Nsince you have the most energy.
+Dialogue: 0,0:17:39.03,0:17:40.91,Main,Fushiguro,0000,0000,0000,,I'll say this again, though. Don't eat it.
+Dialogue: 0,0:17:41.20,0:17:44.41,Italics,Yuji,0000,0000,0000,,He thinks I have the intelligence of a dog.
+Dialogue: 0,0:17:53.13,0:17:54.48,Main,Both,0000,0000,0000,,We just said not to eat it!
+Dialogue: 0,0:17:54.48,0:17:55.84,Main,Yuji,0000,0000,0000,,Huh? Me?!
+Dialogue: 0,0:17:56.13,0:17:57.84,Main,Yuji,0000,0000,0000,,This guy seriously...
+Dialogue: 0,0:17:58.14,0:18:00.84,Main,Yuji,0000,0000,0000,,He hardly did any work this time, either!
+Dialogue: 0,0:18:01.49,0:18:06.47,Flashback,Gojo,0000,0000,0000,,The Sukuna within you will tell us where \Nthe fingers are to try to regain his power.
+Dialogue: 0,0:18:07.35,0:18:09.84,Main,Yuji,0000,0000,0000,,Is Gojo-sensei just winging it?
+Dialogue: 0,0:18:09.84,0:18:11.16,Main,Fushiguro,0000,0000,0000,,You just now realized?
+Dialogue: 0,0:18:11.16,0:18:13.98,Main,Nitta,0000,0000,0000,,Hey! You three!
+Dialogue: 0,0:18:13.99,0:18:16.06,Main,Nitta,0000,0000,0000,,{\an8}What have you three been doing?!
+Dialogue: 0,0:18:14.48,0:18:15.94,Main,Yuji,0000,0000,0000,,Oh, Nitta-san.
+Dialogue: 0,0:18:16.66,0:18:18.79,Main,Nitta,0000,0000,0000,,{\an8}You wouldn't answer my calls!
+Dialogue: 0,0:18:16.66,0:18:18.80,Main,Kugisaki,0000,0000,0000,,She's lost it.
+Dialogue: 0,0:18:18.79,0:18:20.43,Main,Nitta,0000,0000,0000,,{\an8}What's the big idea?!
+Dialogue: 0,0:18:20.43,0:18:23.01,Main,Yuji,0000,0000,0000,,Well, shall we go home?
+Dialogue: 0,0:18:21.00,0:18:25.56,Main,Nitta,0000,0000,0000,,{\an8}Didn't you learn that communication, \Nconsulting, and reporting are important?!
+Dialogue: 0,0:18:24.07,0:18:25.65,Main,Kugisaki,0000,0000,0000,,I'm hungry.
+Dialogue: 0,0:18:25.56,0:18:30.37,Main,Nitta,0000,0000,0000,,{\an8}Are you listening to me?! Hey, you!
+Dialogue: 0,0:18:25.65,0:18:27.96,Main,Kugisaki,0000,0000,0000,,I wonder if there's a \NSplendid Sushi around here.
+Dialogue: 0,0:18:27.96,0:18:30.33,Main,Yuji,0000,0000,0000,,Splendid Sushi's bullet train \Nwas awesome, wasn't it?
+Dialogue: 0,0:18:30.33,0:18:31.25,Main,Kugisaki,0000,0000,0000,,Shut up.
+Dialogue: 0,0:18:32.88,0:18:35.98,Main,Gojo,0000,0000,0000,,Man, it wasn't just a cursed spirit with a finger.
+Dialogue: 0,0:18:35.98,0:18:37.92,Main,Gojo,0000,0000,0000,,When we analyzed the \Ncorpses, what a surprise!
+Dialogue: 0,0:18:38.02,0:18:41.26,Main,Gojo,0000,0000,0000,,It was the manifestation of the other goods.
+Dialogue: 0,0:18:42.30,0:18:45.09,Main,Gojo,0000,0000,0000,,They each took out one special-grade!
+Dialogue: 0,0:18:45.09,0:18:47.29,Main,Gojo,0000,0000,0000,,This year's first-years \Nare the cream of the crop!
+Dialogue: 0,0:18:47.29,0:18:50.27,Main,Gojo,0000,0000,0000,,It must be my skill as an instructor.
+Dialogue: 0,0:18:50.95,0:18:54.62,Main,Utahime,0000,0000,0000,,I don't want any long chats \Nwith you on my day off.
+Dialogue: 0,0:18:54.62,0:18:56.65,Main,Utahime,0000,0000,0000,,You're calling about arrangements \Nfor the drinking party, right?
+Dialogue: 0,0:18:56.65,0:18:58.27,Italics,Gojo,0000,0000,0000,,Well, find any candidates?
+Dialogue: 0,0:18:58.38,0:18:59.82,Main,Utahime,0000,0000,0000,,None.
+Dialogue: 0,0:18:59.82,0:19:02.03,Main,Utahime,0000,0000,0000,,Everyone's busy, even myself.
+Dialogue: 0,0:19:02.03,0:19:04.65,Main,Utahime,0000,0000,0000,,What now? Should I try \Nasking the students, too?
+Dialogue: 0,0:19:04.65,0:19:08.29,Italics,Gojo,0000,0000,0000,,I'm a lightweight, so I don't mind \Nif the party's alcohol-free.
+Dialogue: 0,0:19:08.51,0:19:11.14,Main,Gojo,0000,0000,0000,,I'm counting on you to \Nkeep reaching out to people.
+Dialogue: 0,0:19:12.25,0:19:12.75,Main,,0000,0000,0000,,{\an8\fs20\shad0\3c&H271A10&\frz355.8\pos(329,34)}Iori Utahime
+Dialogue: 0,0:19:15.91,0:19:19.70,Italics,Gojo,0000,0000,0000,,We never know what might be \Nlistening around Utahime, after all.
+Dialogue: 0,0:19:20.40,0:19:24.32,Italics,Gojo,0000,0000,0000,,I don't want to think about one \Nof the students being the traitor.
+Dialogue: 0,0:19:24.32,0:19:26.22,Main,Gojo,0000,0000,0000,,This is such a pain.
+Dialogue: 0,0:19:26.22,0:19:27.85,Main,,0000,0000,0000,,{\fs18\an8\c&HA2A2A2&\3c&HEEEEEE&\shad0\pos(347,77)\frx2\fry358\frz358.2}Payment for: Gojo Satoru
+Dialogue: 0,0:19:26.22,0:19:27.85,Main,,0000,0000,0000,,{\fs16\an7\c&HAAAAAA&\3c&HEEEEEE&\shad0\frx2\fry358\pos(208,118)\frz358}Enter password to verify
+Dialogue: 0,0:19:26.22,0:19:27.85,Main,,0000,0000,0000,,{\fs14\an7\c&HAAAAAA&\3c&HEBEADE&\shad0\frx2\fry358\frz358\pos(251,146)}Password
+Dialogue: 0,0:19:26.22,0:19:27.85,Main,,0000,0000,0000,,{\fs18\an8\c&HFFFFFF&\3c&HC1BB43&\shad0\frx2\fry358\frz357.3\pos(335,243)}Confirm Payment
+Dialogue: 0,0:19:27.11,0:19:30.22,Main,Gojo,0000,0000,0000,,Well, I'll leave the rest to you, Mei-san.
+Dialogue: 0,0:19:27.85,0:19:30.23,Main,,0000,0000,0000,,{\fs16\an7\c&HAAAAAA&\3c&HEEEEEE&\shad0\frx2\fry358\pos(190.667,84)\frz359.9}Payment Complete
+Dialogue: 0,0:19:27.85,0:19:30.23,Main,,0000,0000,0000,,{\fs16\an8\c&HAAAAAA&\3c&HEEEEEE&\shad0\frx2\fry358\frz359.9\pos(330.667,278)}The payment has been sent.
+Dialogue: 0,0:19:35.19,0:19:37.19,Main,,0000,0000,0000,,{\an7\fs16\c&H7A7E7D&\3c&HD2E4E3&\shad0\pos(159,290)\frz6}Gojo Satoru
+Dialogue: 0,0:19:39.99,0:19:42.19,Main,Fushiguro,0000,0000,0000,,Don't talk about them \Nresonating with Itadori.
+Dialogue: 0,0:19:42.78,0:19:44.90,Main,Kugisaki,0000,0000,0000,,Are you certain about that?
+Dialogue: 0,0:19:44.90,0:19:47.21,Main,Fushiguro,0000,0000,0000,,Nearly positive. The case is over, though.
+Dialogue: 0,0:19:47.99,0:19:50.20,Main,Fushiguro,0000,0000,0000,,The only ones likely to notice
+Dialogue: 0,0:19:50.22,0:19:52.73,Main,Fushiguro,0000,0000,0000,,are us and Nitta-san.
+Dialogue: 0,0:19:53.73,0:19:55.11,Main,Fushiguro,0000,0000,0000,,Itadori...
+Dialogue: 0,0:19:55.11,0:19:57.70,Main,Eso,0000,0000,0000,,and Sukuna's manifestation \Nwas only the trigger.
+Dialogue: 0,0:19:57.70,0:20:01.05,Main,Fushiguro,0000,0000,0000,,The curse of Yasohachi Bridge could \Nhave started killing at any moment.
+Dialogue: 0,0:20:02.18,0:20:06.22,Main,Fushiguro,0000,0000,0000,,Besides, he swallowed that \Nfirst finger to save me.
+Dialogue: 0,0:20:07.06,0:20:09.72,Main,Fushiguro,0000,0000,0000,,But there's no way he'd be \Nsatisfied with just that.
+Dialogue: 0,0:20:10.55,0:20:11.72,Main,Fushiguro,0000,0000,0000,,So don't tell him.
+Dialogue: 0,0:20:12.34,0:20:13.83,Main,Kugisaki,0000,0000,0000,,I won't say anything.
+Dialogue: 0,0:20:13.83,0:20:15.72,Main,Kugisaki,0000,0000,0000,,Don't underestimate a lady's consideration.
+Dialogue: 0,0:20:16.01,0:20:17.73,Main,Sukuna,0000,0000,0000,,It's your fault!
+Dialogue: 0,0:20:17.94,0:20:20.13,Main,Sukuna,0000,0000,0000,,You took me in.
+Dialogue: 0,0:20:20.13,0:20:23.92,Main,Sukuna,0000,0000,0000,,And now the severed parts \Nof my soul have awakened.
+Dialogue: 0,0:20:25.47,0:20:27.76,Main,Sukuna,0000,0000,0000,,To save lots of people, was it?
+Dialogue: 0,0:20:27.76,0:20:29.10,Main,Sukuna,0000,0000,0000,,Brat!
+Dialogue: 0,0:20:29.10,0:20:31.90,Main,,0000,0000,0000,,People are going to die because you live!
+Dialogue: 0,0:20:31.90,0:20:34.49,Main,Yuji,0000,0000,0000,,Hey... Don't say that to Fushiguro.
+Dialogue: 0,0:20:35.19,0:20:39.29,Flashback,Fushiguro,0000,0000,0000,,But what are you going to do when someone \Nyou saved kills someone else in the future?
+Dialogue: 0,0:20:41.29,0:20:42.80,Main,Yuji,0000,0000,0000,,Don't you dare say it.
+Dialogue: 0,0:20:54.85,0:20:55.89,Main,Toge,0000,0000,0000,,Mustard leaf.
+Dialogue: 0,0:20:56.86,0:20:59.15,Main,Panda,0000,0000,0000,,What's wrong? Your movements \Naren't as sharp today.
+Dialogue: 0,0:20:59.15,0:21:00.15,Main,Panda,0000,0000,0000,,Did you get weaker?
+Dialogue: 0,0:21:00.43,0:21:01.81,Main,Maki,0000,0000,0000,,Shut up!
+Dialogue: 0,0:21:01.81,0:21:04.16,Main,Maki,0000,0000,0000,,I lost my edge after all that bed rest!
+Dialogue: 0,0:21:04.45,0:21:08.43,Main,Panda,0000,0000,0000,,Anyway, did you hear about the first-years?
+Dialogue: 0,0:21:08.43,0:21:09.15,Main,Maki,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:09.52,0:21:12.67,Main,Maki,0000,0000,0000,,They took out three special-grades, right?
+Dialogue: 0,0:21:12.91,0:21:13.91,Main,Toge,0000,0000,0000,,Salmon.
+Dialogue: 0,0:21:16.07,0:21:16.87,Main,Maki,0000,0000,0000,,Then...
+Dialogue: 0,0:21:17.32,0:21:20.54,Main,Maki,0000,0000,0000,,We can't fall behind, either.
+Dialogue: 0,0:21:20.78,0:21:21.55,Main,Toge,0000,0000,0000,,Roe.
+Dialogue: 0,0:21:22.00,0:21:23.12,Main,Panda,0000,0000,0000,,Yeah!
+Dialogue: 0,0:21:27.12,0:21:28.73,Main,Panda,0000,0000,0000,,Hey! You were serious that time!
+Dialogue: 0,0:21:28.73,0:21:31.23,Main,Maki,0000,0000,0000,,It wouldn't be good training \Nif I wasn't serious.
+Dialogue: 0,0:21:31.23,0:21:31.98,Main,Toge,0000,0000,0000,,Kelp.
+Dialogue: 0,0:21:32.40,0:21:33.79,Main,Gakuganji,0000,0000,0000,,Even among sorcerers,
+Dialogue: 0,0:21:33.79,0:21:38.49,Main,,0000,0000,0000,,the rank of special-grade is a \Nposition beyond the normal scope.
+Dialogue: 0,0:21:38.90,0:21:41.76,Main,Gakuganji,0000,0000,0000,,It's my belief that first-grades
+Dialogue: 0,0:21:41.76,0:21:47.51,Main,,0000,0000,0000,,are the ones who ought to lead other \Nsorcerers and the jujutsu world.
+Dialogue: 0,0:21:47.51,0:21:50.85,Main,Gakuganji,0000,0000,0000,,The danger, confidential information, and pay
+Dialogue: 0,0:21:50.85,0:21:53.49,Main,Gakuganji,0000,0000,0000,,that they deal with is nothing like \Nwhat those semi-first-grade and below do.
+Dialogue: 0,0:21:53.85,0:21:56.51,Main,Gakuganji,0000,0000,0000,,So with that in mind, \Nwhat did you just say?
+Dialogue: 0,0:21:56.72,0:21:58.18,Main,Meimei,0000,0000,0000,,Zen'in Maki,
+Dialogue: 0,0:21:58.18,0:21:59.01,Main,Meimei,0000,0000,0000,,Panda...
+Dialogue: 0,0:21:59.24,0:22:00.61,Main,Todo,0000,0000,0000,,Fushiguro Megumi,
+Dialogue: 0,0:22:00.61,0:22:01.99,Main,Todo,0000,0000,0000,,Kugisaki Nobara,
+Dialogue: 0,0:22:01.99,0:22:06.16,Main,Todo,0000,0000,0000,,and my brother, Itadori Yuji.
+Dialogue: 0,0:22:06.16,0:22:08.51,Main,Todo,0000,0000,0000,,These are the five that I, \Nby my name as Todo Aoi...
+Dialogue: 0,0:22:08.76,0:22:11.02,Main,Meimei,0000,0000,0000,,...and I, by my name as Mei Mei...
+Dialogue: 0,0:22:11.20,0:22:13.93,Main,Both,0000,0000,0000,,...recommend for first grade.
+Dialogue: 0,0:22:21.55,0:22:24.09,Main,Yuji,0000,0000,0000,,I think you're just buying way too much.
+Dialogue: 0,0:22:24.09,0:22:25.98,Main,Kugisaki,0000,0000,0000,,Half of that is yours, right?
+Dialogue: 0,0:22:25.98,0:22:28.07,Main,Yuji,0000,0000,0000,,Only this one is mine!
+Dialogue: 0,0:22:32.75,0:22:36.54,Main,Kugisaki,0000,0000,0000,,Drop even one... and you're dead!
+Dialogue: 0,0:22:36.91,0:22:38.29,Main,Yuji,0000,0000,0000,,R-Right...
+Dialogue: 0,0:22:46.67,0:22:49.35,Main,Kugisaki,0000,0000,0000,,I just said you're dead \Nif you drop even one!
+Dialogue: 0,0:22:49.35,0:22:51.77,Main,Yuji,0000,0000,0000,,I'm sorry! It wasn't on purpose!
+Dialogue: 0,0:22:51.77,0:22:54.91,Main,Yuji,0000,0000,0000,,You just have too many!
+Dialogue: 0,0:22:51.77,0:22:57.48,Main,Kugisaki,0000,0000,0000,,{\an8}What are you going to do \Nif they're damaged?!
+Dialogue: 0,0:22:55.35,0:22:57.22,Main,Fushiguro,0000,0000,0000,,This is Fushiguro.
+Dialogue: 0,0:22:57.22,0:22:58.24,Main,Fushiguro,0000,0000,0000,,Yes.
+Dialogue: 0,0:22:57.48,0:22:59.15,Main,Yuji,0000,0000,0000,,{\an8}Just go back and get another!
+Dialogue: 0,0:22:58.24,0:22:59.36,Main,Fushiguro,0000,0000,0000,,Yeah.
+Dialogue: 0,0:22:59.98,0:23:01.98,Main,Fushiguro,0000,0000,0000,,All right. See you.
+Dialogue: 0,0:23:03.47,0:23:04.32,Main,Kugisaki,0000,0000,0000,,What?
+Dialogue: 0,0:23:04.65,0:23:07.28,Main,Fushiguro,0000,0000,0000,,Gojo-sensei said to come.
+Dialogue: 0,0:23:07.49,0:23:09.09,Main,Kugisaki,0000,0000,0000,,Huh? Why?
+Dialogue: 0,0:23:09.62,0:23:10.97,Main,Fushiguro,0000,0000,0000,,A mission.
+Dialogue: 0,0:23:10.97,0:23:12.50,Main,Fushiguro,0000,0000,0000,,A top secret one.
+Dialogue: 0,0:23:12.50,0:23:13.61,Main,Kugisaki,0000,0000,0000,,What?
+Dialogue: 0,0:23:13.61,0:23:16.03,Main,,0000,0000,0000,,Didn't we just finish taking care of one?
+Dialogue: 0,0:23:16.03,0:23:17.08,Main,Yuji,0000,0000,0000,,Why not?
+Dialogue: 0,0:23:17.41,0:23:20.00,Main,Yuji,0000,0000,0000,,Gojo-sensei's saying it's top secret.
+Dialogue: 0,0:23:20.65,0:23:21.95,Main,Yuji,0000,0000,0000,,So it must be big.
+Dialogue: 0,0:23:22.48,0:23:23.96,Main,Kugisaki,0000,0000,0000,,He says that pretty often.
+Dialogue: 0,0:23:24.29,0:23:25.96,Main,Fushiguro,0000,0000,0000,,He says it all the time.
+Dialogue: 0,0:23:25.97,0:23:28.86,Main,Yuji,0000,0000,0000,,Yeah, but so what?
+Dialogue: 0,0:23:31.01,0:23:31.92,Main,Yuji,0000,0000,0000,,Let's go.
+Dialogue: 0,0:23:36.01,0:23:38.93,Show_Title,,0000,0000,0000,,{\fad(1398,1)\c&H0F0D09&\3c&HB7BD80&\t(1236,1817,1 \3c&H85A2A4&)\t(1819,2945,1 \3c&H95DED9&)}JUJUTSU KAISEN
+Dialogue: 0,0:23:38.93,0:23:39.93,Main,Screen,0000,0000,0000,,{\fnTimes New Roman\b1\an3\bord0\shad0\pos(560,350)\c&HEEF7FA&}To Be Continued

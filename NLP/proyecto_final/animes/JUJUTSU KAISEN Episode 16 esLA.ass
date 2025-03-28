@@ -1,0 +1,329 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleEp,Times New Roman,22,&H00E7EAE4,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,9,0020,0028,0020,1
+Style: Cart_TitleNext,Times New Roman,20,&H00FCFFFF,&H000000FF,&H00313131,&H00313131,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0050,1
+Style: Cart_C_TreNo,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Times New Roman,56,&H00000000,&H000000FF,&H00B7BD80,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_Intermedio,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_Meeting,Arial,24,&H00151815,&H000000FF,&H00F9FEFC,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0020,0020,0070,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.19,0:00:08.44,Gen_Main,Toudou,0000,0000,0000,,Las manos nunca superarán a los ojos.
+Dialogue: 0,0:00:08.75,0:00:11.69,Gen_Main,Toudou,0000,0000,0000,,Si no entrenas los ojos\Npara distinguir el bien del mal,
+Dialogue: 0,0:00:09.48,0:00:11.69,Cart_C_Tim,Screen,0000,0000,0000,,{\fad(300,0)\an9\fsp1\shad0\fs20}Respuesta correcta\N{\c&HFFFFFF&\3c&H852A98&}Sala de espera
+Dialogue: 0,0:00:11.85,0:00:14.70,Gen_Main,Toudou,0000,0000,0000,,no mejorarás las manos\Ncon las que creas obras de arte.
+Dialogue: 0,0:00:15.32,0:00:18.87,Gen_Main,Toudou,0000,0000,0000,,Aunque es un dicho común\Nentre artesanos,
+Dialogue: 0,0:00:19.04,0:00:21.58,Gen_Main,Toudou,0000,0000,0000,,puede aplicarse a todo tipo de ámbitos.
+Dialogue: 0,0:00:21.75,0:00:23.79,Gen_Main,Toudou,0000,0000,0000,,Aquellos con buenos "ojos"
+Dialogue: 0,0:00:23.96,0:00:27.79,Gen_Main,Toudou,0000,0000,0000,,mejorarán muchísimo más rápido\Nque aquellos que no los posean.
+Dialogue: 0,0:00:42.01,0:00:44.56,Gen_Italics,Toudou,0000,0000,0000,,Al lanzar un derechazo horizontal,
+Dialogue: 0,0:00:44.91,0:00:47.73,Gen_Italics,Toudou,0000,0000,0000,,responde enseguida\Ncon un izquierdazo vertical.
+Dialogue: 0,0:00:48.31,0:00:51.03,Gen_Italics,Toudou,0000,0000,0000,,¡Itadori antes no se movía así!
+Dialogue: 0,0:00:51.23,0:00:52.49,Gen_Italics,Toudou,0000,0000,0000,,¡Está mejorando…
+Dialogue: 0,0:00:53.86,0:00:55.57,Gen_Italics,Toudou,0000,0000,0000,,devorándome!
+Dialogue: 0,0:00:56.91,0:00:59.66,Gen_Italics,Toudou,0000,0000,0000,,¡Qué bella forma de derribo!
+Dialogue: 0,0:01:01.45,0:01:03.62,Gen_Italics,Yuuji,0000,0000,0000,,Tiene el rostro descubierto.\NPuedo darle…
+Dialogue: 0,0:01:03.79,0:01:05.04,Gen_Italics,Yuuji,0000,0000,0000,,¡con mi Puño Divergente!
+Dialogue: 0,0:01:05.71,0:01:06.96,Gen_Italics,Toudou,0000,0000,0000,,¡Sin embargo!
+Dialogue: 0,0:01:11.00,0:01:14.22,Gen_Italics,Yuuji,0000,0000,0000,,¡¿Detuvo el puño con la frente\Nantes de que acelerara?!
+Dialogue: 0,0:01:16.09,0:01:19.05,Gen_Main,Toudou,0000,0000,0000,,No es lo que quiero que aprendas de mí.
+Dialogue: 0,0:01:19.89,0:01:23.89,Gen_Main,Toudou,0000,0000,0000,,Tu Puño Divergente ocurre\Nporque tu energía maldita
+Dialogue: 0,0:01:24.06,0:01:26.81,Gen_Main,Toudou,0000,0000,0000,,no puede seguirle el ritmo\Na tu fuerza sobrehumana.
+Dialogue: 0,0:01:26.98,0:01:29.06,Gen_Main,Toudou,0000,0000,0000,,Normalmente eso no pasa.
+Dialogue: 0,0:01:29.69,0:01:31.07,Gen_Main,Toudou,0000,0000,0000,,Es engañoso.
+Dialogue: 0,0:01:31.23,0:01:35.32,Gen_Main,Toudou,0000,0000,0000,,Eso desorientaría a cualquier\Nhechicero común y corriente.
+Dialogue: 0,0:01:35.69,0:01:37.15,Gen_Main,Toudou,0000,0000,0000,,Y es muy potente.
+Dialogue: 0,0:01:37.32,0:01:39.74,Gen_Main,Toudou,0000,0000,0000,,Solo contra oponentes de cierto nivel.
+Dialogue: 0,0:01:41.03,0:01:43.33,Gen_Main,Toudou,0000,0000,0000,,Pero no contra alguien\Nde clase especial.
+Dialogue: 0,0:01:44.54,0:01:46.33,Gen_Main,Toudou,0000,0000,0000,,¿Qué harás, mejor amigo?
+Dialogue: 0,0:01:48.37,0:01:51.87,Gen_Main,Yuuji,0000,0000,0000,,Imbuir todas mis fuerzas con energía\Nmaldita en el momento preciso.
+Dialogue: 0,0:01:52.09,0:01:53.09,Gen_Main,Toudou,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:01:53.34,0:01:56.38,Gen_Main,Toudou,0000,0000,0000,,Entonces, ¿por qué se queda atrás\Ntu energía maldita?
+Dialogue: 0,0:01:56.55,0:01:59.84,Gen_Main,Toudou,0000,0000,0000,,¡Es porque la estás canalizando!
+Dialogue: 0,0:02:03.56,0:02:07.10,Gen_Main,Yuuji,0000,0000,0000,,Espera, ¿no querías\Nque la canalizara más rápido?
+Dialogue: 0,0:02:07.27,0:02:08.94,Gen_Main,Toudou,0000,0000,0000,,Al canalizar la energía,
+Dialogue: 0,0:02:09.10,0:02:12.61,Gen_Main,Toudou,0000,0000,0000,,muchos lo hacemos de manera consciente.
+Dialogue: 0,0:02:13.15,0:02:16.49,Gen_Main,Toudou,0000,0000,0000,,"La sangre de mi abdomen hierve de ira".
+Dialogue: 0,0:02:16.65,0:02:20.48,Gen_Main,Toudou,0000,0000,0000,,En teoría, la energía de las emociones\Nnegativas se extrae del ombligo
+Dialogue: 0,0:02:16.65,0:02:20.48,Gen_Main,Toudou,0000,0000,0000,,Maldición
+Dialogue: 0,0:02:19.49,0:02:21.37,Cart_C_Tre,Screen,0000,0000,0000,,{\pos(320,86)\4c&H645417&\3c&HEAE4C6&\bord1.5\fad(0,300)}Maldición
+Dialogue: 0,0:02:20.72,0:02:23.07,Gen_Main,Toudou,0000,0000,0000,,y se canaliza al resto del cuerpo.
+Dialogue: 0,0:02:24.03,0:02:25.87,Gen_Main,Toudou,0000,0000,0000,,Viaja del ombligo al pecho,
+Dialogue: 0,0:02:26.25,0:02:30.12,Gen_Main,Toudou,0000,0000,0000,,luego a los hombros, los brazos\Ny finalmente a los puños.
+Dialogue: 0,0:02:30.54,0:02:33.13,Gen_Main,Toudou,0000,0000,0000,,Pero percibir el cuerpo en partes
+Dialogue: 0,0:02:33.29,0:02:35.63,Gen_Main,Toudou,0000,0000,0000,,es lo que retrasa la energía maldita.
+Dialogue: 0,0:02:36.21,0:02:39.63,Gen_Main,Toudou,0000,0000,0000,,La idea de canalizarla\Nno está mal en sí.
+Dialogue: 0,0:02:39.80,0:02:41.18,Gen_Main,Toudou,0000,0000,0000,,Pero solo es el principio.
+Dialogue: 0,0:02:41.34,0:02:44.01,Gen_Main,Toudou,0000,0000,0000,,No te dejes atrapar por el concepto.
+Dialogue: 0,0:02:44.18,0:02:48.14,Gen_Main,Toudou,0000,0000,0000,,Aunque cuesta leer el flujo de energía\Nde los mejores hechiceros,
+Dialogue: 0,0:02:48.77,0:02:50.90,Gen_Main,Toudou,0000,0000,0000,,no es por lo que haces tú.
+Dialogue: 0,0:02:51.81,0:02:54.32,Gen_Main,Toudou,0000,0000,0000,,¿Acaso pensamos con el estómago?
+Dialogue: 0,0:02:54.82,0:02:57.32,Gen_Main,Toudou,0000,0000,0000,,¿Expresamos la ira con la cabeza?
+Dialogue: 0,0:02:58.40,0:02:59.86,Gen_Main,Toudou,0000,0000,0000,,Escucha, Itadori.
+Dialogue: 0,0:03:11.57,0:03:16.21,Gen_Main,Toudou,0000,0000,0000,,Existimos en el mundo con mente,\Ncuerpo y alma como unidad.
+Dialogue: 0,0:03:16.67,0:03:20.72,Gen_Main,Toudou,0000,0000,0000,,Es algo tan obvio que solemos olvidarlo.
+Dialogue: 0,0:03:26.10,0:03:27.97,Gen_Main,Yuuji,0000,0000,0000,,Gracias, Toudou.
+Dialogue: 0,0:03:29.31,0:03:32.48,Gen_Main,Yuuji,0000,0000,0000,,Creo que ahora lo entiendo.
+Dialogue: 0,0:03:33.60,0:03:36.44,Gen_Main,Toudou,0000,0000,0000,,Pues sobran las palabras.
+Dialogue: 0,0:03:37.11,0:03:39.03,Gen_Main,Toudou,0000,0000,0000,,No me contendré.
+Dialogue: 0,0:03:44.78,0:03:47.53,Gen_Italics,Toudou,0000,0000,0000,,¡Te guiaré con todas mis fuerzas!
+Dialogue: 0,0:03:48.20,0:03:49.79,Gen_Italics,Toudou,0000,0000,0000,,¡No mueras, Itadori!
+Dialogue: 0,0:03:50.12,0:03:52.96,Gen_Italics,Toudou,0000,0000,0000,,¡Elévate! ¡A lo más alto!
+Dialogue: 0,0:05:13.04,0:05:16.79,Cart_TitleSeries,,0000,0000,0000,,{\fad(1398,1)\c&H0F0D09&\3c&HB7BD80&\t(1236,1817,1 \3c&H85A2A4&)\t(1819,2945,1 \3c&H95DED9&)}JUJUTSU KAISEN
+Dialogue: 0,0:05:24.51,0:05:31.51,Cart_TitleEp,Screen,0000,0000,0000,,{\fad(522,514)\an7\pos(48,19)}Episodio 16: El evento de intercambio\Ncon la escuela de Kioto -Combate grupal 2-
+Dialogue: 0,0:05:27.09,0:05:28.59,Gen_Main,Kugisaki,0000,0000,0000,,Oye, tú.
+Dialogue: 0,0:05:29.01,0:05:32.10,Gen_Main,Kugisaki,0000,0000,0000,,El viejo les pidió\Nque mataran a Itadori, ¿no?
+Dialogue: 0,0:05:33.77,0:05:35.39,Gen_Italics,Momo,0000,0000,0000,,Tiene buena intuición.
+Dialogue: 0,0:05:35.89,0:05:39.10,Gen_Italics,Momo,0000,0000,0000,,No, tuvo que ser el Panda.
+Dialogue: 0,0:05:39.56,0:05:41.23,Gen_Main,Momo,0000,0000,0000,,¿A qué te refieres?
+Dialogue: 0,0:05:41.40,0:05:43.57,Gen_Main,Kugisaki,0000,0000,0000,,No tienes que ocultarlo.
+Dialogue: 0,0:05:43.73,0:05:45.74,Gen_Main,Kugisaki,0000,0000,0000,,Yo también pienso matar a alguien.
+Dialogue: 0,0:05:45.90,0:05:50.20,Gen_Main,Kugisaki,0000,0000,0000,,En especial a Mai,\Nla versión diluida de Maki.
+Dialogue: 0,0:05:51.87,0:05:53.66,Gen_Main,Kugisaki,0000,0000,0000,,¿Eso es todo?
+Dialogue: 0,0:05:53.83,0:05:57.16,Gen_Main,Kugisaki,0000,0000,0000,,Hasta el robot Pepper es\Nmás expresivo que tú.
+Dialogue: 0,0:05:57.33,0:05:59.21,Gen_Italics,Kugisaki,0000,0000,0000,,Vaya, ¿se enojó?
+Dialogue: 0,0:05:59.71,0:06:02.21,Gen_Italics,Kugisaki,0000,0000,0000,,Pero ¡el sentimiento es mutuo!
+Dialogue: 0,0:06:02.54,0:06:06.59,Gen_Main,Kugisaki,0000,0000,0000,,Ahora que lo pienso,\Nustedes tienen su propio Pepper.
+Dialogue: 0,0:06:06.76,0:06:10.09,Gen_Main,Kugisaki,0000,0000,0000,,Puede que lo convierta en chatarra\Ny lo tire por ahí.
+Dialogue: 0,0:06:12.66,0:06:13.85,Gen_Main,Panda,0000,0000,0000,,Qué miedo…
+Dialogue: 0,0:06:18.81,0:06:19.90,Gen_Main,Kugisaki,0000,0000,0000,,¡Panda!
+Dialogue: 0,0:06:22.56,0:06:25.44,Gen_Main,Mechamaru,0000,0000,0000,,Es un Jugai. No morirá.
+Dialogue: 0,0:06:25.61,0:06:27.44,Gen_Main,Mechamaru,0000,0000,0000,,Pero no podrá moverse.
+Dialogue: 0,0:06:29.20,0:06:31.91,Gen_Main,Mechamaru,0000,0000,0000,,¿Y bien? ¿A quién llamabas Pepper?
+Dialogue: 0,0:06:32.41,0:06:34.03,Gen_Main,Momo,0000,0000,0000,,Espera, Mechamaru.
+Dialogue: 0,0:06:36.83,0:06:40.29,Gen_Main,Momo,0000,0000,0000,,Moldearé a golpes\Na esta chica de primero.
+Dialogue: 0,0:06:40.83,0:06:42.33,Gen_Main,Momo,0000,0000,0000,,Le enseñaré las dificultades
+Dialogue: 0,0:06:42.50,0:06:46.80,Gen_Main,Momo,0000,0000,0000,,que ha tenido que superar Mai\Ncomo hechicera.
+Dialogue: 0,0:06:47.28,0:06:48.67,Gen_Main,Panda,0000,0000,0000,,Se la creyeron.
+Dialogue: 0,0:06:54.30,0:06:55.64,Gen_Main,Panda,0000,0000,0000,,¿Buscas atención?
+Dialogue: 0,0:06:55.81,0:06:58.39,Gen_Main,Panda,0000,0000,0000,,Deberías centrarte\Nen apoyar desde las sombras.
+Dialogue: 0,0:06:58.68,0:07:00.73,Gen_Main,Panda,0000,0000,0000,,¿Por qué no nos llevamos bien?
+Dialogue: 0,0:07:00.89,0:07:02.65,Gen_Main,Panda,0000,0000,0000,,Ya que nos parecemos tanto.
+Dialogue: 0,0:07:03.52,0:07:05.32,Gen_Main,Mechamaru,0000,0000,0000,,Maldita marioneta…
+Dialogue: 0,0:07:11.45,0:07:12.99,Gen_Main,Mechamaru,0000,0000,0000,,¡No sabes nada!
+Dialogue: 0,0:07:15.49,0:07:19.20,Gen_Main,Panda,0000,0000,0000,,Cielos, ¿qué pasó\Ncon lo de cazar espíritus malditos?
+Dialogue: 0,0:07:20.46,0:07:22.00,Gen_Main,Mechamaru,0000,0000,0000,,Sword Option:
+Dialogue: 0,0:07:25.09,0:07:26.38,Gen_Main,Mechamaru,0000,0000,0000,,Boost On.
+Dialogue: 0,0:07:34.14,0:07:35.43,Gen_Main,Mechamaru,0000,0000,0000,,¡Ultra Spin!
+Dialogue: 0,0:07:46.27,0:07:47.94,Gen_Main,Mechamaru,0000,0000,0000,,No deja de moverse…
+Dialogue: 0,0:07:48.11,0:07:50.19,Gen_Italics,Panda,0000,0000,0000,,Debo terminar esto pronto.
+Dialogue: 0,0:07:50.36,0:07:55.20,Gen_Italics,Panda,0000,0000,0000,,Preferiría dejarlo y ayudar a Nobara,\Npero ataca desde lejos.
+Dialogue: 0,0:07:55.37,0:07:59.04,Gen_Italics,Panda,0000,0000,0000,,No sabíamos nada\Nsobre Mechamaru, Nishimiya y Miwa…
+Dialogue: 0,0:07:59.58,0:08:00.91,Gen_Main,Panda,0000,0000,0000,,Eres fuerte.
+Dialogue: 0,0:08:01.37,0:08:02.46,Gen_Main,Panda,0000,0000,0000,,¿De qué clase eres?
+Dialogue: 0,0:08:03.67,0:08:09.92,Cart_C_Tre,ScreenToptoBottom,0000,0000,0000,,{\b0\fs16\c&H515151&\pos(335,59)}1.ª clase
+Dialogue: 0,0:08:03.67,0:08:09.92,Cart_C_Tre,ScreenToptoBottom,0000,0000,0000,,{\b0\fs16\c&H515151&\pos(331,112)}Semi 1.ª clase
+Dialogue: 0,0:08:03.67,0:08:09.92,Cart_C_Tre,ScreenToptoBottom,0000,0000,0000,,{\b0\fs16\c&H515151&\pos(333,164)}2.ª clase
+Dialogue: 0,0:08:03.67,0:08:09.92,Cart_C_Tre,ScreenToptoBottom,0000,0000,0000,,{\b0\fs16\c&H515151&\pos(335,220)}Semi 2.ª clase
+Dialogue: 0,0:08:03.67,0:08:09.92,Cart_C_Tre,ScreenToptoBottom,0000,0000,0000,,{\b0\fs16\c&H515151&\pos(335,271)}3.ª clase
+Dialogue: 0,0:08:05.33,0:08:07.54,Gen_Main,Panda,0000,0000,0000,,Pero intuyo que sería algo así.
+Dialogue: 0,0:08:07.71,0:08:09.92,Gen_Main,Panda,0000,0000,0000,,Nobara no podrá sola.
+Dialogue: 0,0:08:10.09,0:08:13.64,Gen_Main,Mechamaru,0000,0000,0000,,No creo que haga falta decirte\Ncuán bueno soy cazando espíritus,
+Dialogue: 0,0:08:13.87,0:08:14.93,Gen_Main,Mechamaru,0000,0000,0000,,pero te lo diré.
+Dialogue: 0,0:08:17.35,0:08:18.72,Gen_Main,Mechamaru,0000,0000,0000,,Semiprimera clase.
+Dialogue: 0,0:08:20.68,0:08:21.98,Gen_Main,Mechamaru,0000,0000,0000,,¡Ultra Cannon!
+Dialogue: 0,0:08:23.64,0:08:25.15,Gen_Italics,Panda,0000,0000,0000,,¡El área de ataque es enorme!
+Dialogue: 0,0:08:33.70,0:08:34.82,Gen_Italics,Panda,0000,0000,0000,,Emite calor.
+Dialogue: 0,0:08:34.99,0:08:36.95,Gen_Italics,Panda,0000,0000,0000,,Debe prepararse y recargar.
+Dialogue: 0,0:08:37.62,0:08:42.08,Gen_Italics,Mechamaru,0000,0000,0000,,Tanta potencia no tiene sentido\Nsi no le doy al núcleo de lleno.
+Dialogue: 0,0:08:43.08,0:08:44.37,Gen_Italics,Yaga,0000,0000,0000,,"Jugai".
+Dialogue: 0,0:08:44.90,0:08:47.23,Gen_Italics,Yaga,0000,0000,0000,,Es como llaman a los objetos inanimados
+Dialogue: 0,0:08:47.63,0:08:50.05,Gen_Italics,Yaga,0000,0000,0000,,que albergan maldiciones\Ny se mueven solos.
+Dialogue: 0,0:08:51.42,0:08:56.34,Gen_Italics,Yaga,0000,0000,0000,,Un Jugai artificial siempre tendrá\Nun núcleo que hace de corazón.
+Dialogue: 0,0:09:02.56,0:09:06.52,Gen_Italics,Yaga,0000,0000,0000,,Panda es la obra maestra que yo,\NYaga Masamichi,
+Dialogue: 0,0:09:06.69,0:09:09.44,Gen_Italics,,0000,0000,0000,,creé como experto\Nen rituales de titeretismo.
+Dialogue: 0,0:09:09.65,0:09:12.15,Gen_Italics,Yaga,0000,0000,0000,,Es un Jugai que nació con emociones.
+Dialogue: 0,0:09:21.66,0:09:24.20,Gen_Italics,Yaga,0000,0000,0000,,¡Una mutación Jugai!
+Dialogue: 0,0:09:24.91,0:09:26.21,Gen_Italics,Yaga,0000,0000,0000,,¡Panda…
+Dialogue: 0,0:09:26.37,0:09:28.17,Gen_Italics,Yaga,0000,0000,0000,,no es un panda!
+Dialogue: 0,0:09:38.09,0:09:39.85,Gen_Italics,Mechamaru,0000,0000,0000,,¡No puedo seguir sus movimientos!
+Dialogue: 0,0:09:57.61,0:10:01.49,Gen_Main,Panda,0000,0000,0000,,Si hubiera otro como yo,\Nhabría escuchado rumores.
+Dialogue: 0,0:10:01.81,0:10:05.33,Gen_Main,Panda,0000,0000,0000,,Pero como no es el caso,\Nsignifica que no eres un Jugai,
+Dialogue: 0,0:10:05.50,0:10:09.25,Gen_Main,Panda,0000,0000,0000,,sino un hechicero que controla\Nesta cosa desde otro lugar.
+Dialogue: 0,0:10:09.42,0:10:12.96,Gen_Main,Panda,0000,0000,0000,,No por eso deberías ofenderte\Nporque crean que eres un Jugai.
+Dialogue: 0,0:10:13.13,0:10:14.67,Gen_Main,Panda,0000,0000,0000,,¿No te gusta parecerte a mí?
+Dialogue: 0,0:10:15.42,0:10:17.06,Gen_Main,Panda,0000,0000,0000,,Qué hiriente.
+Dialogue: 0,0:10:17.92,0:10:20.22,Gen_Main,Panda,0000,0000,0000,,¡¿Y si te hiero a ti?!
+Dialogue: 0,0:10:21.26,0:10:25.98,Gen_Main,Panda,0000,0000,0000,,A juzgar por cuánta energía lanzas,\Ntu cuerpo real ha de estar cerca.
+Dialogue: 0,0:10:26.36,0:10:28.44,Gen_Main,Panda,0000,0000,0000,,Puede que justo fuera del área de juego.
+Dialogue: 0,0:10:28.98,0:10:31.27,Gen_Main,Panda,0000,0000,0000,,En ese caso, no puedo salir a buscarte.
+Dialogue: 0,0:10:31.44,0:10:33.23,Gen_Main,Panda,0000,0000,0000,,Quedarías desmarcado.
+Dialogue: 0,0:10:33.40,0:10:35.44,Gen_Main,Panda,0000,0000,0000,,Tendré que hacerte añicos.
+Dialogue: 0,0:10:35.61,0:10:37.61,Gen_Main,Mechamaru,0000,0000,0000,,No harás nada de eso.
+Dialogue: 0,0:10:38.56,0:10:39.86,Gen_Main,Mechamaru,0000,0000,0000,,Pacto celestial.
+Dialogue: 0,0:10:40.24,0:10:41.82,Gen_Main,Mechamaru,0000,0000,0000,,¿Te suena?
+Dialogue: 0,0:10:42.24,0:10:46.12,Gen_Main,Mechamaru,0000,0000,0000,,No es como un pacto normal\Nque haces contigo mismo.
+Dialogue: 0,0:10:46.29,0:10:50.25,Gen_Main,Mechamaru,0000,0000,0000,,Es un pacto que se impone\Na tu cuerpo en cuanto naces.
+Dialogue: 0,0:10:50.42,0:10:54.13,Gen_Main,Mechamaru,0000,0000,0000,,Nací sin brazo derecho\Ny nada debajo de las rodillas.
+Dialogue: 0,0:10:54.29,0:10:56.84,Gen_Main,Mechamaru,0000,0000,0000,,Tampoco sentía de la cintura para abajo.
+Dialogue: 0,0:10:57.01,0:11:00.13,Gen_Main,Mechamaru,0000,0000,0000,,Mi piel es tan frágil que hasta\Nla luz de la luna la daña,
+Dialogue: 0,0:11:00.30,0:11:04.05,Gen_Main,Mechamaru,0000,0000,0000,,y se siente como si me clavaran\Nagujas en cada poro.
+Dialogue: 0,0:11:04.22,0:11:06.39,Gen_Main,Mechamaru,0000,0000,0000,,Pero, a cambio, obtuve el poder
+Dialogue: 0,0:11:06.56,0:11:11.35,Gen_Main,Mechamaru,0000,0000,0000,,de usar rituales desde muy lejos\Ny una gran cantidad de energía maldita.
+Dialogue: 0,0:11:11.52,0:11:14.15,Gen_Main,Mechamaru,0000,0000,0000,,Nunca pedí un poder como este.
+Dialogue: 0,0:11:14.31,0:11:19.11,Gen_Main,Mechamaru,0000,0000,0000,,Si pudiera dar mis rituales a cambio\Nde un cuerpo normal, lo haría feliz.
+Dialogue: 0,0:11:19.61,0:11:25.87,Gen_Main,Mechamaru,0000,0000,0000,,Por eso, cuando veo a un Jugai\Ncaminando como si nada bajo el sol,
+Dialogue: 0,0:11:26.37,0:11:29.50,Gen_Main,Mechamaru,0000,0000,0000,,¡no puedo soportarlo!
+Dialogue: 0,0:11:31.92,0:11:34.04,Gen_Main,Mechamaru,0000,0000,0000,,¡Ultimate Mechamaru,
+Dialogue: 0,0:11:35.16,0:11:37.50,Gen_Main,Mechamaru,0000,0000,0000,,Mode: Albatross!
+Dialogue: 0,0:11:39.21,0:11:41.01,Gen_Italics,Panda,0000,0000,0000,,¡Cuánta energía maldita!
+Dialogue: 0,0:11:41.17,0:11:45.93,Gen_Italics,Panda,0000,0000,0000,,¡Y en esta posición\NNobara está en la línea de fuego!
+Dialogue: 0,0:11:46.60,0:11:48.14,Gen_Italics,Panda,0000,0000,0000,,¡Tengo que bloquearlo!
+Dialogue: 0,0:11:48.31,0:11:51.06,Gen_Main,Mechamaru,0000,0000,0000,,¡Ultimate Cannon!
+Dialogue: 0,0:12:04.61,0:12:06.12,Gen_Main,Mechamaru,0000,0000,0000,,¿Lo maté?
+Dialogue: 0,0:12:06.62,0:12:09.70,Gen_Main,Mechamaru,0000,0000,0000,,No, el concepto de la muerte
+Dialogue: 0,0:12:09.87,0:12:12.91,Gen_Main,Mechamaru,0000,0000,0000,,no es algo que pueda aplicarse contigo.
+Dialogue: 0,0:12:15.00,0:12:16.92,Gen_Main,Panda,0000,0000,0000,,Revelaste tus rituales
+Dialogue: 0,0:12:17.09,0:12:20.42,Gen_Main,Panda,0000,0000,0000,,mientras te jactabas de tus desdichas.
+Dialogue: 0,0:12:20.88,0:12:23.05,Gen_Main,Panda,0000,0000,0000,,Muy propio de un hechicero.
+Dialogue: 0,0:12:23.22,0:12:27.18,Gen_Italics,Mechamaru,0000,0000,0000,,¿Sigue vivo tras recibir de lleno\Nmi Ultimate Cannon?
+Dialogue: 0,0:12:31.02,0:12:33.63,Gen_Main,Panda,0000,0000,0000,,Comienzas a irritarme.
+Dialogue: 0,0:12:34.90,0:12:38.94,Gen_Main,Mechamaru,0000,0000,0000,,¿Y esa forma?
+Dialogue: 0,0:12:39.11,0:12:42.61,Gen_Main,Yaga,0000,0000,0000,,¡Panda no es un panda!
+Dialogue: 0,0:12:46.20,0:12:48.99,Cart_Intermedio,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:12:51.83,0:12:54.00,Cart_Intermedio,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:12:58.78,0:12:59.84,Gen_Main,Yaga,0000,0000,0000,,Panda,
+Dialogue: 0,0:13:00.63,0:13:04.38,Gen_Main,Yaga,0000,0000,0000,,tienes un hermano mayor\Ny una hermana mayor.
+Dialogue: 0,0:13:05.84,0:13:07.26,Gen_Main,Panda,0000,0000,0000,,Se equivoca, señor.
+Dialogue: 0,0:13:07.43,0:13:10.35,Gen_Main,Yaga,0000,0000,0000,,Sí, los tienes. En tu interior.
+Dialogue: 0,0:13:10.60,0:13:12.02,Gen_Main,Yaga,0000,0000,0000,,¿Y por qué eres tan formal?
+Dialogue: 0,0:13:12.39,0:13:13.73,Gen_Main,Panda,0000,0000,0000,,¿Dentro de mí?
+Dialogue: 0,0:13:13.89,0:13:16.39,Gen_Main,Yaga,0000,0000,0000,,Sí, algún día lo comprenderás.
+Dialogue: 0,0:13:17.10,0:13:19.23,Gen_Main,Yaga,0000,0000,0000,,Esos dos siempre…
+Dialogue: 0,0:13:20.07,0:13:24.15,Gen_Main,Yaga,0000,0000,0000,,Siempre te ayudarán.
+Dialogue: 0,0:13:26.36,0:13:29.53,Gen_Main,Mechamaru,0000,0000,0000,,Sword Option: Ultra Shield.
+Dialogue: 0,0:13:36.92,0:13:40.59,Gen_Italics,Panda,0000,0000,0000,,Normalmente, un Jugai solo tiene\Nun núcleo como corazón.
+Dialogue: 0,0:13:40.75,0:13:43.13,Gen_Italics,Panda,0000,0000,0000,,Pero yo cuento con tres núcleos.
+Dialogue: 0,0:13:43.30,0:13:47.05,Gen_Italics,Panda,0000,0000,0000,,Puedo alterar mi cuerpo cambiando\Nde núcleo principal.
+Dialogue: 0,0:13:48.72,0:13:51.35,Gen_Italics,Panda,0000,0000,0000,,Tengo el Núcleo Panda equilibrado,
+Dialogue: 0,0:13:51.51,0:13:55.52,Gen_Italics,Panda,0000,0000,0000,,el de mi hermano mayor, Núcleo Gorila,\Npara arrebatos de potencia,
+Dialogue: 0,0:13:55.68,0:13:57.77,Gen_Italics,Panda,0000,0000,0000,,y el de mi tímida hermana mayor.
+Dialogue: 0,0:13:58.75,0:14:01.19,Gen_Italics,Panda,0000,0000,0000,,El primer ataque le dio\Nal núcleo de mi hermana
+Dialogue: 0,0:14:01.52,0:14:04.11,Gen_Italics,Panda,0000,0000,0000,,y el de recién agotó el Núcleo Panda.
+Dialogue: 0,0:14:05.15,0:14:07.74,Gen_Italics,Panda,0000,0000,0000,,Mi única opción es vencerlo\Ncon el modo Gorila.
+Dialogue: 0,0:14:16.79,0:14:19.08,Gen_Italics,Mechamaru,0000,0000,0000,,No tiene tanta potencia como Toudou.
+Dialogue: 0,0:14:19.25,0:14:23.09,Gen_Italics,Mechamaru,0000,0000,0000,,Pero el golpe de recién\Nresonó en mi interior.
+Dialogue: 0,0:14:24.46,0:14:26.72,Gen_Italics,Mechamaru,0000,0000,0000,,Puede hacerme daño aunque bloquee.
+Dialogue: 0,0:14:26.88,0:14:28.55,Gen_Main,Panda,0000,0000,0000,,¿Te diste cuenta?
+Dialogue: 0,0:14:28.72,0:14:31.26,Gen_Main,Panda,0000,0000,0000,,Esta es la técnica especial\Ndel Modo Gorila,
+Dialogue: 0,0:14:32.51,0:14:36.10,Gen_Main,Panda,0000,0000,0000,,¡el imparable Tamborileo!
+Dialogue: 0,0:14:36.27,0:14:40.19,Gen_Italics,Mechamaru,0000,0000,0000,,Si recibo el Tamborileo\Nen la cabeza o el pecho,
+Dialogue: 0,0:14:40.35,0:14:42.86,Gen_Italics,Mechamaru,0000,0000,0000,,no podré seguir moviendo a Mechamaru.
+Dialogue: 0,0:14:43.32,0:14:47.07,Gen_Italics,Mechamaru,0000,0000,0000,,Mi brazo derecho, Sword Option,\Nya no funciona.
+Dialogue: 0,0:14:47.24,0:14:49.61,Gen_Italics,Mechamaru,0000,0000,0000,,Tampoco puedo\Ndisparar mi Ultimate Cannon.
+Dialogue: 0,0:14:49.95,0:14:54.41,Gen_Italics,Panda,0000,0000,0000,,El Modo Gorila consume\Nenergía maldita sin reparo.
+Dialogue: 0,0:14:54.58,0:14:55.87,Gen_Italics,Panda,0000,0000,0000,,Debo apresurarme.
+Dialogue: 0,0:14:56.33,0:14:57.75,Gen_Italics,Panda,0000,0000,0000,,Destrocé su brazo derecho.
+Dialogue: 0,0:14:57.91,0:15:00.06,Gen_Italics,Panda,0000,0000,0000,,No podrá disparar su técnica suprema.
+Dialogue: 0,0:15:00.29,0:15:03.21,Gen_Italics,Panda,0000,0000,0000,,Tampoco le quedan espadas.\N¿Solo hacer algunos disparos?
+Dialogue: 0,0:15:03.38,0:15:06.25,Gen_Italics,Panda,0000,0000,0000,,Aun así, no disparará\Na tontas y a locas.
+Dialogue: 0,0:15:06.42,0:15:10.63,Gen_Italics,Panda,0000,0000,0000,,Mechamaru cree que perdió\Ndos oportunidades de aniquilarme,
+Dialogue: 0,0:15:11.01,0:15:14.64,Gen_Italics,Panda,0000,0000,0000,,cuando en realidad dejó moribundos\Na dos de mis núcleos.
+Dialogue: 0,0:15:15.39,0:15:18.64,Gen_Italics,Panda,0000,0000,0000,,Esta vez disparará a mi núcleo\Ncon aún más precisión
+Dialogue: 0,0:15:18.81,0:15:20.77,Gen_Italics,Panda,0000,0000,0000,,o intentará un ataque cortante.
+Dialogue: 0,0:15:20.94,0:15:22.02,Gen_Italics,Panda,0000,0000,0000,,Pero…
+Dialogue: 0,0:15:28.74,0:15:31.45,Gen_Italics,Panda,0000,0000,0000,,¡tengo la ventaja en el cuerpo a cuerpo!
+Dialogue: 0,0:16:52.03,0:16:53.03,Gen_Italics,Panda,0000,0000,0000,,¿Una teja?
+Dialogue: 0,0:16:53.19,0:16:55.49,Gen_Italics,Panda,0000,0000,0000,,¿La sacó del tejado?
+Dialogue: 0,0:17:02.50,0:17:04.75,Gen_Italics,Panda,0000,0000,0000,,¿Un distracción para luego acelerar?
+Dialogue: 0,0:17:04.91,0:17:06.37,Gen_Italics,Panda,0000,0000,0000,,¡Tiene mucha experiencia!
+Dialogue: 0,0:17:07.50,0:17:09.21,Gen_Italics,Mechamaru,0000,0000,0000,,¡No fallaré esta vez!
+Dialogue: 0,0:17:09.92,0:17:12.84,Gen_Italics,Mechamaru,0000,0000,0000,,El núcleo está donde la energía maldita\Nse concentra más.
+Dialogue: 0,0:17:13.84,0:17:14.88,Gen_Italics,Mechamaru,0000,0000,0000,,¡Justo allí!
+Dialogue: 0,0:17:22.35,0:17:26.10,Gen_Main,Mechamaru,0000,0000,0000,,No lo hiciste mal\Npara ser una marioneta.
+Dialogue: 0,0:17:30.02,0:17:32.54,Gen_Main,Panda,0000,0000,0000,,No me compares con otros Jugais.
+Dialogue: 0,0:17:32.86,0:17:36.11,Gen_Main,Panda,0000,0000,0000,,Puedo ocultar la ubicación de mi núcleo\Nmanipulando mi energía.
+Dialogue: 0,0:17:36.86,0:17:39.50,Gen_Italics,Panda,0000,0000,0000,,Pues siempre oculto el número\Nde núcleos que tengo.
+Dialogue: 0,0:17:52.05,0:17:55.80,Gen_Main,Panda,0000,0000,0000,,Perdiste porque subestimaste\Na las marionetas.
+Dialogue: 0,0:17:56.22,0:18:00.89,Gen_Main,Panda,0000,0000,0000,,Desde que nací, nunca tuve\Nnada en común con quienes me rodeaban.
+Dialogue: 0,0:18:01.05,0:18:04.97,Gen_Main,Panda,0000,0000,0000,,Creí que al menos verías\Nque nos parecíamos en eso.
+Dialogue: 0,0:18:05.73,0:18:09.56,Gen_Main,Panda,0000,0000,0000,,Aunque, la verdad,\Nnunca he envidiado a los humanos.
+Dialogue: 0,0:18:09.73,0:18:10.81,Gen_Main,Mechamaru,0000,0000,0000,,¿Cómo?
+Dialogue: 0,0:18:11.08,0:18:12.82,Gen_Main,Panda,0000,0000,0000,,Me dan asquito, ¿sabes?
+Dialogue: 0,0:18:16.44,0:18:19.86,Gen_Main,Panda,0000,0000,0000,,A veces arriesgan la vida\Ny luchan para cumplir sus objetivos,
+Dialogue: 0,0:18:20.03,0:18:23.99,Gen_Main,Panda,0000,0000,0000,,pero luego son unos flojos o hacen\Nlas cosas a medias. No los entiendo.
+Dialogue: 0,0:18:24.70,0:18:28.62,Gen_Main,Panda,0000,0000,0000,,Pero por mucho que me inquieten\Nesos aspectos suyos,
+Dialogue: 0,0:18:28.79,0:18:29.79,Gen_Main,Panda,0000,0000,0000,,me gustan.
+Dialogue: 0,0:18:31.00,0:18:33.50,Gen_Main,Panda,0000,0000,0000,,Seguro que tú también\Ntienes tus problemas.
+Dialogue: 0,0:18:33.96,0:18:37.22,Gen_Italics,Panda,0000,0000,0000,,Pero el que la pasa peor\Nno es el que tiene más razón.
+Dialogue: 0,0:18:37.38,0:18:40.51,Gen_Italics,Panda,0000,0000,0000,,Y ni siquiera somos enemigos, ¿sabes?
+Dialogue: 0,0:18:40.89,0:18:43.01,Gen_Main,Panda,0000,0000,0000,,¿Por qué eres hechicero?
+Dialogue: 0,0:18:43.18,0:18:45.01,Gen_Main,Panda,0000,0000,0000,,¿Porque es lo único que puedes ser?
+Dialogue: 0,0:18:45.72,0:18:47.77,Gen_Main,Panda,0000,0000,0000,,Bueno, tampoco es que importe.
+Dialogue: 0,0:18:49.10,0:18:51.27,Gen_Main,Panda,0000,0000,0000,,Si algún día quieres conseguir algo,
+Dialogue: 0,0:18:51.53,0:18:53.44,Gen_Italics,Panda,0000,0000,0000,,puedes contar conmigo.
+Dialogue: 0,0:18:57.28,0:18:58.28,Gen_Italics,Kamo,0000,0000,0000,,Mechamaru.
+Dialogue: 0,0:18:59.01,0:19:01.16,Gen_Italics,Kamo,0000,0000,0000,,No desperdicies tus ataques más fuertes.
+Dialogue: 0,0:19:01.32,0:19:04.28,Gen_Italics,Kamo,0000,0000,0000,,Nunca se sabe\Ncuándo aparecerán más enemigos.
+Dialogue: 0,0:19:05.74,0:19:07.04,Gen_Italics,Toudou,0000,0000,0000,,Mechamaru,
+Dialogue: 0,0:19:07.20,0:19:09.58,Gen_Italics,,0000,0000,0000,,quien no puede decir su tipo de mujer
+Dialogue: 0,0:19:09.75,0:19:12.79,Gen_Italics,,0000,0000,0000,,no puede ser un hechicero pleno.
+Dialogue: 0,0:19:13.29,0:19:17.38,Gen_Italics,Miwa,0000,0000,0000,,Mechamaru, solo es un regalo de amigos,\Npero te traje esto en vez de chocolates.
+Dialogue: 0,0:19:17.55,0:19:20.34,Gen_Italics,Miwa,0000,0000,0000,,Me contaron que te gustan\Nlas pilas Evolta AA.
+Dialogue: 0,0:19:20.51,0:19:21.80,Gen_Italics,Mechamaru,0000,0000,0000,,No me gustan.
+Dialogue: 0,0:19:22.93,0:19:24.80,Gen_Italics,Miwa,0000,0000,0000,,Pero Mai dijo…
+Dialogue: 0,0:19:26.81,0:19:28.31,Gen_Main,Mechamaru,0000,0000,0000,,Algún día…
+Dialogue: 0,0:19:44.74,0:19:47.95,Gen_Main,Mechamaru,0000,0000,0000,,junto a ellos…
+Dialogue: 0,0:19:49.91,0:19:51.92,Gen_Main,Panda,0000,0000,0000,,¿Eh? ¿Qué dijiste?
+Dialogue: 0,0:19:52.33,0:19:56.79,Gen_Main,Mechamaru,0000,0000,0000,,Me pregunto si aún querrás ayudarme\Ndespués de conocer mi apariencia.
+Dialogue: 0,0:19:59.42,0:20:02.72,Gen_Main,Panda,0000,0000,0000,,¿Por qué habría de importarme\Ntu apariencia?
+Dialogue: 0,0:20:02.88,0:20:03.97,Gen_Main,Panda,0000,0000,0000,,Soy un panda.
+Dialogue: 0,0:20:06.51,0:20:07.51,Gen_Main,Panda,0000,0000,0000,,Nos vemos.
+Dialogue: 0,0:20:08.06,0:20:10.14,Gen_Main,Panda,0000,0000,0000,,Déjame visitarte algún día.
+Dialogue: 0,0:20:14.81,0:20:16.73,Gen_Main,Mechamaru,0000,0000,0000,,Cierra el pico, marioneta.
+Dialogue: 0,0:20:22.78,0:20:23.95,Gen_Main,Panda,0000,0000,0000,,¡Casi lo olvido!
+Dialogue: 0,0:20:27.53,0:20:28.87,Gen_Main,Panda,0000,0000,0000,,¿Me prestas tu celu?
+Dialogue: 0,0:20:27.53,0:20:32.50,Cart_TitleNext,Screen,0000,0000,0000,,{\shad1\bord0.2\blur1\fad(1400,0)\pos(320,218)}Evento de intercambio\NUltimate Mechamaru - Fuera de competencia
+Dialogue: 0,0:20:39.50,0:20:40.51,Gen_Italics,Miwa,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:20:40.92,0:20:44.13,Gen_Italics,Miwa,0000,0000,0000,,¡Es increíblemente fuerte!
+Dialogue: 0,0:22:15.02,0:22:17.52,Cart_C_Tre,Mechamaru&Screen,0000,0000,0000,,{\bord0\shad0\fs30\blur0.5\frz25.38\pos(440.8,67.2)}Juju-Cortos
+Dialogue: 0,0:22:15.81,0:22:17.52,Gen_Main,Mechamaru&Screen,0000,0000,0000,,Juju-Cortos.
+Dialogue: 0,0:22:20.19,0:22:25.15,Gen_Main,Mai,0000,0000,0000,,Mechamaru, dile a Noritoshi\Nque la profesora Utahime lo llama.
+Dialogue: 0,0:22:25.61,0:22:30.41,Gen_Main,Momo,0000,0000,0000,,Mechamaru, llévale esto a Toudou.
+Dialogue: 0,0:22:30.91,0:22:33.33,Gen_Main,Miwa,0000,0000,0000,,¡Mechamaru! ¡Qué oportuno!
+Dialogue: 0,0:22:33.49,0:22:36.41,Gen_Main,Miwa,0000,0000,0000,,Esto es para Toudou y Kamo.
+Dialogue: 0,0:22:39.17,0:22:42.79,Gen_Main,Mechamaru,0000,0000,0000,,¿Por qué siempre vienen conmigo primero?
+Dialogue: 0,0:22:45.84,0:22:48.26,Gen_Main,Toudou,0000,0000,0000,,No me hables.
+Dialogue: 0,0:22:48.93,0:22:51.80,Gen_Main,Toudou,0000,0000,0000,,Takada está transmitiendo en vivo.
+Dialogue: 0,0:22:53.47,0:22:55.18,Gen_Main,Kamo,0000,0000,0000,,¿Ibaragi?
+Dialogue: 0,0:22:55.35,0:22:56.89,Gen_Main,Kamo,0000,0000,0000,,Es Ibaraki.
+Dialogue: 0,0:22:57.06,0:22:59.06,Gen_Main,Kamo,0000,0000,0000,,¿Cómo no lo sabes?
+Dialogue: 0,0:23:00.48,0:23:03.56,Gen_Italics,Mai&Momo,0000,0000,0000,,Porque son demasiado problema.
+Dialogue: 0,0:23:07.65,0:23:11.16,Gen_Italics,Miwa,0000,0000,0000,,La verdad, aún me dan miedo…
+Dialogue: 0,0:23:12.91,0:23:17.58,Gen_Italics,Three,0000,0000,0000,,Pero si se lo dijera,\Nno podría seguir pidiéndole ayuda.
+Dialogue: 0,0:23:19.41,0:23:20.50,Gen_Main,Miwa,0000,0000,0000,,Mechamaru.
+Dialogue: 0,0:23:23.42,0:23:24.92,Gen_Main,Miwa,0000,0000,0000,,¡Contamos contigo!
+Dialogue: 0,0:23:27.38,0:23:29.66,Gen_Main,Momo,0000,0000,0000,,¡Tenemos que hacer una misión!
+Dialogue: 0,0:23:30.09,0:23:31.22,Gen_Main,Mechamaru,0000,0000,0000,,Esperen…
+Dialogue: 0,0:23:31.72,0:23:32.89,Gen_Main,Mechamaru,0000,0000,0000,,¿Por qué…?
+Dialogue: 0,0:23:37.85,0:23:42.77,Gen_Main,Mechamaru,0000,0000,0000,,Bueno, no es malo que cuenten conmigo.
+Dialogue: 0,0:23:51.49,0:23:54.99,Cart_TitleNext,Screen,0000,0000,0000,,{\fad(984,1)\c&HFCFFFF&\b0}Episodio 17\N{\fs26\b0}El evento de intercambio\Ncon la escuela de Kioto -Combate grupal 3-

@@ -1,0 +1,334 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,60,&H000F0063,&H000000FF,&H002F1595,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,60,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H28FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0028,0050,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.14,0:00:07.05,Main,Ijichi,0000,0000,0000,,We have a bit of time before your \Nappointment with the principal.
+Dialogue: 0,0:00:07.05,0:00:08.65,Main,Ijichi,0000,0000,0000,,Did you want to stop anywhere?
+Dialogue: 0,0:00:08.65,0:00:09.68,Main,Gojou,0000,0000,0000,,It's fine.
+Dialogue: 0,0:00:09.68,0:00:11.90,Main,Gojou,0000,0000,0000,,I'll show up early for a change.
+Dialogue: 0,0:00:16.23,0:00:16.93,Main,Gojou,0000,0000,0000,,Stop the car.
+Dialogue: 0,0:00:16.93,0:00:18.66,Main,Ijichi,0000,0000,0000,,Huh? Right here?
+Dialogue: 0,0:00:19.34,0:00:20.73,Main,Gojou,0000,0000,0000,,Go on ahead.
+Dialogue: 0,0:00:20.73,0:00:23.84,Main,Ijichi,0000,0000,0000,,Huh? A-Are you testing me?
+Dialogue: 0,0:00:23.84,0:00:26.28,Main,Ijichi,0000,0000,0000,,You're not going to hit me if \NI actually go on ahead, are you?
+Dialogue: 0,0:00:26.28,0:00:28.15,Main,Gojou,0000,0000,0000,,Just what do you think I am?
+Dialogue: 0,0:00:28.83,0:00:29.68,Main,Ijichi,0000,0000,0000,,In that case...
+Dialogue: 0,0:00:38.54,0:00:39.54,Main,Gojou,0000,0000,0000,,Now...
+Dialogue: 0,0:00:47.66,0:00:50.04,Main,Gojou,0000,0000,0000,,Who are you?
+Dialogue: 0,0:01:15.88,0:01:19.57,Main,Jougo,0000,0000,0000,,That was easier than I expected.
+Dialogue: 0,0:01:25.98,0:01:27.22,Main,Gojou,0000,0000,0000,,Who are you...
+Dialogue: 0,0:01:29.35,0:01:31.14,Main,Gojou,0000,0000,0000,,calling easy?
+Dialogue: 0,0:01:32.90,0:01:34.70,Main,Jougo,0000,0000,0000,,Brat.
+Dialogue: 0,0:01:35.61,0:01:39.00,Italics,Gojou,0000,0000,0000,,He's a cursed spirit, but he \Ncan communicate clearly.
+Dialogue: 0,0:01:40.53,0:01:42.88,Italics,Gojou,0000,0000,0000,,And the sheer amount of cursed energy...
+Dialogue: 0,0:01:43.61,0:01:45.77,Italics,Gojou,0000,0000,0000,,An unregistered special-grade?
+Dialogue: 0,0:01:47.35,0:01:49.95,Italics,Gojou,0000,0000,0000,,He's likely stronger than Sukuna currently is.
+Dialogue: 0,0:01:51.43,0:01:55.19,Main,Gojou,0000,0000,0000,,Special-grades are classified \Nas such because they're special.
+Dialogue: 0,0:01:55.19,0:01:58.81,Main,Gojou,0000,0000,0000,,Having them pop up this frequently \Nthrows everything off.
+Dialogue: 0,0:02:00.73,0:02:02.72,Main,Jougo,0000,0000,0000,,Did I wound your pride?
+Dialogue: 0,0:02:03.58,0:02:04.49,Main,Gojou,0000,0000,0000,,Nope.
+Dialogue: 0,0:02:05.69,0:02:07.70,Main,Gojou,0000,0000,0000,,I'm starting to find this fun.
+Dialogue: 0,0:02:20.03,0:02:26.99,Show_Title,,0000,0000,0000,,{\blur1\fad(1191,431)\t(1192,1316,1 \c&H0700D7&\3c&H6659E4&)\t(1317,1941,1 \c&H172918&\3c&H8CCECB&)\t(6197,6529,1 \c&H0F0063&\3c&H222781&)}Jujutsu Kaisen
+Dialogue: 0,0:03:41.63,0:03:47.64,Ep_Title_Shadow,Screen,0000,0000,0000,,{\fad(529,501)\fs20\pos(26,310)\an1}Episode 7:  {\fs24}Assault
+Dialogue: 0,0:03:41.63,0:03:47.64,Ep_Title,Screen,0000,0000,0000,,{\fad(529,501)\fs20\pos(26,310)\an1}Episode 7:  {\fs24}Assault
+Dialogue: 0,0:03:41.73,0:03:44.76,Main,Jougo,0000,0000,0000,,{\an8}Finding this fun, you say?
+Dialogue: 0,0:03:45.02,0:03:48.26,Main,Jougo,0000,0000,0000,,{\an8}No sense of danger at all.
+Dialogue: 0,0:03:48.74,0:03:51.72,Italics,Gojou,0000,0000,0000,,He chose a place devoid of people?
+Dialogue: 0,0:03:52.88,0:03:58.09,Italics,Gojou,0000,0000,0000,,No, he was avoiding other \Nsorcerers coming to back me up.
+Dialogue: 0,0:03:58.71,0:04:00.01,Main,Jougo,0000,0000,0000,,Ember Insects!
+Dialogue: 0,0:04:01.14,0:04:04.44,Main,Gojou,0000,0000,0000,,Well, if you're coming \Nafter me, you're right...
+Dialogue: 0,0:04:04.44,0:04:06.35,Main,Gojou,0000,0000,0000,,about having no sense of danger.
+Dialogue: 0,0:04:11.32,0:04:14.06,Main,Gojou,0000,0000,0000,,What happens if this hits me?
+Dialogue: 0,0:04:19.02,0:04:19.86,Italics,Gojou,0000,0000,0000,,Sound?
+Dialogue: 0,0:04:26.37,0:04:28.93,Main,Gojou,0000,0000,0000,,A two-stage attack of sound and explosions?
+Dialogue: 0,0:04:29.38,0:04:30.99,Main,Gojou,0000,0000,0000,,That's clever.
+Dialogue: 0,0:04:37.31,0:04:39.19,Main,Jougo,0000,0000,0000,,There's more!
+Dialogue: 0,0:04:46.32,0:04:48.12,Main,Jougo,0000,0000,0000,,That's all it took?
+Dialogue: 0,0:04:48.12,0:04:51.84,Main,Jougo,0000,0000,0000,,I took a look for myself, and it was \Njust an overestimation by the weak.
+Dialogue: 0,0:04:51.84,0:04:55.07,Main,Jougo,0000,0000,0000,,That human was just as fragile as the rest.
+Dialogue: 0,0:04:55.48,0:05:00.53,Main,Jougo,0000,0000,0000,,He wasn't living a life of truth. \NIt's all so nauseatingly repulsive.
+Dialogue: 0,0:05:00.90,0:05:06.42,Main,Jougo,0000,0000,0000,,I'm going to go spread real strength, \Nthe truth, through death.
+Dialogue: 0,0:05:06.90,0:05:10.18,Main,Gojou,0000,0000,0000,,We just went over this a moment ago.
+Dialogue: 0,0:05:10.79,0:05:12.96,Main,Gojou,0000,0000,0000,,Can't you even learn? Ugh, this smoke...
+Dialogue: 0,0:05:16.17,0:05:17.92,Main,Jougo,0000,0000,0000,,What's the meaning of this?
+Dialogue: 0,0:05:19.21,0:05:21.90,Main,Gojou,0000,0000,0000,,To put it simply, you didn't hit me.
+Dialogue: 0,0:05:21.90,0:05:24.82,Main,Jougo,0000,0000,0000,,Impossible. That wasn't like before.
+Dialogue: 0,0:05:24.82,0:05:27.35,Main,Jougo,0000,0000,0000,,I know I touched you and killed you.
+Dialogue: 0,0:05:27.61,0:05:32.35,Main,Gojou,0000,0000,0000,,You touched the "Infinity" that \Nexists between you and me.
+Dialogue: 0,0:05:33.44,0:05:34.85,Main,Gojou,0000,0000,0000,,I'll show you.
+Dialogue: 0,0:05:35.41,0:05:36.87,Main,Gojou,0000,0000,0000,,Put your hand out.
+Dialogue: 0,0:05:38.80,0:05:40.36,Main,Gojou,0000,0000,0000,,Come on, come on.
+Dialogue: 0,0:05:41.85,0:05:43.85,Main,Gojou,0000,0000,0000,,Come on, come on, come on.
+Dialogue: 0,0:05:44.64,0:05:48.48,Italics,Jougo,0000,0000,0000,,No hostility? I guess I'll see what it's about.
+Dialogue: 0,0:05:55.89,0:05:56.64,Main,,0000,0000,0000,,See?
+Dialogue: 0,0:05:58.69,0:06:00.40,Italics,Jougo,0000,0000,0000,,I can't touch him?
+Dialogue: 0,0:06:00.40,0:06:01.97,Italics,Jougo,0000,0000,0000,,It stops just before him.
+Dialogue: 0,0:06:02.63,0:06:04.93,Italics,Jougo,0000,0000,0000,,This is Infinity?
+Dialogue: 0,0:06:05.25,0:06:09.92,Main,Gojou,0000,0000,0000,,You're not exactly stopped, \Nbut the closer you get, the slower you go.
+Dialogue: 0,0:06:10.61,0:06:12.40,Main,Gojou,0000,0000,0000,,So, what now?
+Dialogue: 0,0:06:12.65,0:06:16.36,Main,Gojou,0000,0000,0000,,We could just shake \Nhands like this, you know.
+Dialogue: 0,0:06:17.36,0:06:18.86,Main,Jougo,0000,0000,0000,,I refuse.
+Dialogue: 0,0:06:19.22,0:06:20.86,Main,Gojou,0000,0000,0000,,Don't be shy, now.
+Dialogue: 0,0:06:21.27,0:06:23.54,Main,Gojou,0000,0000,0000,,You're making me embarrassed, too.
+Dialogue: 0,0:06:25.23,0:06:26.78,Main,Jougo,0000,0000,0000,,Damn you!
+Dialogue: 0,0:06:31.80,0:06:32.89,Italics,Jougo,0000,0000,0000,,He's fast!
+Dialogue: 0,0:06:32.89,0:06:35.81,Italics,Jougo,0000,0000,0000,,It's not just a blow \Nstrengthened by cursed energy!
+Dialogue: 0,0:06:36.30,0:06:37.62,Italics,Jougo,0000,0000,0000,,What is this?!
+Dialogue: 0,0:06:37.62,0:06:38.73,Italics,Jougo,0000,0000,0000,,I don't get it!
+Dialogue: 0,0:06:38.73,0:06:40.05,Italics,Jougo,0000,0000,0000,,I have to know!
+Dialogue: 0,0:06:40.28,0:06:41.45,Main,Gojou,0000,0000,0000,,There's still more!
+Dialogue: 0,0:06:47.01,0:06:50.46,Main,Gojou,0000,0000,0000,,Infinity exists everywhere.
+Dialogue: 0,0:06:51.42,0:06:54.96,Main,Gojou,0000,0000,0000,,My jujutsu just brings it forward in reality.
+Dialogue: 0,0:06:55.63,0:06:57.84,Main,Gojou,0000,0000,0000,,Convergence, divergence...
+Dialogue: 0,0:06:58.32,0:07:00.98,Main,Gojou,0000,0000,0000,,What do you think happens \Nwhen one touchs this void?
+Dialogue: 0,0:07:02.18,0:07:04.90,Main,,0000,0000,0000,,Cursed Technique Reversal: Red.
+Dialogue: 0,0:07:50.92,0:07:52.42,Main,Gojou,0000,0000,0000,,Oh, this is perfect.
+Dialogue: 0,0:07:55.34,0:07:56.66,Flashback,Getou,0000,0000,0000,,You can try,
+Dialogue: 0,0:07:57.64,0:08:00.18,Flashback,Getou,0000,0000,0000,,but you'll die, Jougo.
+Dialogue: 0,0:08:07.28,0:08:10.39,Italics,Jougo,0000,0000,0000,,It wasn't just talk.
+Dialogue: 0,0:08:12.70,0:08:17.48,Italics,Jougo,0000,0000,0000,,No matter. If I can't hit him, \NI'll just drag him into my Domain.
+Dialogue: 0,0:08:19.64,0:08:20.98,Italics,Jougo,0000,0000,0000,,Where did he go?
+Dialogue: 0,0:08:22.23,0:08:23.60,Main,Gojou,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:08:24.35,0:08:26.88,Main,Yuuji,0000,0000,0000,,Where the heck?! Hey, where are we?!
+Dialogue: 0,0:08:27.46,0:08:28.64,Main,Gojou,0000,0000,0000,,Were you waiting?
+Dialogue: 0,0:08:29.52,0:08:30.99,Main,Jougo,0000,0000,0000,,That's...
+Dialogue: 0,0:08:30.99,0:08:32.70,Italics,Jougo,0000,0000,0000,,Sukuna's vessel?!
+Dialogue: 0,0:08:33.06,0:08:35.90,Main,Gojou,0000,0000,0000,,This is Itadori Yuuji-kun, \Nand he's here to watch.
+Dialogue: 0,0:08:35.90,0:08:38.16,Main,Yuuji,0000,0000,0000,,Mt. Fuji! His head's Mt. Fuji!
+Dialogue: 0,0:08:46.51,0:08:48.47,Flashback_Italics,Sam,0000,0000,0000,,{\an8}I'll protect you.
+Dialogue: 0,0:08:48.96,0:08:50.43,Flashback_Italics,Sam,0000,0000,0000,,{\an8}I'll never leave you.
+Dialogue: 0,0:08:51.60,0:08:52.62,Flashback_Italics,Frodo,0000,0000,0000,,{\an8}Sam...
+Dialogue: 0,0:08:58.31,0:09:02.32,Flashback_Italics,Gojou,0000,0000,0000,,Wow, he learns surprisingly quick.
+Dialogue: 0,0:09:02.85,0:09:03.90,Flashback_Italics,Frodo,0000,0000,0000,,{\an8}Come on.
+Dialogue: 0,0:09:03.90,0:09:04.61,Flashback,Gojou,0000,0000,0000,,Yuuji.
+Dialogue: 0,0:09:06.75,0:09:08.23,Flashback,Yuuji,0000,0000,0000,,Gojou-sensei?
+Dialogue: 0,0:09:08.75,0:09:11.24,Flashback_Italics,Gojou,0000,0000,0000,,Talking to him doesn't \Ncause a problem, either.
+Dialogue: 0,0:09:11.49,0:09:12.80,Flashback,Yuuji,0000,0000,0000,,You need something?
+Dialogue: 0,0:09:12.80,0:09:16.70,Flashback_Italics,Gojou,0000,0000,0000,,Looks like we'll be able to increase his output \Nquickly and move on to the next stage soon.
+Dialogue: 0,0:09:16.96,0:09:18.63,Flashback,Gojou,0000,0000,0000,,We're heading out, Yuuji.
+Dialogue: 0,0:09:18.63,0:09:19.46,Flashback,Yuuji,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:19.74,0:09:21.09,Flashback,Gojou,0000,0000,0000,,It's an extracurricular lesson.
+Dialogue: 0,0:09:21.48,0:09:27.19,Flashback,Gojou,0000,0000,0000,,I'm going to teach you about the pinnacle \Nof jujutsu battles, Domain Expansion.
+Dialogue: 0,0:09:31.76,0:09:34.88,Main,Yuuji,0000,0000,0000,,Why aren't we sinking?!
+Dialogue: 0,0:09:35.13,0:09:39.66,Main,Yuuji,0000,0000,0000,,Sensei, I was at the school \Njust ten seconds ago, right?
+Dialogue: 0,0:09:39.66,0:09:40.81,Main,Yuuji,0000,0000,0000,,What's going on here?
+Dialogue: 0,0:09:40.81,0:09:42.16,Main,Gojou,0000,0000,0000,,Oh, we warped here.
+Dialogue: 0,0:09:42.16,0:09:44.32,Italics,Yuuji,0000,0000,0000,,He has no intention of explaining.
+Dialogue: 0,0:09:43.37,0:09:45.06,Italics,Jougo,0000,0000,0000,,Sukuna's vessel...
+Dialogue: 0,0:09:45.07,0:09:47.14,Italics,Jougo,0000,0000,0000,,So he really is alive.
+Dialogue: 0,0:09:47.84,0:09:50.83,Flashback,Getou,0000,0000,0000,,You have to render Gojou \NSatoru incapable of fighting.
+Dialogue: 0,0:09:51.87,0:09:55.97,Flashback,Getou,0000,0000,0000,,The second is to get Ryoumen Sukuna \Nand Itadori Yuuji on your side.
+Dialogue: 0,0:09:58.48,0:10:01.39,Italics,Jougo,0000,0000,0000,,I can't kill Itadori due to our future plans...
+Dialogue: 0,0:10:01.39,0:10:04.55,Italics,Jougo,0000,0000,0000,,Has he caught on to our goals?
+Dialogue: 0,0:10:05.06,0:10:07.44,Main,Jougo,0000,0000,0000,,What's the brat for? He a shield?
+Dialogue: 0,0:10:07.44,0:10:09.61,Main,Gojou,0000,0000,0000,,A shield? No, no.
+Dialogue: 0,0:10:09.61,0:10:11.92,Main,Gojou,0000,0000,0000,,I told you, he's here to watch.
+Dialogue: 0,0:10:12.34,0:10:15.46,Main,Gojou,0000,0000,0000,,I'm in the middle of teaching \Nthis boy lots of things.
+Dialogue: 0,0:10:15.92,0:10:18.55,Main,Gojou,0000,0000,0000,,Don't worry about him. Just keep fighting.
+Dialogue: 0,0:10:19.28,0:10:23.92,Main,Jougo,0000,0000,0000,,Bringing in someone who will slow \Nyou down just makes you a fool.
+Dialogue: 0,0:10:25.26,0:10:28.36,Main,Gojou,0000,0000,0000,,It'll be fine. After all...
+Dialogue: 0,0:10:28.56,0:10:30.15,Main,Gojou,0000,0000,0000,,you're weak.
+Dialogue: 0,0:10:35.42,0:10:37.87,Main,Jougo,0000,0000,0000,,Don't underestimate me, brat!
+Dialogue: 0,0:10:37.87,0:10:41.61,Main,Jougo,0000,0000,0000,,I'm going to enjoy swallowing \Nup that smug face of yours!
+Dialogue: 0,0:10:47.80,0:10:49.20,Italics,Yuuji,0000,0000,0000,,This guy...
+Dialogue: 0,0:10:49.83,0:10:51.31,Italics,Yuuji,0000,0000,0000,,is weak?
+Dialogue: 0,0:10:53.61,0:10:58.91,Italics,Yuuji,0000,0000,0000,,He's way more monstrous than any of \Nthe monsters I've encountered so far!
+Dialogue: 0,0:11:04.00,0:11:05.29,Main,Gojou,0000,0000,0000,,You'll be fine.
+Dialogue: 0,0:11:05.70,0:11:07.73,Main,Gojou,0000,0000,0000,,Just stay close to me.
+Dialogue: 0,0:11:11.60,0:11:13.97,Main,Jougo,0000,0000,0000,,Domain Expansion!
+Dialogue: 0,0:11:38.23,0:11:41.74,Main,Yuuji,0000,0000,0000,,Wh-What is this?!
+Dialogue: 0,0:11:42.81,0:11:45.20,Main,Jougo,0000,0000,0000,,Coffin of the Iron Mountain!
+Dialogue: 0,0:11:48.14,0:11:50.93,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}Jujutsu Kaisen
+Dialogue: 0,0:11:53.60,0:11:55.94,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}Jujutsu Kaisen
+Dialogue: 0,0:12:02.30,0:12:04.67,Main,Yuuji,0000,0000,0000,,Wh-What is this?!
+Dialogue: 0,0:12:05.41,0:12:07.26,Main,Gojou,0000,0000,0000,,This is Domain Expansion.
+Dialogue: 0,0:12:08.93,0:12:11.73,Main,Gojou,0000,0000,0000,,You use cursed energy to \Nconstruct an Innate Domain
+Dialogue: 0,0:12:10.13,0:12:11.06,Main,Yuuji,0000,0000,0000,,{\an8}Ow, hot!
+Dialogue: 0,0:12:11.06,0:12:11.83,Main,Yuuji,0000,0000,0000,,{\an8}Hot, hot, hot!
+Dialogue: 0,0:12:11.73,0:12:14.03,Main,Gojou,0000,0000,0000,,imbued with a cursed technique \Nin your surroundings.
+Dialogue: 0,0:12:11.83,0:12:13.98,Main,Yuuji,0000,0000,0000,,{\an8}Hot, hot, hot, hot, hot!
+Dialogue: 0,0:12:16.70,0:12:18.96,Main,Gojou,0000,0000,0000,,What you all experienced at \Nthe juvenile detention center
+Dialogue: 0,0:12:18.96,0:12:22.43,Main,,0000,0000,0000,,was an incomplete Domain that hadn't \Nbeen imbued with any cursed techniques.
+Dialogue: 0,0:12:22.96,0:12:26.28,Main,Gojou,0000,0000,0000,,If that had been a proper Domain, \Nall of you first-years would have died.
+Dialogue: 0,0:12:26.79,0:12:28.56,Main,Gojou,0000,0000,0000,,I think Megumi understood that.
+Dialogue: 0,0:12:30.08,0:12:34.25,Main,Gojou,0000,0000,0000,,Spreading out a Domain \Nconsumes a ton of energy,
+Dialogue: 0,0:12:34.25,0:12:36.41,Main,Gojou,0000,0000,0000,,but its merits are worth the cost.
+Dialogue: 0,0:12:36.41,0:12:40.08,Main,Gojou,0000,0000,0000,,One such benefit is the boost to \Nstats due to environmental factors.
+Dialogue: 0,0:12:40.08,0:12:40.81,Main,Yuuji,0000,0000,0000,,Oh!
+Dialogue: 0,0:12:41.17,0:12:43.73,Main,Yuuji,0000,0000,0000,,Like buffs in video games!
+Dialogue: 0,0:12:44.65,0:12:46.24,Main,Gojou,0000,0000,0000,,Another is...
+Dialogue: 0,0:12:49.65,0:12:54.75,Italics,Jougo,0000,0000,0000,,Most sorcerers would have burned to ash \Nthe moment they entered my Domain!
+Dialogue: 0,0:12:55.40,0:13:00.80,Main,Gojou,0000,0000,0000,,...that the techniques imbued in the Domain \Nare guaranteed to hit within that Domain.
+Dialogue: 0,0:13:01.23,0:13:02.39,Main,Yuuji,0000,0000,0000,,Guaranteed?!
+Dialogue: 0,0:13:02.39,0:13:03.76,Main,Gojou,0000,0000,0000,,Guaranteed.
+Dialogue: 0,0:13:04.40,0:13:07.44,Main,Gojou,0000,0000,0000,,But don't worry. There are \Nseveral ways to deal with it.
+Dialogue: 0,0:13:10.00,0:13:12.77,Main,Gojou,0000,0000,0000,,You can take the hit using a \Ncursed technique, like just now, or...
+Dialogue: 0,0:13:13.71,0:13:15.84,Main,Gojou,0000,0000,0000,,I don't really recommend this one,
+Dialogue: 0,0:13:16.64,0:13:19.91,Main,Gojou,0000,0000,0000,,but you can go outside the Domain. \NThat's usually impossible.
+Dialogue: 0,0:13:20.16,0:13:21.18,Main,Gojou,0000,0000,0000,,You can also...
+Dialogue: 0,0:13:21.18,0:13:25.55,Main,Jougo,0000,0000,0000,,If I neutralize that Infinity \Nof yours with a dense Domain,
+Dialogue: 0,0:13:25.55,0:13:27.61,Main,Jougo,0000,0000,0000,,then my techniques will reach you.
+Dialogue: 0,0:13:27.88,0:13:29.37,Main,Gojou,0000,0000,0000,,Yeah, they'll hit.
+Dialogue: 0,0:13:29.37,0:13:30.37,Main,Yuuji,0000,0000,0000,,Huh? Infinity?
+Dialogue: 0,0:13:31.20,0:13:33.42,Flashback,Jougo,0000,0000,0000,,Give me the Prison Realm!
+Dialogue: 0,0:13:34.33,0:13:36.19,Flashback,Jougo,0000,0000,0000,,I'll add it to my collection.
+Dialogue: 0,0:13:37.20,0:13:40.75,Italics,Jougo,0000,0000,0000,,I came here half in jest.
+Dialogue: 0,0:13:41.24,0:13:45.13,Italics,Jougo,0000,0000,0000,,I thought I wouldn't care if I couldn't kill him.
+Dialogue: 0,0:13:45.54,0:13:48.68,Italics,Jougo,0000,0000,0000,,But having this difference \Nbetween us thrust in my face...
+Dialogue: 0,0:13:49.12,0:13:50.76,Italics,Jougo,0000,0000,0000,,On my pride as a cursed spirit,
+Dialogue: 0,0:13:50.76,0:13:56.07,Italics,Jougo,0000,0000,0000,,as the new humanity, \Nthis is completely unacceptable!
+Dialogue: 0,0:13:56.89,0:13:59.99,Main,Gojou,0000,0000,0000,,The most effective way to deal with a Domain
+Dialogue: 0,0:14:00.47,0:14:02.83,Main,Gojou,0000,0000,0000,,is to lay out your own Domain.
+Dialogue: 0,0:14:02.83,0:14:05.58,Main,Gojou,0000,0000,0000,,When two Domains are \Nlaid out at the same time,
+Dialogue: 0,0:14:05.85,0:14:09.59,Main,Gojou,0000,0000,0000,,the more refined one \Nwill dominate that space.
+Dialogue: 0,0:14:09.91,0:14:13.58,Main,Gojou,0000,0000,0000,,Though, sometimes, compatibility and \Nthe amount of cursed energy are factors.
+Dialogue: 0,0:14:14.26,0:14:19.04,Main,Jougo,0000,0000,0000,,There won't even be ashes \Nleft of you, Gojou Satoru!
+Dialogue: 0,0:14:25.42,0:14:27.14,Main,Gojou,0000,0000,0000,,Domain Expansion:
+Dialogue: 0,0:14:30.21,0:14:32.10,Main,Gojou,0000,0000,0000,,Infinite Void.
+Dialogue: 0,0:14:56.45,0:14:58.31,Italics,Jougo,0000,0000,0000,,What just happened?
+Dialogue: 0,0:14:59.05,0:15:02.47,Italics,Jougo,0000,0000,0000,,Was my Domain overwhelmed?
+Dialogue: 0,0:15:03.26,0:15:04.79,Italics,Jougo,0000,0000,0000,,I can't see anything.
+Dialogue: 0,0:15:04.79,0:15:06.23,Italics,Jougo,0000,0000,0000,,I can't feel anything.
+Dialogue: 0,0:15:07.53,0:15:09.24,Italics,Jougo,0000,0000,0000,,No...
+Dialogue: 0,0:15:09.24,0:15:11.57,Italics,Jougo,0000,0000,0000,,I can see everything!
+Dialogue: 0,0:15:11.57,0:15:12.88,Italics,Jougo,0000,0000,0000,,I can feel everything!
+Dialogue: 0,0:15:12.88,0:15:15.91,Italics,Jougo,0000,0000,0000,,But the information is never complete...
+Dialogue: 0,0:15:16.81,0:15:20.65,Italics,Jougo,0000,0000,0000,,So I can't do anything!
+Dialogue: 0,0:15:22.27,0:15:25.07,Main,Gojou,0000,0000,0000,,This is the inner world of Limitless.
+Dialogue: 0,0:15:25.88,0:15:28.15,Main,Gojou,0000,0000,0000,,Perception, communication...
+Dialogue: 0,0:15:28.67,0:15:33.46,Main,Gojou,0000,0000,0000,,Every action involved in living is forcibly \Ncarried out an infinite number of times.
+Dialogue: 0,0:15:34.98,0:15:36.73,Main,Gojou,0000,0000,0000,,It's ironic, isn't it?
+Dialogue: 0,0:15:36.73,0:15:40.48,Main,Gojou,0000,0000,0000,,When granted everything, \Nyou can't do anything...
+Dialogue: 0,0:15:40.70,0:15:42.96,Main,Gojou,0000,0000,0000,,but just die peacefully.
+Dialogue: 0,0:15:43.46,0:15:46.43,Main,Gojou,0000,0000,0000,,But I have questions I want to ask you,
+Dialogue: 0,0:15:46.43,0:15:49.86,Main,Gojou,0000,0000,0000,,so I'm letting you off the hook with this.
+Dialogue: 0,0:16:04.99,0:16:09.73,Main,Gojou,0000,0000,0000,,Now, who told you to come after me?
+Dialogue: 0,0:16:10.11,0:16:12.96,Italics,Yuuji,0000,0000,0000,,He really is the strongest jujutsu sorcerer!
+Dialogue: 0,0:16:13.45,0:16:14.74,Italics,Yuuji,0000,0000,0000,,As a living organism,
+Dialogue: 0,0:16:15.50,0:16:17.09,Italics,Yuuji,0000,0000,0000,,he's on another level!
+Dialogue: 0,0:16:20.43,0:16:21.71,Main,Getou,0000,0000,0000,,Oh, dear.
+Dialogue: 0,0:16:22.82,0:16:24.00,Main,Getou,0000,0000,0000,,What now?
+Dialogue: 0,0:16:24.49,0:16:25.65,Main,Getou,0000,0000,0000,,Will you rescue him?
+Dialogue: 0,0:16:26.89,0:16:33.37,Main,Getou,0000,0000,0000,,I can't let people from the school see \Nmy face, so I'll be going home now.
+Dialogue: 0,0:16:35.34,0:16:38.41,Main,Getou,0000,0000,0000,,If you want to save him, \Ngo ahead and save him.
+Dialogue: 0,0:16:38.98,0:16:42.67,Main,Getou,0000,0000,0000,,Though I don't know if your \Nkind have such emotions.
+Dialogue: 0,0:16:43.21,0:16:47.52,Main,Hanami,0000,0000,0000,,We do. We're the true humans, after all.
+Dialogue: 0,0:16:49.59,0:16:53.21,Main,Getou,0000,0000,0000,,Quite the statement for \Na cursed spirit to make.
+Dialogue: 0,0:16:54.24,0:16:57.39,Main,Gojou,0000,0000,0000,,You don't seem like the type to act on orders.
+Dialogue: 0,0:16:58.04,0:17:02.85,Main,Gojou,0000,0000,0000,,Was something good supposed \Nto happen if you killed me?
+Dialogue: 0,0:17:03.14,0:17:06.08,Main,Gojou,0000,0000,0000,,Regardless, I want to know. Who was it?
+Dialogue: 0,0:17:06.43,0:17:09.19,Main,Gojou,0000,0000,0000,,Come on, just tell me already.
+Dialogue: 0,0:17:10.02,0:17:13.05,Main,Jougo,0000,0000,0000,,Like I'd ever tell you, brat!
+Dialogue: 0,0:17:13.36,0:17:16.76,Main,Gojou,0000,0000,0000,,You sure you should be saying that?
+Dialogue: 0,0:17:17.55,0:17:19.05,Main,Jougo,0000,0000,0000,,Damn you!
+Dialogue: 0,0:17:19.36,0:17:22.48,Main,Gojou,0000,0000,0000,,Hurry up and tell me, or I'll exorcise you.
+Dialogue: 0,0:17:22.48,0:17:24.08,Main,Gojou,0000,0000,0000,,Of course, I'll do that either way.
+Dialogue: 0,0:17:24.08,0:17:27.53,Main,Yuuji,0000,0000,0000,,Wait, curses are capable \Nof holding conversations?
+Dialogue: 0,0:17:27.53,0:17:29.68,Main,Yuuji,0000,0000,0000,,It seemed so normal, I overlooked it.
+Dialogue: 0,0:17:37.49,0:17:38.47,Main,Gojou,0000,0000,0000,,Wow!
+Dialogue: 0,0:17:38.47,0:17:39.23,Main,Yuuji,0000,0000,0000,,Flowers!
+Dialogue: 0,0:17:39.23,0:17:40.16,Main,Gojou,0000,0000,0000,,Pretty!
+Dialogue: 0,0:17:43.42,0:17:46.80,Italics,Gojou,0000,0000,0000,,That {\i0}is{\i1} a curse, right? \NIt's stripping away my will to fight.
+Dialogue: 0,0:17:53.44,0:17:55.78,Main,Yuuji,0000,0000,0000,,Sensei, I'll be fine!
+Dialogue: 0,0:17:55.78,0:17:57.91,Main,Yuuji,0000,0000,0000,,Go after him!
+Dialogue: 0,0:17:59.49,0:18:01.23,Main,Yuuji,0000,0000,0000,,Sorry, I lied! Help!
+Dialogue: 0,0:18:06.84,0:18:08.03,Main,Gojou,0000,0000,0000,,Wow.
+Dialogue: 0,0:18:08.50,0:18:09.79,Italics,Gojou,0000,0000,0000,,He got away.
+Dialogue: 0,0:18:10.11,0:18:12.03,Italics,Gojou,0000,0000,0000,,He's good at hiding his presence.
+Dialogue: 0,0:18:12.76,0:18:16.25,Italics,Gojou,0000,0000,0000,,He's way creepier than Volcano Head.
+Dialogue: 0,0:18:19.86,0:18:26.25,Main,Screen,0000,0000,0000,,{\c&HF85A5C&\bord0\shad0\fs14\b1\pos(426,80)\1a&HFF&\t(907,1907,1 \1a&H00&)}I'm sorry about that.\N{\1a&HFF&\t(906,2407,1 \1a&H00&}They managed to escape because of me.\N{\1a&HFF&\t(2449,4867,1 \1a&H00&)}Though you're the one who brought me here, right?\N{\1a&HFF&\t(4868,5118,1 \1a&H00&)}- Yuuji
+Dialogue: 0,0:18:19.93,0:18:21.45,Main,Yuuji,0000,0000,0000,,{\an8\pos(320,18)}I'm sorry about that.
+Dialogue: 0,0:18:21.12,0:18:24.42,Main,Gojou,0000,0000,0000,,So cursed spirits of that level \Nare forming a faction now?
+Dialogue: 0,0:18:21.45,0:18:23.95,Main,Yuuji,0000,0000,0000,,{\an8\pos(320,18)}They managed to escape because of me.
+Dialogue: 0,0:18:23.95,0:18:26.25,Main,Yuuji,0000,0000,0000,,{\an8\pos(320,18)}Though you're the one \Nwho brought me here, right?
+Dialogue: 0,0:18:24.42,0:18:26.26,Main,Gojou,0000,0000,0000,,This is getting interesting.
+Dialogue: 0,0:18:26.74,0:18:27.78,Main,Gojou,0000,0000,0000,,Yuuji.
+Dialogue: 0,0:18:27.78,0:18:32.62,Main,Gojou,0000,0000,0000,,I want you—or rather, everyone—\Nto become strong enough to beat that.
+Dialogue: 0,0:18:33.21,0:18:35.18,Main,Yuuji,0000,0000,0000,,Huh? Beat {\i1}that{\i0}?
+Dialogue: 0,0:18:35.44,0:18:38.02,Main,Gojou,0000,0000,0000,,It's better to have a concrete goal, right?
+Dialogue: 0,0:18:38.02,0:18:41.01,Main,Gojou,0000,0000,0000,,Man, I'm glad brought you here.
+Dialogue: 0,0:18:41.01,0:18:43.96,Main,Yuuji,0000,0000,0000,,I had no idea what was going on, though.
+Dialogue: 0,0:18:43.96,0:18:45.20,Main,Yuuji,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:18:45.20,0:18:49.50,Main,Gojou,0000,0000,0000,,Now that we've set your goal, \Nall that's left is to pursue it.
+Dialogue: 0,0:18:49.76,0:18:51.61,Main,Gojou,0000,0000,0000,,We'll speed up the schedule a bit.
+Dialogue: 0,0:18:51.61,0:18:56.20,Main,Gojou,0000,0000,0000,,For the next month, you'll be \Nwatching movies and fighting me.
+Dialogue: 0,0:18:56.20,0:18:57.63,Main,Yuuji,0000,0000,0000,,Fighting you?!
+Dialogue: 0,0:18:58.96,0:19:01.72,Main,Yuuji,0000,0000,0000,,Will I still be alive a month from now?
+Dialogue: 0,0:19:01.72,0:19:03.81,Main,Gojou,0000,0000,0000,,After that, it's practical combat.
+Dialogue: 0,0:19:03.81,0:19:06.58,Main,Gojou,0000,0000,0000,,You'll take on and complete \Nseveral harder missions.
+Dialogue: 0,0:19:06.58,0:19:09.07,Main,Gojou,0000,0000,0000,,You'll learn the basics \Nand how to apply them,
+Dialogue: 0,0:19:09.07,0:19:12.69,Main,Gojou,0000,0000,0000,,and then you'll show them off \Nat the exchange event.
+Dialogue: 0,0:19:12.69,0:19:14.00,Main,Yuuji,0000,0000,0000,,Hey, Sensei!
+Dialogue: 0,0:19:14.00,0:19:15.63,Main,Gojou,0000,0000,0000,,Yes, Yuuji-kun?
+Dialogue: 0,0:19:15.84,0:19:18.63,Main,Yuuji,0000,0000,0000,,What's the exchange event?
+Dialogue: 0,0:19:20.37,0:19:21.77,Main,Gojou,0000,0000,0000,,I didn't tell you?
+Dialogue: 0,0:19:30.07,0:19:31.32,Main,Yaga,0000,0000,0000,,He's late!
+Dialogue: 0,0:19:59.84,0:20:01.80,Main,Getou,0000,0000,0000,,Sure is peaceful here.
+Dialogue: 0,0:20:05.76,0:20:08.25,Main,Mahito,0000,0000,0000,,How's Jougo doing, Getou?
+Dialogue: 0,0:20:09.18,0:20:10.50,Main,Getou,0000,0000,0000,,On death's door.
+Dialogue: 0,0:20:11.01,0:20:13.04,Main,Getou,0000,0000,0000,,Hanami stepped in to save him,
+Dialogue: 0,0:20:13.04,0:20:14.72,Main,Getou,0000,0000,0000,,so he'll probably be fine.
+Dialogue: 0,0:20:15.02,0:20:16.74,Main,Mahito,0000,0000,0000,,How irresponsible.
+Dialogue: 0,0:20:16.74,0:20:18.45,Main,Mahito,0000,0000,0000,,You're the one who egged him on.
+Dialogue: 0,0:20:18.81,0:20:20.39,Main,Getou,0000,0000,0000,,Heavens, no.
+Dialogue: 0,0:20:20.39,0:20:22.08,Main,Getou,0000,0000,0000,,I tried to stop him.
+Dialogue: 0,0:20:26.21,0:20:27.66,Main,Mahito,0000,0000,0000,,Speak of the devil.
+Dialogue: 0,0:20:28.07,0:20:29.89,Main,Mahito,0000,0000,0000,,Jougo, Hanami.
+Dialogue: 0,0:20:30.32,0:20:32.91,Main,Mahito,0000,0000,0000,,Glad to see you're safe.
+Dialogue: 0,0:20:33.17,0:20:35.93,Main,Jougo,0000,0000,0000,,How can you say that when you see me like this?!
+Dialogue: 0,0:20:37.02,0:20:39.18,Main,Getou,0000,0000,0000,,You're lucky you got off with just that.
+Dialogue: 0,0:20:41.39,0:20:43.44,Main,Jougo,0000,0000,0000,,Why, you...
+Dialogue: 0,0:20:43.44,0:20:44.89,Main,Getou,0000,0000,0000,,I think you understand now...
+Dialogue: 0,0:20:45.66,0:20:49.27,Main,Getou,0000,0000,0000,,So we'll go about sealing Gojou Satoru \Nat the appropriate time,
+Dialogue: 0,0:20:49.27,0:20:53.38,Main,Getou,0000,0000,0000,,in the appropriate place, once we've secured our advantage over him.
+Dialogue: 0,0:20:53.91,0:20:57.01,Main,Getou,0000,0000,0000,,We'll carry it out on October 31st in Shibuya.
+Dialogue: 0,0:20:57.44,0:20:59.41,Main,Getou,0000,0000,0000,,I'll contact you with more details later.
+Dialogue: 0,0:21:00.38,0:21:02.32,Main,Getou,0000,0000,0000,,Good enough, Mahito?
+Dialogue: 0,0:21:02.32,0:21:03.53,Main,Book,0000,0000,0000,,{\fad(1,394)\fnTimes New Roman\b1\fs16\c&H517A98&\bord1\shad0\an5\pos(333.333,155.334)\frx342\fry12\frz305.6\3c&H97C6E7&}Cloud Giant
+Dialogue: 0,0:21:04.83,0:21:06.16,Main,Mahito,0000,0000,0000,,No objections here.
+Dialogue: 0,0:21:06.93,0:21:08.25,Main,Mahito,0000,0000,0000,,Let's be cunning about this.
+Dialogue: 0,0:21:09.02,0:21:10.24,Main,Mahito,0000,0000,0000,,Like curses should.
+Dialogue: 0,0:21:11.03,0:21:12.32,Main,Mahito,0000,0000,0000,,Like humans should.
+Dialogue: 0,0:22:44.92,0:22:47.47,sign_32727_342_Juju_Stroll,Woman,0000,0000,0000,,Juju Stroll
+Dialogue: 0,0:22:47.47,0:22:51.08,Main,Both,0000,0000,0000,,One, two, three, four...
+Dialogue: 0,0:22:51.08,0:22:52.45,Main,Jougo,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:22:52.45,0:22:53.61,Main,Getou,0000,0000,0000,,Brazilian calisthenics.
+Dialogue: 0,0:22:53.61,0:22:54.48,Main,Getou,0000,0000,0000,,Three, four...
+Dialogue: 0,0:22:54.78,0:22:56.90,Main,Mahito,0000,0000,0000,,I think we're nice and warmed up now.
+Dialogue: 0,0:22:56.90,0:22:57.89,Main,Getou,0000,0000,0000,,Yeah.
+Dialogue: 0,0:22:59.81,0:23:02.28,Main,Jougo,0000,0000,0000,,What are you two planning to do?
+Dialogue: 0,0:23:12.77,0:23:13.75,Main,Mahito,0000,0000,0000,,Getou-kun!
+Dialogue: 0,0:23:14.65,0:23:15.57,Main,Getou,0000,0000,0000,,Shoot!
+Dialogue: 0,0:23:21.30,0:23:22.40,Main,Getou,0000,0000,0000,,Mahito-kun!
+Dialogue: 0,0:23:26.90,0:23:29.54,Main,Mahito,0000,0000,0000,,Overhead!
+Dialogue: 0,0:23:29.94,0:23:31.61,Main,Mahito,0000,0000,0000,,Shoot!
+Dialogue: 0,0:23:41.74,0:23:44.71,Italics,Jougo,0000,0000,0000,,I'm gonna kill these two later!
+Dialogue: 0,0:23:44.94,0:23:46.27,Main,Sign,0000,0000,0000,,{\an8\fnTimes New Roman\fs20\c&H23363B&\3c&H4A7093&\shad0\b1}Tokyo Metropolitan\NJujutsu Technical High School
+Dialogue: 0,0:23:51.53,0:23:54.95,Next_Ep_Title,Screen,0000,0000,0000,,Episode 8:\NBoredom

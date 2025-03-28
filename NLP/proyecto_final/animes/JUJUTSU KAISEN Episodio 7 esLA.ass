@@ -1,0 +1,321 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Arial,22,&H00FFFFFF,&H000000FF,&H327D0CB6,&H002971C2,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0060,0110,1
+Style: Cart_TitleEp,Times New Roman,24,&H00E7EAE4,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,7,0020,0028,0020,1
+Style: Cart_TitleNext,Times New Roman,22,&H00FCFFFF,&H000000FF,&H00313131,&H00313131,0,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0050,1
+Style: Cart_TitleSerie,Times New Roman,60,&H000F0063,&H000000FF,&H002F1595,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_C_TreNo,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.31,0:00:08.48,Gen_Main,Ijichi,0000,0000,0000,,Llegaremos a tiempo a la reunión con\Nel director, ¿no quieres ir a otro lado?
+Dialogue: 0,0:00:08.86,0:00:11.90,Gen_Main,Gojou,0000,0000,0000,,Descuida. Llegaré temprano para variar.
+Dialogue: 0,0:00:16.41,0:00:17.41,Gen_Main,Gojou,0000,0000,0000,,Detente.
+Dialogue: 0,0:00:17.69,0:00:18.91,Gen_Main,Ijichi,0000,0000,0000,,¿Justo aquí?
+Dialogue: 0,0:00:19.49,0:00:20.73,Gen_Main,Gojou,0000,0000,0000,,Sigue sin mí.
+Dialogue: 0,0:00:21.66,0:00:23.84,Gen_Main,Ijichi,0000,0000,0000,,¿Es algún tipo de prueba?
+Dialogue: 0,0:00:24.00,0:00:26.28,Gen_Main,Ijichi,0000,0000,0000,,No me vas a golpear si me voy, ¿o sí?
+Dialogue: 0,0:00:26.46,0:00:28.15,Gen_Main,Gojou,0000,0000,0000,,¿Por quién me tomas?
+Dialogue: 0,0:00:28.29,0:00:29.68,Gen_Main,Ijichi,0000,0000,0000,,Entonces…
+Dialogue: 0,0:00:38.55,0:00:39.54,Gen_Main,Gojou,0000,0000,0000,,Muy bien…
+Dialogue: 0,0:00:47.65,0:00:50.04,Gen_Main,Gojou,0000,0000,0000,,¿Quién diablos eres?
+Dialogue: 0,0:01:15.86,0:01:19.57,Gen_Main,Jougo,0000,0000,0000,,Pues resultó no ser la gran cosa.
+Dialogue: 0,0:01:25.89,0:01:27.22,Gen_Main,Gojou,0000,0000,0000,,¿Quién dices
+Dialogue: 0,0:01:29.23,0:01:31.15,Gen_Main,Gojou,0000,0000,0000,,que no es la gran cosa?
+Dialogue: 0,0:01:33.07,0:01:34.99,Gen_Main,Jougo,0000,0000,0000,,Maldito niño.
+Dialogue: 0,0:01:35.58,0:01:39.00,Gen_Italics,Gojou,0000,0000,0000,,Puede comunicarse claramente\Npese a ser un espíritu maldito.
+Dialogue: 0,0:01:40.48,0:01:43.32,Gen_Italics,Gojou,0000,0000,0000,,Y ni hablar de su cantidad\Nde energía maldita.
+Dialogue: 0,0:01:43.58,0:01:45.77,Gen_Italics,Gojou,0000,0000,0000,,¿Un categoría especial sin registrar?
+Dialogue: 0,0:01:47.21,0:01:49.95,Gen_Italics,Gojou,0000,0000,0000,,Puede que sea más fuerte\Nque el Sukuna actual.
+Dialogue: 0,0:01:51.59,0:01:54.96,Gen_Main,Gojou,0000,0000,0000,,La categoría especial se llama así\Npor su rareza.
+Dialogue: 0,0:01:55.34,0:01:58.81,Gen_Main,Gojou,0000,0000,0000,,Que aparezcan por doquier\Nle resta valor al nombre.
+Dialogue: 0,0:02:00.72,0:02:02.72,Gen_Main,Jougo,0000,0000,0000,,¿Acaso lastimé tu orgullo?
+Dialogue: 0,0:02:03.55,0:02:04.68,Gen_Main,Gojou,0000,0000,0000,,No,
+Dialogue: 0,0:02:05.78,0:02:07.70,Gen_Main,Gojou,0000,0000,0000,,comienzo a divertirme.
+Dialogue: 0,0:02:20.07,0:02:27.00,Cart_TitleSerie,,0000,0000,0000,,{\blur1\fad(1191,431)\t(1192,1316,1 \c&H0700D7&\3c&H6659E4&)\t(1317,1941,1 \c&H172918&\3c&H8CCECB&)\t(6197,6529,1 \c&H0F0063&\3c&H222781&)}Jujutsu Kaisen
+Dialogue: 0,0:03:41.61,0:03:47.62,Cart_TitleEp,Screen,0000,0000,0000,,{\fad(529,530)}Episodio 7: {\fs24}Asalto
+Dialogue: 0,0:03:41.90,0:03:44.58,Gen_Main,Jougo,0000,0000,0000,,Divertirte, ¿dices?
+Dialogue: 0,0:03:45.20,0:03:48.26,Gen_Main,Jougo,0000,0000,0000,,Pero qué temerario.
+Dialogue: 0,0:03:48.91,0:03:51.72,Gen_Italics,Gojou,0000,0000,0000,,¿Eligió un lugar sin civiles\Na propósito?
+Dialogue: 0,0:03:53.04,0:03:54.04,Gen_Italics,Gojou,0000,0000,0000,,No.
+Dialogue: 0,0:03:55.22,0:03:58.09,Gen_Italics,Gojou,0000,0000,0000,,Quiere evitar\Nque lleguen otros hechiceros.
+Dialogue: 0,0:03:58.88,0:04:00.01,Gen_Main,Jougo,0000,0000,0000,,¡Insectos de Lumbre!
+Dialogue: 0,0:04:01.30,0:04:04.44,Gen_Main,Gojou,0000,0000,0000,,Bueno, si de verdad vienes por mí,
+Dialogue: 0,0:04:04.59,0:04:06.35,Gen_Main,Gojou,0000,0000,0000,,el temerario eres tú.
+Dialogue: 0,0:04:11.48,0:04:14.06,Gen_Main,Gojou,0000,0000,0000,,¿Qué pasaría si me tocara esto?
+Dialogue: 0,0:04:18.97,0:04:19.98,Gen_Italics,Gojou,0000,0000,0000,,¿Sonido?
+Dialogue: 0,0:04:26.49,0:04:29.05,Gen_Main,Gojou,0000,0000,0000,,¿Un ataque bifásico\Nde sonido y explosiones?
+Dialogue: 0,0:04:29.49,0:04:30.99,Gen_Main,Gojou,0000,0000,0000,,Qué astuto.
+Dialogue: 0,0:04:37.46,0:04:39.04,Gen_Main,Jougo,0000,0000,0000,,¡No he terminado!
+Dialogue: 0,0:04:46.33,0:04:48.11,Gen_Main,Jougo,0000,0000,0000,,¿Así de fácil?
+Dialogue: 0,0:04:48.35,0:04:51.84,Gen_Main,Jougo,0000,0000,0000,,Pues parece que los débiles\Nlo tenían sobrevalorado.
+Dialogue: 0,0:04:52.02,0:04:54.82,Gen_Main,Jougo,0000,0000,0000,,Ese humano era tan frágil\Ncomo los demás.
+Dialogue: 0,0:04:55.64,0:05:00.52,Gen_Main,Jougo,0000,0000,0000,,Vivía alejado de la verdad.\NEs tan repugnante como nauseabundo.
+Dialogue: 0,0:05:00.98,0:05:06.26,Gen_Main,Jougo,0000,0000,0000,,Difundiré la auténtica fuerza\Ny la verdad por medio de la muerte.
+Dialogue: 0,0:05:07.07,0:05:10.45,Gen_Main,Gojou,0000,0000,0000,,Ya pasamos por lo mismo hace poco, ¿no?
+Dialogue: 0,0:05:10.95,0:05:11.96,Gen_Main,Gojou,0000,0000,0000,,¿Acaso no aprendes?
+Dialogue: 0,0:05:12.45,0:05:13.45,Gen_Main,Gojou,0000,0000,0000,,Cuánto humo.
+Dialogue: 0,0:05:16.20,0:05:17.92,Gen_Main,Jougo,0000,0000,0000,,¿Cómo es posible?
+Dialogue: 0,0:05:19.28,0:05:21.88,Gen_Main,Gojou,0000,0000,0000,,En términos sencillos, no me diste.
+Dialogue: 0,0:05:22.17,0:05:24.82,Gen_Main,Jougo,0000,0000,0000,,¡Imposible! No fue como la otra vez.
+Dialogue: 0,0:05:24.97,0:05:27.35,Gen_Main,Jougo,0000,0000,0000,,Sé que toqué y te maté.
+Dialogue: 0,0:05:27.68,0:05:32.35,Gen_Main,Gojou,0000,0000,0000,,Lo que tocaste\Nfue el infinito existente entre tú y yo.
+Dialogue: 0,0:05:33.45,0:05:34.85,Gen_Main,Gojou,0000,0000,0000,,Te lo demostraré.
+Dialogue: 0,0:05:35.39,0:05:36.85,Gen_Main,Gojou,0000,0000,0000,,Extiende la mano.
+Dialogue: 0,0:05:38.82,0:05:40.36,Gen_Main,Gojou,0000,0000,0000,,Vamos, vamos.
+Dialogue: 0,0:05:41.95,0:05:43.86,Gen_Main,Gojou,0000,0000,0000,,Vamos, vamos, ¡vamos!
+Dialogue: 0,0:05:44.82,0:05:48.48,Gen_Italics,Jougo,0000,0000,0000,,No percibo hostilidad.\NVeamos adónde quiere llegar.
+Dialogue: 0,0:05:55.90,0:05:56.96,Gen_Main,Gojou,0000,0000,0000,,¿Ves?
+Dialogue: 0,0:05:58.75,0:06:00.40,Gen_Italics,Jougo,0000,0000,0000,,¿No puedo tocarlo?
+Dialogue: 0,0:06:00.54,0:06:01.97,Gen_Italics,Jougo,0000,0000,0000,,¿Me detengo justo antes?
+Dialogue: 0,0:06:02.92,0:06:04.92,Gen_Italics,Jougo,0000,0000,0000,,¿A esto llama "infinito"?
+Dialogue: 0,0:06:05.42,0:06:09.92,Gen_Main,Gojou,0000,0000,0000,,En realidad no paras, sino que vas\Nmás lento cuanto más te acercas.
+Dialogue: 0,0:06:10.60,0:06:12.40,Gen_Main,Gojou,0000,0000,0000,,¿Y bien? ¿Qué harás?
+Dialogue: 0,0:06:12.81,0:06:16.36,Gen_Main,Gojou,0000,0000,0000,,Hasta podríamos tomarnos de la mano.
+Dialogue: 0,0:06:17.42,0:06:18.86,Gen_Main,Jougo,0000,0000,0000,,¡No quiero!
+Dialogue: 0,0:06:19.15,0:06:20.86,Gen_Main,Gojou,0000,0000,0000,,No seas tímido.
+Dialogue: 0,0:06:21.44,0:06:23.55,Gen_Main,Gojou,0000,0000,0000,,Harás que me dé vergüenza.
+Dialogue: 0,0:06:25.24,0:06:26.78,Gen_Main,Jougo,0000,0000,0000,,¡Infeliz!
+Dialogue: 0,0:06:31.76,0:06:32.89,Gen_Italics,Jougo,0000,0000,0000,,¡Qué veloz!
+Dialogue: 0,0:06:33.03,0:06:35.81,Gen_Italics,Jougo,0000,0000,0000,,No es un simple golpe\Npotenciado con energía maldita.
+Dialogue: 0,0:06:36.36,0:06:37.62,Gen_Italics,Jougo,0000,0000,0000,,¡¿Qué pasa?!
+Dialogue: 0,0:06:37.79,0:06:40.05,Gen_Italics,Jougo,0000,0000,0000,,¡No entiendo! ¡No lo entiendo!
+Dialogue: 0,0:06:40.36,0:06:41.45,Gen_Main,Gojou,0000,0000,0000,,¡Y aún hay más!
+Dialogue: 0,0:06:47.17,0:06:50.46,Gen_Main,Gojou,0000,0000,0000,,Aunque el infinito está presente\Nen todos lados,
+Dialogue: 0,0:06:51.55,0:06:54.90,Gen_Main,Gojou,0000,0000,0000,,mi hechicería lo trae a la realidad.
+Dialogue: 0,0:06:55.81,0:06:57.56,Gen_Main,Gojou,0000,0000,0000,,Convergencia. Divergencia.
+Dialogue: 0,0:06:58.39,0:07:00.73,Gen_Main,Gojou,0000,0000,0000,,¿Qué crees que pase\Nal tocar este vacío?
+Dialogue: 0,0:07:02.02,0:07:04.90,Gen_Main,Gojou,0000,0000,0000,,Ritual Maldito Inverso: Rojo.
+Dialogue: 0,0:07:50.90,0:07:52.42,Gen_Main,Gojou,0000,0000,0000,,Vaya, perfecto.
+Dialogue: 0,0:07:55.49,0:07:56.66,Gen_Main,Getou,0000,0000,0000,,Como quieras,
+Dialogue: 0,0:07:57.70,0:07:58.91,Gen_Main,Getou,0000,0000,0000,,pero morirás,
+Dialogue: 0,0:07:59.24,0:08:00.33,Gen_Main,Getou,0000,0000,0000,,Jougo.
+Dialogue: 0,0:08:07.46,0:08:10.39,Gen_Italics,Jougo,0000,0000,0000,,Parece que hablaba en serio.
+Dialogue: 0,0:08:12.84,0:08:17.48,Gen_Italics,Jougo,0000,0000,0000,,Pero si no puedo asestarle golpes,\Ntendré que llevarlo a mi Dominio.
+Dialogue: 0,0:08:19.66,0:08:20.94,Gen_Italics,Jougo,0000,0000,0000,,¿Dónde se metió?
+Dialogue: 0,0:08:22.14,0:08:23.60,Gen_Main,Gojou,0000,0000,0000,,Perdón, perdón.
+Dialogue: 0,0:08:24.52,0:08:26.88,Gen_Main,Yuuji,0000,0000,0000,,¡¿Dónde…?! ¡¿Dónde estamos?!
+Dialogue: 0,0:08:27.46,0:08:28.64,Gen_Main,Gojou,0000,0000,0000,,¿Te hice esperar?
+Dialogue: 0,0:08:29.69,0:08:30.99,Gen_Main,Jougo,0000,0000,0000,,¡¿Ese es…?!
+Dialogue: 0,0:08:31.15,0:08:32.69,Gen_Italics,Jougo,0000,0000,0000,,¿El recipiente de Sukuna?
+Dialogue: 0,0:08:33.24,0:08:35.82,Gen_Main,Gojou,0000,0000,0000,,Te presento a Yuuji Itadori,\Nvino a observar.
+Dialogue: 0,0:08:36.07,0:08:38.16,Gen_Main,Yuuji,0000,0000,0000,,¡El Fuji! ¡Su cabeza es el monte Fuji!
+Dialogue: 0,0:08:46.79,0:08:48.47,Gen_Italics,Sam,0000,0000,0000,,Prometí no abandonarlo.
+Dialogue: 0,0:08:49.00,0:08:50.42,Gen_Italics,Sam,0000,0000,0000,,Y no es mi intención…
+Dialogue: 0,0:08:51.61,0:08:52.62,Gen_Italics,Frodo,0000,0000,0000,,¡Sam!
+Dialogue: 0,0:08:58.47,0:09:02.32,Gen_Italics,Gojou,0000,0000,0000,,Vaya, aprende bastante rápido.
+Dialogue: 0,0:09:02.85,0:09:03.90,Gen_Italics,Woman,0000,0000,0000,,Vámonos.
+Dialogue: 0,0:09:04.06,0:09:05.06,Gen_Main,Gojou,0000,0000,0000,,Yuuji.
+Dialogue: 0,0:09:06.90,0:09:08.23,Gen_Main,Yuuji,0000,0000,0000,,¿Profe Gojou?
+Dialogue: 0,0:09:08.90,0:09:11.24,Gen_Italics,Gojou,0000,0000,0000,,No parece haber problema\Naunque le hable.
+Dialogue: 0,0:09:11.65,0:09:12.80,Gen_Main,Yuuji,0000,0000,0000,,¿Pasa algo?
+Dialogue: 0,0:09:12.94,0:09:16.70,Gen_Italics,Gojou,0000,0000,0000,,Pronto podrá aumentar la potencia\Ny avanzar a la siguiente etapa.
+Dialogue: 0,0:09:17.11,0:09:18.63,Gen_Main,Gojou,0000,0000,0000,,Nos vamos, Yuuji.
+Dialogue: 0,0:09:19.76,0:09:21.06,Gen_Main,Gojou,0000,0000,0000,,Nos vamos de excursión.
+Dialogue: 0,0:09:21.58,0:09:27.19,Gen_Main,Gojou,0000,0000,0000,,Te enseñaré el pináculo de las batallas\Nde hechicería, la Extensión de Dominio.
+Dialogue: 0,0:09:31.92,0:09:34.88,Gen_Main,Yuuji,0000,0000,0000,,¿Por qué no nos hundimos?
+Dialogue: 0,0:09:35.30,0:09:39.66,Gen_Main,Yuuji,0000,0000,0000,,Profe, hace diez segundos\Nestaba en la escuela, ¿no?
+Dialogue: 0,0:09:39.80,0:09:40.81,Gen_Main,Yuuji,0000,0000,0000,,¿Qué pasó?
+Dialogue: 0,0:09:40.97,0:09:42.15,Gen_Main,Gojou,0000,0000,0000,,Vinimos volando.
+Dialogue: 0,0:09:43.41,0:09:44.64,Gen_Italics,Jougo,0000,0000,0000,,El recipiente de Sukuna.
+Dialogue: 0,0:09:45.16,0:09:47.14,Gen_Italics,Jougo,0000,0000,0000,,Así que seguía con vida.
+Dialogue: 0,0:09:48.02,0:09:50.83,Gen_Main,Getou,0000,0000,0000,,Deben incapacitar a Satoru Gojou
+Dialogue: 0,0:09:51.85,0:09:55.97,Gen_Main,Getou,0000,0000,0000,,y hacer que Sukuna Ryomen\Ny Yuuji Itadori estén de su lado.
+Dialogue: 0,0:09:58.66,0:10:01.20,Gen_Italics,Jougo,0000,0000,0000,,Los planes me impiden matar a Itadori…
+Dialogue: 0,0:10:01.53,0:10:04.55,Gen_Italics,Jougo,0000,0000,0000,,¿Se habrá dado cuenta\Nde lo que tramamos?
+Dialogue: 0,0:10:05.01,0:10:07.42,Gen_Main,Jougo,0000,0000,0000,,¿Qué hay con el mocoso? ¿Es tu escudo?
+Dialogue: 0,0:10:07.71,0:10:09.61,Gen_Main,Gojou,0000,0000,0000,,¿Escudo? No, no.
+Dialogue: 0,0:10:09.79,0:10:11.92,Gen_Main,Gojou,0000,0000,0000,,Ya te lo dije, vino a observar.
+Dialogue: 0,0:10:12.50,0:10:15.46,Gen_Main,Gojou,0000,0000,0000,,Aún debo enseñarle un montón de cosas.
+Dialogue: 0,0:10:16.09,0:10:18.55,Gen_Main,Gojou,0000,0000,0000,,Puedes ignorarlo y seguir peleando.
+Dialogue: 0,0:10:19.38,0:10:23.92,Gen_Main,Jougo,0000,0000,0000,,Qué necio, ¿trajiste a alguien\Nque será un estorbo?
+Dialogue: 0,0:10:25.43,0:10:26.80,Gen_Main,Gojou,0000,0000,0000,,No hay problema.
+Dialogue: 0,0:10:27.14,0:10:30.15,Gen_Main,Gojou,0000,0000,0000,,Al fin y al cabo, eres muy débil.
+Dialogue: 0,0:10:35.69,0:10:37.87,Gen_Main,Jougo,0000,0000,0000,,¡No me subestimes!
+Dialogue: 0,0:10:38.03,0:10:41.61,Gen_Main,Jougo,0000,0000,0000,,¡Haré desaparecer esa sonrisa engreída!
+Dialogue: 0,0:10:47.95,0:10:51.31,Gen_Italics,Yuuji,0000,0000,0000,,¿Ese tipo es débil?
+Dialogue: 0,0:10:53.75,0:10:56.21,Gen_Italics,Yuuji,0000,0000,0000,,¡Es más monstruoso\Nque cualquier otro monstruo
+Dialogue: 0,0:10:56.99,0:10:58.91,Gen_Italics,Yuuji,0000,0000,0000,,que haya visto!
+Dialogue: 0,0:11:04.18,0:11:07.40,Gen_Main,Gojou,0000,0000,0000,,Estarás bien, pero no te alejes de mí.
+Dialogue: 0,0:11:11.77,0:11:13.97,Gen_Main,Jougo,0000,0000,0000,,¡Extensión de Dominio!
+Dialogue: 0,0:11:38.26,0:11:41.74,Gen_Main,Yuuji,0000,0000,0000,,¡¿Qué es esto?!
+Dialogue: 0,0:11:42.97,0:11:45.20,Gen_Main,Jougo,0000,0000,0000,,¡Ataúd de la Montaña de Hierro!
+Dialogue: 0,0:12:02.45,0:12:04.67,Gen_Main,Yuuji,0000,0000,0000,,¡¿Qué diablos es esto?!
+Dialogue: 0,0:12:05.57,0:12:07.26,Gen_Main,Gojou,0000,0000,0000,,Extendió su Dominio.
+Dialogue: 0,0:12:09.08,0:12:14.03,Gen_Main,Gojou,0000,0000,0000,,Es un ritual para construir y expandir\Ntu Área Innata en tus alrededores.
+Dialogue: 0,0:12:16.67,0:12:18.96,Gen_Main,Gojou,0000,0000,0000,,Lo que experimentaron en la correccional
+Dialogue: 0,0:12:19.13,0:12:22.43,Gen_Main,,0000,0000,0000,,fue un Dominio incompleto\Nque no surgió de un ritual.
+Dialogue: 0,0:12:23.13,0:12:26.07,Gen_Main,Gojou,0000,0000,0000,,De haber estado completo,\Ntodos habrían muerto.
+Dialogue: 0,0:12:26.97,0:12:28.56,Gen_Main,Gojou,0000,0000,0000,,Me pregunto si Megumi lo sabía.
+Dialogue: 0,0:12:30.22,0:12:34.25,Gen_Main,Gojou,0000,0000,0000,,Extender tu Dominio\Nconsume un montón de energía,
+Dialogue: 0,0:12:34.39,0:12:36.13,Gen_Main,Gojou,0000,0000,0000,,pero tiene sus ventajas.
+Dialogue: 0,0:12:36.33,0:12:39.82,Gen_Main,Gojou,0000,0000,0000,,La primera es que los factores\Nambientales potencian tus cualidades.
+Dialogue: 0,0:12:41.32,0:12:43.99,Gen_Main,Yuuji,0000,0000,0000,,¡Como cuando te {\i1}buffean{\i0} en los juegos!
+Dialogue: 0,0:12:44.82,0:12:46.24,Gen_Main,Gojou,0000,0000,0000,,Otra de ellas…
+Dialogue: 0,0:12:49.83,0:12:54.75,Gen_Italics,Jougo,0000,0000,0000,,Un hechicero común y corriente se habría\Ncalcinado con solo entrar a mi Dominio.
+Dialogue: 0,0:12:55.58,0:13:00.80,Gen_Main,Gojou,0000,0000,0000,,…es que los rituales que se activen\Ndentro del Dominio siempre acertarán.
+Dialogue: 0,0:13:01.30,0:13:02.39,Gen_Main,Yuuji,0000,0000,0000,,¡¿Siempre?!
+Dialogue: 0,0:13:02.55,0:13:03.76,Gen_Main,Gojou,0000,0000,0000,,¡Siempre!
+Dialogue: 0,0:13:04.55,0:13:07.44,Gen_Main,Gojou,0000,0000,0000,,Pero, descuida,\Nhay formas de lidiar con ellos.
+Dialogue: 0,0:13:10.18,0:13:12.77,Gen_Main,Gojou,0000,0000,0000,,Puedes interceptarlos con otro ritual,\Ncomo ahora.
+Dialogue: 0,0:13:13.89,0:13:15.84,Gen_Main,Gojou,0000,0000,0000,,Y, aunque no lo recomiendo,
+Dialogue: 0,0:13:16.61,0:13:19.91,Gen_Main,Gojou,0000,0000,0000,,podrías escapar del Dominio.\NAunque es casi imposible.
+Dialogue: 0,0:13:20.14,0:13:21.15,Gen_Main,Gojou,0000,0000,0000,,Por último…
+Dialogue: 0,0:13:21.36,0:13:25.37,Gen_Main,Jougo,0000,0000,0000,,Si anulo tu no sé qué infinito\Ncon la densidad de mi Dominio,
+Dialogue: 0,0:13:25.61,0:13:27.61,Gen_Main,Jougo,0000,0000,0000,,mis rituales acertarán sin falta.
+Dialogue: 0,0:13:28.03,0:13:30.37,Gen_Main,Gojou,0000,0000,0000,,-Sí, acertarán.\N-¿Eh? ¿Infinito?
+Dialogue: 0,0:13:31.37,0:13:33.42,Gen_Main,Jougo,0000,0000,0000,,¡Dame el Gokumonkyo!
+Dialogue: 0,0:13:34.50,0:13:36.19,Gen_Main,Jougo,0000,0000,0000,,Lo sumaré a mi colección.
+Dialogue: 0,0:13:37.37,0:13:40.75,Gen_Italics,Jougo,0000,0000,0000,,La verdad es que me lo tomé\Nun poco a la ligera.
+Dialogue: 0,0:13:41.42,0:13:45.13,Gen_Italics,Jougo,0000,0000,0000,,Pensé que no habría problema\Nsi no conseguía matarlo.
+Dialogue: 0,0:13:45.55,0:13:48.68,Gen_Italics,Jougo,0000,0000,0000,,Pero que me echen en cara\Ntal diferencia de poder…
+Dialogue: 0,0:13:49.05,0:13:53.31,Gen_Italics,Jougo,0000,0000,0000,,¡Mi orgullo como espectro,\Ncomo parte de la nueva humanidad,
+Dialogue: 0,0:13:53.71,0:13:56.07,Gen_Italics,Jougo,0000,0000,0000,,no puede tolerarlo!
+Dialogue: 0,0:13:57.06,0:13:59.99,Gen_Main,Gojou,0000,0000,0000,,La manera más efectiva\Nde lidiar con un Dominio
+Dialogue: 0,0:14:00.65,0:14:02.64,Gen_Main,Gojou,0000,0000,0000,,es extendiendo tu propio Dominio.
+Dialogue: 0,0:14:02.98,0:14:05.58,Gen_Main,Gojou,0000,0000,0000,,Si dos Dominios se extienden a la vez,
+Dialogue: 0,0:14:06.03,0:14:09.59,Gen_Main,Gojou,0000,0000,0000,,el más refinado de los dos\Ntomará el control del lugar.
+Dialogue: 0,0:14:10.07,0:14:13.58,Gen_Main,Gojou,0000,0000,0000,,Aunque también influyen la cantidad\Nde energía y la compatibilidad.
+Dialogue: 0,0:14:14.41,0:14:19.04,Gen_Main,Jougo,0000,0000,0000,,¡No quedarán ni tus cenizas,\NSatoru Gojou!
+Dialogue: 0,0:14:25.59,0:14:27.13,Gen_Main,Gojou,0000,0000,0000,,Extensión de Dominio:
+Dialogue: 0,0:14:30.39,0:14:32.10,Gen_Main,Gojou,0000,0000,0000,,Vacío Infinito.
+Dialogue: 0,0:14:56.62,0:14:58.31,Gen_Italics,Jougo,0000,0000,0000,,¿Qué sucedió?
+Dialogue: 0,0:14:59.21,0:15:02.46,Gen_Italics,Jougo,0000,0000,0000,,¿Sobrepasó a mi Dominio?
+Dialogue: 0,0:15:03.42,0:15:06.23,Gen_Italics,Jougo,0000,0000,0000,,No veo nada. No siento nada.
+Dialogue: 0,0:15:07.67,0:15:09.22,Gen_Italics,Jougo,0000,0000,0000,,No es eso…
+Dialogue: 0,0:15:09.51,0:15:11.32,Gen_Italics,Jougo,0000,0000,0000,,¡Puedo verlo todo!
+Dialogue: 0,0:15:11.54,0:15:12.88,Gen_Italics,Jougo,0000,0000,0000,,¡Puedo sentirlo todo!
+Dialogue: 0,0:15:13.05,0:15:15.93,Gen_Italics,Jougo,0000,0000,0000,,Pero toda la información\Nestá incompleta.
+Dialogue: 0,0:15:16.97,0:15:20.65,Gen_Italics,Jougo,0000,0000,0000,,¡No puedo hacer nada!
+Dialogue: 0,0:15:22.44,0:15:25.07,Gen_Main,Gojou,0000,0000,0000,,Estás dentro del infinito.
+Dialogue: 0,0:15:26.02,0:15:28.01,Gen_Main,Gojou,0000,0000,0000,,Percepción y transmisión…
+Dialogue: 0,0:15:28.78,0:15:33.26,Gen_Main,Gojou,0000,0000,0000,,Estás obligado a realizar lo esencial\Npara vivir una infinidad de veces.
+Dialogue: 0,0:15:35.12,0:15:36.48,Gen_Main,Gojou,0000,0000,0000,,Qué irónico, ¿no?
+Dialogue: 0,0:15:36.91,0:15:40.45,Gen_Main,Gojou,0000,0000,0000,,Cuando se te otorga todo,\Nno eres capaz de hacer nada.
+Dialogue: 0,0:15:40.83,0:15:42.96,Gen_Main,Gojou,0000,0000,0000,,Salvo morir en paz.
+Dialogue: 0,0:15:43.63,0:15:46.43,Gen_Main,Gojou,0000,0000,0000,,Pero como quiero\Nhacerte algunas preguntas,
+Dialogue: 0,0:15:46.59,0:15:49.86,Gen_Main,Gojou,0000,0000,0000,,me apiadaré de ti\Ny lo dejaremos hasta aquí.
+Dialogue: 0,0:16:05.15,0:16:09.73,Gen_Main,Gojou,0000,0000,0000,,Muy bien, ¿quién te envió conmigo?
+Dialogue: 0,0:16:10.28,0:16:12.96,Gen_Italics,Yuuji,0000,0000,0000,,¿Así es el hechicero\Nmás fuerte de todos?
+Dialogue: 0,0:16:13.48,0:16:14.74,Gen_Italics,Yuuji,0000,0000,0000,,¡Está a otro nivel
+Dialogue: 0,0:16:15.57,0:16:17.09,Gen_Italics,Yuuji,0000,0000,0000,,incluso como ser vivo!
+Dialogue: 0,0:16:22.81,0:16:24.00,Gen_Main,Getou,0000,0000,0000,,¿Qué harás?
+Dialogue: 0,0:16:24.52,0:16:25.65,Gen_Main,Getou,0000,0000,0000,,¿Vas a salvarlo?
+Dialogue: 0,0:16:27.04,0:16:31.16,Gen_Main,Getou,0000,0000,0000,,No puedo dejar\Nque me vean los de esa escuela,
+Dialogue: 0,0:16:31.76,0:16:33.37,Gen_Main,Getou,0000,0000,0000,,así que me marcho.
+Dialogue: 0,0:16:35.51,0:16:38.41,Gen_Main,Getou,0000,0000,0000,,Si quieres salvarlo, puedes ir.
+Dialogue: 0,0:16:39.10,0:16:42.67,Gen_Main,Getou,0000,0000,0000,,Aunque no sé si ustedes sean\Ncapaces de sentir compasión.
+Dialogue: 0,0:16:49.86,0:16:53.21,Gen_Main,Getou,0000,0000,0000,,Una afirmación bastante audaz\Npara un simple espíritu maldito.
+Dialogue: 0,0:16:54.32,0:16:57.39,Gen_Main,Gojou,0000,0000,0000,,No pareces del tipo\Nque sigue órdenes de otros.
+Dialogue: 0,0:16:58.20,0:16:59.95,Gen_Main,Gojou,0000,0000,0000,,¿Te esperaba una recompensa
+Dialogue: 0,0:17:00.49,0:17:02.83,Gen_Main,Gojou,0000,0000,0000,,si conseguías matarme o algo así?
+Dialogue: 0,0:17:03.29,0:17:06.08,Gen_Main,Gojou,0000,0000,0000,,Sea como sea, ¿quién me busca?
+Dialogue: 0,0:17:06.58,0:17:09.19,Gen_Main,Gojou,0000,0000,0000,,Vamos, dime de una vez.
+Dialogue: 0,0:17:10.17,0:17:13.05,Gen_Main,Jougo,0000,0000,0000,,¡No hablaré, maldito niño!
+Dialogue: 0,0:17:13.51,0:17:16.76,Gen_Main,Gojou,0000,0000,0000,,¿Te crees en posición de hablarme así?
+Dialogue: 0,0:17:17.62,0:17:19.05,Gen_Main,Jougo,0000,0000,0000,,¡Infeliz!
+Dialogue: 0,0:17:19.51,0:17:24.06,Gen_Main,Gojou,0000,0000,0000,,Habla de una vez o te exorcizaré.\NAunque igual te exorcizaré.
+Dialogue: 0,0:17:24.39,0:17:27.53,Gen_Main,Yuuji,0000,0000,0000,,A todo esto, ¿las Maldiciones\Npueden conversar?
+Dialogue: 0,0:17:27.69,0:17:29.68,Gen_Main,Yuuji,0000,0000,0000,,Lucía tan normal que lo pasé por alto.
+Dialogue: 0,0:17:37.45,0:17:39.82,Gen_Main,G&Y,0000,0000,0000,,-¡Cielos! ¡Qué lindas!\N-¡Florecillas!
+Dialogue: 0,0:17:43.58,0:17:45.19,Gen_Italics,Gojou,0000,0000,0000,,Es hechicería, ¿no?
+Dialogue: 0,0:17:45.37,0:17:46.80,Gen_Italics,Gojou,0000,0000,0000,,Pierdo las ganas de pelear.
+Dialogue: 0,0:17:53.63,0:17:55.78,Gen_Main,Yuuji,0000,0000,0000,,¡Profe, estaré bien!
+Dialogue: 0,0:17:55.92,0:17:57.68,Gen_Main,Yuuji,0000,0000,0000,,¡Ve tras él!
+Dialogue: 0,0:17:59.64,0:18:01.23,Gen_Main,Yuuji,0000,0000,0000,,¡Perdón, mentí! {\i1}Help!{\i0}
+Dialogue: 0,0:18:08.49,0:18:09.79,Gen_Italics,Gojou,0000,0000,0000,,Logró huir.
+Dialogue: 0,0:18:10.23,0:18:12.03,Gen_Italics,Gojou,0000,0000,0000,,Es bueno ocultando su presencia.
+Dialogue: 0,0:18:12.94,0:18:16.25,Gen_Italics,Gojou,0000,0000,0000,,Me da peor espina\Nque el cabeza de volcán.
+Dialogue: 0,0:18:20.99,0:18:26.25,Cart_C_Tre,Screen,0000,0000,0000,,{\c&HC77C84&\shad0\an9\fs17\fad(300,0)\pos(570,9)\3c&HF7F7F7&}Cuánto lo siento.
+Dialogue: 0,0:18:21.28,0:18:24.29,Gen_Main,Gojou,0000,0000,0000,,¿Así que espectros de ese nivel\Nformaron una facción?
+Dialogue: 0,0:18:21.70,0:18:26.25,Cart_C_Tre,Screen,0000,0000,0000,,{\c&HC77C84&\shad0\an9\fs17\fad(300,0)\pos(570,29)\3c&HF7F7F7&}Se escaparon por mi culpa.
+Dialogue: 0,0:18:23.91,0:18:26.25,Cart_C_Tre,Screen,0000,0000,0000,,{\c&HC77C84&\shad0\an9\fs17\fad(300,0)\pos(570,49)\3c&HF7F7F7&}Pero tú me trajiste aquí, ¿no?\N-Yuuji
+Dialogue: 0,0:18:24.58,0:18:26.26,Gen_Main,Gojou,0000,0000,0000,,Esto se pone interesante.
+Dialogue: 0,0:18:26.91,0:18:32.62,Gen_Main,Gojou,0000,0000,0000,,Yuuji, quiero que tú y los demás sean\Ncapaces de vencer a uno como ese.
+Dialogue: 0,0:18:33.38,0:18:35.17,Gen_Main,Yuuji,0000,0000,0000,,¿Uno como ese?
+Dialogue: 0,0:18:35.51,0:18:38.02,Gen_Main,Gojou,0000,0000,0000,,Hay que proponerse metas, ¿no?
+Dialogue: 0,0:18:38.17,0:18:40.82,Gen_Main,Gojou,0000,0000,0000,,¡Cielos, qué bueno que te traje!
+Dialogue: 0,0:18:41.01,0:18:43.96,Gen_Main,Yuuji,0000,0000,0000,,Yo sigo sin entender nada de nada.
+Dialogue: 0,0:18:44.14,0:18:45.18,Gen_Main,Yuuji,0000,0000,0000,,¿Habla en serio?
+Dialogue: 0,0:18:45.47,0:18:49.50,Gen_Main,Gojou,0000,0000,0000,,Ahora que tienes tu meta,\Ndebes centrarte en alcanzarla.
+Dialogue: 0,0:18:49.94,0:18:51.61,Gen_Main,Gojou,0000,0000,0000,,Adelantaremos el programa
+Dialogue: 0,0:18:51.77,0:18:56.20,Gen_Main,Gojou,0000,0000,0000,,y pasarás un mes entero viendo películas\Ny peleando conmigo.
+Dialogue: 0,0:18:56.36,0:18:57.63,Gen_Main,Yuuji,0000,0000,0000,,¡¿Contigo?!
+Dialogue: 0,0:18:58.88,0:19:01.70,Gen_Main,Yuuji,0000,0000,0000,,Me pregunto si seguiré vivo\Nde aquí al mes que viene.
+Dialogue: 0,0:19:02.03,0:19:03.81,Gen_Main,Gojou,0000,0000,0000,,Y después, combates reales.
+Dialogue: 0,0:19:03.99,0:19:06.34,Gen_Main,Gojou,0000,0000,0000,,Te haré cumplir misiones difíciles.
+Dialogue: 0,0:19:06.74,0:19:09.07,Gen_Main,Gojou,0000,0000,0000,,Así aprenderás y aplicarás lo básico.
+Dialogue: 0,0:19:09.25,0:19:12.67,Gen_Main,Gojou,0000,0000,0000,,Y luego podrás lucirte\Nen el evento de intercambio.
+Dialogue: 0,0:19:12.83,0:19:14.00,Gen_Main,Yuuji,0000,0000,0000,,¡Una pregunta, profe!
+Dialogue: 0,0:19:14.17,0:19:15.63,Gen_Main,Gojou,0000,0000,0000,,¡Adelante, Yuuji!
+Dialogue: 0,0:19:15.92,0:19:18.32,Gen_Main,Yuuji,0000,0000,0000,,¿Qué es un evento de intercambio?
+Dialogue: 0,0:19:20.38,0:19:21.66,Gen_Main,Gojou,0000,0000,0000,,¿No te lo conté?
+Dialogue: 0,0:19:30.12,0:19:31.32,Gen_Main,Yaga,0000,0000,0000,,¡Llega tarde!
+Dialogue: 0,0:19:59.86,0:20:01.80,Gen_Main,Getou,0000,0000,0000,,Qué lugar tan pacífico.
+Dialogue: 0,0:20:05.79,0:20:08.25,Gen_Main,Mahito,0000,0000,0000,,¿Cómo está Jougo, Getou?
+Dialogue: 0,0:20:09.18,0:20:10.50,Gen_Main,Getou,0000,0000,0000,,Moribundo.
+Dialogue: 0,0:20:11.06,0:20:14.72,Gen_Main,Getou,0000,0000,0000,,Hanami partió a rescatarlo,\Nasí que creo que vivirá.
+Dialogue: 0,0:20:15.09,0:20:16.58,Gen_Main,Mahito,0000,0000,0000,,Qué irresponsable.
+Dialogue: 0,0:20:16.90,0:20:18.45,Gen_Main,Mahito,0000,0000,0000,,Tú lo incitaste a ir.
+Dialogue: 0,0:20:18.98,0:20:20.17,Gen_Main,Getou,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:20:20.57,0:20:21.95,Gen_Main,Getou,0000,0000,0000,,Intenté detenerlo.
+Dialogue: 0,0:20:26.37,0:20:27.66,Gen_Main,Mahito,0000,0000,0000,,Hablando del rey de Roma…
+Dialogue: 0,0:20:28.24,0:20:29.89,Gen_Main,Mahito,0000,0000,0000,,Jougo, Hanami,
+Dialogue: 0,0:20:30.50,0:20:32.91,Gen_Main,Mahito,0000,0000,0000,,me alegra verlos bien.
+Dialogue: 0,0:20:33.29,0:20:35.92,Gen_Main,Jougo,0000,0000,0000,,¡¿Cómo puedes decir eso al verme así?!
+Dialogue: 0,0:20:37.17,0:20:39.17,Gen_Main,Getou,0000,0000,0000,,Qué bueno que no pasó a mayores, ¿eh?
+Dialogue: 0,0:20:41.55,0:20:43.44,Gen_Main,Jougo,0000,0000,0000,,¡Infeliz!
+Dialogue: 0,0:20:43.59,0:20:44.89,Gen_Main,Getou,0000,0000,0000,,¿Ahora lo entiendes?
+Dialogue: 0,0:20:45.80,0:20:49.27,Gen_Main,Getou,0000,0000,0000,,Hay que sellar a Satoru Gojou\Nen el momento y lugar propicios
+Dialogue: 0,0:20:49.43,0:20:53.38,Gen_Main,Getou,0000,0000,0000,,tras estar seguros\Nde que tendremos la ventaja.
+Dialogue: 0,0:20:54.06,0:20:57.01,Gen_Main,Getou,0000,0000,0000,,Lo haremos el 31 de octubre en Shibuya.
+Dialogue: 0,0:20:57.61,0:20:59.41,Gen_Main,Getou,0000,0000,0000,,Luego les compartiré los detalles.
+Dialogue: 0,0:21:00.53,0:21:02.32,Gen_Main,Getou,0000,0000,0000,,¿De acuerdo, Mahito?
+Dialogue: 0,0:21:04.99,0:21:06.19,Gen_Main,Mahito,0000,0000,0000,,No me opongo.
+Dialogue: 0,0:21:06.96,0:21:08.22,Gen_Main,Mahito,0000,0000,0000,,Hagámoslo con astucia.
+Dialogue: 0,0:21:09.08,0:21:10.24,Gen_Main,Mahito,0000,0000,0000,,Como Maldiciones
+Dialogue: 0,0:21:10.98,0:21:12.32,Gen_Main,Mahito,0000,0000,0000,,y humanos que somos.
+Dialogue: 0,0:22:44.92,0:22:47.47,Cart_C_TreNo,Woman,0000,0000,0000,,{\bord0\shad0\fs30\frz25.38\pos(440.8,67.2)}Juju-Cortos
+Dialogue: 0,0:22:47.47,0:22:50.95,Gen_Main,Both,0000,0000,0000,,Uno, dos, tres, cuatro…
+Dialogue: 0,0:22:51.26,0:22:53.30,Gen_Main,Jougo,0000,0000,0000,,-¿Qué hacen?\N-Elongación brasileña.
+Dialogue: 0,0:22:53.47,0:22:54.48,Gen_Main,Getou,0000,0000,0000,,Tres, cuatro…
+Dialogue: 0,0:22:54.93,0:22:56.90,Gen_Main,Mahito,0000,0000,0000,,Creo que ya calentamos lo suficiente.
+Dialogue: 0,0:22:57.06,0:22:58.06,Gen_Main,Getou,0000,0000,0000,,Sí.
+Dialogue: 0,0:22:59.85,0:23:02.28,Gen_Main,Jougo,0000,0000,0000,,¿Y qué pretenden hacer?
+Dialogue: 0,0:23:12.74,0:23:13.75,Gen_Main,Mahito,0000,0000,0000,,¡Getou!
+Dialogue: 0,0:23:14.58,0:23:15.57,Gen_Main,Getou,0000,0000,0000,,¡Y patea!
+Dialogue: 0,0:23:21.46,0:23:22.58,Gen_Main,Getou,0000,0000,0000,,¡Mahito!
+Dialogue: 0,0:23:27.05,0:23:29.54,Gen_Main,Mahito,0000,0000,0000,,¡Tiro de…
+Dialogue: 0,0:23:29.84,0:23:31.61,Gen_Main,Mahito,0000,0000,0000,,chilena!
+Dialogue: 0,0:23:41.69,0:23:42.99,Gen_Italics,Jougo,0000,0000,0000,,¡Infelices!
+Dialogue: 0,0:23:43.15,0:23:44.71,Gen_Italics,Jougo,0000,0000,0000,,¡Juro que los mataré!
+Dialogue: 0,0:23:51.53,0:23:54.95,Cart_TitleNext,Screen,0000,0000,0000,,{\fad(984,1)}Episodio 8\N{\fs26}Aburrimiento

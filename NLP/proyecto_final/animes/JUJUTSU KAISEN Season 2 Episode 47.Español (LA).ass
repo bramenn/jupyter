@@ -1,0 +1,261 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Box,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.53,0:00:15.03,Cart_Serieslogo,,0000,0000,0000,,{\fad(0,800)\fs28\3c&H9EF2FA&\move(320,47.64,320,48.85,20,4983)}{\t(0,5050,\fs-0.3)}JUJUTSU KAISEN{\fscy100}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\bord0\c&HFFFFFF&}Shibuya Incident
+Dialogue: 0,0:01:44.38,0:01:46.21,Gen_Main,Tsukumo,0000,0000,0000,,¿Recuerdas nuestra conversación
+Dialogue: 0,0:01:47.59,0:01:50.74,Gen_Main,Tsukumo,0000,0000,0000,,sobre el modo para eliminar\Nlos espíritus malditos del mundo?
+Dialogue: 0,0:01:53.66,0:01:55.86,Gen_Main,Tsukumo,0000,0000,0000,,No importa qué método se vaya a usar,
+Dialogue: 0,0:01:56.23,0:02:00.05,Gen_Main,Tsukumo,0000,0000,0000,,se tiene que llevar a la humanidad\Nal siguiente nivel de la evolución.
+Dialogue: 0,0:02:01.50,0:02:05.77,Gen_Italics,Tsukumo,0000,0000,0000,,Tengo que conseguir algo de tiempo para\Nque Lalue pueda moverse libremente.
+Dialogue: 0,0:02:07.64,0:02:13.15,Gen_Main,Tsukumo,0000,0000,0000,,La siguiente etapa de la humanidad\Nconsiste en liberarse del poder maldito.
+Dialogue: 0,0:02:15.11,0:02:18.41,Gen_Main,Geto,0000,0000,0000,,Estás equivocada. Se trata\Nde la optimización del poder maldito.
+Dialogue: 0,0:02:23.54,0:02:26.41,Gen_Main,Yuji,0000,0000,0000,,Yo no tengo idea\Nde cuál de las dos sería la mejor.
+Dialogue: 0,0:02:26.91,0:02:32.92,Gen_Main,Tsukumo,0000,0000,0000,,Creí que habías descartado ese plan\Nhace 12 años, cuando murió Toji Zenin.
+Dialogue: 0,0:02:33.14,0:02:35.93,Gen_Main,Tsukumo,0000,0000,0000,,En aquel momento,\Nte había comentado un poco,
+Dialogue: 0,0:02:36.94,0:02:38.67,Gen_Main,Tsukumo,0000,0000,0000,,pero creo que ahora ya no importa.
+Dialogue: 0,0:02:39.56,0:02:41.44,Gen_Main,Tsukumo,0000,0000,0000,,Verás, volví al meollo del asunto.
+Dialogue: 0,0:02:41.78,0:02:45.34,Gen_Main,Tsukumo,0000,0000,0000,,Además, tu plan de la optimización\Ntiene un gran obstáculo.
+Dialogue: 0,0:02:45.91,0:02:51.31,Gen_Main,Tsukumo,0000,0000,0000,,Se generan muy pocos hechiceros\Ny espíritus malditos fuera de Japón.
+Dialogue: 0,0:02:52.30,0:02:57.36,Gen_Main,Tsukumo,0000,0000,0000,,Y para la optimización se supone que\Nlas barreras de Tengen son necesarias.
+Dialogue: 0,0:02:58.54,0:03:02.41,Gen_Main,Tsukumo,0000,0000,0000,,Usando las barreras de Tengen,\Nse optimizaría el poder maldito
+Dialogue: 0,0:03:02.65,0:03:05.89,Gen_Main,Tsukumo,0000,0000,0000,,y solo se volverían hechiceros\Nlas personas de este país.
+Dialogue: 0,0:03:06.91,0:03:11.50,Gen_Main,Tsukumo,0000,0000,0000,,Japón monopolizaría casi por completo\Nesa energía llamada poder maldito.
+Dialogue: 0,0:03:12.13,0:03:16.00,Gen_Main,Tsukumo,0000,0000,0000,,Los demás países del mundo\Nno se quedarían callados.
+Dialogue: 0,0:03:16.97,0:03:19.76,Gen_Main,Tsukumo,0000,0000,0000,,Humanos de carne y hueso\Nserían una fuente de energía.
+Dialogue: 0,0:03:20.10,0:03:24.01,Gen_Main,Tsukumo,0000,0000,0000,,Es muy fácil imaginar la clase\Nde desgracias que resultarían de ello.
+Dialogue: 0,0:03:26.46,0:03:30.52,Gen_Main,Tsukumo,0000,0000,0000,,Esa es una situación muy alejada\Ndel ideal que yo tengo en mente.
+Dialogue: 0,0:03:32.66,0:03:34.15,Gen_Main,Geto,0000,0000,0000,,¿Eso qué me importa?
+Dialogue: 0,0:03:34.76,0:03:37.40,Gen_Main,Geto,0000,0000,0000,,Nuestros objetivos son distintos,\Nal fin y al cabo.
+Dialogue: 0,0:03:37.96,0:03:43.16,Gen_Main,Geto,0000,0000,0000,,Yo no deseo un mundo sin maldiciones\Nni una paz idílica.
+Dialogue: 0,0:03:43.51,0:03:46.78,Gen_Main,Geto,0000,0000,0000,,No hechiceros, hechiceros,\Nespíritus malditos…
+Dialogue: 0,0:03:46.98,0:03:49.65,Gen_Main,Geto,0000,0000,0000,,Todos representan\Nlas posibilidades de las formas
+Dialogue: 0,0:03:49.85,0:03:52.54,Gen_Main,Geto,0000,0000,0000,,que toma\Nel poder maldito de los humanos.
+Dialogue: 0,0:03:54.29,0:03:58.46,Gen_Main,Geto,0000,0000,0000,,Pero estoy seguro de que estas\Nno pueden ser todas
+Dialogue: 0,0:03:59.00,0:04:01.17,Gen_Main,Geto,0000,0000,0000,,las posibilidades de los humanos.
+Dialogue: 0,0:04:01.45,0:04:03.92,Gen_Main,Geto,0000,0000,0000,,También intenté generar nuevas\Npor mi cuenta.
+Dialogue: 0,0:04:07.94,0:04:10.33,Gen_Main,Geto,0000,0000,0000,,Pero no fue suficiente.
+Dialogue: 0,0:04:10.53,0:04:15.27,Gen_Main,Geto,0000,0000,0000,,Cualquier cosa que haya nacido de mí\Nno es capaz de escapar de mis límites.
+Dialogue: 0,0:04:15.78,0:04:21.03,Gen_Main,Geto,0000,0000,0000,,La respuesta es siempre algo que\Nresplandece de negro en medio del caos.
+Dialogue: 0,0:04:21.83,0:04:25.14,Gen_Main,Geto,0000,0000,0000,,¿Entiendes?\NLo que debía crear desde un principio
+Dialogue: 0,0:04:25.34,0:04:28.41,Gen_Main,Geto,0000,0000,0000,,era un caos que fuera mucho más allá\Nde mi propio potencial.
+Dialogue: 0,0:04:28.98,0:04:32.41,Gen_Main,Geto,0000,0000,0000,,He terminado\Nde extraerle la técnica ritual.
+Dialogue: 0,0:04:34.70,0:04:39.16,Gen_Main,Tsukumo,0000,0000,0000,,¿Y la maldición llamada Mahito con\Nel ritual que interfiere con las almas?
+Dialogue: 0,0:04:39.37,0:04:42.34,Gen_Main,Yuji/Tsukumo,0000,0000,0000,,-Hace un momento ese sujeto lo absorbió.\N-¡No inventes!
+Dialogue: 0,0:04:44.78,0:04:46.97,Gen_Main,Geto,0000,0000,0000,,Mutación Inactiva.
+Dialogue: 0,0:05:08.68,0:05:11.33,Gen_Main,Tsukumo,0000,0000,0000,,No está utilizando\Nlas barreras de Tengen.
+Dialogue: 0,0:05:11.69,0:05:15.33,Gen_Main,Tsukumo,0000,0000,0000,,¿Está activando la técnica ritual\Nde manera remota?
+Dialogue: 0,0:05:15.53,0:05:18.92,Gen_Main,Geto,0000,0000,0000,,Déjame darte las gracias, Yuji Itadori.
+Dialogue: 0,0:05:19.35,0:05:23.28,Gen_Main,Geto,0000,0000,0000,,La potencia de las técnicas rituales\Nde los espíritus malditos deja de crecer
+Dialogue: 0,0:05:23.48,0:05:26.88,Gen_Main,Geto,0000,0000,0000,,cuando son absorbidos a través\Nde la Manipulación de Maldiciones.
+Dialogue: 0,0:05:27.22,0:05:30.30,Gen_Main,Geto,0000,0000,0000,,Mahito maduró bastante\Ndurante la batalla contra ti.
+Dialogue: 0,0:05:30.98,0:05:33.67,Gen_Main,Geto,0000,0000,0000,,La verdad es que también quería\Nquedarme con Jogo,
+Dialogue: 0,0:05:33.87,0:05:35.77,Gen_Main,Geto,0000,0000,0000,,pero ¿qué le vamos a hacer?
+Dialogue: 0,0:05:36.42,0:05:38.15,Gen_Main,Tsukumo,0000,0000,0000,,¿Qué acabas de hacer?
+Dialogue: 0,0:05:38.51,0:05:44.20,Gen_Main,Geto,0000,0000,0000,,Ejecuté Mutación Inactiva en dos tipos\Nde no hechiceros que ya había marcado.
+Dialogue: 0,0:05:51.08,0:05:56.96,Cart_C_Tim,,0000,0000,0000,,{\b0\3c&H718F95&\move(360,136.8,387.66,136.8,20,5859)}Tsumiki Fushiguro
+Dialogue: 0,0:06:10.11,0:06:14.06,Gen_Main,Geto,0000,0000,0000,,Humanos que hice que absorbieran objetos\Nmalditos, al igual que Yuji Itadori.
+Dialogue: 0,0:06:14.75,0:06:18.42,Gen_Main,Geto,0000,0000,0000,,Humanos que poseen técnicas rituales,\Npero cuya estructura cerebral
+Dialogue: 0,0:06:18.62,0:06:21.56,Gen_Main,Geto,0000,0000,0000,,es la de un no hechicero,\Nal igual que Junpei Yoshino.
+Dialogue: 0,0:06:21.76,0:06:25.32,Gen_Main,Geto,0000,0000,0000,,Los reajusté para que su estructura\Ncerebral fuera la de un hechicero.
+Dialogue: 0,0:06:25.89,0:06:28.45,Gen_Main,Geto,0000,0000,0000,,Los primeros,\Npara fortalecerlos como recipientes.
+Dialogue: 0,0:06:28.78,0:06:32.57,Gen_Main,Geto,0000,0000,0000,,Los segundos, para que fueran capaces\Nde desplegar técnicas rituales.
+Dialogue: 0,0:06:33.91,0:06:35.34,Gen_Main,Geto,0000,0000,0000,,Y ahora
+Dialogue: 0,0:06:38.46,0:06:42.33,Gen_Main,Geto,0000,0000,0000,,acabo de desencantar\Nel sello de esos objetos malditos.
+Dialogue: 0,0:06:43.15,0:06:48.17,Gen_Main,Geto,0000,0000,0000,,Algunos quedaron en coma al recibir\Nmi poder maldito cuando los marqué,
+Dialogue: 0,0:06:48.37,0:06:50.36,Gen_Main,Geto,0000,0000,0000,,pero ya irán abriendo los ojos.
+Dialogue: 0,0:06:51.79,0:06:57.80,Gen_Main,Geto,0000,0000,0000,,Haré que se maten entre sí para fomentar\Nsu entendimiento del poder maldito.
+Dialogue: 0,0:06:58.43,0:07:01.57,Gen_Main,Geto,0000,0000,0000,,Son chicos y objetos malditos\Nque escogí con mucho cuidado.
+Dialogue: 0,0:07:01.77,0:07:06.54,Gen_Main,Geto,0000,0000,0000,,Es como dejar sueltos a mil Yuji Itadori\Nllenos de intenciones malévolas.
+Dialogue: 0,0:07:07.36,0:07:10.47,Gen_Main,Tsukumo,0000,0000,0000,,¿Solo mil? Qué número tan conservador.
+Dialogue: 0,0:07:10.67,0:07:13.32,Gen_Main,Tsukumo,0000,0000,0000,,Subestimas demasiado\Nel raciocinio de los humanos.
+Dialogue: 0,0:07:13.77,0:07:18.08,Gen_Main,Tsukumo,0000,0000,0000,,¿Crees que la gente comenzará a matarse\Nentre sí solo porque recibieron poderes?
+Dialogue: 0,0:07:18.28,0:07:20.99,Gen_Main,Geto,0000,0000,0000,,Todas las cosas llevan un orden.
+Dialogue: 0,0:07:21.19,0:07:25.01,Gen_Main,Geto,0000,0000,0000,,Claro que yo no descuidaría\Ntodos esos preparativos.
+Dialogue: 0,0:07:25.48,0:07:27.88,Gen_Main,Geto,0000,0000,0000,,Tus preguntas ya tienen menos sustancia.
+Dialogue: 0,0:07:30.64,0:07:33.28,Gen_Main,Tsukumo,0000,0000,0000,,Ya me hizo enojar.\NDémosle una paliza entre todos.
+Dialogue: 0,0:07:33.48,0:07:35.98,Gen_Main,Yuji,0000,0000,0000,,Nosotros no nos podemos mover ahora.
+Dialogue: 0,0:07:42.41,0:07:44.61,Gen_Main,Geto,0000,0000,0000,,¿Qué te ocurre, Uraume?
+Dialogue: 0,0:07:44.84,0:07:47.91,Gen_Main,Uraume,0000,0000,0000,,Regeneré músculo y hueso\Ncon mis rituales inversos,
+Dialogue: 0,0:07:48.27,0:07:50.49,Gen_Main,Uraume,0000,0000,0000,,pero ¡esto es veneno!
+Dialogue: 0,0:07:51.33,0:07:55.24,Gen_Main,Choso,0000,0000,0000,,Claro. Mi fluido sanguíneo se mezcló\Ncon el suyo con Sangre Perforante.
+Dialogue: 0,0:07:55.82,0:07:58.46,Gen_Main,Nishimiya,0000,0000,0000,,Aguarden.\NNo hay apoyo a distancia de Mai.
+Dialogue: 0,0:07:58.66,0:08:01.12,Gen_Main,Nishimiya,0000,0000,0000,,Quizá también haya secuaces suyos\Nde aquel lado.
+Dialogue: 0,0:08:02.60,0:08:07.79,Gen_Main,Tsukumo,0000,0000,0000,,Mis compañeros ya asistieron a Aoi,\Nla chica del rifle y la chica del traje.
+Dialogue: 0,0:08:07.99,0:08:09.38,Gen_Main,Tsukumo,0000,0000,0000,,Prefieren no dar la cara.
+Dialogue: 0,0:08:09.69,0:08:11.12,Gen_Main,Panda,0000,0000,0000,,¿Te puedes mover?
+Dialogue: 0,0:08:11.32,0:08:14.50,Gen_Main,Kamo,0000,0000,0000,,Sí. Puedo ajustar\Nla temperatura de mi cuerpo.
+Dialogue: 0,0:08:14.70,0:08:15.89,Gen_Main,Kamo,0000,0000,0000,,No hay problema.
+Dialogue: 0,0:08:17.83,0:08:20.14,Gen_Italics,Kusakabe,0000,0000,0000,,Yo ya tuve suficiente.
+Dialogue: 0,0:08:20.58,0:08:22.64,Gen_Main,Geto,0000,0000,0000,,Todavía no termino de hablar.
+Dialogue: 0,0:08:23.31,0:08:26.36,Gen_Main,Geto,0000,0000,0000,,Los objetos malditos\Nque hice que encarnaran
+Dialogue: 0,0:08:26.55,0:08:30.31,Gen_Main,Geto,0000,0000,0000,,son los restos de hechiceros con\Nlos que hice pactos en estos mil años.
+Dialogue: 0,0:08:30.51,0:08:35.03,Gen_Main,Geto,0000,0000,0000,,Pero no solo establecí pactos\Ncon hechiceros.
+Dialogue: 0,0:08:36.12,0:08:41.79,Gen_Main,Geto,0000,0000,0000,,Bueno, en el caso de esos otros pactos,\Nse anularon cuando adquirí este cuerpo.
+Dialogue: 0,0:08:43.48,0:08:44.80,Gen_Main,Tsukumo,0000,0000,0000,,No puede ser.
+Dialogue: 0,0:08:45.16,0:08:49.27,Gen_Main,Geto,0000,0000,0000,,Echen un vistazo\Nal mundo que se avecina.
+Dialogue: 0,0:09:40.69,0:09:43.47,Gen_Main,Geto,0000,0000,0000,,Hasta luego, Yuji Itadori.
+Dialogue: 0,0:09:45.66,0:09:48.10,Gen_Main,Yuji,0000,0000,0000,,¡Profe Gojo!
+Dialogue: 0,0:09:50.87,0:09:53.21,Gen_Main,Geto,0000,0000,0000,,Tengo mis expectativas puestas en ti.
+Dialogue: 0,0:09:54.15,0:09:57.99,Gen_Main,Geto,0000,0000,0000,,¿Me estás escuchando, Sukuna?\NVa a comenzar
+Dialogue: 0,0:09:59.14,0:10:00.78,Gen_Main,Geto,0000,0000,0000,,de nuevo
+Dialogue: 0,0:10:02.26,0:10:06.17,Gen_Main,Geto,0000,0000,0000,,la era cúspide de la brujería,\Ncomo en el período Heian.
+Dialogue: 0,0:10:25.02,0:10:28.69,Gen_Italics,Reportero,0000,0000,0000,,Estas imágenes ocurrieron al mismo\Ntiempo que el incidente de Tokio.
+Dialogue: 0,0:10:28.89,0:10:33.07,Gen_Italics,Reportero,0000,0000,0000,,Sabemos que otro equipo de reporteros\Nlas tomó por casualidad.
+Dialogue: 0,0:10:33.27,0:10:35.03,Gen_Italics,Reportero,0000,0000,0000,,Aquí las tienen.
+Dialogue: 0,0:10:36.39,0:10:40.38,Gen_Italics,Reportera,0000,0000,0000,,Han pasado 10 minutos\Ndesde que empezó el apagón.
+Dialogue: 0,0:10:40.83,0:10:44.34,Gen_Main,Anciano,0000,0000,0000,,Parece que están sucediendo\Ncosas fuera de este mundo.
+Dialogue: 0,0:10:44.54,0:10:48.76,Gen_Main,Anciana/Anciano,0000,0000,0000,,-¿No será falso?\N-Pero en las noticias solo sale esto.
+Dialogue: 0,0:10:49.97,0:10:52.48,Gen_Main,Anciana,0000,0000,0000,,Hoy regresaré tarde.\NCena algo congelado, ¿sí?
+Dialogue: 0,0:10:52.68,0:10:53.94,Gen_Main,Anciano,0000,0000,0000,,Sí, está bien.
+Dialogue: 0,0:10:54.65,0:10:57.34,Gen_Main,Hombre Importante A,0000,0000,0000,,El centro de Tokio fue aniquilado\Ncasi por completo.
+Dialogue: 0,0:10:57.54,0:11:01.44,Gen_Main,Mujer Importante A,0000,0000,0000,,No sabemos el paradero del gabinete,\Nincluyendo al secretario general.
+Dialogue: 0,0:11:01.64,0:11:05.97,Gen_Main,Hombre Importante B,0000,0000,0000,,Tenemos entre manos un vacío político.\N¡Literalmente un vacío!
+Dialogue: 0,0:11:06.44,0:11:11.09,Gen_Main,Hombre Importante A,0000,0000,0000,,Debemos formular un plan de huida para\N5 millones de habitantes de la ciudad.
+Dialogue: 0,0:11:11.29,0:11:14.99,Gen_Main,Mujer Importante A,0000,0000,0000,,Busquen por todo el país y usen todos\Nlos moteles, campamentos y aldeas
+Dialogue: 0,0:11:15.17,0:11:19.24,Gen_Main,Mujer Importante A,0000,0000,0000,,abandonadas que cuenten con el mínimo\Nde infraestructura y estén disponibles.
+Dialogue: 0,0:11:19.43,0:11:22.87,Gen_Main,Mujer Importante B,0000,0000,0000,,Pero ¿cómo se lo vamos a explicar\Na los habitantes de la ciudad?
+Dialogue: 0,0:11:23.04,0:11:25.87,Gen_Main,Hombre Importante C,0000,0000,0000,,¿Qué podemos anunciar\Nsi desconocemos la causa?
+Dialogue: 0,0:11:26.45,0:11:30.01,Gen_Italics,Reportera,0000,0000,0000,,Además, el Gobierno\Nno ha hecho ningún anuncio oficial.
+Dialogue: 0,0:11:30.37,0:11:34.23,Gen_Italics,Reportera,0000,0000,0000,,Solo se aventura a mencionar fallas\Nde los generadores, ataques terroristas
+Dialogue: 0,0:11:34.43,0:11:36.98,Gen_Italics,Reportera,0000,0000,0000,,o catástrofes naturales como terremotos.
+Dialogue: 0,0:11:37.13,0:11:39.01,Gen_Main,Hombre A,0000,0000,0000,,Ahora todos salen con conspiraciones.
+Dialogue: 0,0:11:39.18,0:11:41.63,Gen_Main,Mujer A,0000,0000,0000,,Ya deja el celular y ven a ayudarme.
+Dialogue: 0,0:11:41.95,0:11:43.80,Gen_Main,Hombre A,0000,0000,0000,,Como tú digas, mi amor.
+Dialogue: 0,0:11:44.07,0:11:47.32,Gen_Main,Hombre Importante A,0000,0000,0000,,Las únicas municipalidades\Nque se han comprobado sin daños
+Dialogue: 0,0:11:47.52,0:11:52.12,Gen_Main,Hombre Importante A,0000,0000,0000,,son Okutama, Oume, Akiruno, Hachioji,\Nuna parte de Machida y las islas.
+Dialogue: 0,0:11:52.32,0:11:53.91,Gen_Main,Hombre Importante B,0000,0000,0000,,Pero solo por el momento, ¿no?
+Dialogue: 0,0:11:54.11,0:11:57.16,Gen_Main,Hombre Importante B,0000,0000,0000,,El número de maldiciones liberadas\Nes cerca de 10 millones.
+Dialogue: 0,0:11:57.35,0:12:00.74,Gen_Main,Mujer Importante A,0000,0000,0000,,¿Ordenaremos la evacuación\Nde toda el área metropolitana de Tokio?
+Dialogue: 0,0:12:00.91,0:12:02.83,Gen_Main,Mujer Importante B,0000,0000,0000,,Se designará como área prohibida.
+Dialogue: 0,0:12:03.03,0:12:04.82,Gen_Main,Mujer Importante B,0000,0000,0000,,Será todo un infierno en la tierra.
+Dialogue: 0,0:12:05.24,0:12:08.80,Gen_Main,Mujer Importante A,0000,0000,0000,,¿Y qué vamos a hacer con el anuncio?\N¿Quién lo hará?
+Dialogue: 0,0:12:09.00,0:12:11.67,Gen_Main,Hombre Importante B,0000,0000,0000,,Más que "quién",\Nla cuestión es "cómo", ¿no?
+Dialogue: 0,0:12:11.87,0:12:13.83,Gen_Main,Hombre Importante B,0000,0000,0000,,¿No han contactado al subsecretario?
+Dialogue: 0,0:12:15.99,0:12:19.84,Gen_Main,Mujer Importante B,0000,0000,0000,,No hemos podido.\NSu asistente no contesta para nada.
+Dialogue: 0,0:12:21.93,0:12:24.15,Gen_Main,Hombre Importante C,0000,0000,0000,,¿Qué podemos hacer?
+Dialogue: 0,0:12:24.35,0:12:27.60,Gen_Main,Hombre Importante D,0000,0000,0000,,No se preocupen.\NLos jefes del Gobierno ya lo pensarán.
+Dialogue: 0,0:12:27.80,0:12:31.48,Gen_Main,Hombre Importante D,0000,0000,0000,,Por lo pronto, debemos coordinarnos\Ncon cada ministerio.
+Dialogue: 0,0:12:32.15,0:12:34.39,Gen_Main,Hombre B,0000,0000,0000,,Y el yen sigue cayendo en picada.
+Dialogue: 0,0:12:34.59,0:12:36.98,Gen_Main,Mujer B,0000,0000,0000,,Pero eso es bueno\Npara las exportaciones, ¿no?
+Dialogue: 0,0:12:37.15,0:12:39.09,Gen_Main,Empleado A,0000,0000,0000,,La Federación de Comercio se enfadará.
+Dialogue: 0,0:12:39.24,0:12:42.28,Gen_Main,Empleada A,0000,0000,0000,,No hay lugar para la presión política\Nsi todos se mueren.
+Dialogue: 0,0:12:42.91,0:12:45.36,Gen_Main,Hombre Importante A,0000,0000,0000,,El Gobierno se traslada a Osaka.
+Dialogue: 0,0:12:45.67,0:12:48.37,Gen_Main,Hombre Importante B,0000,0000,0000,,Nacerán maldiciones\Nen gran número por todo el país.
+Dialogue: 0,0:12:48.76,0:12:53.47,Gen_Main,Hombre Importante B,0000,0000,0000,,En estos momentos los hechiceros están\Nprotegiendo a los damnificados de Tokio.
+Dialogue: 0,0:12:53.75,0:12:57.38,Gen_Main,Mujer Importante A,0000,0000,0000,,Con ese vacío de poder, podría haber\Nuna intervención armamentística.
+Dialogue: 0,0:12:57.58,0:13:00.38,Gen_Main,Hombre Importante C,0000,0000,0000,,¡Sí, señor! ¿Eh? Ah, no…
+Dialogue: 0,0:13:00.60,0:13:01.59,Gen_Main,Hombre Importante C,0000,0000,0000,,Sí, señor.
+Dialogue: 0,0:13:02.25,0:13:03.38,Gen_Main,Hombre Importante C,0000,0000,0000,,Lo entiendo muy bien.
+Dialogue: 0,0:13:05.87,0:13:08.62,Gen_Main,Hombre Importante C,0000,0000,0000,,Que se hará pública\Nla existencia de las maldiciones.
+Dialogue: 0,0:13:09.48,0:13:12.91,Gen_Main,Hombre Importante D,0000,0000,0000,,¿Vamos a hacer pública su existencia?\N¿Lo dicen en serio?
+Dialogue: 0,0:13:13.11,0:13:17.19,Gen_Main,Hombre Importante C,0000,0000,0000,,Por lo pronto, se explicará que las\Nmaldiciones solo se generan en Tokio.
+Dialogue: 0,0:13:17.39,0:13:20.11,Gen_Main,Hombre Importante E,0000,0000,0000,,¿Se enfocará la fuga\Nde poder maldito de la población
+Dialogue: 0,0:13:20.31,0:13:23.47,Gen_Main,Hombre Importante E,0000,0000,0000,,a Tokio para limitar ahí\Nla ocurrencia de espíritus malditos?
+Dialogue: 0,0:13:23.69,0:13:27.67,Gen_Main,Hombre Importante F,0000,0000,0000,,¡Por eso yo proponía Itami cuando\Nse discutía el aeropuerto de Kansai!
+Dialogue: 0,0:13:27.87,0:13:29.97,Gen_Main,Hombre Importante G,0000,0000,0000,,Al final estuvo mejor, ¿no?
+Dialogue: 0,0:13:30.17,0:13:33.73,Gen_Main,Hombre Importante G,0000,0000,0000,,Si los ministerios funcionaran,\Nno habríamos podido tomar la decisión.
+Dialogue: 0,0:13:36.58,0:13:39.44,Gen_Italics,Reportera,0000,0000,0000,,Les informamos de nueva cuenta.
+Dialogue: 0,0:13:39.82,0:13:44.08,Gen_Italics,Reportera,0000,0000,0000,,El apagón continúa\Ny no se puede contactar al Gobierno.
+Dialogue: 0,0:13:44.28,0:13:48.59,Gen_Italics,Reportera,0000,0000,0000,,No hay ningún aviso.\NLa causa sigue siendo desconocida.
+Dialogue: 0,0:13:46.01,0:13:48.59,Cart_A_Verd,,0000,0000,0000,,{\an7\fs12\b0\pos(126.97,73.71)\3c&H514885&}EN VIVO\NÁrea metropolitana de Tokio
+Dialogue: 0,0:13:46.01,0:13:48.59,Cart_C_Tre,,0000,0000,0000,,{\an7\fs12\q2\pos(173.94,164.23)}¿Anomalías en el área metropolitana?\NAumentan los daños poco a poco
+Dialogue: 0,0:13:48.59,0:14:04.36,Cart_A_Tre,,0000,0000,0000,,{\an7\fs12\b0\3c&H514885&\pos(46.74,73.71)}EN VIVO\NÁrea metropolitana de Tokio
+Dialogue: 0,0:13:48.59,0:14:04.36,Cart_C_Tre,,0000,0000,0000,,{\an7\fs23\q2\pos(134.4,245.6)}¿Anomalías en el área metropolitana?\NAumentan los daños poco a poco
+Dialogue: 0,0:13:48.79,0:13:50.94,Gen_Italics_top,Reportera,0000,0000,0000,,No sabemos\Nhasta cuándo continuará esto.
+Dialogue: 0,0:13:57.98,0:14:00.66,Gen_Italics_top,Camarógrafo,0000,0000,0000,,¿Qué? ¿Qué diablos pasó?
+Dialogue: 0,0:14:00.86,0:14:02.18,Gen_Italics_top,Camarógrafo,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:14:06.11,0:14:08.11,Cart_A_Tre,,0000,0000,0000,,{\blur1\pos(320,138.17)\bord0.5}Esperen un momento. Dificultades técnicas
+Dialogue: 0,0:14:08.11,0:14:13.83,Cart_A_Tre,,0000,0000,0000,,{\blur1\fs12\bord0.5\pos(276.57,111.66)}Esperen un momento. Dificultades técnicas
+Dialogue: 0,0:14:14.05,0:14:16.48,Gen_Main,Mujer A,0000,0000,0000,,¿Eh? ¿Qué fue eso?
+Dialogue: 0,0:14:16.68,0:14:18.10,Gen_Main,Mujer C,0000,0000,0000,,¿Una película?
+Dialogue: 0,0:14:21.40,0:14:24.94,Gen_Main,Secretario,0000,0000,0000,,Se expandirán estas barreras\Nhasta las fronteras de la prefectura:
+Dialogue: 0,0:14:25.14,0:14:27.80,Gen_Main,Secretario,0000,0000,0000,,la que se erigió en Meiji\Nsobre el Palacio Imperial
+Dialogue: 0,0:14:27.99,0:14:30.53,Gen_Main,Secretario,0000,0000,0000,,y la del Santuario de la Muerte Estelar,
+Dialogue: 0,0:14:30.73,0:14:33.84,Gen_Main,Secretario,0000,0000,0000,,donde se pensaba reubicar la capital\Na finales del shogunato.
+Dialogue: 0,0:15:42.28,0:15:45.50,Gen_Main,Mujer D,0000,0000,0000,,Ven acá, conmigo.
+Dialogue: 0,0:15:45.70,0:15:47.75,Gen_Main,Mujer D,0000,0000,0000,,Estar aquí no es seguro.
+Dialogue: 0,0:15:57.31,0:15:59.78,Gen_Main,Mujer D,0000,0000,0000,,Tenemos un baño calentito.
+Dialogue: 0,0:16:05.03,0:16:07.58,Gen_Main,Mujer D,0000,0000,0000,,Y cantamos canciones.
+Dialogue: 0,0:16:13.51,0:16:15.41,Gen_Main,Niña,0000,0000,0000,,¿Qué hay de mi mamá?
+Dialogue: 0,0:16:17.79,0:16:20.30,Gen_Main,Mujer D,0000,0000,0000,,También están mamá y papá,
+Dialogue: 0,0:16:20.50,0:16:24.84,Gen_Main,Mujer D,0000,0000,0000,,tu hermana, tu hermano y tu maestro.
+Dialogue: 0,0:16:27.59,0:16:29.93,Gen_Main,Niña,0000,0000,0000,,Yo no tengo ningún hermano.
+Dialogue: 0,0:16:30.13,0:16:32.05,Gen_Main,Niña,0000,0000,0000,,Y el maestro no me cae bien.
+Dialogue: 0,0:16:32.25,0:16:35.91,Gen_Main,Mujer D,0000,0000,0000,,Yo no tengo ningún hermano.
+Dialogue: 0,0:16:36.11,0:16:40.48,Gen_Main,Mujer D,0000,0000,0000,,Y el maestro no me cae bien.
+Dialogue: 0,0:16:41.89,0:16:44.41,Gen_Main,Niña,0000,0000,0000,,¿Estás bien? ¿Quieres agua?
+Dialogue: 0,0:16:49.57,0:16:52.17,Gen_Main,Mujer D,0000,0000,0000,,Dame un trago.
+Dialogue: 0,0:17:26.90,0:17:28.07,Gen_Main,Yuta,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:17:29.63,0:17:31.15,Gen_Main,Yuta,0000,0000,0000,,¿Te asustaste?
+Dialogue: 0,0:17:33.80,0:17:35.09,Gen_Main,Yuta,0000,0000,0000,,¿Estás herida?
+Dialogue: 0,0:17:38.01,0:17:40.14,Gen_Main,Yuta,0000,0000,0000,,¿Estás con alguien?
+Dialogue: 0,0:17:41.33,0:17:43.62,Gen_Main,Yuta,0000,0000,0000,,¿Y tu papá y tu mamá?
+Dialogue: 0,0:17:45.08,0:17:46.47,Gen_Main,Niña,0000,0000,0000,,No lo sé.
+Dialogue: 0,0:17:47.77,0:17:51.67,Gen_Italics,Yuta,0000,0000,0000,,Aquí solo hay comercios.\NNo debe ser de por aquí.
+Dialogue: 0,0:17:53.23,0:17:54.84,Gen_Main,Yuta,0000,0000,0000,,¿Caminaste mucho?
+Dialogue: 0,0:17:58.23,0:18:01.14,Gen_Main,Yuta,0000,0000,0000,,Entiendo. Lo hiciste muy bien.
+Dialogue: 0,0:18:08.77,0:18:10.86,Gen_Main,Yuta,0000,0000,0000,,Las ves, ¿verdad?
+Dialogue: 0,0:18:11.87,0:18:14.40,Gen_Main,Yuta,0000,0000,0000,,Rika, no está bien
+Dialogue: 0,0:18:15.17,0:18:16.62,Gen_Main,Yuta,0000,0000,0000,,pasarse de la raya.
+Dialogue: 0,0:18:18.87,0:18:21.11,Gen_Main,Tsukumo,0000,0000,0000,,Lo siento. Aquella vez titubeé.
+Dialogue: 0,0:18:21.81,0:18:24.46,Gen_Main,Tsukumo,0000,0000,0000,,Si la situación ya se ha agravado\Nhasta este punto,
+Dialogue: 0,0:18:24.66,0:18:27.75,Gen_Main,Tsukumo,0000,0000,0000,,creo que es mejor dejarlo en paz\Npara ver qué se propone.
+Dialogue: 0,0:18:29.11,0:18:33.52,Gen_Main,Tsukumo,0000,0000,0000,,No sé si te has dado cuenta,\Npero yo no estoy de parte de ustedes.
+Dialogue: 0,0:18:34.36,0:18:39.25,Gen_Main,Tsukumo,0000,0000,0000,,Solo soy una hermosura errante que desea\Nerradicar las maldiciones del mundo.
+Dialogue: 0,0:18:40.73,0:18:42.80,Gen_Main,Tsukumo,0000,0000,0000,,Pero, para compensarlo de alguna manera,
+Dialogue: 0,0:18:43.14,0:18:48.45,Gen_Main,Tsukumo,0000,0000,0000,,mis compañeros y yo llevaremos a todos\Nlos que estaban ahí a un lugar seguro.
+Dialogue: 0,0:18:50.28,0:18:54.78,Gen_Main,Tsukumo,0000,0000,0000,,Ya es hora de que vaya a confrontar\Na Tengen de una vez por todas.
+Dialogue: 0,0:18:58.84,0:19:00.58,Gen_Main,Tsukumo,0000,0000,0000,,¿Qué vas a hacer tú?
+Dialogue: 0,0:19:07.50,0:19:09.46,Gen_Main,Alto Mando A,0000,0000,0000,,Buen trabajo, Okkotsu.
+Dialogue: 0,0:19:09.69,0:19:13.76,Gen_Main,Yuta,0000,0000,0000,,No tengo interés en recibir halagos.\NDiscutamos el tema principal enseguida.
+Dialogue: 0,0:19:15.01,0:19:19.20,Gen_Main,Yuta,0000,0000,0000,,Ya se han dado cuenta de que estoy\Ndispuesto a cumplir sus órdenes, ¿no?
+Dialogue: 0,0:19:21.18,0:19:25.38,Gen_Main,Alto Mando B,0000,0000,0000,,Exterminar todos los espíritus malditos\Nque te encuentres no prueba nada.
+Dialogue: 0,0:19:26.62,0:19:29.60,Gen_Main,Yuta,0000,0000,0000,,Establezcamos una atadura o lo que sea.
+Dialogue: 0,0:19:30.31,0:19:33.00,Gen_Main,Yuta,0000,0000,0000,,No me importa\Nque sea discípulo del profesor Gojo.
+Dialogue: 0,0:19:34.43,0:19:38.58,Gen_Main,Yuta,0000,0000,0000,,Por su culpa, mi compañero Inumaki\Nperdió un brazo en Shibuya.
+Dialogue: 0,0:19:40.17,0:19:44.44,Gen_Main,Yuta,0000,0000,0000,,Yo me encargaré de ejecutar\Na Yuji Itadori.
+Dialogue: 0,0:19:46.41,0:19:49.91,Cart_A_Tim,,0000,0000,0000,,{\pos(320,132.69)\b0}Comunicado oficial de los altos mandos de la brujería:
+Dialogue: 0,0:19:49.91,0:19:57.92,Cart_A_Tim,,0000,0000,0000,,{\b0\an7\pos(50.28,81.26)}1.\h\h\h\h\h\h\h\h\h\h\hSe confirma que Suguru Geto sigue con vida.\N\h\h\h\h\h\h\h\h\h\h\h\h\h\hSe pone en efecto nuevamente la orden de su ejecución.
+Dialogue: 0,0:19:57.92,0:20:08.43,Cart_A_Tim,,0000,0000,0000,,{\b0\an7\pos(67.66,18.17)}2.\h\h\h\h\h\h\h\h\h\h\hSe designa a Satoru Gojo como cómplice del autor intelectual\N\h\h\h\h\h\h\h\h\h\h\h\h\h\hdel Incidente de Shibuya, y se exilia permanentemente\N\h\h\h\h\h\h\h\h\h\h\h\h\h\hdel mundo de la brujería.\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\h\h\h\h\h\h\h\h\h\h\h\h\hDe igual manera, se determina que cualquier intento de liberarlo\N\h\h\h\h\h\h\h\h\h\h\h\h\hde su prisión se designa como un acto criminal.
+Dialogue: 0,0:20:08.43,0:20:17.94,Cart_A_Tim,,0000,0000,0000,,{\b0\an7\pos(113.38,8.57)}3. \h\h\h\h\h\h\h\h\h\hSe autoriza la pena de muerte para Masamichi Yaga\N\h\h\h\h\h\h\h\h\h\h\h\h\h\hpor el crimen de instigar a Satoru Gojo y Suguru Geto\N\h\h\h\h\h\h\h\h\h\h\h\h\h\ha perpetrar el Incidente de Shibuya.
+Dialogue: 0,0:20:17.94,0:20:25.45,Cart_A_Tim,,0000,0000,0000,,{\b0\an7\pos(33.38,84.68)}4.\h\h\h\h\h\h\h\h\h\h\h\hSe cancela la posposición de la ejecución de Yuji Itadori\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hy se ordena que se lleve a cabo de inmediato.
+Dialogue: 0,0:20:25.45,0:20:32.96,Cart_A_Tim,,0000,0000,0000,,{\b0\an7\pos(83.67,84.68)}5.\h\h\h\h\h\h\h\h\h\hSe asigna al hechicero de grado especial Yuta Okkotsu\N\h\h\h\h\h\h\h\h\h\h\h\h\hcomo verdugo de la ejecución de Yuji Itadori
+Dialogue: 0,0:22:07.01,0:22:09.77,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord0}Episodio 47\N\N\N\N\N\N\N\N\N\N\N{\fs30}El incidente de Shibuya,\Ncierre del portal
+Dialogue: 0,0:22:09.77,0:22:10.02,Cart_A_Tim,,0000,0000,0000,,{\bord0\pos(571.89,282.12)}Continuará
+Dialogue: 0,0:23:37.14,0:23:39.06,Cart_A_Tre,,0000,0000,0000,,{\b0\fs20\bord1.5\be1\3c&H161622&}Traducción: Abraham Gayuvas y Antonio Valdez\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+

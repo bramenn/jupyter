@@ -1,0 +1,197 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Box,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.81,0:00:03.15,Gen_Main,Abuelo Itadori,0000,0000,0000,,Yuji…
+Dialogue: 0,0:00:06.11,0:00:08.90,Gen_Main,Abuelo Itadori,0000,0000,0000,,Tú eres un chico muy fuerte.\NAyuda a la gente.
+Dialogue: 0,0:00:18.29,0:00:21.54,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord0}Episodio 41\N\N\N\N\N\N\N\N\N\N\N{\fs30}Trueno, parte dos
+Dialogue: 0,0:00:21.54,0:00:26.55,Cart_A_Tim,Megumi,0000,0000,0000,,{\an1\fad(0,500)\fs24\bord0\shad0\3c&H919196&\pos(131.99,292.12)}Dogenzaka, enfrente del Shibuya 109
+Dialogue: 0,0:00:24.59,0:00:27.63,Gen_Main_Up,Megumi,0000,0000,0000,,En las Diez Artes de las Sombras\Nque uso,
+Dialogue: 0,0:00:28.17,0:00:31.93,Gen_Main,Megumi,0000,0000,0000,,primero el hechicero\Nrecibe dos Perros Imperiales.
+Dialogue: 0,0:00:32.43,0:00:37.56,Gen_Main,Megumi,0000,0000,0000,,Para poder utilizar los demás {\i1}shikigami{\i0},\Nel hechicero tiene que purificarlos.
+Dialogue: 0,0:00:38.85,0:00:43.98,Gen_Main,Megumi,0000,0000,0000,,Así puede ir incrementando los {\i1}shikigami{\i0}\Na su disposición al purificarlos
+Dialogue: 0,0:00:44.77,0:00:49.45,Gen_Main,Megumi,0000,0000,0000,,hasta conseguir finalmente\Nlos diez tipos.
+Dialogue: 0,0:00:53.41,0:00:54.74,Gen_Main,Shigemo,0000,0000,0000,,¿Ya terminaste?
+Dialogue: 0,0:00:55.70,0:01:01.12,Gen_Main,Megumi,0000,0000,0000,,Como la chica de hace rato, a pesar\Nde ser tan jóvenes, qué poderosos son.
+Dialogue: 0,0:01:01.96,0:01:05.21,Gen_Main,Megumi,0000,0000,0000,,Estás deshecho, pero no me das\Noportunidad para acercarme.
+Dialogue: 0,0:01:05.67,0:01:09.76,Gen_Main,Megumi,0000,0000,0000,,De todos modos, con toda la sangre que\Nhas perdido, no necesito hacer nada.
+Dialogue: 0,0:01:13.68,0:01:18.85,Gen_Main,Megumi,0000,0000,0000,,Verás, la purificación\Nse puede hacer con varias personas.
+Dialogue: 0,0:01:19.18,0:01:24.86,Gen_Main,Megumi,0000,0000,0000,,Pero los rituales que se hacen\Ncon múltiples personas pierden validez.
+Dialogue: 0,0:01:25.23,0:01:30.99,Gen_Main,Megumi,0000,0000,0000,,Es decir, un ritual así no tiene ningún\Nsentido para el domador de {\i1}shikigami{\i0}.
+Dialogue: 0,0:01:31.99,0:01:36.99,Gen_Main,Megumi,0000,0000,0000,,Sin embargo, a pesar de carecer\Nde sentido, tiene sus usos.
+Dialogue: 0,0:01:40.66,0:01:43.37,Gen_Main,Shigemo,0000,0000,0000,,¿Quién está haciendo ese gran escándalo?
+Dialogue: 0,0:01:44.33,0:01:46.13,Gen_Main,Megumi,0000,0000,0000,,Como iba diciendo,
+Dialogue: 0,0:01:48.05,0:01:52.88,Gen_Main,Megumi,0000,0000,0000,,hay que derrotar a los {\i1}shikigami{\i0}\Nantes de poder usarlos,
+Dialogue: 0,0:01:53.55,0:01:58.26,Gen_Main,Megumi,0000,0000,0000,,pero se pueden invocar cuando sea\Npara hacer el ritual de purificación.
+Dialogue: 0,0:01:58.81,0:02:00.02,Gen_Main,Megumi,0000,0000,0000,,No puede ser.
+Dialogue: 0,0:02:02.60,0:02:08.40,Gen_Italics,Megumi,0000,0000,0000,,En toda la historia, ningún hechicero\Nha logrado purificar a este {\i0}shikigami{\i1}.
+Dialogue: 0,0:02:09.44,0:02:13.49,Gen_Main,Gojo,0000,0000,0000,,¿Sabes la razón por la que el clan Gojo\Ny el clan Zenin se llevan mal?
+Dialogue: 0,0:02:14.11,0:02:16.45,Gen_Main,Megumi,0000,0000,0000,,¿Siempre ha habido enemistad\Nentre ellos?
+Dialogue: 0,0:02:16.66,0:02:19.16,Gen_Main,Gojo,0000,0000,0000,,Sí, como perros y gatos.
+Dialogue: 0,0:02:19.33,0:02:22.25,Gen_Main,Gojo,0000,0000,0000,,En la era Edo, ¿o en la Keicho,\Na principios del 1600?
+Dialogue: 0,0:02:22.50,0:02:23.87,Gen_Main,Gojo,0000,0000,0000,,Ya no recuerdo bien,
+Dialogue: 0,0:02:24.08,0:02:28.92,Gen_Main,Gojo,0000,0000,0000,,pero los jefes de ambos clanes lucharon\Nen serio en una pugna de exhibición.
+Dialogue: 0,0:02:29.13,0:02:30.88,Gen_Main,Gojo,0000,0000,0000,,Y los dos terminaron muertos.
+Dialogue: 0,0:02:31.46,0:02:33.55,Gen_Main,Megumi,0000,0000,0000,,¿Los jefes de los clanes de entonces…?
+Dialogue: 0,0:02:34.09,0:02:38.72,Gen_Main,Gojo,0000,0000,0000,,El jefe Gojo poseía la Brujería\Ndel Infinito y los Seis Ojos, como yo.
+Dialogue: 0,0:02:39.35,0:02:43.06,Gen_Main,Gojo,0000,0000,0000,,Por cierto, la técnica ritual del jefe\NZenin era la misma que la tuya.
+Dialogue: 0,0:02:44.94,0:02:47.06,Gen_Main,Megumi,0000,0000,0000,,Las Diez Artes de las Sombras…
+Dialogue: 0,0:02:49.52,0:02:52.69,Gen_Main,Gojo,0000,0000,0000,,¿Entiendes lo que quiero decir?
+Dialogue: 0,0:02:53.28,0:02:57.91,Gen_Italics,Megumi,0000,0000,0000,,¿Cómo cree que me puedo convertir\Nen un hechicero capaz de vencerlo?
+Dialogue: 0,0:02:59.41,0:03:03.75,Gen_Italics,Megumi,0000,0000,0000,,Apuesto a que ese jefe del clan\Ntambién lo habrá usado de esta manera.
+Dialogue: 0,0:03:06.04,0:03:09.38,Gen_Italics,Megumi,0000,0000,0000,,Artefacto sagrado, oscila y vibra,\NOcho Empuñaduras…
+Dialogue: 0,0:03:13.09,0:03:14.59,Gen_Main,Uraume,0000,0000,0000,,¿Mi señor Sukuna?
+Dialogue: 0,0:03:14.80,0:03:16.34,Gen_Main,Sukuna,0000,0000,0000,,Ha surgido una emergencia.
+Dialogue: 0,0:03:16.55,0:03:18.01,Gen_Main,Uraume,0000,0000,0000,,Comprendo.
+Dialogue: 0,0:03:18.76,0:03:23.14,Gen_Main,Sukuna,0000,0000,0000,,No falta mucho para obtener mi libertad.
+Dialogue: 0,0:03:23.89,0:03:26.39,Gen_Main,Sukuna,0000,0000,0000,,No descuides los preparativos.
+Dialogue: 0,0:03:26.60,0:03:29.48,Gen_Main,Sukuna/Uraume,0000,0000,0000,,-Hasta entonces, Uraume.\N-Como usted ordene.
+Dialogue: 0,0:03:30.44,0:03:32.44,Gen_Main,Uraume,0000,0000,0000,,Lo estaré esperando.
+Dialogue: 0,0:03:50.08,0:03:51.63,Gen_Italics,Shigemo,0000,0000,0000,,¡Me la hizo!
+Dialogue: 0,0:03:52.80,0:03:58.18,Gen_Italics,Shigemo,0000,0000,0000,,Me arrastró a la fuerza con él al ritual\Nde purificación de este {\i0}shikigami{\i1}.
+Dialogue: 0,0:03:58.76,0:04:00.76,Gen_Main,Megumi,0000,0000,0000,,Espada de Ocho Empuñaduras,
+Dialogue: 0,0:04:01.51,0:04:05.22,Gen_Main,Megumi,0000,0000,0000,,General Divino del Precepto Divergente,\NMahoraga.
+Dialogue: 0,0:04:17.49,0:04:19.95,Gen_Main,Megumi/Yuji,0000,0000,0000,,-Nos vemos luego.\N-¡Claro!
+Dialogue: 0,0:04:20.95,0:04:23.03,Gen_Italics,Megumi,0000,0000,0000,,Perdón, Itadori.
+Dialogue: 0,0:04:23.78,0:04:25.95,Gen_Main,Megumi,0000,0000,0000,,Eh, cabrón de mierda.
+Dialogue: 0,0:04:26.54,0:04:30.21,Gen_Main,Megumi,0000,0000,0000,,Me voy primero. Haz tu mejor esfuerzo.
+Dialogue: 0,0:04:42.26,0:04:43.85,Gen_Main,Shigemo,0000,0000,0000,,Un momento…
+Dialogue: 0,0:04:44.05,0:04:46.22,Gen_Main,Shigemo,0000,0000,0000,,¡Espera! ¡No!
+Dialogue: 0,0:04:46.43,0:04:48.73,Gen_Main,Shigemo,0000,0000,0000,,¡No me jodas!
+Dialogue: 0,0:04:48.98,0:04:50.60,Gen_Main,Shigemo,0000,0000,0000,,¡Maldita sea!
+Dialogue: 0,0:04:50.81,0:04:53.31,Gen_Main,Shigemo,0000,0000,0000,,¡Despierta, maldito hechicero de mierda!
+Dialogue: 0,0:04:55.02,0:04:58.07,Gen_Italics,Narradora,0000,0000,0000,,La técnica ritual\Ndel hechicero maléfico Haruta Shigemo
+Dialogue: 0,0:04:58.28,0:05:03.57,Gen_Italics,Narradora,0000,0000,0000,,consiste en borrar de su memoria los\Nmilagros que experimenta y acumularlos.
+Dialogue: 0,0:05:03.99,0:05:07.24,Gen_Italics,Narradora,0000,0000,0000,,La cantidad se muestra\Nen los patrones debajo de los ojos,
+Dialogue: 0,0:05:07.45,0:05:11.00,Gen_Italics,Narradora,0000,0000,0000,,Los milagros acumulados se usan\Ncada vez que su vida está en peligro.
+Dialogue: 0,0:05:16.13,0:05:20.80,Gen_Italics,Narradora,0000,0000,0000,,Pero el mismo Shigemo\Nno es consciente de ello.
+Dialogue: 0,0:05:28.77,0:05:30.89,Gen_Italics,Sukuna,0000,0000,0000,,Está en animación suspendida, ¿eh?
+Dialogue: 0,0:05:32.02,0:05:33.52,Gen_Italics,Sukuna,0000,0000,0000,,Entiendo.
+Dialogue: 0,0:05:33.73,0:05:37.78,Gen_Italics,Sukuna,0000,0000,0000,,Entonces, hice lo correcto\Nal haber rescatado a esta basura.
+Dialogue: 0,0:05:38.19,0:05:42.65,Gen_Italics,Sukuna,0000,0000,0000,,Lo metió en el ritual de purificación\Npara que ambos acabaran muertos.
+Dialogue: 0,0:05:43.16,0:05:45.78,Gen_Italics,Sukuna,0000,0000,0000,,Si esta escoria muere,\Nel ritual llegará a su fin
+Dialogue: 0,0:05:45.99,0:05:48.99,Gen_Italics,Sukuna,0000,0000,0000,,y se condenará a muerte\Na Megumi Fushiguro.
+Dialogue: 0,0:05:50.33,0:05:51.71,Gen_Main,Sukuna,0000,0000,0000,,No vayas a morir.
+Dialogue: 0,0:05:52.08,0:05:55.54,Gen_Main,Sukuna,0000,0000,0000,,Hay una cosa\Nque tienes que hacer por mí.
+Dialogue: 0,0:05:56.71,0:05:58.76,Gen_Main,Shigemo,0000,0000,0000,,Ah. Este…
+Dialogue: 0,0:05:58.97,0:06:00.09,Gen_Main,Sukuna,0000,0000,0000,,Calla.
+Dialogue: 0,0:06:02.59,0:06:07.68,Gen_Italics,Sukuna,0000,0000,0000,,Para que Megumi Fushiguro sobreviva,\Ncomo elemento ajeno, tengo que derrotar
+Dialogue: 0,0:06:08.89,0:06:12.18,Gen_Italics,Sukuna,0000,0000,0000,,al {\i0}shikigami{\i1} para invalidar\Nel ritual de purificación.
+Dialogue: 0,0:06:16.27,0:06:19.86,Gen_Main,Sukuna,0000,0000,0000,,Probemos un poco de lo que estás hecho.
+Dialogue: 0,0:06:25.16,0:06:27.95,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:06:53.01,0:06:54.26,Gen_Main,Sukuna,0000,0000,0000,,Dividir.
+Dialogue: 0,0:07:10.24,0:07:12.16,Gen_Italics,Sukuna,0000,0000,0000,,Esa es la Espada Exterminademonios,
+Dialogue: 0,0:07:12.32,0:07:15.28,Gen_Italics,Sukuna,0000,0000,0000,,especializada\Nen destruir espíritus malditos.
+Dialogue: 0,0:07:16.29,0:07:19.83,Gen_Italics,Sukuna,0000,0000,0000,,Tiene imbuida la misma energía positiva\Nde los rituales inversos.
+Dialogue: 0,0:07:22.12,0:07:26.96,Gen_Italics,Sukuna,0000,0000,0000,,Si yo fuera un espíritu maldito, me\Nhabría vaporizado con el primer ataque.
+Dialogue: 0,0:07:29.34,0:07:30.76,Gen_Main,Sukuna,0000,0000,0000,,Esto sabe horrible.
+Dialogue: 0,0:07:41.31,0:07:42.69,Gen_Main,Sukuna,0000,0000,0000,,¿Quieres pelear?
+Dialogue: 0,0:09:07.52,0:09:09.36,Gen_Main,Sukuna,0000,0000,0000,,Hiciste algo, ¿verdad?
+Dialogue: 0,0:09:48.65,0:09:50.31,Gen_Main,Hombre A,0000,0000,0000,,¡¿Qué carajos pasa?!
+Dialogue: 0,0:10:00.53,0:10:02.58,Gen_Italics,Sukuna,0000,0000,0000,,Eso se sintió un poco extraño.
+Dialogue: 0,0:10:25.89,0:10:27.18,Gen_Main,Sukuna,0000,0000,0000,,¿Otra vez?
+Dialogue: 0,0:11:22.32,0:11:23.91,Gen_Italics,Sukuna,0000,0000,0000,,¿Poder maldito?
+Dialogue: 0,0:11:26.08,0:11:28.08,Gen_Main,Sukuna,0000,0000,0000,,¡Conque esas tenemos!
+Dialogue: 0,0:12:01.95,0:12:03.86,Gen_Main,Sukuna,0000,0000,0000,,Eres capaz de visualizar
+Dialogue: 0,0:12:04.32,0:12:06.45,Gen_Main,Sukuna,0000,0000,0000,,mi brujería, ¿no es así?
+Dialogue: 0,0:14:16.71,0:14:21.05,Gen_Main,Sukuna,0000,0000,0000,,Como lo pensaba.\NEres un ser parecido a Yamata-no-Orochi.
+Dialogue: 0,0:14:21.76,0:14:23.93,Gen_Italics,Sukuna,0000,0000,0000,,Puede vislumbrar mis ataques cortantes
+Dialogue: 0,0:14:24.13,0:14:26.72,Gen_Italics,Sukuna,0000,0000,0000,,y lanzar golpes\Ncargados con poder maldito.
+Dialogue: 0,0:14:26.93,0:14:30.06,Gen_Italics,Sukuna,0000,0000,0000,,Ambos ocurrieron luego\Nde que la rueda mágica diera vueltas.
+Dialogue: 0,0:14:30.85,0:14:36.23,Gen_Italics,Sukuna,0000,0000,0000,,El encantamiento de invocación y esa\Nrueda representan un ciclo de armonía.
+Dialogue: 0,0:14:36.86,0:14:40.57,Gen_Italics,Sukuna,0000,0000,0000,,Mi conjetura es que la habilidad\Nde este {\i0}shikigami{\i1}
+Dialogue: 0,0:14:40.78,0:14:43.03,Gen_Italics,Sukuna,0000,0000,0000,,es adaptarse\Na cualquier tipo de fenómeno.
+Dialogue: 0,0:14:43.30,0:14:45.78,Gen_Italics,Sukuna,0000,0000,0000,,Y anular cualquier ataque del oponente.
+Dialogue: 0,0:14:48.16,0:14:52.75,Gen_Italics,Sukuna,0000,0000,0000,,Si yo fuera el mismo de aquella vez,\Nquizá ya me habría hecho pedazos.
+Dialogue: 0,0:14:58.54,0:15:01.71,Gen_Main,Sukuna,0000,0000,0000,,¡Me mostraste algo muy atractivo,\NMegumi Fushiguro!
+Dialogue: 0,0:15:04.34,0:15:06.68,Gen_Main,Sukuna,0000,0000,0000,,Expansión de Dominio,
+Dialogue: 0,0:15:08.14,0:15:10.10,Gen_Main,Sukuna,0000,0000,0000,,Sagrario del Pandemónium.
+Dialogue: 0,0:15:16.85,0:15:20.82,Gen_Italics,Narradora,0000,0000,0000,,El dominio de Sukuna,\Nel Sagrario del Pandemónium,
+Dialogue: 0,0:15:21.73,0:15:26.74,Gen_Italics,Narradora,0000,0000,0000,,a diferencia de otros, no separa\Nel espacio en dos con una barrera.
+Dialogue: 0,0:15:27.24,0:15:30.74,Gen_Italics,Narradora,0000,0000,0000,,Manifestar el dominio interno\Nsin cerrar la barrera
+Dialogue: 0,0:15:31.09,0:15:35.50,Gen_Italics,Narradora,0000,0000,0000,,equivale a pintar en el aire\Nsin usar un lienzo.
+Dialogue: 0,0:15:36.29,0:15:38.54,Gen_Italics,Narradora,0000,0000,0000,,Es una obra maestra divina.
+Dialogue: 0,0:15:39.98,0:15:43.95,Gen_Italics,Narradora,0000,0000,0000,,Proveerle una ruta de escape al enemigo\Nhace que, por medio de una atadura,
+Dialogue: 0,0:15:44.18,0:15:50.27,Gen_Italics,Narradora,0000,0000,0000,,el rango de efecto de blanco certero\Naumente a un radio máximo de 200 metros.
+Dialogue: 0,0:15:52.06,0:15:54.81,Gen_Italics,Narradora,0000,0000,0000,,Tomando en cuenta\Nla ubicación de Megumi Fushiguro,
+Dialogue: 0,0:15:55.02,0:16:00.44,Gen_Italics,Narradora,0000,0000,0000,,limitó el rango del efecto a un radio\Nde 140 metros y solo en la superficie.
+Dialogue: 0,0:16:07.90,0:16:10.49,Gen_Main,Keiko/Mujer A,0000,0000,0000,,-¿Funciona?\N-No, para nada. Sigue sin señal.
+Dialogue: 0,0:16:10.70,0:16:11.87,Gen_Main,Keiko,0000,0000,0000,,El mío también.
+Dialogue: 0,0:16:12.08,0:16:15.37,Gen_Main,Mujer A,0000,0000,0000,,Pero estoy segura de que ya no hay\Nnada de qué preocuparse.
+Dialogue: 0,0:16:16.62,0:16:19.04,Gen_Main,Mujer A,0000,0000,0000,,¿Recuerdas al chico del megáfono?
+Dialogue: 0,0:16:21.92,0:16:24.59,Gen_Italics,Narradora,0000,0000,0000,,Sukuna cuenta\Ncon dos clases de ataques cortantes.
+Dialogue: 0,0:16:24.80,0:16:29.72,Gen_Italics,Narradora,0000,0000,0000,,Los seres con poder maldito en el rango\Nde blanco certero reciben Destazar.
+Dialogue: 0,0:16:29.93,0:16:32.55,Gen_Italics,Narradora,0000,0000,0000,,Los carentes de poder maldito, Dividir.
+Dialogue: 0,0:16:33.18,0:16:37.48,Gen_Italics,Narradora,0000,0000,0000,,Reciben ambos sin descanso hasta que\Nel Sagrario del Pandemónium desaparezca.
+Dialogue: 0,0:16:38.89,0:16:41.86,Gen_Italics,Narradora,0000,0000,0000,,La única manera de derrotar a Mahoraga
+Dialogue: 0,0:16:42.27,0:16:46.11,Gen_Italics,Narradora,0000,0000,0000,,era abrumarlo por completo\Nantes de que se adaptara a la técnica.
+Dialogue: 0,0:16:47.11,0:16:49.57,Gen_Italics,Narradora,0000,0000,0000,,Destazar satisfacía esa condición,
+Dialogue: 0,0:16:49.78,0:16:55.08,Gen_Italics,Narradora,0000,0000,0000,,pero era posible que se hubiera\Nadaptado a todos los ataques cortantes
+Dialogue: 0,0:16:55.66,0:16:58.29,Gen_Italics,Narradora,0000,0000,0000,,en general y no solo a Dividir.
+Dialogue: 0,0:17:16.97,0:17:20.85,Gen_Italics,Narradora,0000,0000,0000,,Mahoraga estaba\Na punto de terminar de regenerarse.
+Dialogue: 0,0:17:49.38,0:17:50.59,Gen_Main,Sukuna,0000,0000,0000,,Apertura.
+Dialogue: 0,0:18:42.81,0:18:44.64,Gen_Main,Sukuna,0000,0000,0000,,¿Qué me ves?
+Dialogue: 0,0:18:45.35,0:18:46.65,Gen_Main,Sukuna,0000,0000,0000,,Largo de mi vista.
+Dialogue: 0,0:18:52.90,0:18:55.70,Gen_Main,Shigemo,0000,0000,0000,,Con su permiso.
+Dialogue: 0,0:18:56.11,0:18:58.37,Gen_Italics,Shigemo,0000,0000,0000,,No cabe duda de que tengo suerte.
+Dialogue: 0,0:18:58.91,0:19:01.87,Gen_Main,Shigemo,0000,0000,0000,,¡Viví para ver un día más!
+Dialogue: 0,0:19:04.37,0:19:10.59,Gen_Italics,Narradora,0000,0000,0000,,Agotó todo el stock de milagros que\Ntenía en la pelea contra Kento Nanami.
+Dialogue: 0,0:19:14.38,0:19:16.22,Gen_Main,Sukuna,0000,0000,0000,,Parece que ya es la hora.
+Dialogue: 0,0:19:19.55,0:19:20.93,Gen_Main,Yaga,0000,0000,0000,,¡Fushiguro!
+Dialogue: 0,0:19:22.39,0:19:24.89,Gen_Italics,Yaga,0000,0000,0000,,Por un momento creí ver a Itadori.
+Dialogue: 0,0:19:26.02,0:19:28.56,Gen_Italics_top,Yaga,0000,0000,0000,,¿O era Sukuna?
+Dialogue: 0,0:19:27.10,0:19:31.48,Cart_A_Tim,Megumi,0000,0000,0000,,{\an1\fs24\bord0\shad0\3c&H919196&\pos(151.63,308.6)}Dogenzaka, enfrente del Shibuya 109
+Dialogue: 0,0:19:35.45,0:19:39.32,Gen_Main,Sukuna,0000,0000,0000,,Muchacho, aprieta bien los dientes.
+Dialogue: 0,0:20:24.37,0:20:26.08,Gen_Main,Yuji,0000,0000,0000,,Debería morirme.
+Dialogue: 0,0:20:26.96,0:20:28.58,Gen_Main,Yuji,0000,0000,0000,,Yo soy el único…
+Dialogue: 0,0:20:29.50,0:20:31.25,Gen_Main,Yuji,0000,0000,0000,,¡Yo soy el único
+Dialogue: 0,0:20:32.34,0:20:33.54,Gen_Main,Yuji,0000,0000,0000,,que debería morirse!
+Dialogue: 0,0:20:34.75,0:20:36.34,Gen_Main,Yuji,0000,0000,0000,,¡Ahora mismo!
+Dialogue: 0,0:21:36.15,0:21:37.57,Gen_Main,Yuji,0000,0000,0000,,Debo irme.
+Dialogue: 0,0:21:39.36,0:21:40.90,Gen_Main,Yuji,0000,0000,0000,,Tengo que pelear.
+Dialogue: 0,0:21:50.04,0:21:51.87,Gen_Italics,Yuji,0000,0000,0000,,Si dejo las cosas como están,
+Dialogue: 0,0:21:53.25,0:21:57.75,Cart_Serieslogo,,0000,0000,0000,,{\fs28\3c&H9EF2FA&\pos(320,38.55)}JUJUTSU KAISEN{\fscy100}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\bord0\c&HFFFFFF&}Shibuya Incident
+Dialogue: 0,0:21:54.08,0:21:55.92,Gen_Main,Yuji,0000,0000,0000,,terminaré siendo solo un asesino.
+Dialogue: 0,0:23:49.12,0:23:51.03,Cart_A_Tre,,0000,0000,0000,,{\b0\fs20\bord1.5\be1\3c&H161622&}Traducción: Abraham Gayuvas y Antonio Valdez\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:52.77,0:23:54.58,Gen_Main,Panda,0000,0000,0000,,¡La cosa se puso terrible!
+Dialogue: 0,0:23:54.83,0:23:56.74,Gen_Main,Panda,0000,0000,0000,,Me calmaré contando números primos.
+Dialogue: 0,0:23:56.88,0:24:00.20,Gen_Main,Panda,0000,0000,0000,,Uno, dos, tres… Nueve.
+Dialogue: 0,0:24:00.43,0:24:01.46,Gen_Main,Kusakabe,0000,0000,0000,,Cinco y siete, ¿no?
+Dialogue: 0,0:24:01.64,0:24:04.65,Gen_Main,Panda,0000,0000,0000,,Si se pierden el próximo\Nepisodio serán osos polares.
+Dialogue: 0,0:24:01.79,0:24:07.01,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord2.5\blur3}Próximo episodio\N\N\N\N\N\N\N\N\N\N\N{\q2\fs30}Lo correcto y lo incorrecto
+Dialogue: 0,0:24:04.73,0:24:06.33,Gen_Main,Kusakabe,0000,0000,0000,,Una bestia, al fin y al cabo.
+

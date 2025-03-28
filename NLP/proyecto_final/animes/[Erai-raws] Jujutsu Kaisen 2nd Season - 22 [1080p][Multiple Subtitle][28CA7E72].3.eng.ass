@@ -1,0 +1,319 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.98,0:00:10.86,Sign_Basic,Screen,0000,0000,0000,,{\an3\fnArial\bord1.5\3a&HA0&\blur1\shad0\b1\fs22\pos(609.846,312)}23:28            {\fscx85}In Front of Shibuya Stream
+Dialogue: 0,0:00:31.87,0:00:33.88,Main,Panda,0000,0000,0000,,Kusakabe?
+Dialogue: 0,0:00:35.60,0:00:39.63,Main,Panda,0000,0000,0000,,Hey! Kusakabe!
+Dialogue: 0,0:00:47.30,0:00:49.25,Main,Panda,0000,0000,0000,,Found you!
+Dialogue: 0,0:00:51.94,0:00:53.72,Main,Kusakabe,0000,0000,0000,,Panda.
+Dialogue: 0,0:00:53.72,0:00:56.74,Main,Kusakabe,0000,0000,0000,,This is awfully different from what I heard.
+Dialogue: 0,0:00:56.74,0:00:57.73,Main,Panda,0000,0000,0000,,Huh?
+Dialogue: 0,0:00:58.11,0:00:59.96,Main,Kusakabe,0000,0000,0000,,About Itadori.
+Dialogue: 0,0:01:00.32,0:01:02.25,Main,Panda,0000,0000,0000,,Nah, that was Sukuna.
+Dialogue: 0,0:01:02.25,0:01:04.96,Main,Kusakabe,0000,0000,0000,,Itadori holds control over that body.
+Dialogue: 0,0:01:06.08,0:01:08.05,Main,Kusakabe,0000,0000,0000,,That's the current story, right?
+Dialogue: 0,0:01:08.05,0:01:09.32,Main,Panda,0000,0000,0000,,Urk.
+Dialogue: 0,0:01:12.36,0:01:14.18,Main,Kusakabe,0000,0000,0000,,I'll tell you this now.
+Dialogue: 0,0:01:15.20,0:01:20.47,Main,Kusakabe,0000,0000,0000,,No matter what judgment gets doled out \Nto Itadori later now that Gojo is gone,
+Dialogue: 0,0:01:20.81,0:01:23.20,Main,Kusakabe,0000,0000,0000,,I won't be taking your side.
+Dialogue: 0,0:01:28.40,0:01:31.74,Main,Kusakabe,0000,0000,0000,,I'm in favor of Yuji Itadori's execution.
+Dialogue: 0,0:01:33.11,0:01:37.11,Sign_Basic,Screen,0000,0000,0000,,{\an1\fnArial\bord1.5\3a&HA0&\blur1\shad0\b1\fs22\pos(33.846,276.923)}22:36       (Local Time)\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMalaysia, Kuala Lumpur
+Dialogue: 0,0:01:41.48,0:01:43.31,Main,Mei,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:01:43.97,0:01:46.37,Main,Mei,0000,0000,0000,,You must be worn out, Ui Ui.
+Dialogue: 0,0:01:46.90,0:01:50.76,Main,Mei,0000,0000,0000,,Shall we sleep in the same bed tonight?
+Dialogue: 0,0:01:50.76,0:01:53.88,Main,Ui,0000,0000,0000,,What?! That's so improper!
+Dialogue: 0,0:01:55.47,0:01:57.87,Main,Mei,0000,0000,0000,,Do you hate me when I'm improper?
+Dialogue: 0,0:01:57.87,0:01:58.88,Main,Ui,0000,0000,0000,,No way!
+Dialogue: 0,0:01:59.44,0:02:02.28,Main,Mei,0000,0000,0000,,Sorry, I got a call back.
+Dialogue: 0,0:02:02.28,0:02:04.64,Main,Ui,0000,0000,0000,,Oh, Nee-sama...
+Dialogue: 0,0:02:06.04,0:02:08.11,Main,Mei,0000,0000,0000,,Sorry for calling so late.
+Dialogue: 0,0:02:09.16,0:02:11.58,Main,Mei,0000,0000,0000,,Oh, right, it's morning where you are.
+Dialogue: 0,0:02:12.48,0:02:13.66,Main,Mei,0000,0000,0000,,Me?
+Dialogue: 0,0:02:14.05,0:02:15.36,Main,Mei,0000,0000,0000,,In KL.
+Dialogue: 0,0:02:17.18,0:02:19.90,Main,Mei,0000,0000,0000,,Yes, with Ui Ui's Technique.
+Dialogue: 0,0:02:20.41,0:02:22.88,Main,Mei,0000,0000,0000,,We nearly got ourselves killed, after all.
+Dialogue: 0,0:02:23.86,0:02:28.85,Main,Mei,0000,0000,0000,,You should sell off any stocks in Japan \Nand all your real estate in Tokyo.
+Dialogue: 0,0:02:29.37,0:02:31.71,Main,Mei,0000,0000,0000,,I've already exchanged all of my yen.
+Dialogue: 0,0:02:32.62,0:02:35.49,Main,Mei,0000,0000,0000,,Yes, do it right away.
+Dialogue: 0,0:02:36.66,0:02:41.12,Main,Mei,0000,0000,0000,,I doubt any of the major developed nations \Nwill be spared from these negative events.
+Dialogue: 0,0:02:41.12,0:02:46.26,Main,Mei,0000,0000,0000,,Japan is still the world's \N#3 economy, despite all else.
+Dialogue: 0,0:02:47.38,0:02:49.92,Main,Mei,0000,0000,0000,,Well, I'll leave the arrangements up to you.
+Dialogue: 0,0:02:50.90,0:02:53.56,Main,Mei,0000,0000,0000,,It's fine. You don't need to thank me.
+Dialogue: 0,0:02:53.56,0:02:56.40,Main,Mei,0000,0000,0000,,Just keep me on the inside, like usual.
+Dialogue: 0,0:03:00.41,0:03:02.88,Main,Mei,0000,0000,0000,,I look forward to working with you again.
+Dialogue: 0,0:03:04.53,0:03:07.35,Main,Kechizu,0000,0000,0000,,Bread, bread, bread!
+Dialogue: 0,0:03:07.35,0:03:08.91,Main,Yuji,0000,0000,0000,,What's wrong, Nii-chan?
+Dialogue: 0,0:03:09.31,0:03:10.79,Main,Yuji,0000,0000,0000,,Not feeling well?
+Dialogue: 0,0:03:21.68,0:03:24.70,Sign_Basic,Screen,0000,0000,0000,,{\fad(1,500)\an1\fnArial\bord1.5\3a&HA0&\blur1\shad0\b1\fs22\pos(34,270)}23:28           Shibuya Station\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hB3F, Denentoshin Line Platform
+Dialogue: 0,0:03:24.10,0:03:25.70,Main,Choso,0000,0000,0000,,{\an8}I have to go.
+Dialogue: 0,0:03:28.09,0:03:30.33,Main,Choso,0000,0000,0000,,Yuji Itadori...
+Dialogue: 0,0:03:30.33,0:03:32.71,Main,Choso,0000,0000,0000,,What are you?
+Dialogue: 0,0:03:35.69,0:03:37.60,Main,Choso,0000,0000,0000,,I have to know.
+Dialogue: 0,0:03:39.36,0:03:44.01,Main,Choso,0000,0000,0000,,What am I?
+Dialogue: 0,0:03:46.36,0:03:48.37,Main,Geto,0000,0000,0000,,Shall I save you,
+Dialogue: 0,0:03:48.37,0:03:51.37,Main,Screen,0000,0000,0000,,{\an1\fnArial\bord1.5\3a&HA0&\blur1\shad0\b1\fs22\pos(32,312)}23:36            {\fscx75}Shibuya Police Station, Udagawa Police Box Ruins
+Dialogue: 0,0:03:48.63,0:03:49.72,Main,Geto,0000,0000,0000,,{\an8}Mahito?
+Dialogue: 0,0:03:59.57,0:04:01.81,Italics,Yuji,0000,0000,0000,,Did he just say Geto?!
+Dialogue: 0,0:04:02.47,0:04:03.70,Main,Yuji,0000,0000,0000,,Give him back!
+Dialogue: 0,0:04:04.32,0:04:07.68,Main,Yuji,0000,0000,0000,,Give us back Gojo-sensei!
+Dialogue: 0,0:04:08.27,0:04:10.95,Main,Geto,0000,0000,0000,,People believed catfish were \Nconnected to earthquakes
+Dialogue: 0,0:04:10.95,0:04:13.91,Main,Geto,0000,0000,0000,,and told stories of such a monster \Nup until the mid-Edo era.
+Dialogue: 0,0:04:14.47,0:04:17.21,Main,Geto,0000,0000,0000,,They believed that when this \N"Onamazu" moved underground,
+Dialogue: 0,0:04:17.21,0:04:20.04,Main,Geto,0000,0000,0000,,it caused earthquakes to occur.
+Dialogue: 0,0:04:31.02,0:04:32.87,Main,Yuji,0000,0000,0000,,What just happened?!
+Dialogue: 0,0:04:34.16,0:04:36.20,Main,Geto,0000,0000,0000,,You thought you fell in, didn't you?
+Dialogue: 0,0:04:36.72,0:04:41.64,Main,Geto,0000,0000,0000,,Though, from the outside, it looked \Nlike you fell back all on your own.
+Dialogue: 0,0:04:43.56,0:04:46.96,Main,Geto,0000,0000,0000,,The greatest strength of Cursed Spirit \NManipulation is its quantity of options.
+Dialogue: 0,0:04:47.47,0:04:50.80,Main,Geto,0000,0000,0000,,I can utilize multiple cursed \Nspirits semi-first-grade or higher,
+Dialogue: 0,0:04:51.03,0:04:54.77,Main,Geto,0000,0000,0000,,and even if you analyze and \Novercome their techniques,
+Dialogue: 0,0:04:54.77,0:04:57.28,Main,Geto,0000,0000,0000,,I can just send out new \Ncursed spirits again.
+Dialogue: 0,0:04:58.89,0:05:03.15,Main,Geto,0000,0000,0000,,Of course, I can also simply pile on \Nattacks without giving you time for that.
+Dialogue: 0,0:05:11.95,0:05:13.56,Main,Yuji,0000,0000,0000,,This won't...
+Dialogue: 0,0:05:21.23,0:05:23.12,Main,Geto,0000,0000,0000,,If his forces hadn't been divided
+Dialogue: 0,0:05:23.12,0:05:27.77,Main,Geto,0000,0000,0000,,across Kyoto and Shinjuku during last \Nyear's Night Parade of a Hundred Demons,
+Dialogue: 0,0:05:27.77,0:05:30.71,Main,Geto,0000,0000,0000,,he would have won instead of Okkotsu.
+Dialogue: 0,0:05:31.69,0:05:35.01,Main,Geto,0000,0000,0000,,Though, I suppose that had nothing \Nto do with you, did it?
+Dialogue: 0,0:05:37.28,0:05:38.73,Main,Yuji,0000,0000,0000,,Give him back!
+Dialogue: 0,0:05:39.14,0:05:42.06,Main,Geto,0000,0000,0000,,I suppose I should say that \Neven I am impressed.
+Dialogue: 0,0:05:42.06,0:05:45.57,Main,Geto,0000,0000,0000,,Sukuna's vessel... is tough.
+Dialogue: 0,0:05:49.44,0:05:51.04,Main,Mahito,0000,0000,0000,,I knew that.
+Dialogue: 0,0:05:51.56,0:05:56.88,Main,Mahito,0000,0000,0000,,After all, I was born from you humans.
+Dialogue: 0,0:06:35.34,0:06:36.95,Main,Geto,0000,0000,0000,,Shall we continue...
+Dialogue: 0,0:06:39.39,0:06:41.88,Main,Geto,0000,0000,0000,,our discussion of the world to come?
+Dialogue: 0,0:06:42.96,0:06:45.96,Ep_Title,Screen,0000,0000,0000,,Episode 46\N{\fs30\fscy150}Metamorphosis, Part 2
+Dialogue: 0,0:06:56.52,0:07:01.04,Show_Title,Screen,0000,0000,0000,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Shibuya Incident
+Dialogue: 0,0:08:18.01,0:08:21.05,Main,Geto,0000,0000,0000,,Do you know about what \Nthey call a "Supreme Art"?
+Dialogue: 0,0:08:24.78,0:08:27.12,Main,Geto,0000,0000,0000,,It's very much akin to \Nthe ultimate expression
+Dialogue: 0,0:08:27.12,0:08:29.32,Main,Geto,0000,0000,0000,,of a cursed technique, \Naside from one's domain.
+Dialogue: 0,0:08:32.84,0:08:36.28,Main,Geto,0000,0000,0000,,The Supreme Art of Cursed \NSpirit Manipulation is Uzumaki.
+Dialogue: 0,0:08:36.75,0:08:39.19,Main,Geto,0000,0000,0000,,This combines the absorbed \Ncursed spirits into one,
+Dialogue: 0,0:08:39.19,0:08:42.53,Main,Geto,0000,0000,0000,,creating super-high-density cursed energy \Nto attack your opponent with.
+Dialogue: 0,0:08:51.32,0:08:53.93,Main,Yuji,0000,0000,0000,,What are you laughing about?
+Dialogue: 0,0:08:54.84,0:08:56.88,Main,Geto,0000,0000,0000,,Oh, sorry.
+Dialogue: 0,0:08:56.88,0:09:00.62,Main,Geto,0000,0000,0000,,I just realized I had started acting like him.
+Dialogue: 0,0:09:01.31,0:09:03.31,Main,Geto,0000,0000,0000,,We were talking about Uzumaki, yes?
+Dialogue: 0,0:09:04.42,0:09:06.46,Main,Geto,0000,0000,0000,,Uzumaki is powerful,
+Dialogue: 0,0:09:06.46,0:09:08.44,Main,Geto,0000,0000,0000,,but it also means throwing \Naway the quantity
+Dialogue: 0,0:09:08.44,0:09:11.44,Main,Geto,0000,0000,0000,,of options that serves as Cursed Spirit \NManipulation's main strength.
+Dialogue: 0,0:09:11.44,0:09:14.64,Main,Geto,0000,0000,0000,,So it wasn't very tempting to me at first.
+Dialogue: 0,0:09:15.24,0:09:19.23,Main,Geto,0000,0000,0000,,After all, I thought it was just a way \Nto recycle low-level cursed spirits.
+Dialogue: 0,0:09:24.66,0:09:26.35,Main,Geto,0000,0000,0000,,But I was wrong.
+Dialogue: 0,0:09:26.60,0:09:28.04,Main,Geto,0000,0000,0000,,It displays its true value
+Dialogue: 0,0:09:28.04,0:09:32.51,Main,Geto,0000,0000,0000,,when a cursed spirit above \Nsemi-first-grade is used in Uzumaki—
+Dialogue: 0,0:09:32.96,0:09:36.57,Main,Geto,0000,0000,0000,,and their technique is extracted.
+Dialogue: 0,0:09:47.96,0:09:49.64,Main,Geto,0000,0000,0000,,How foolish.
+Dialogue: 0,0:09:50.44,0:09:55.42,Main,Geto,0000,0000,0000,,Did you think I wouldn't notice \Nthe presence you felt?
+Dialogue: 0,0:10:00.28,0:10:01.36,Main,Kamo,0000,0000,0000,,Our signal!
+Dialogue: 0,0:10:01.36,0:10:02.49,Main,Kamo,0000,0000,0000,,The target is...
+Dialogue: 0,0:10:02.84,0:10:04.60,Main,Kamo,0000,0000,0000,,right below Nishimiya!
+Dialogue: 0,0:10:23.99,0:10:24.87,Main,Mai,0000,0000,0000,,Tsk.
+Dialogue: 0,0:10:26.18,0:10:28.22,Main,Geto,0000,0000,0000,,A sniper rifle, huh?
+Dialogue: 0,0:10:28.22,0:10:29.45,Main,Geto,0000,0000,0000,,Nice.
+Dialogue: 0,0:10:30.00,0:10:32.61,Main,Geto,0000,0000,0000,,I also agree that conventional weapons
+Dialogue: 0,0:10:32.61,0:10:36.54,Main,Geto,0000,0000,0000,,should be proactively used \Nwhen fighting a jujutsu sorcerer.
+Dialogue: 0,0:10:37.23,0:10:40.41,Italics,Miwa,0000,0000,0000,,Back when I was captain \Nof the youth basketball team,
+Dialogue: 0,0:10:40.41,0:10:44.16,Italics,Miwa,0000,0000,0000,,I remember my mother would \Noften dye my hair black.
+Dialogue: 0,0:10:44.92,0:10:47.27,Italics,Miwa,0000,0000,0000,,In middle school, I met my mentor,
+Dialogue: 0,0:10:47.27,0:10:48.89,Italics,Miwa,0000,0000,0000,,and I chose to become a jujutsu sorcerer
+Dialogue: 0,0:10:48.89,0:10:51.67,Italics,Miwa,0000,0000,0000,,before ever holding a wooden \Nor a bamboo sword in my hands,
+Dialogue: 0,0:10:51.67,0:10:53.92,Italics,Miwa,0000,0000,0000,,let alone a real sword.
+Dialogue: 0,0:10:55.04,0:10:57.41,Italics,Miwa,0000,0000,0000,,I swung my sword relentlessly.
+Dialogue: 0,0:10:57.68,0:11:00.60,Italics,Miwa,0000,0000,0000,,Because I didn't want to be \Na burden on my mother.
+Dialogue: 0,0:11:02.32,0:11:04.64,Italics,Miwa,0000,0000,0000,,I swung my sword relentlessly.
+Dialogue: 0,0:11:08.14,0:11:10.36,Italics,Miwa,0000,0000,0000,,Because I didn't want to die.
+Dialogue: 0,0:11:11.07,0:11:12.94,Main,Miwa,0000,0000,0000,,New Shadow Style...
+Dialogue: 0,0:11:13.16,0:11:14.49,Italics,Miwa,0000,0000,0000,,Put it all in!
+Dialogue: 0,0:11:15.31,0:11:17.32,Italics,Miwa,0000,0000,0000,,Everything I've experienced,
+Dialogue: 0,0:11:17.32,0:11:19.36,Italics,Miwa,0000,0000,0000,,as well as my future to come!
+Dialogue: 0,0:11:19.72,0:11:23.75,Italics,Miwa,0000,0000,0000,,Even if it means I'll never \Nswing a sword again!
+Dialogue: 0,0:11:24.08,0:11:25.44,Main,Miwa,0000,0000,0000,,Quick Draw!
+Dialogue: 0,0:11:38.36,0:11:39.86,Main,Geto,0000,0000,0000,,Supreme Art:
+Dialogue: 0,0:11:42.88,0:11:44.74,Main,Geto,0000,0000,0000,,Uzumaki.
+Dialogue: 0,0:11:46.68,0:11:47.86,Main,Yuji,0000,0000,0000,,Wait!
+Dialogue: 0,0:12:09.44,0:12:11.44,Main,Geto,0000,0000,0000,,New Shadow Style, huh?
+Dialogue: 0,0:12:11.44,0:12:13.08,Main,Geto,0000,0000,0000,,I'm glad.
+Dialogue: 0,0:12:13.69,0:12:16.76,Main,Geto,0000,0000,0000,,It's nice facing someone \Nwith a bit of knowledge.
+Dialogue: 0,0:12:22.86,0:12:24.57,Main,Miwa,0000,0000,0000,,Kusakabe-san!
+Dialogue: 0,0:12:24.79,0:12:27.63,Main,Momo,0000,0000,0000,,There's no point if you're \Nout in front, Sensei!
+Dialogue: 0,0:12:27.63,0:12:29.29,Main,Utahime,0000,0000,0000,,I couldn't help it!
+Dialogue: 0,0:12:33.47,0:12:35.73,Main,Panda,0000,0000,0000,,Itadori...
+Dialogue: 0,0:12:35.73,0:12:37.68,Main,Panda,0000,0000,0000,,It's you, right?
+Dialogue: 0,0:12:38.28,0:12:39.76,Main,Yuji,0000,0000,0000,,Panda-senpai!
+Dialogue: 0,0:12:38.98,0:12:40.19,Sign_Basic,Screen,0000,0000,0000,,{\fad(425,0)\fnComic Sans MS\c&H131111&\3c&HFFFFFF&\shad0\3a&HC0&\be1\frz277.4\pos(119.333,230.666)\fs20}And the Kyoto students!!
+Dialogue: 0,0:12:40.19,0:12:43.57,Main,Panda,0000,0000,0000,,Good, you're back to normal.
+Dialogue: 0,0:12:41.36,0:12:43.57,Sign_Basic,Screen,0000,0000,0000,,{\fad(475,0)\fnComic Sans MS\c&H131111&\3c&HFFFFFF&\shad0\3a&HC0&\be1\fs20\pos(132,39.333)}I'm in Gorilla mode.
+Dialogue: 0,0:12:43.85,0:12:46.11,Main,Kamo,0000,0000,0000,,That man has Satoru Gojo...
+Dialogue: 0,0:12:46.47,0:12:48.77,Main,Kamo,0000,0000,0000,,and the Prison Realm, huh?
+Dialogue: 0,0:12:48.77,0:12:50.24,Main,Panda,0000,0000,0000,,Apparently.
+Dialogue: 0,0:12:50.24,0:12:53.92,Main,Panda,0000,0000,0000,,I don't know what he finds so fun about \Nwalking around with that public nuisance.
+Dialogue: 0,0:12:54.34,0:12:55.46,Main,Kamo,0000,0000,0000,,Who is he?
+Dialogue: 0,0:12:55.73,0:12:57.87,Main,Panda,0000,0000,0000,,The shell is Suguru Geto.
+Dialogue: 0,0:12:57.87,0:13:00.19,Main,Panda,0000,0000,0000,,I don't know what's inside.
+Dialogue: 0,0:13:15.58,0:13:17.61,Main,Geto,0000,0000,0000,,Hey, Choso.
+Dialogue: 0,0:13:19.48,0:13:21.09,Main,Yuji,0000,0000,0000,,He's...
+Dialogue: 0,0:13:27.62,0:13:30.61,Main,Choso,0000,0000,0000,,I have three parents.
+Dialogue: 0,0:13:30.61,0:13:31.90,Main,Choso,0000,0000,0000,,My mother,
+Dialogue: 0,0:13:31.90,0:13:34.10,Main,Choso,0000,0000,0000,,the cursed spirit that \Nimpregnated my mother,
+Dialogue: 0,0:13:34.10,0:13:37.09,Main,Choso,0000,0000,0000,,and the man who mixed his \Nblood into the affair...
+Dialogue: 0,0:13:37.84,0:13:40.44,Main,Choso,0000,0000,0000,,The one who toyed with my mother...
+Dialogue: 0,0:13:40.44,0:13:42.16,Main,Choso,0000,0000,0000,,The loathsome—
+Dialogue: 0,0:13:42.62,0:13:44.42,Main,Geto,0000,0000,0000,,Looks like you've realized it.
+Dialogue: 0,0:13:44.81,0:13:46.93,Main,Choso,0000,0000,0000,,So that's how it is!
+Dialogue: 0,0:13:47.85,0:13:50.44,Main,Choso,0000,0000,0000,,Kamo Noritoshi!
+Dialogue: 0,0:13:50.69,0:13:51.81,Main,Kusakabe,0000,0000,0000,,Kamo?!
+Dialogue: 0,0:13:51.81,0:13:53.14,Main,Panda,0000,0000,0000,,Noritoshi?!
+Dialogue: 0,0:13:52.83,0:13:54.56,Main,Kamo,0000,0000,0000,,{\fad(458,1)\pos(166,46)\fnComic Sans MS\bord1.5\fs20\c&H000000&\3c&HE3E4E1&}Kamo Noritoshi
+Dialogue: 0,0:13:53.14,0:13:54.56,Main,Kamo,0000,0000,0000,,Me?!
+Dialogue: 0,0:13:54.83,0:13:55.96,Main,Momo,0000,0000,0000,,What?!
+Dialogue: 0,0:13:55.96,0:13:57.32,Main,Momo,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:13:57.32,0:13:58.94,Main,Utahime,0000,0000,0000,,The stain on the Kamo clan!
+Dialogue: 0,0:13:58.94,0:14:00.96,Main,Utahime,0000,0000,0000,,The worst sorcerer in all history!
+Dialogue: 0,0:14:01.80,0:14:06.32,Main,Utahime,0000,0000,0000,,If he's right, then whatever's inside \NGeto would be over 150 years old.
+Dialogue: 0,0:14:07.61,0:14:09.87,Italics,Kusakabe,0000,0000,0000,,Outlandish barriers,
+Dialogue: 0,0:14:09.87,0:14:12.71,Italics,Kusakabe,0000,0000,0000,,and possession of outlandish cursed tools...
+Dialogue: 0,0:14:12.71,0:14:17.20,Italics,Kusakabe,0000,0000,0000,,As far as masterminds with a cursed \Ntechnique to take over other bodies goes...
+Dialogue: 0,0:14:17.49,0:14:19.45,Main,Kusakabe,0000,0000,0000,,That seems appropriate, yeah.
+Dialogue: 0,0:14:20.52,0:14:24.24,Main,Geto,0000,0000,0000,,Kamo Noritoshi is merely one \Nof the many names I've had.
+Dialogue: 0,0:14:24.24,0:14:25.83,Main,Geto,0000,0000,0000,,Call me whatever you like.
+Dialogue: 0,0:14:27.04,0:14:28.56,Main,Choso,0000,0000,0000,,How dare you...
+Dialogue: 0,0:14:29.51,0:14:31.22,Main,Choso,0000,0000,0000,,How dare you make me
+Dialogue: 0,0:14:31.22,0:14:33.23,Main,Choso,0000,0000,0000,,try to kill Itadori?!
+Dialogue: 0,0:14:33.23,0:14:37.14,Main,Choso,0000,0000,0000,,My little brother!
+Dialogue: 0,0:14:41.45,0:14:43.59,Main,Uraume,0000,0000,0000,,Stand down, third-rate.
+Dialogue: 0,0:14:43.59,0:14:45.93,Main,Uraume,0000,0000,0000,,Don't keep me waiting any longer.
+Dialogue: 0,0:14:45.93,0:14:47.19,Main,Choso,0000,0000,0000,,Move it!
+Dialogue: 0,0:14:47.19,0:14:49.60,Main,Choso,0000,0000,0000,,I'm his older brother!
+Dialogue: 0,0:14:52.41,0:14:54.99,Show_Title,Eyecatch,0000,0000,0000,,{\fad(1350,0)\1c&H213835&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:14:52.41,0:14:54.99,Show_Title,Eyecatch,0000,0000,0000,,{\fad(1350,0)\3c&HA0DCE8&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:14:58.20,0:15:00.00,Show_Title,Eyecatch,0000,0000,0000,,{\fad(1350,0)\1c&H213835&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:14:58.20,0:15:00.00,Show_Title,Eyecatch,0000,0000,0000,,{\fad(1350,0)\3c&HA0DCE8&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:15:07.54,0:15:10.16,Italics,Choso,0000,0000,0000,,It's a side effect of my technique.
+Dialogue: 0,0:15:10.91,0:15:13.82,Italics,Choso,0000,0000,0000,,I can feel any changes to \Nmy blood-related siblings,
+Dialogue: 0,0:15:13.82,0:15:16.72,Italics,Choso,0000,0000,0000,,no matter how far away they are.
+Dialogue: 0,0:15:26.54,0:15:28.44,Italics,Choso,0000,0000,0000,,My younger brothers died.
+Dialogue: 0,0:15:29.19,0:15:30.36,Italics,Choso,0000,0000,0000,,Death.
+Dialogue: 0,0:15:30.36,0:15:32.20,Italics,Choso,0000,0000,0000,,For every living being,
+Dialogue: 0,0:15:32.20,0:15:35.20,Italics,Choso,0000,0000,0000,,that is their last and greatest change.
+Dialogue: 0,0:15:35.76,0:15:37.95,Italics,Choso,0000,0000,0000,,In that moment,
+Dialogue: 0,0:15:38.27,0:15:42.65,Italics,Choso,0000,0000,0000,,I strongly sensed the death of \NYuji Itadori, right before my eyes.
+Dialogue: 0,0:15:44.36,0:15:46.04,Italics,Choso,0000,0000,0000,,Which means that Yuji
+Dialogue: 0,0:15:46.04,0:15:48.94,Italics,Choso,0000,0000,0000,,must also be my \Nblood-related younger brother!
+Dialogue: 0,0:15:51.35,0:15:54.20,Italics,Choso,0000,0000,0000,,If Kamo Noritoshi has \Nbeen extending his life
+Dialogue: 0,0:15:54.20,0:15:56.43,Italics,Choso,0000,0000,0000,,by transferring bodies,
+Dialogue: 0,0:15:56.43,0:15:58.92,Italics,Choso,0000,0000,0000,,then it's not an impossible idea.
+Dialogue: 0,0:16:00.03,0:16:01.84,Italics,Choso,0000,0000,0000,,Which means I...
+Dialogue: 0,0:16:03.40,0:16:04.80,Italics,Choso,0000,0000,0000,,must use my full strength
+Dialogue: 0,0:16:04.80,0:16:07.07,Italics,Choso,0000,0000,0000,,to perform my duty as the older brother!
+Dialogue: 0,0:16:07.52,0:16:09.68,Main,Kamo,0000,0000,0000,,Blood Manipulation?!
+Dialogue: 0,0:16:13.12,0:16:14.91,Main,Kamo,0000,0000,0000,,So much pressure!
+Dialogue: 0,0:16:19.96,0:16:21.48,Italics,Uraume,0000,0000,0000,,It's fast!
+Dialogue: 0,0:16:21.48,0:16:23.59,Italics,Uraume,0000,0000,0000,,So this is Piercing Blood?!
+Dialogue: 0,0:16:59.05,0:17:00.12,Main,Choso,0000,0000,0000,,Tsk!
+Dialogue: 0,0:18:27.03,0:18:28.85,Main,Geto,0000,0000,0000,,Don't push yourself too hard.
+Dialogue: 0,0:18:28.85,0:18:30.58,Main,Geto,0000,0000,0000,,You're exhausted, aren't you?
+Dialogue: 0,0:18:32.48,0:18:34.01,Main,Choso,0000,0000,0000,,So what?
+Dialogue: 0,0:18:35.36,0:18:37.76,Main,Choso,0000,0000,0000,,Is that any reason not to risk my life
+Dialogue: 0,0:18:37.76,0:18:40.84,Main,Choso,0000,0000,0000,,for the younger brother \Nright in front of me?
+Dialogue: 0,0:18:44.40,0:18:47.68,Main,Panda,0000,0000,0000,,Just asking, but you two \Nare strangers, right?
+Dialogue: 0,0:18:48.10,0:18:51.13,Main,Yuji,0000,0000,0000,,Worse than strangers.\NHe nearly killed me once already.
+Dialogue: 0,0:18:51.60,0:18:53.35,Main,Panda,0000,0000,0000,,First it was Todo.
+Dialogue: 0,0:18:53.35,0:18:56.20,Main,Panda,0000,0000,0000,,Are you sure you aren't emitting \Ndangerous pheromones or something?
+Dialogue: 0,0:18:57.64,0:18:59.86,Main,Kamo,0000,0000,0000,,Still, thanks to him, \Nthe fight has grown chaotic.
+Dialogue: 0,0:19:00.25,0:19:02.05,Main,Kamo,0000,0000,0000,,We're taking advantage of this.
+Dialogue: 0,0:19:02.05,0:19:03.25,Main,Yuji,0000,0000,0000,,Right.
+Dialogue: 0,0:19:03.25,0:19:06.42,Main,Panda,0000,0000,0000,,I still have two cores, \Nso I'll lead in the front.
+Dialogue: 0,0:19:06.42,0:19:09.63,Main,Panda,0000,0000,0000,,If we all attack him together, \Nit should at least create an opening.
+Dialogue: 0,0:19:10.45,0:19:13.71,Main,Panda,0000,0000,0000,,We must do everything we can \Nto steal back the Prison Realm.
+Dialogue: 0,0:19:21.65,0:19:24.02,Main,Panda,0000,0000,0000,,Drumming—
+Dialogue: 0,0:19:24.40,0:19:26.14,Main,Uraume,0000,0000,0000,,Ice Formation:
+Dialogue: 0,0:19:26.76,0:19:28.40,Main,Uraume,0000,0000,0000,,Frost Calm!
+Dialogue: 0,0:19:34.90,0:19:36.75,Italics,Kamo,0000,0000,0000,,An ice cursed technique?!
+Dialogue: 0,0:19:36.75,0:19:38.90,Italics,Kamo,0000,0000,0000,,And one this high-level?!
+Dialogue: 0,0:19:38.90,0:19:42.03,Italics,Panda,0000,0000,0000,,If I move, I'll shatter my body!
+Dialogue: 0,0:19:45.03,0:19:46.07,Main,Choso,0000,0000,0000,,Tsk!
+Dialogue: 0,0:19:47.08,0:19:48.52,Main,Geto,0000,0000,0000,,Don't kill them.
+Dialogue: 0,0:19:48.52,0:19:50.65,Main,Geto,0000,0000,0000,,I need messengers.
+Dialogue: 0,0:19:50.65,0:19:53.04,Main,Uraume,0000,0000,0000,,Is that any reason to leave them all alive?
+Dialogue: 0,0:19:56.67,0:19:58.78,Italics,Kusakabe,0000,0000,0000,,A reverse cursed technique!
+Dialogue: 0,0:19:58.78,0:20:01.78,Italics,Kusakabe,0000,0000,0000,,Their sorcery is on a different scale.
+Dialogue: 0,0:20:01.78,0:20:03.69,Italics,Kusakabe,0000,0000,0000,,I want to go home!
+Dialogue: 0,0:20:04.33,0:20:06.68,Main,Choso,0000,0000,0000,,This ice isn't enough!
+Dialogue: 0,0:20:06.68,0:20:09.00,Main,Choso,0000,0000,0000,,Flowing Red Scale!
+Dialogue: 0,0:20:12.60,0:20:14.75,Main,Uraume,0000,0000,0000,,Then how much is?
+Dialogue: 0,0:20:22.61,0:20:24.58,Main,Uraume,0000,0000,0000,,Whose body do you think that is?!
+Dialogue: 0,0:20:24.58,0:20:26.81,Italics,Yuji,0000,0000,0000,,I was the only one not frozen as solid!
+Dialogue: 0,0:20:26.81,0:20:28.47,Italics,Yuji,0000,0000,0000,,Must have to do with Sukuna!
+Dialogue: 0,0:20:29.46,0:20:31.00,Main,Yuji,0000,0000,0000,,You're our ally, right?
+Dialogue: 0,0:20:31.00,0:20:31.96,Main,Choso,0000,0000,0000,,No!
+Dialogue: 0,0:20:31.96,0:20:32.96,Main,Yuji,0000,0000,0000,,Huh?!
+Dialogue: 0,0:20:33.36,0:20:35.59,Main,Choso,0000,0000,0000,,I'm your older brother.
+Dialogue: 0,0:20:35.97,0:20:38.10,Main,Yuji,0000,0000,0000,,Could you please take this seriously?!
+Dialogue: 0,0:20:38.10,0:20:40.83,Main,Choso,0000,0000,0000,,Why don't you try saying \Nit once, for starters?
+Dialogue: 0,0:20:40.83,0:20:42.48,Main,Choso,0000,0000,0000,,Call me "Onii-chan."
+Dialogue: 0,0:20:43.94,0:20:45.76,Main,Momo,0000,0000,0000,,Tool Manipulation:
+Dialogue: 0,0:20:46.63,0:20:48.43,Main,Momo,0000,0000,0000,,Wind Scythe!
+Dialogue: 0,0:20:50.99,0:20:52.03,Main,Momo,0000,0000,0000,,Shit!
+Dialogue: 0,0:20:52.03,0:20:54.77,Italics,Momo,0000,0000,0000,,It's depressing that they parried \Nit with their bare hands!
+Dialogue: 0,0:20:55.18,0:20:56.60,Main,Momo,0000,0000,0000,,Itadori-kun!
+Dialogue: 0,0:20:56.60,0:20:58.91,Main,Momo,0000,0000,0000,,We're the only ones who can move right now!
+Dialogue: 0,0:20:58.91,0:21:02.53,Main,Momo,0000,0000,0000,,We need to buy time for Utahime-sensei \Nto finish her preparations!
+Dialogue: 0,0:21:03.00,0:21:05.12,Main,Uraume,0000,0000,0000,,Yuji Itadori
+Dialogue: 0,0:21:06.54,0:21:10.11,Main,Uraume,0000,0000,0000,,is the only messenger you need, right?!
+Dialogue: 0,0:21:11.12,0:21:14.16,Main,Uraume,0000,0000,0000,,Ice Formation: Icefall!
+Dialogue: 0,0:21:26.18,0:21:26.93,Main,Yuji,0000,0000,0000,,We're gonna die!
+Dialogue: 0,0:21:34.12,0:21:36.21,Main,Tsukumo,0000,0000,0000,,Long time no see,
+Dialogue: 0,0:21:36.21,0:21:37.67,Main,Tsukumo,0000,0000,0000,,Geto-kun.
+Dialogue: 0,0:21:40.41,0:21:43.92,Main,Tsukumo,0000,0000,0000,,Could I get your answer to \Nmy question from back then?
+Dialogue: 0,0:21:45.91,0:21:48.64,Main,Tsukumo,0000,0000,0000,,What kind of woman is your type?
+Dialogue: 0,0:21:51.64,0:21:53.72,Main,Geto,0000,0000,0000,,Yuki Tsukumo!
+Dialogue: 0,0:23:25.55,0:23:28.48,Main,Tsukumo,0000,0000,0000,,When one person's happiness conflicts \Nwith another person's happiness,
+Dialogue: 0,0:23:28.48,0:23:30.47,Main,Tsukumo,0000,0000,0000,,that's when unhappiness is born,
+Dialogue: 0,0:23:30.47,0:23:32.22,Main,Tsukumo,0000,0000,0000,,but when two people's unhappiness conflicts,
+Dialogue: 0,0:23:32.22,0:23:35.16,Main,Tsukumo,0000,0000,0000,,it usually only creates \Nmore unhappiness, you know?
+Dialogue: 0,0:23:35.16,0:23:37.29,Main,Tsukumo,0000,0000,0000,,Next time, "Shibuya Incident: Gate Closed."
+Dialogue: 0,0:23:35.16,0:23:41.93,Next_Ep_Title,Screen,0000,0000,0000,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}Shibuya Incident: Gate Closed
+Dialogue: 0,0:23:37.29,0:23:39.60,Main,Tsukumo,0000,0000,0000,,I just want to crawl into a warm bed and sleep.

@@ -1,0 +1,363 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (América Latina)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSerie,Times New Roman,60,&H000F0063,&H000000FF,&H002F1595,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_TitleEp,Times New Roman,24,&H00E7EAE4,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Cart_TitleNext,Times New Roman,22,&H00FCFFFF,&H000000FF,&H00313131,&H00313131,0,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0050,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.62,0:00:01.92,Gen_Main,Yaga,0000,0000,0000,,Satoru.
+Dialogue: 0,0:00:02.10,0:00:03.49,Gen_Main,Yaga,0000,0000,0000,,Enséñale los dormitorios.
+Dialogue: 0,0:00:04.02,0:00:06.96,Gen_Main,Yaga,0000,0000,0000,,Explícale los protocolos de seguridad\Ny todo lo demás.
+Dialogue: 0,0:00:09.65,0:00:12.65,Gen_Main,Yaga,0000,0000,0000,,Aprobaste. Bienvenido\Na la Preparatoria de Hechicería.
+Dialogue: 0,0:00:14.78,0:00:15.84,Gen_Main,Yuuji,0000,0000,0000,,¡Fushiguro!
+Dialogue: 0,0:00:15.99,0:00:17.76,Gen_Main,Yuuji,0000,0000,0000,,¡Ahora sí te ves como nuevo!
+Dialogue: 0,0:00:17.99,0:00:20.20,Gen_Main,Fushiguro,0000,0000,0000,,Tenemos varios cuartos vacíos, ¿no?
+Dialogue: 0,0:00:20.54,0:00:23.64,Gen_Main,Gojou,0000,0000,0000,,¿No es mejor estar acompañado?\NTe hará bien.
+Dialogue: 0,0:00:23.78,0:00:25.50,Gen_Main,Fushiguro,0000,0000,0000,,Las clases y las misiones bastan.
+Dialogue: 0,0:00:25.67,0:00:26.67,Gen_Main,Fushiguro,0000,0000,0000,,Es una molestia.
+Dialogue: 0,0:00:26.84,0:00:29.42,Gen_Main,Yuuji,0000,0000,0000,,Cielos, pero qué organizado.
+Dialogue: 0,0:00:29.59,0:00:32.76,Gen_Main,Fushiguro,0000,0000,0000,,Como dije, ¡es una molestia!
+Dialogue: 0,0:00:33.24,0:00:35.03,Gen_Main,Gojou,0000,0000,0000,,¡En fin!
+Dialogue: 0,0:00:35.47,0:00:37.51,Gen_Main,Gojou,0000,0000,0000,,¡Partiremos mañana mismo!
+Dialogue: 0,0:00:37.89,0:00:41.07,Gen_Main,Gojou,0000,0000,0000,,Saldremos a buscar\Na la tercera alumna de primero.
+Dialogue: 0,0:00:56.02,0:00:57.38,Gen_Italics,Kugizaki,0000,0000,0000,,Saori.
+Dialogue: 0,0:00:59.66,0:01:01.38,Gen_Italics,Kugizaki,0000,0000,0000,,Por fin llegué.
+Dialogue: 0,0:01:06.71,0:01:07.71,Gen_Italics,Kugizaki,0000,0000,0000,,¡Estoy en Tokio!
+Dialogue: 0,0:01:10.09,0:01:12.92,Gen_Main,Yuuji,0000,0000,0000,,¿No te parece poco\Nque solo seamos tres en primer año?
+Dialogue: 0,0:01:13.09,0:01:17.22,Gen_Main,Fushiguro,0000,0000,0000,,¿Conoces a otras personas\Nque puedan ver Maldiciones?
+Dialogue: 0,0:01:19.01,0:01:20.02,Gen_Main,Yuuji,0000,0000,0000,,Pues no.
+Dialogue: 0,0:01:20.35,0:01:23.52,Gen_Main,Fushiguro,0000,0000,0000,,Los hechiceros somos una minoría.
+Dialogue: 0,0:01:23.81,0:01:26.29,Gen_Main,Yuuji,0000,0000,0000,,¿Y no me habían dicho\Nque yo era el tercero?
+Dialogue: 0,0:01:26.73,0:01:29.25,Gen_Main,Fushiguro,0000,0000,0000,,Su ingreso se decidió\Nhace bastante tiempo.
+Dialogue: 0,0:01:29.52,0:01:35.28,Cart_C_Tim,Screen,0000,0000,0000,,{\bord2\blur3\shad0\an9\fs24\pos(494,41)}Preparatoria de Hechicería\Ndel Área Metropolitana de Tokio
+Dialogue: 0,0:01:30.25,0:01:31.98,Gen_Main,Fushiguro,0000,0000,0000,,Así funciona nuestra escuela.
+Dialogue: 0,0:01:32.53,0:01:34.17,Gen_Main,Fushiguro,0000,0000,0000,,Está llena de casos especiales.
+Dialogue: 0,0:01:36.11,0:01:37.67,Gen_Main,Gojou,0000,0000,0000,,Ya llegué.
+Dialogue: 0,0:01:39.28,0:01:40.73,Gen_Main,Gojou,0000,0000,0000,,Tu uniforme llegó a tiempo.
+Dialogue: 0,0:01:40.91,0:01:42.66,Gen_Main,Yuuji,0000,0000,0000,,Sí, me queda perfecto.
+Dialogue: 0,0:01:42.83,0:01:45.13,Gen_Main,Yuuji,0000,0000,0000,,Pero no es idéntico al de Fushiguro.
+Dialogue: 0,0:01:45.58,0:01:46.72,Gen_Main,Yuuji,0000,0000,0000,,Este tiene capucha.
+Dialogue: 0,0:01:46.87,0:01:50.36,Gen_Main,Gojou,0000,0000,0000,,Es porque puedes solicitar\Ntodo tipo de cambios.
+Dialogue: 0,0:01:51.63,0:01:53.47,Gen_Main,Yuuji,0000,0000,0000,,Pero yo no pedí nada.
+Dialogue: 0,0:01:53.88,0:01:56.80,Gen_Main,Gojou,0000,0000,0000,,El que solicitó los cambios fui yo.
+Dialogue: 0,0:01:58.82,0:02:00.03,Gen_Main,Yuuji,0000,0000,0000,,Tampoco está mal…
+Dialogue: 0,0:02:00.31,0:02:03.66,Gen_Main,Fushiguro,0000,0000,0000,,Ten cuidado, el profesor Gojou\Ntiende a hacer las cosas así.
+Dialogue: 0,0:02:04.42,0:02:07.06,Gen_Main,Fushiguro,0000,0000,0000,,Por cierto,\N¿por qué nos reunimos en Harajuku?
+Dialogue: 0,0:02:07.39,0:02:09.11,Gen_Main,Gojou,0000,0000,0000,,Porque ella nos lo pidió.
+Dialogue: 0,0:02:09.27,0:02:11.18,Gen_Main,Yuuji,0000,0000,0000,,¡Hay palomitas! ¡Quiero!
+Dialogue: 0,0:02:11.90,0:02:14.73,Gen_Main,Scout,0000,0000,0000,,Hola, ¿estás trabajando ahora mismo?
+Dialogue: 0,0:02:15.03,0:02:16.42,Gen_Main,Woman,0000,0000,0000,,No, ¿por?
+Dialogue: 0,0:02:16.70,0:02:19.16,Gen_Main,Scout,0000,0000,0000,,Es que estoy buscando posibles modelos.
+Dialogue: 0,0:02:19.53,0:02:21.09,Gen_Main,Scout,0000,0000,0000,,Aquí está mi tarjeta.
+Dialogue: 0,0:02:21.24,0:02:22.62,Gen_Main,Scout,0000,0000,0000,,¿Te interesa?
+Dialogue: 0,0:02:23.03,0:02:24.27,Gen_Main,Woman,0000,0000,0000,,Tengo prisa.
+Dialogue: 0,0:02:24.41,0:02:26.54,Gen_Main,Scout,0000,0000,0000,,¡Al menos escúchame!
+Dialogue: 0,0:02:28.42,0:02:29.62,Gen_Main,Kugizaki,0000,0000,0000,,Oye, tú.
+Dialogue: 0,0:02:29.98,0:02:31.32,Gen_Main,Kugizaki,0000,0000,0000,,¿Qué hay de mí?
+Dialogue: 0,0:02:32.59,0:02:33.67,Gen_Italics,Scout,0000,0000,0000,,¡¿Ella?!
+Dialogue: 0,0:02:35.05,0:02:36.59,Gen_Main,Kugizaki,0000,0000,0000,,Hablo de modelaje.
+Dialogue: 0,0:02:36.76,0:02:38.58,Gen_Main,Kugizaki,0000,0000,0000,,¿Qué te parece alguien como yo?
+Dialogue: 0,0:02:38.76,0:02:41.45,Gen_Main,Scout,0000,0000,0000,,Disculpa, pero tengo prisa…
+Dialogue: 0,0:02:43.64,0:02:44.63,Gen_Main,Kugizaki,0000,0000,0000,,¡Ven para acá!
+Dialogue: 0,0:02:44.93,0:02:46.65,Gen_Main,Kugizaki,0000,0000,0000,,No huyas, dímelo de frente.
+Dialogue: 0,0:02:46.98,0:02:50.77,Gen_Main,Yuuji,0000,0000,0000,,-¿Y tenemos que ir a hablar con ella?\N-¡Lo siento! ¡Déjame ir!
+Dialogue: 0,0:02:50.94,0:02:52.84,Gen_Main,Yuuji,0000,0000,0000,,Da vergüenza ajena.
+Dialogue: 0,0:02:53.53,0:02:54.61,Gen_Main,Fushiguro,0000,0000,0000,,Tú también.
+Dialogue: 0,0:02:54.77,0:02:57.01,Gen_Main,Gojou,0000,0000,0000,,¡Oye! ¡Por aquí!
+Dialogue: 0,0:02:57.15,0:02:59.98,Gen_Main,Girl,0000,0000,0000,,Mira, ¿qué hay con ese tipo\Nde los ojos vendados?
+Dialogue: 0,0:03:03.66,0:03:05.29,Gen_Main,Gojou,0000,0000,0000,,Adelante, preséntense.
+Dialogue: 0,0:03:06.29,0:03:07.79,Gen_Main,Kugizaki,0000,0000,0000,,Nobara Kugizaki.
+Dialogue: 0,0:03:07.95,0:03:10.77,Gen_Main,Kugizaki,0000,0000,0000,,Pueden alegrarse\Nde sumar una chica al grupo.
+Dialogue: 0,0:04:45.51,0:04:51.72,Cart_TitleEp,Screen,0000,0000,0000,,{\an7\fad(500,1)\pos(29,23)}Episodio 3: Chica de acero
+Dialogue: 0,0:04:47.18,0:04:50.01,Gen_Main,Yuuji,0000,0000,0000,,Yo soy Yuuji Itadori. De Sendai.
+Dialogue: 0,0:04:50.39,0:04:51.72,Gen_Main,Fushiguro,0000,0000,0000,,Megumi Fushiguro.
+Dialogue: 0,0:04:52.64,0:05:03.15,Cart_C_Tre,Screen,0000,0000,0000,,{\shad0\blur2\3c&HFFFFFF&\3a&H6F&\fs28\pos(320,110)}Imagen mental de Kugizaki
+Dialogue: 0,0:04:53.48,0:04:55.31,Gen_Italics,Kugizaki,0000,0000,0000,,Este tiene cara de papa.
+Dialogue: 0,0:04:55.48,0:04:58.11,Gen_Italics,Kugizaki,0000,0000,0000,,Seguro que se comía los mocos\Nde pequeño.
+Dialogue: 0,0:04:59.23,0:05:02.86,Gen_Italics,Kugizaki,0000,0000,0000,,¿Y este otro solo da su nombre?\NNo tolero a los engreídos.
+Dialogue: 0,0:05:03.74,0:05:06.82,Gen_Italics,Kugizaki,0000,0000,0000,,Me lo imagino incendiando gaviotas\Ncubiertas en petróleo.
+Dialogue: 0,0:05:08.99,0:05:11.66,Gen_Italics,Kugizaki,0000,0000,0000,,Siempre acabo envuelta\Nen las peores situaciones.
+Dialogue: 0,0:05:11.99,0:05:14.41,Gen_Main,Yuuji,0000,0000,0000,,Nos miró y suspiró.
+Dialogue: 0,0:05:14.58,0:05:16.17,Gen_Main,Fushiguro,0000,0000,0000,,¿Adónde iremos ahora?
+Dialogue: 0,0:05:17.67,0:05:20.13,Gen_Main,Gojou,0000,0000,0000,,Por fin están los tres juntos.
+Dialogue: 0,0:05:20.29,0:05:23.17,Gen_Main,Gojou,0000,0000,0000,,Y ustedes dos son provincianos, ¿no?
+Dialogue: 0,0:05:23.46,0:05:24.59,Gen_Main,Gojou,0000,0000,0000,,¿No es obvio?
+Dialogue: 0,0:05:24.76,0:05:25.92,Gen_Main,Gojou,0000,0000,0000,,¡Conoceremos Tokio!
+Dialogue: 0,0:05:25.92,0:05:31.43,Cart_C_Tim,Screen,0000,0000,0000,,{\fad(200,0)\shad0\bord0\fs32\pos(224,2)}Tokio
+Dialogue: 0,0:05:26.30,0:05:29.01,Gen_Main,Both,0000,0000,0000,,¡Tokio! ¡Tokio! ¡Tokio!
+Dialogue: 0,0:05:29.18,0:05:31.10,Gen_Main,Both,0000,0000,0000,,{\i1}We love Tokyo!{\i0}
+Dialogue: 0,0:05:31.56,0:05:33.35,Gen_Main,Kugizaki,0000,0000,0000,,¡Quiero ir a Tokyo Disneyland!
+Dialogue: 0,0:05:33.52,0:05:36.94,Gen_Main,Yuuji,0000,0000,0000,,¡Tonta, eso queda en Chiba!\N¡Vayamos al barrio chino!
+Dialogue: 0,0:05:37.19,0:05:39.31,Gen_Main,Kugizaki,0000,0000,0000,,¡El barrio chino está en Yokohama!
+Dialogue: 0,0:05:39.48,0:05:40.94,Gen_Main,Yuuji,0000,0000,0000,,¡Yokohama queda en Tokio!
+Dialogue: 0,0:05:41.40,0:05:43.19,Gen_Main,Yuuji,0000,0000,0000,,¿No lo sabías? ¡Mira en un mapa!
+Dialogue: 0,0:05:43.36,0:05:45.44,Gen_Main,Gojou,0000,0000,0000,,Atención, anunciaré nuestro destino.
+Dialogue: 0,0:05:46.45,0:05:49.45,Cart_C_Tim,Screen,0000,0000,0000,,{\shad0\an8\blur2\3c&HFFFFFF&\3a&H6F&\fs32\move(327,216,327,135)\t(0,3000,\fs24}Roppongi
+Dialogue: 0,0:05:46.78,0:05:49.45,Gen_Main,Gojou,0000,0000,0000,,¡Roppongi!
+Dialogue: 0,0:05:49.45,0:05:51.95,Cart_C_Tim,Screen,0000,0000,0000,,{\shad0\an8\blur2\3c&HFFFFFF&\3a&H6F&\fs26\move(320,139,320,118)}Roppongi
+Dialogue: 0,0:05:49.66,0:05:51.58,Gen_Main,Both,0000,0000,0000,,¿Roppongi?
+Dialogue: 0,0:05:54.66,0:05:56.12,Gen_Main,Fushiguro,0000,0000,0000,,Hay una Maldición.
+Dialogue: 0,0:05:56.83,0:05:58.37,Gen_Main,Both,0000,0000,0000,,¡Mentiroso!
+Dialogue: 0,0:05:58.54,0:06:01.59,Gen_Main,Yuuji,0000,0000,0000,,-¡Esto no es Roppongi!\N-¡No juegues con los provincianos!
+Dialogue: 0,0:06:02.34,0:06:04.76,Gen_Main,Gojou,0000,0000,0000,,Hay un enorme cementerio cerca.
+Dialogue: 0,0:06:04.92,0:06:08.09,Gen_Main,Gojou,0000,0000,0000,,Y sumado al edificio abandonado,\Nsurgió una Maldición.
+Dialogue: 0,0:06:08.51,0:06:10.43,Gen_Main,Yuuji,0000,0000,0000,,¿Sí son más comunes entre las tumbas?
+Dialogue: 0,0:06:11.89,0:06:13.64,Gen_Main,Fushiguro,0000,0000,0000,,No es por el cementerio en sí.
+Dialogue: 0,0:06:13.81,0:06:17.81,Gen_Main,Fushiguro,0000,0000,0000,,Se debe al hecho de que la gente\Nsiente aversión por los cementerios.
+Dialogue: 0,0:06:18.19,0:06:20.60,Gen_Main,Yuuji,0000,0000,0000,,Pasaba algo parecido\Nen las escuelas, ¿no?
+Dialogue: 0,0:06:20.81,0:06:21.86,Gen_Main,Kugizaki,0000,0000,0000,,Un momento.
+Dialogue: 0,0:06:22.02,0:06:23.61,Gen_Main,Kugizaki,0000,0000,0000,,¿No sabe algo tan básico?
+Dialogue: 0,0:06:24.07,0:06:25.07,Gen_Main,Fushiguro,0000,0000,0000,,Verás…
+Dialogue: 0,0:06:28.03,0:06:30.61,Gen_Main,Kugizaki,0000,0000,0000,,¡¿Se tragó el objeto maldito especial?!
+Dialogue: 0,0:06:31.28,0:06:34.33,Gen_Main,Kugizaki,0000,0000,0000,,¡Qué asco!\N¡Es absurdo, insalubre y asqueroso!
+Dialogue: 0,0:06:34.54,0:06:36.70,Gen_Main,Kugizaki,0000,0000,0000,,-¡No, no, no!\N-¡¿Qué dijiste?!
+Dialogue: 0,0:06:36.87,0:06:37.87,Gen_Main,Fushiguro,0000,0000,0000,,Concuerdo.
+Dialogue: 0,0:06:38.21,0:06:40.37,Gen_Main,Gojou,0000,0000,0000,,Quiero saber de qué son capaces.
+Dialogue: 0,0:06:40.54,0:06:42.88,Gen_Main,Gojou,0000,0000,0000,,Considérenlo un experimento de campo.
+Dialogue: 0,0:06:43.38,0:06:47.09,Gen_Main,Gojou,0000,0000,0000,,Nobara, Yuuji,\Nexorcicen la Maldición del edificio.
+Dialogue: 0,0:06:47.34,0:06:48.47,Gen_Main,Kugizaki,0000,0000,0000,,Puaj.
+Dialogue: 0,0:06:48.76,0:06:52.22,Gen_Main,Yuuji,0000,0000,0000,,¿Qué? Pero creía que solo\Nuna Maldición exorciza a otra, ¿no?
+Dialogue: 0,0:06:52.68,0:06:54.64,Gen_Main,Yuuji,0000,0000,0000,,Yo no sé nada de hechicería.
+Dialogue: 0,0:06:55.14,0:06:57.98,Gen_Main,Gojou,0000,0000,0000,,Ya eres prácticamente mitad Maldición.
+Dialogue: 0,0:06:58.14,0:07:00.14,Gen_Main,Gojou,0000,0000,0000,,Por tu cuerpo corre energía maldita.
+Dialogue: 0,0:07:00.44,0:07:04.15,Gen_Main,Gojou,0000,0000,0000,,Pero como nadie podría aprender\Na canalizarla de un día para otro,
+Dialogue: 0,0:07:04.31,0:07:05.57,Gen_Main,Gojou,0000,0000,0000,,usarás esto.
+Dialogue: 0,0:07:07.69,0:07:09.15,Gen_Main,Gojou,0000,0000,0000,,Se llama Demonio Asesino.
+Dialogue: 0,0:07:09.61,0:07:11.45,Gen_Main,Gojou,0000,0000,0000,,Está impregnado con energía maldita.
+Dialogue: 0,0:07:11.61,0:07:13.28,Gen_Main,Gojou,0000,0000,0000,,Funcionará contra Maldiciones.
+Dialogue: 0,0:07:14.53,0:07:15.70,Gen_Main,Kugizaki,0000,0000,0000,,Patético.
+Dialogue: 0,0:07:18.58,0:07:19.91,Gen_Main,Gojou,0000,0000,0000,,Y algo más.
+Dialogue: 0,0:07:21.29,0:07:22.83,Gen_Main,Gojou,0000,0000,0000,,No dejes salir a Sukuna.
+Dialogue: 0,0:07:24.38,0:07:27.50,Gen_Main,Gojou,0000,0000,0000,,Aunque acabarías\Ncon cualquier Maldición cercana,
+Dialogue: 0,0:07:27.96,0:07:30.17,Gen_Main,Gojou,0000,0000,0000,,también podrías\Ninvolucrar a inocentes.
+Dialogue: 0,0:07:30.34,0:07:32.47,Gen_Main,Yuuji,0000,0000,0000,,Entendido. No dejaré salir a Sukuna.
+Dialogue: 0,0:07:34.64,0:07:36.72,Gen_Main,Kugizaki,0000,0000,0000,,-¡Apúrate!\N-Voy, voy.
+Dialogue: 0,0:07:36.89,0:07:38.10,Gen_Main,Gojou,0000,0000,0000,,Que les vaya bonito.
+Dialogue: 0,0:07:50.57,0:07:52.07,Gen_Main,Fushiguro,0000,0000,0000,,Debería ir con ellos.
+Dialogue: 0,0:07:52.24,0:07:53.53,Gen_Main,Gojou,0000,0000,0000,,No te fuerces.
+Dialogue: 0,0:07:53.70,0:07:55.24,Gen_Main,Gojou,0000,0000,0000,,Aún te estás recuperando.
+Dialogue: 0,0:07:55.66,0:07:57.74,Gen_Main,Fushiguro,0000,0000,0000,,Pero hay que vigilar a Itadori, ¿no?
+Dialogue: 0,0:07:58.33,0:07:59.33,Gen_Main,Gojou,0000,0000,0000,,Supongo.
+Dialogue: 0,0:07:59.83,0:08:03.62,Gen_Main,Gojou,0000,0000,0000,,Pero esta vez estamos\Nponiendo a prueba a Nobara.
+Dialogue: 0,0:08:03.79,0:08:05.17,Gen_Main,Kugizaki,0000,0000,0000,,Qué fastidio.
+Dialogue: 0,0:08:05.58,0:08:08.63,Gen_Main,Kugizaki,0000,0000,0000,,¿Por qué debo encargarme\Nde Maldiciones en Tokio?
+Dialogue: 0,0:08:08.88,0:08:11.09,Gen_Main,Yuuji,0000,0000,0000,,¿Cómo? ¿No viniste a exorcizar?
+Dialogue: 0,0:08:11.88,0:08:14.43,Gen_Main,Nobara,0000,0000,0000,,Ahorraremos tiempos separándonos.
+Dialogue: 0,0:08:14.64,0:08:17.22,Gen_Main,Nobara,0000,0000,0000,,Yo comenzaré desde el último piso\Nhacia abajo.
+Dialogue: 0,0:08:17.39,0:08:18.60,Gen_Main,Nobara,0000,0000,0000,,Tú empieza desde abajo.
+Dialogue: 0,0:08:19.01,0:08:21.64,Gen_Main,Nobara,0000,0000,0000,,Terminemos pronto\Npara poder comer sushi en Ginza.
+Dialogue: 0,0:08:21.81,0:08:22.85,Gen_Main,Yuuji,0000,0000,0000,,Espera un poco.
+Dialogue: 0,0:08:23.02,0:08:24.60,Gen_Main,Yuuji,0000,0000,0000,,Tómate esto en serio.
+Dialogue: 0,0:08:24.85,0:08:26.48,Gen_Main,Yuuji,0000,0000,0000,,Las Maldiciones son peligrosas.
+Dialogue: 0,0:08:30.11,0:08:32.95,Gen_Main,Kugizaki,0000,0000,0000,,¡Un normalucho como tú\Nno es quién para decírmelo!
+Dialogue: 0,0:08:33.11,0:08:34.20,Gen_Main,Kugizaki,0000,0000,0000,,¡Ponte en marcha!
+Dialogue: 0,0:08:36.37,0:08:39.24,Gen_Main,Yuuji,0000,0000,0000,,¡No entiendo esos cambios\Ntan bruscos de temperamento!
+Dialogue: 0,0:08:39.41,0:08:41.12,Gen_Main,Kugizaki,0000,0000,0000,,¡Y por eso no eres popular!
+Dialogue: 0,0:08:41.62,0:08:43.71,Gen_Main,Yuuji,0000,0000,0000,,¡¿Cómo sabes que no soy popular?!
+Dialogue: 0,0:08:44.33,0:08:47.54,Gen_Main,Yuuji,0000,0000,0000,,De seguro tú tampoco eres popular,\Nmaldita sea.
+Dialogue: 0,0:08:58.18,0:09:03.56,Gen_Main,Curse,0000,0000,0000,,¿Necesita el recibo?
+Dialogue: 0,0:09:03.98,0:09:05.14,Gen_Main,Yuuji,0000,0000,0000,,¡Una Maldición!
+Dialogue: 0,0:09:26.87,0:09:30.17,Gen_Main,Yuuji,0000,0000,0000,,Sí, me muevo bastante bien.
+Dialogue: 0,0:09:31.92,0:09:35.38,Gen_Main,Gojou,0000,0000,0000,,A Yuuji le faltan\Nunos cuantos tornillos.
+Dialogue: 0,0:09:36.01,0:09:39.26,Gen_Main,Gojou,0000,0000,0000,,No dudó a la hora de atacar\Ny matar a las cosas
+Dialogue: 0,0:09:39.64,0:09:44.47,Gen_Main,Gojou,0000,0000,0000,,que intentaron asesinarlo adoptando\Nformas biológicas de lo más extrañas.
+Dialogue: 0,0:09:46.73,0:09:50.15,Gen_Main,Gojou,0000,0000,0000,,Y eso que no ha conocido las Maldiciones\Npor tanto tiempo como tú.
+Dialogue: 0,0:09:50.73,0:09:54.44,Gen_Main,Gojou,0000,0000,0000,,Hasta hace poco llevaba\Nuna vida escolar común y corriente.
+Dialogue: 0,0:09:55.28,0:09:59.32,Gen_Main,Gojou,0000,0000,0000,,Seguro que has conocido a varios\Nhechiceros bastante talentosos
+Dialogue: 0,0:09:59.53,0:10:04.54,Gen_Main,Gojou,0000,0000,0000,,que sucumbieron ante la frustración\Nde no superar sus miedos o su asco, ¿no?
+Dialogue: 0,0:10:06.41,0:10:09.75,Gen_Main,Gojou,0000,0000,0000,,Hoy quiero confirmar\Ncuán demente está ella.
+Dialogue: 0,0:10:11.63,0:10:13.75,Gen_Main,Kugizaki,0000,0000,0000,,Oye, tú, la Maldición de allí.
+Dialogue: 0,0:10:19.80,0:10:21.55,Gen_Main,Kugizaki,0000,0000,0000,,El maniquí del centro.
+Dialogue: 0,0:10:21.93,0:10:23.68,Gen_Main,Kugizaki,0000,0000,0000,,¿Crees que te ocultas bien?
+Dialogue: 0,0:10:27.10,0:10:29.39,Gen_Main,Kugizaki,0000,0000,0000,,Si no sales, te exorcizaré allí mismo.
+Dialogue: 0,0:10:30.19,0:10:32.36,Gen_Main,Fushiguro,0000,0000,0000,,Pero Kugizaki tiene experiencia, ¿no?
+Dialogue: 0,0:10:32.81,0:10:34.23,Gen_Main,Fushiguro,0000,0000,0000,,¿Por qué a estas alturas?
+Dialogue: 0,0:10:34.69,0:10:37.36,Gen_Main,Gojou,0000,0000,0000,,Las Maldiciones surgen\Nde la mente humana.
+Dialogue: 0,0:10:37.65,0:10:41.16,Gen_Main,Gojou,0000,0000,0000,,Las Maldiciones crecen en fuerza\Ny número según la población.
+Dialogue: 0,0:11:00.09,0:11:02.30,Gen_Main,Gojou,0000,0000,0000,,¿Crees que Nobara lo comprenda?
+Dialogue: 0,0:11:04.55,0:11:08.31,Gen_Main,Gojou,0000,0000,0000,,Las Maldiciones de Tokio no son\Ncomo las de una provincia.
+Dialogue: 0,0:11:19.99,0:11:22.49,Cart_C_Tim,Sign,0000,0000,0000,,{\shad0\bord0\blur0.5\pos(262,63)\c&H594A41&}Kugizaki
+Dialogue: 0,0:11:27.10,0:11:29.86,Gen_Main,Gojou,0000,0000,0000,,Las Maldiciones surgen\Nde la mente humana.
+Dialogue: 0,0:11:27.99,0:11:30.50,Cart_C_Tre,CarGlass,0000,0000,0000,,{\bord0\shad0\blur0.4\frx26\fry342\frz12.11\c&H1E1D1B&\pos(307.2,12)}Destrozado
+Dialogue: 0,0:11:27.99,0:11:30.50,Cart_C_Tre,CarHood,0000,0000,0000,,{\bord0\shad0\blur0.4\frx52\fry352\pos(119.2,140.8)\frz349.9}Basura
+Dialogue: 0,0:11:27.99,0:11:30.50,Cart_C_Tre,CarHood,0000,0000,0000,,{\bord0\shad0\blur0.4\frx40\fry2\pos(252.8,194.4)\frz354.9}Merecido ↑
+Dialogue: 0,0:11:27.99,0:11:30.50,Cart_C_Tre,CarHood,0000,0000,0000,,{\3c&HD5D4CB&\4c&HD5D4CB&\bord0\shad0\blur0.4\frx36\fry350\pos(194.4,264)}Vuelve a Tokio
+Dialogue: 0,0:11:27.99,0:11:30.50,Cart_C_Tre,CarDoor,0000,0000,0000,,{\3c&HD5D4CB&\bord0\shad0\blur0.56\4c&HD5D4CB&\frx344\fry48\fs28\pos(520,200)\frz22.52}Vete
+Dialogue: 0,0:11:30.71,0:11:34.00,Gen_Main,Gojou,0000,0000,0000,,Las Maldiciones crecen en fuerza\Ny número según la población.
+Dialogue: 0,0:11:35.17,0:11:39.56,Gen_Main,Gojou,0000,0000,0000,,Las Maldiciones de Tokio no son\Ncomo las de una provincia.
+Dialogue: 0,0:11:47.35,0:11:49.36,Gen_Main,Kugizaki,0000,0000,0000,,Deberías quitártelos.
+Dialogue: 0,0:11:55.11,0:11:57.03,Gen_Main,Kugizaki,0000,0000,0000,,O recibirás mi energía maldita.
+Dialogue: 0,0:12:05.24,0:12:06.56,Gen_Italics,Kugizaki,0000,0000,0000,,Perfecto.
+Dialogue: 0,0:12:18.96,0:12:20.30,Gen_Italics,Kugizaki,0000,0000,0000,,¿Un niño?
+Dialogue: 0,0:12:20.92,0:12:24.32,Gen_Italics,Kugizaki,0000,0000,0000,,Debió colarse mientras jugaba\Npara luego toparse con la Maldición.
+Dialogue: 0,0:12:27.86,0:12:31.75,Gen_Main,Kugizaki,0000,0000,0000,,Oye, ya pasó lo feo. Ven.
+Dialogue: 0,0:12:38.98,0:12:42.91,Gen_Main,Kugizaki,0000,0000,0000,,Comprobado. Las chicas lindas\Nsí intimidan a los niños.
+Dialogue: 0,0:12:43.36,0:12:45.17,Gen_Main,Kugizaki,0000,0000,0000,,-Llamaré a Itadori.\N-¡Espera!
+Dialogue: 0,0:12:47.03,0:12:48.31,Gen_Main,Child,0000,0000,0000,,¡No me dejes solo!
+Dialogue: 0,0:13:07.66,0:13:09.07,Gen_Italics,Kugizaki,0000,0000,0000,,¡¿Toma rehenes?!
+Dialogue: 0,0:13:10.93,0:13:13.17,Gen_Italics,Kugizaki,0000,0000,0000,,¿Esta Maldición tiene inteligencia?
+Dialogue: 0,0:13:13.35,0:13:17.52,Gen_Main,Gojou,0000,0000,0000,,Y cuando hablo de nivel, no me refiero\Na la cantidad de energía maldita.
+Dialogue: 0,0:13:18.40,0:13:19.69,Gen_Main,Gojou,0000,0000,0000,,Hablo de astucia.
+Dialogue: 0,0:13:19.86,0:13:23.68,Gen_Main,Gojou,0000,0000,0000,,Un monstruo inteligente te obligará\Na tomar decisiones muy crueles.
+Dialogue: 0,0:13:25.11,0:13:28.29,Gen_Main,Gojou,0000,0000,0000,,Poniendo vidas en la balanza.
+Dialogue: 0,0:13:28.68,0:13:30.24,Gen_Main,Kugizaki,0000,0000,0000,,¡Maldita sea!
+Dialogue: 0,0:13:30.49,0:13:32.24,Gen_Main,Kugizaki,0000,0000,0000,,¡Maldita sea!
+Dialogue: 0,0:13:32.83,0:13:35.49,Gen_Italics,Kugizaki,0000,0000,0000,,¡Esta Maldición ni siquiera es fuerte!
+Dialogue: 0,0:13:35.96,0:13:39.46,Gen_Italics,Kugizaki,0000,0000,0000,,¡Es de categoría 4!\N¡Puede que incluso de 3 inferior!
+Dialogue: 0,0:13:40.79,0:13:42.66,Gen_Italics,Kugizaki,0000,0000,0000,,¡Y lo sabe bien!
+Dialogue: 0,0:13:42.96,0:13:45.97,Gen_Italics,Kugizaki,0000,0000,0000,,¡Por eso tomó un rehén!
+Dialogue: 0,0:13:48.05,0:13:49.47,Gen_Italics,Kugizaki,0000,0000,0000,,Tranquilízate.
+Dialogue: 0,0:13:50.64,0:13:53.92,Gen_Italics,Kugizaki,0000,0000,0000,,Si mueres, el niño también.
+Dialogue: 0,0:13:54.43,0:13:57.51,Gen_Italics,Kugizaki,0000,0000,0000,,Si el niño muere, tú no.
+Dialogue: 0,0:13:59.56,0:14:02.77,Gen_Italics,Kugizaki,0000,0000,0000,,Si lo piensas racionalmente,
+Dialogue: 0,0:14:04.46,0:14:06.49,Gen_Italics,Kugizaki,0000,0000,0000,,lo mejor es que sobrevivas tú.
+Dialogue: 0,0:14:12.18,0:14:13.29,Gen_Main,Kugizaki,0000,0000,0000,,No tengo armas.
+Dialogue: 0,0:14:13.91,0:14:15.49,Gen_Main,Kugizaki,0000,0000,0000,,Déjalo ir.
+Dialogue: 0,0:14:22.04,0:14:23.56,Gen_Italics,Kugizaki,0000,0000,0000,,¡Eres una idiota!
+Dialogue: 0,0:14:24.38,0:14:26.69,Gen_Italics,Kugizaki,0000,0000,0000,,¿Ves? ¡No piensa dejarlo ir!
+Dialogue: 0,0:14:31.30,0:14:34.72,Gen_Main,Kugizaki,0000,0000,0000,,Desearía haber visto a Saori\Nuna última vez.
+Dialogue: 0,0:14:38.89,0:14:40.87,Gen_Main,Yuuji,0000,0000,0000,,¿Eh? ¿Fallé?
+Dialogue: 0,0:14:54.24,0:14:56.20,Gen_Main,Yuuji,0000,0000,0000,,-¿Estás bien?\N-Sí.
+Dialogue: 0,0:14:59.83,0:15:01.88,Gen_Main,Yuuji,0000,0000,0000,,-¡Se escapa!\N-¡No lo hará!
+Dialogue: 0,0:15:02.04,0:15:03.78,Gen_Main,Kugizaki,0000,0000,0000,,¡Itadori! ¡Dame su brazo!
+Dialogue: 0,0:15:07.73,0:15:09.33,Gen_Main,Fushiguro,0000,0000,0000,,-Lo exorcizaré.\N-Espera.
+Dialogue: 0,0:15:11.39,0:15:13.52,Gen_Main,Child,0000,0000,0000,,-¿Un muñeco vudú?\N-Qué miedo.
+Dialogue: 0,0:15:17.14,0:15:18.38,Gen_Main,Kugizaki,0000,0000,0000,,Técnica Vudú:
+Dialogue: 0,0:15:20.56,0:15:21.58,Gen_Main,Kugizaki,0000,0000,0000,,¡Resonancia!
+Dialogue: 0,0:15:30.76,0:15:33.46,Gen_Main,Gojou,0000,0000,0000,,Perfecto. Hábil y loca.
+Dialogue: 0,0:15:38.94,0:15:40.01,Gen_Main,Kugizaki,0000,0000,0000,,Ganamos.
+Dialogue: 0,0:15:47.00,0:15:51.01,Cart_C_Tre,Sign,0000,0000,0000,,{\3c&HCCD3CD&\4c&HCCD3CD&\c&H56258F&\move(307,19,274,19)}Puente peligroso\N{\c&H322227&}Inutilizable por deterioro
+Dialogue: 0,0:15:56.93,0:15:59.01,Gen_Italics,Kugizaki,0000,0000,0000,,Cuando estaba en primero de primaria,
+Dialogue: 0,0:16:00.25,0:16:02.99,Gen_Italics,Kugizaki,0000,0000,0000,,Saori se mudó a nuestro pueblo\Ndesde Tokio.
+Dialogue: 0,0:16:15.78,0:16:18.53,Gen_Italics,Kugizaki,0000,0000,0000,,Era linda como una muñeca
+Dialogue: 0,0:16:19.66,0:16:22.55,Gen_Italics,Kugizaki,0000,0000,0000,,y amable como una santa.
+Dialogue: 0,0:16:24.00,0:16:27.00,Cart_A_Tre,Screen,0000,0000,0000,,{\c&H232983&\shad0\frz11.52\move(338.4,157.6,255,95)\frx28\fry16\3c&H0C1023&}Libro de calcomanías
+Dialogue: 0,0:16:31.05,0:16:35.87,Gen_Italics,Kugizaki,0000,0000,0000,,Aun así, todos en el pueblo\Nexcluían a Saori.
+Dialogue: 0,0:16:39.73,0:16:42.20,Gen_Italics,Kugizaki,0000,0000,0000,,"Cree que los de provincia\Nsomos tontos".
+Dialogue: 0,0:16:42.81,0:16:45.48,Gen_Italics,Kugizaki,0000,0000,0000,,Se dejaron llevar por su paranoia
+Dialogue: 0,0:16:46.42,0:16:47.48,Gen_Italics,Kugizaki,0000,0000,0000,,hasta que…
+Dialogue: 0,0:16:51.48,0:16:56.49,Cart_A_Tre,Sign,0000,0000,0000,,{\3c&H343031&\shad0\c&HD4D3CE&\pos(218.4,182.4)}Se vende
+Dialogue: 0,0:16:51.82,0:16:53.02,Gen_Italics,Kugizaki,0000,0000,0000,,la echaron.
+Dialogue: 0,0:16:56.49,0:17:00.49,Cart_C_Tre,CarGlass,0000,0000,0000,,{\bord0\shad0\blur0.4\frx26\fry342\frz12.11\c&H1E1D1B&\pos(307.2,12)}Destrozado
+Dialogue: 0,0:16:56.49,0:17:00.49,Cart_C_Tre,CarHood,0000,0000,0000,,{\bord0\shad0\blur0.4\frx52\fry352\pos(119.2,140.8)\frz349.9}Basura
+Dialogue: 0,0:16:56.49,0:17:00.49,Cart_C_Tre,CarHood,0000,0000,0000,,{\bord0\shad0\blur0.4\frx40\fry2\pos(252.8,194.4)\frz354.9}Merecido ↑
+Dialogue: 0,0:16:56.49,0:17:00.49,Cart_C_Tre,CarHood,0000,0000,0000,,{\3c&HD5D4CB&\4c&HD5D4CB&\bord0\shad0\blur0.4\frx36\fry350\pos(194.4,264)}Vuelve a Tokio
+Dialogue: 0,0:16:56.49,0:17:00.49,Cart_C_Tre,CarDoor,0000,0000,0000,,{\3c&HD5D4CB&\bord0\shad0\blur0.56\4c&HD5D4CB&\frx344\fry48\fs28\pos(520,200)\frz22.52}Vete
+Dialogue: 0,0:16:56.99,0:16:59.16,Gen_Italics,Kugizaki,0000,0000,0000,,Llamarlo repugnante es poco.
+Dialogue: 0,0:17:03.97,0:17:06.76,Gen_Italics,Kugizaki,0000,0000,0000,,Me ofreció dulces caseros\Nque no conocía
+Dialogue: 0,0:17:07.14,0:17:11.79,Gen_Italics,Kugizaki,0000,0000,0000,,mientras decía con una sonrisa:\N"Las reposterías los hacen más ricos".
+Dialogue: 0,0:17:15.01,0:17:18.26,Cart_C_Tre,Sign,0000,0000,0000,,{\3c&HCCD3CD&\4c&HCCD3CD&\c&H5A4188&}Puente peligroso\N{\c&H44414a&}Inutilizable por deterioro
+Dialogue: 0,0:17:16.17,0:17:19.98,Gen_Italics,Kugizaki,0000,0000,0000,,Para mí, quedarme en ese pueblo…
+Dialogue: 0,0:17:22.27,0:17:25.12,Gen_Main,Yuuji,0000,0000,0000,,¡Por eso te dije que era peligroso\Nque anduvieras sola!
+Dialogue: 0,0:17:25.27,0:17:26.48,Gen_Main,Yuuji,0000,0000,0000,,¡Tómatelo en serio!
+Dialogue: 0,0:17:26.64,0:17:29.22,Gen_Main,Kugizaki,0000,0000,0000,,¡Nunca me dijiste\Nque era peligroso andar sola!
+Dialogue: 0,0:17:29.48,0:17:30.99,Gen_Main,Yuuji,0000,0000,0000,,¡¿No lo hice?!
+Dialogue: 0,0:17:31.15,0:17:34.95,Gen_Main,Kugizaki,0000,0000,0000,,¡¿Y qué diablos comes\Npara atravesar un muro con los puños?!
+Dialogue: 0,0:17:35.25,0:17:37.01,Gen_Main,Yuuji,0000,0000,0000,,¡No reforzaron el concreto!
+Dialogue: 0,0:17:37.16,0:17:39.84,Gen_Main,Kugizaki,0000,0000,0000,,¡Aunque no sea concreto reforzado,\Nno es normal!
+Dialogue: 0,0:17:41.45,0:17:42.79,Gen_Main,Yuuji,0000,0000,0000,,¿No es normal?
+Dialogue: 0,0:17:43.57,0:17:46.96,Gen_Main,Yuuji,0000,0000,0000,,Oye, ahora déjame\Nhacerte una pregunta a ti,
+Dialogue: 0,0:17:47.17,0:17:49.42,Gen_Main,Yuuji,0000,0000,0000,,¿por qué viniste a esta preparatoria?
+Dialogue: 0,0:17:49.64,0:17:50.72,Gen_Main,Kugizaki,0000,0000,0000,,¿Que por qué?
+Dialogue: 0,0:17:51.96,0:17:53.76,Gen_Main,Kugizaki& Screen,0000,0000,0000,,Porque odio el campo…
+Dialogue: 0,0:17:53.92,0:17:55.93,Gen_Main,Kugizaki& Screen,0000,0000,0000,,¡y quiero vivir en Tokio!
+Dialogue: 0,0:17:59.29,0:18:02.04,Gen_Main,Kugizaki,0000,0000,0000,,Era la única forma\Nde mudarme a la gran ciudad
+Dialogue: 0,0:18:02.20,0:18:03.76,Gen_Main,Kugizaki,0000,0000,0000,,sin preocuparme por el dinero.
+Dialogue: 0,0:18:04.02,0:18:06.36,Gen_Main,Yuuji,0000,0000,0000,,¿Es un buen motivo\Npara arriesgar la vida?
+Dialogue: 0,0:18:09.64,0:18:10.85,Gen_Main,Kugizaki,0000,0000,0000,,Claro que lo es.
+Dialogue: 0,0:18:15.09,0:18:17.28,Gen_Main,Kugizaki,0000,0000,0000,,Solo así podré ser fiel a mí misma.
+Dialogue: 0,0:18:21.10,0:18:24.41,Gen_Main,Kugizaki,0000,0000,0000,,Para mí, quedarme en ese pueblo\Nsería lo mismo que morir.
+Dialogue: 0,0:18:34.34,0:18:38.22,Gen_Italics,Kugizaki,0000,0000,0000,,Saori, por fin llegué a Tokio.
+Dialogue: 0,0:18:43.23,0:18:44.39,Gen_Italics,Kugizaki,0000,0000,0000,,Si nos encontramos,
+Dialogue: 0,0:18:45.63,0:18:48.98,Gen_Italics,Kugizaki,0000,0000,0000,,llévame a las reposterías\Nque me mencionaste.
+Dialogue: 0,0:18:54.11,0:18:57.38,Gen_Main,Kugizaki,0000,0000,0000,,Y, en ese sentido,\Ndebo darte las gracias.
+Dialogue: 0,0:18:57.68,0:19:00.73,Gen_Main,Kugizaki,0000,0000,0000,,Me habría quedado sin futuro\Nsi hubiese muerto
+Dialogue: 0,0:19:01.01,0:19:02.91,Gen_Main,Kugizaki,0000,0000,0000,,o sido la única en sobrevivir.
+Dialogue: 0,0:19:03.85,0:19:04.93,Gen_Main,Kugizaki,0000,0000,0000,,Gracias.
+Dialogue: 0,0:19:06.04,0:19:10.04,Gen_Main,Yuuji,0000,0000,0000,,Tampoco es como si nuestros motivos\Nnos hicieran mejores que otros.
+Dialogue: 0,0:19:10.37,0:19:12.77,Gen_Main,Kugizaki,0000,0000,0000,,¡En fin! ¡Ya te di las gracias!
+Dialogue: 0,0:19:12.92,0:19:14.72,Gen_Main,Kugizaki,0000,0000,0000,,¡Ahora estamos a mano!
+Dialogue: 0,0:19:14.88,0:19:16.29,Gen_Main,Yuuji,0000,0000,0000,,¿Y a esta qué le pasa?
+Dialogue: 0,0:19:17.67,0:19:20.24,Gen_Main,Child,0000,0000,0000,,¡Vivo por aquí, gracias!
+Dialogue: 0,0:19:23.46,0:19:26.39,Gen_Main,Kugizaki,0000,0000,0000,,¿Sabías que me pongo de mal humor\Ncuando tengo hambre?
+Dialogue: 0,0:19:26.66,0:19:28.72,Gen_Main,Yuuji,0000,0000,0000,,¿A veces sí estás de buen humor?
+Dialogue: 0,0:19:30.13,0:19:32.40,Gen_Main,Gojou,0000,0000,0000,,¡Buen trabajo, escarabajos!
+Dialogue: 0,0:19:32.93,0:19:34.82,Gen_Main,Gojou,0000,0000,0000,,Llevamos al niño a su casa.
+Dialogue: 0,0:19:36.77,0:19:38.45,Gen_Main,Gojou,0000,0000,0000,,¿Qué tal si vamos a comer?
+Dialogue: 0,0:19:39.53,0:19:41.99,Gen_Main,Yuuji,0000,0000,0000,,-¡Bistec!\N-¡Sushi!
+Dialogue: 0,0:19:43.26,0:19:44.88,Gen_Main,Gojou,0000,0000,0000,,¡Déjenmelo a mí!
+Dialogue: 0,0:19:45.03,0:19:46.05,Gen_Main,Gojou,0000,0000,0000,,¿Y tú, Megumi?
+Dialogue: 0,0:19:49.79,0:19:51.13,Gen_Main,Gojou,0000,0000,0000,,Bueno, ¿nos vamos?
+Dialogue: 0,0:19:54.83,0:19:58.00,Gen_Main,Kugizaki,0000,0000,0000,,Oh, casi me olvido de mis compras.
+Dialogue: 0,0:19:58.28,0:20:00.55,Gen_Main,Kugizaki,0000,0000,0000,,Oye, ve a buscar mis cosas.
+Dialogue: 0,0:19:59.13,0:20:01.13,Cart_C_Tre,Bubble,0000,0000,0000,,{\fad(200,0)\shad0\b0\3c&H87CA90&\pos(364,111.2)}Casilleros\N{\3c&HD89C76&}Harajuku{\b1\b0}
+Dialogue: 0,0:20:00.72,0:20:02.55,Gen_Main,Yuuji,0000,0000,0000,,¿Qué? ¿Por qué yo?
+Dialogue: 0,0:20:02.72,0:20:04.27,Gen_Main,Yuuji,0000,0000,0000,,¿No estábamos a mano?
+Dialogue: 0,0:20:04.43,0:20:07.32,Gen_Main,Kugizaki,0000,0000,0000,,Ganamos gracias a mi energía maldita.\N¿Algún problema?
+Dialogue: 0,0:20:07.51,0:20:09.57,Gen_Main,Yuuji,0000,0000,0000,,¿Y qué hay de mi fuerza bruta?
+Dialogue: 0,0:20:09.78,0:20:11.95,Gen_Main,Kugizaki,0000,0000,0000,,¿La que ganaste comiendo cochinadas?
+Dialogue: 0,0:20:12.10,0:20:13.58,Gen_Main,Yuuji,0000,0000,0000,,¡No es solo por eso!
+Dialogue: 0,0:20:13.73,0:20:14.79,Gen_Main,Yuuji,0000,0000,0000,,¿Cierto, Fushiguro?
+Dialogue: 0,0:20:15.95,0:20:17.92,Gen_Main,Yuuji,0000,0000,0000,,¿Eh? ¿Qué te pasa, Fushiguro?
+Dialogue: 0,0:20:18.23,0:20:20.75,Gen_Main,Fushiguro,0000,0000,0000,,-Nada.\N-Está de malas porque quería pelear.
+Dialogue: 0,0:20:21.76,0:20:23.09,Gen_Main,Kugizaki,0000,0000,0000,,Qué infantil.
+Dialogue: 0,0:20:30.99,0:20:33.77,Gen_Main,Narrator&Screen,0000,0000,0000,,Registro: julio de 2018.
+Dialogue: 0,0:20:34.02,0:20:36.92,Gen_Main,Narrator&Screen,0000,0000,0000,,Oeste de Tokio. Correccional Eishuu.
+Dialogue: 0,0:20:39.69,0:20:42.42,Gen_Main,Narrator&Screen,0000,0000,0000,,Sobre el patio de ejercicios.
+Dialogue: 0,0:20:44.61,0:20:45.65,Gen_Main,Boy,0000,0000,0000,,Oye…
+Dialogue: 0,0:20:47.23,0:20:48.42,Gen_Main,Boy,0000,0000,0000,,¿Qué será eso?
+Dialogue: 0,0:20:49.68,0:20:50.68,Gen_Main,Okazaki,0000,0000,0000,,¿Qué cosa?
+Dialogue: 0,0:20:51.15,0:20:54.64,Gen_Main,Narrator&Screen,0000,0000,0000,,Aparición sin nombre\Nde posible categoría especial.
+Dialogue: 0,0:20:55.12,0:20:58.91,Gen_Main,Narrator&Screen,0000,0000,0000,,Varios civiles fueron capaces\Nde ver su Vientre Maldito.
+Dialogue: 0,0:21:00.38,0:21:02.16,Gen_Main,Boy,0000,0000,0000,,¡Mira eso! ¡Parece un huevo!
+Dialogue: 0,0:21:02.53,0:21:04.11,Gen_Main,Okazaki,0000,0000,0000,,Yo no veo nada.
+Dialogue: 0,0:21:05.64,0:21:07.23,Gen_Main,Narrator&Screen,0000,0000,0000,,Dada la urgencia,
+Dialogue: 0,0:21:07.41,0:21:10.33,Gen_Main,Narrator&Screen,0000,0000,0000,,se envió a tres alumnos\Nde la Academia de Hechicería,
+Dialogue: 0,0:21:11.09,0:21:13.36,Gen_Main,Narrator&Screen,0000,0000,0000,,de los cuales… uno falleció.
+Dialogue: 0,0:22:44.92,0:22:47.21,Cart_C_Tre,Screen&Voice,0000,0000,0000,,{\bord0\shad0\fs30\frz25.38\pos(440.8,67.2)}Juju-Cortos
+Dialogue: 0,0:22:45.36,0:22:47.21,Gen_Main,Screen&Voice,0000,0000,0000,,Juju-Cortos.
+Dialogue: 0,0:22:47.76,0:22:49.73,Gen_Main,Kugizaki,0000,0000,0000,,Itadori. Voy a lanzar papel.
+Dialogue: 0,0:22:50.72,0:22:52.45,Gen_Main,Both,0000,0000,0000,,¡Piedra, papel o tijeras!
+Dialogue: 0,0:22:52.72,0:22:53.85,Gen_Main,Kugizaki,0000,0000,0000,,-¡Eso!\N-¡¿Qué?!
+Dialogue: 0,0:22:54.01,0:22:56.66,Gen_Main,Gojou,0000,0000,0000,,¿Sushi? ¿Vamos al local\Nde siempre en Ginza?
+Dialogue: 0,0:22:56.81,0:22:58.86,Gen_Main,Kugizaki,0000,0000,0000,,¡Viva Ginza!
+Dialogue: 0,0:22:59.02,0:23:01.36,Gen_Main,Yuuji,0000,0000,0000,,-Quiero sushi en cinta transportadora.\N-¿Qué?
+Dialogue: 0,0:23:01.56,0:23:03.19,Gen_Main,Kugizaki,0000,0000,0000,,¡Bah! ¡Itadori, eres un…!
+Dialogue: 0,0:23:03.36,0:23:04.86,Gen_Main,Kugizaki,0000,0000,0000,,¡Bah! ¡Dile algo, Fushiguro!
+Dialogue: 0,0:23:05.32,0:23:08.38,Gen_Main,Fushiguro,0000,0000,0000,,Preferiría un sitio más refinado,\Nel profesor paga.
+Dialogue: 0,0:23:08.53,0:23:12.70,Gen_Main,Itadori,0000,0000,0000,,¡No es sushi normal! ¡Es como comparar\Nel yakisoba y los fideos instantáneos!
+Dialogue: 0,0:23:12.87,0:23:14.49,Gen_Main,Kugizaki,0000,0000,0000,,Pero yo quiero sushi normal.
+Dialogue: 0,0:23:14.67,0:23:17.44,Gen_Main,Itadori,0000,0000,0000,,¡El sushi solo es comida,\Nlo otro es una experiencia!
+Dialogue: 0,0:23:17.62,0:23:19.37,Gen_Main,Itadori,0000,0000,0000,,¡Es como un parque de diversiones!
+Dialogue: 0,0:23:19.54,0:23:23.31,Gen_Main,Itadori,0000,0000,0000,,Tú también eres de provincia,\N¿ya has comido sushi en cinta?
+Dialogue: 0,0:23:23.85,0:23:27.52,Gen_Main,Gojou,0000,0000,0000,,Aunque mi favorito es Sushi Go,\Nllevaría a un primerizo a Rippa Sushi.
+Dialogue: 0,0:23:27.87,0:23:30.51,Gen_Main,Itadori,0000,0000,0000,,-¡Tú sí que sabes, profe!\N-No decidan sin mí.
+Dialogue: 0,0:23:30.81,0:23:32.42,Gen_Main,Itadori,0000,0000,0000,,Kugizaki, presta atención.
+Dialogue: 0,0:23:32.80,0:23:34.01,Gen_Main,Itadori,0000,0000,0000,,En Rippa Sushi…
+Dialogue: 0,0:23:34.46,0:23:36.78,Gen_Main,Itadori,0000,0000,0000,,te sirven el sushi en un tren bala.
+Dialogue: 0,0:23:38.54,0:23:41.47,Gen_Main,Itadori,0000,0000,0000,,¡Chofer, ella no conoce\Nel sushi en cinta transportadora!
+Dialogue: 0,0:23:41.19,0:23:44.94,Cart_A_Tim,Screen,0000,0000,0000,,{\shad0\an7\pos(144.8,17.6)\bord1.5\blur0.4\fs22}* Procuren viajar\Nde forma adecuada y segura
+Dialogue: 0,0:23:41.64,0:23:44.48,Gen_Main,Itadori,0000,0000,0000,,¡Llévenos al Rippa Sushi\Ncon el estacionamiento enorme!
+Dialogue: 0,0:23:51.49,0:23:54.95,Cart_TitleNext,Screen,0000,0000,0000,,{\fad(984,1)}Episodio 4\N{\fs26}La existencia terrenal\Ndel Vientre Maldito

@@ -1,0 +1,444 @@
+[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:09.11,0:00:14.24,Show_Title,Screen,0000,0000,0000,,{\fad(550,1000)\pos(320,10)}JUJUTSU KAISEN\N{\fs16\bord0\fscy100}Hidden Inventory/Premature Death
+Dialogue: 0,0:01:29.98,0:01:31.98,Sign_Basic,Screen,0000,0000,0000,,{\bord0\shad0\fnTimes New Roman\b1\fs30\pos(325,320)\fscy130}1 Year Later\NAugust 2007
+Dialogue: 0,0:01:32.97,0:01:34.82,Main,Shoko,0000,0000,0000,,Here we go.
+Dialogue: 0,0:01:39.68,0:01:41.45,Main,Gojo,0000,0000,0000,,Yeah, it's working.
+Dialogue: 0,0:01:41.45,0:01:44.28,Main,Shoko,0000,0000,0000,,Ugh, what the heck was that?
+Dialogue: 0,0:01:44.28,0:01:46.91,Main,Geto,0000,0000,0000,,Automatic selection of targets \Nfor your jujutsu technique?
+Dialogue: 0,0:01:46.91,0:01:47.91,Main,Gojo,0000,0000,0000,,Yup.
+Dialogue: 0,0:01:47.91,0:01:51.05,Main,Gojo,0000,0000,0000,,Though, to be precise, \NI'm the target for the technique.
+Dialogue: 0,0:01:51.40,0:01:54.63,Main,Gojo,0000,0000,0000,,I've automated what I used to do manually.
+Dialogue: 0,0:01:54.63,0:01:56.42,Main,Gojo,0000,0000,0000,,Now it can discern an object's danger level
+Dialogue: 0,0:01:56.71,0:02:01.30,Main,Gojo,0000,0000,0000,,based on the strength of its cursed energy, \Nits mass, its velocity, and its shape.
+Dialogue: 0,0:02:01.30,0:02:04.49,Main,Gojo,0000,0000,0000,,I'd like to get it to discern poisons, too,
+Dialogue: 0,0:02:04.49,0:02:06.47,Main,Gojo,0000,0000,0000,,but that's still proving difficult.
+Dialogue: 0,0:02:06.47,0:02:09.11,Main,Gojo,0000,0000,0000,,This will allow me to keep \Nmy Limitless technique active
+Dialogue: 0,0:02:09.11,0:02:11.61,Main,Gojo,0000,0000,0000,,almost perpetually with minimal resources.
+Dialogue: 0,0:02:11.61,0:02:14.57,Main,Shoko,0000,0000,0000,,Having it perpetually active \Nwill fry your brain.
+Dialogue: 0,0:02:14.57,0:02:17.01,Main,Gojo,0000,0000,0000,,But I can also keep running \Nthe reverse cursed technique
+Dialogue: 0,0:02:17.01,0:02:18.66,Main,Gojo,0000,0000,0000,,with the energy I generate on my own.
+Dialogue: 0,0:02:18.66,0:02:21.20,Main,Gojo,0000,0000,0000,,So I'm constantly giving it \Na fresh brain to work with.
+Dialogue: 0,0:02:21.97,0:02:24.75,Main,Gojo,0000,0000,0000,,I'd already been working on shortening \Nmy hand seals. That's nailed now, too.
+Dialogue: 0,0:02:24.75,0:02:30.00,Main,Gojo,0000,0000,0000,,So I can also activate multiple \Ninstances of Blue and Red simultaneously.
+Dialogue: 0,0:02:30.00,0:02:31.42,Main,Gojo,0000,0000,0000,,The only remaining hurdles are
+Dialogue: 0,0:02:31.42,0:02:34.17,Main,Gojo,0000,0000,0000,,Domain Expansion and \Nteleportation over long distances.
+Dialogue: 0,0:02:34.67,0:02:36.83,Main,Gojo,0000,0000,0000,,I should be able to get \Nthat down if we set up
+Dialogue: 0,0:02:36.83,0:02:39.67,Main,Gojo,0000,0000,0000,,some courses without any \Nobstacles in Jujutsu High.
+Dialogue: 0,0:02:40.09,0:02:42.96,Main,Gojo,0000,0000,0000,,Shoko, could you lend me some lab rats?
+Dialogue: 0,0:02:42.96,0:02:44.23,Main,Shoko,0000,0000,0000,,Uh...
+Dialogue: 0,0:02:44.23,0:02:46.53,Italics,Geto,0000,0000,0000,,Satoru had become the "strongest."
+Dialogue: 0,0:02:46.53,0:02:49.20,Main,Gojo,0000,0000,0000,,Suguru, have you lost weight?
+Dialogue: 0,0:02:49.20,0:02:50.28,Main,Gojo,0000,0000,0000,,You okay?
+Dialogue: 0,0:02:50.64,0:02:53.64,Italics,Geto,0000,0000,0000,,He handled all of his missions alone,
+Dialogue: 0,0:02:53.64,0:02:57.27,Italics,Geto,0000,0000,0000,,and Shoko was never sent out on \Ndangerous missions in the first place,
+Dialogue: 0,0:02:57.71,0:03:01.13,Italics,Geto,0000,0000,0000,,which naturally meant I was sent \Non missions alone more often, too.
+Dialogue: 0,0:03:01.53,0:03:03.33,Main,Geto,0000,0000,0000,,It's just heat fatigue.
+Dialogue: 0,0:03:03.33,0:03:04.80,Main,Geto,0000,0000,0000,,I'll be fine.
+Dialogue: 0,0:03:05.55,0:03:07.29,Main,Gojo,0000,0000,0000,,Did you eat too much somen?
+Dialogue: 0,0:03:08.78,0:03:11.23,Italics,Geto,0000,0000,0000,,Things were busy that summer.
+Dialogue: 0,0:03:12.54,0:03:15.55,Ep_Title,Screen,0000,0000,0000,,Episode 29\N{\fs30\fscy150}Premature Death
+Dialogue: 0,0:03:16.29,0:03:19.84,Italics,Geto,0000,0000,0000,,Likely spurred by the frequent \Ndisasters of the past year,
+Dialogue: 0,0:03:20.55,0:03:22.93,Italics,Geto,0000,0000,0000,,cursed spirits were \Nspringing up like maggots.
+Dialogue: 0,0:03:24.43,0:03:26.67,Italics,Geto,0000,0000,0000,,Exorcise, absorb.
+Dialogue: 0,0:03:26.67,0:03:28.05,Italics,Geto,0000,0000,0000,,Over and over.
+Dialogue: 0,0:03:28.64,0:03:29.54,Italics,Geto,0000,0000,0000,,Exorcise.
+Dialogue: 0,0:03:29.54,0:03:30.51,Italics,Geto,0000,0000,0000,,Absorb.
+Dialogue: 0,0:03:31.52,0:03:34.43,Italics,Geto,0000,0000,0000,,No one else understands \Nwhat cursed spirits taste like.
+Dialogue: 0,0:03:34.87,0:03:38.27,Italics,Geto,0000,0000,0000,,It's like swallowing a dirty rag that's \Nbeen used to clean up shit and vomit.
+Dialogue: 0,0:03:40.98,0:03:42.41,Italics,Geto,0000,0000,0000,,Who am I doing this for?
+Dialogue: 0,0:03:46.44,0:03:47.59,Italics,Geto,0000,0000,0000,,Exorcise.
+Dialogue: 0,0:03:47.59,0:03:48.41,Italics,Geto,0000,0000,0000,,Absorb.
+Dialogue: 0,0:03:49.39,0:03:52.76,Italics,Geto,0000,0000,0000,,Ever since that day, \NI've been telling myself,
+Dialogue: 0,0:03:52.76,0:03:55.51,Italics,Geto,0000,0000,0000,,"What I witnessed isn't uncommon."
+Dialogue: 0,0:03:55.51,0:03:59.44,Italics,Geto,0000,0000,0000,,"I understood the ugliness of the masses,
+Dialogue: 0,0:03:59.44,0:04:03.84,Italics,Geto,0000,0000,0000,,"and still chose to be a \Njujutsu sorcerer to save others."
+Dialogue: 0,0:04:13.29,0:04:14.40,Italics,Geto,0000,0000,0000,,"Don't waver."
+Dialogue: 0,0:04:14.90,0:04:17.35,Italics,Geto,0000,0000,0000,,"Fulfill your duty as a \Nstrong jujutsu sorcerer."
+Dialogue: 0,0:04:36.91,0:04:38.38,Main,Geto,0000,0000,0000,,Damn monkeys...
+Dialogue: 0,0:04:41.80,0:04:43.08,Main,Haibara,0000,0000,0000,,Geto-san!
+Dialogue: 0,0:04:44.40,0:04:45.76,Main,Geto,0000,0000,0000,,Haibara...
+Dialogue: 0,0:04:46.67,0:04:48.19,Main,Haibara,0000,0000,0000,,Good work out there!
+Dialogue: 0,0:04:48.63,0:04:50.01,Main,Geto,0000,0000,0000,,Want something to drink?
+Dialogue: 0,0:04:50.21,0:04:52.57,Main,Haibara,0000,0000,0000,,Huh? No, I'd feel bad!
+Dialogue: 0,0:04:52.57,0:04:53.55,Main,Haibara,0000,0000,0000,,But I'll take a cola!
+Dialogue: 0,0:04:56.51,0:04:59.65,Main,Haibara,0000,0000,0000,,I'm going pretty far away \Nfor my mission tomorrow.
+Dialogue: 0,0:04:59.65,0:05:00.83,Main,Geto,0000,0000,0000,,That so?
+Dialogue: 0,0:05:00.83,0:05:02.27,Main,Geto,0000,0000,0000,,Bring back souvenirs.
+Dialogue: 0,0:05:02.27,0:05:03.48,Main,Haibara,0000,0000,0000,,Of course!
+Dialogue: 0,0:05:03.48,0:05:06.52,Main,Haibara,0000,0000,0000,,Do you prefer sweet stuff or salty stuff?
+Dialogue: 0,0:05:07.30,0:05:11.16,Main,Geto,0000,0000,0000,,Satoru might eat some, too, so... sweet, I guess?
+Dialogue: 0,0:05:11.38,0:05:12.75,Main,Geto,0000,0000,0000,,Got it!
+Dialogue: 0,0:05:16.65,0:05:17.73,Main,Geto,0000,0000,0000,,Haibara...
+Dialogue: 0,0:05:18.20,0:05:21.79,Main,Geto,0000,0000,0000,,Do you think you can keep going as a \Njujutsu sorcerer? It's not too hard for you?
+Dialogue: 0,0:05:23.28,0:05:24.63,Main,Haibara,0000,0000,0000,,Well...
+Dialogue: 0,0:05:25.73,0:05:29.51,Main,Haibara,0000,0000,0000,,I'm not really one to think \Nabout things too deeply,
+Dialogue: 0,0:05:29.83,0:05:34.14,Main,Haibara,0000,0000,0000,,so it feels really good to be able to \Ngive my all to something I can actually do.
+Dialogue: 0,0:05:36.07,0:05:37.20,Main,Geto,0000,0000,0000,,I see.
+Dialogue: 0,0:05:38.09,0:05:39.20,Main,Geto,0000,0000,0000,,Yeah, it does.
+Dialogue: 0,0:05:43.73,0:05:45.44,Main,Tsukumo,0000,0000,0000,,Are you Geto-kun?
+Dialogue: 0,0:05:46.31,0:05:49.01,Main,Tsukumo,0000,0000,0000,,What kind of woman is your type?
+Dialogue: 0,0:05:50.52,0:05:52.00,Main,Geto,0000,0000,0000,,Who are you?
+Dialogue: 0,0:05:52.78,0:05:55.18,Main,Haibara,0000,0000,0000,,I like girls who eat a lot!
+Dialogue: 0,0:05:55.18,0:05:56.16,Main,Tsukumo,0000,0000,0000,,Oh?
+Dialogue: 0,0:05:56.16,0:05:57.66,Main,Geto,0000,0000,0000,,Haibara...
+Dialogue: 0,0:05:57.66,0:05:59.59,Main,Haibara,0000,0000,0000,,It's okay.
+Dialogue: 0,0:05:59.59,0:06:01.35,Main,Haibara,0000,0000,0000,,She's not a bad person.
+Dialogue: 0,0:06:01.35,0:06:03.67,Main,Haibara,0000,0000,0000,,I'm a great judge of character!
+Dialogue: 0,0:06:03.88,0:06:06.51,Main,Geto,0000,0000,0000,,You say that while sitting next to me?
+Dialogue: 0,0:06:07.97,0:06:09.07,Main,Haibara,0000,0000,0000,,Yes!
+Dialogue: 0,0:06:10.88,0:06:13.49,Main,Tsukumo,0000,0000,0000,,He was being sarcastic, you know.
+Dialogue: 0,0:06:14.87,0:06:16.05,Main,Haibara,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:06:17.19,0:06:18.65,Main,Tsukumo,0000,0000,0000,,Your underclassman?
+Dialogue: 0,0:06:18.65,0:06:20.78,Main,Tsukumo,0000,0000,0000,,He's cute. I like how frank he is.
+Dialogue: 0,0:06:20.78,0:06:24.09,Main,Geto,0000,0000,0000,,I think he should be more \Nsuspicious of people as a sorcerer.
+Dialogue: 0,0:06:24.09,0:06:27.82,Main,Tsukumo,0000,0000,0000,,So, are you not going to answer?
+Dialogue: 0,0:06:28.30,0:06:31.06,Main,Geto,0000,0000,0000,,Please answer my question first.
+Dialogue: 0,0:06:31.06,0:06:32.33,Main,Geto,0000,0000,0000,,Who are you?
+Dialogue: 0,0:06:32.67,0:06:35.44,Main,Tsukumo,0000,0000,0000,,Special-grade sorcerer Yuki Tsukumo.
+Dialogue: 0,0:06:35.44,0:06:37.24,Main,Tsukumo,0000,0000,0000,,That ring any bells?
+Dialogue: 0,0:06:38.03,0:06:39.51,Main,Geto,0000,0000,0000,,You're {\i1}her{\i0}?
+Dialogue: 0,0:06:39.51,0:06:42.08,Main,Tsukumo,0000,0000,0000,,Oh, I like the sound of that! What do they say?
+Dialogue: 0,0:06:43.20,0:06:46.19,Main,Geto,0000,0000,0000,,That you're a special-grade \Nwho never accepts any missions,
+Dialogue: 0,0:06:46.19,0:06:49.47,Main,Geto,0000,0000,0000,,and you're a good-for-nothing \Nwho's been wandering around abroad.
+Dialogue: 0,0:06:49.47,0:06:52.57,Main,Tsukumo,0000,0000,0000,,I hate Jujutsu High.
+Dialogue: 0,0:06:52.51,0:06:53.47,Sign_Basic,Geto,0000,0000,0000,,{\fad(425,0)\fnComic Sans MS\b1\3c&HFFFFFF&\c&H474A49&\shad0\bord1\frz281.8\pos(110.666,92)}She's pouting...
+Dialogue: 0,0:06:52.57,0:06:53.47,Italics,Geto,0000,0000,0000,,She's pouting.
+Dialogue: 0,0:06:53.91,0:06:55.12,Main,Tsukumo,0000,0000,0000,,I'm joking.
+Dialogue: 0,0:06:55.12,0:06:59.25,Main,Tsukumo,0000,0000,0000,,Though it's true that I don't get along \Nwith Jujutsu High's policies.
+Dialogue: 0,0:06:59.25,0:07:02.84,Main,Tsukumo,0000,0000,0000,,What they're doing is just treating symptoms,
+Dialogue: 0,0:07:02.84,0:07:05.36,Main,Tsukumo,0000,0000,0000,,and I want to do something \Nto treat the cause.
+Dialogue: 0,0:07:05.75,0:07:07.57,Main,Geto,0000,0000,0000,,Treat the cause?
+Dialogue: 0,0:07:07.57,0:07:09.87,Main,Tsukumo,0000,0000,0000,,Rather than hunt down cursed spirits,
+Dialogue: 0,0:07:09.87,0:07:13.03,Main,Tsukumo,0000,0000,0000,,I want to create a world \Nwhere cursed spirits aren't born.
+Dialogue: 0,0:07:15.79,0:07:17.66,Main,Tsukumo,0000,0000,0000,,Care for a little lesson?
+Dialogue: 0,0:07:18.13,0:07:20.65,Main,Tsukumo,0000,0000,0000,,What are cursed spirits to begin with?
+Dialogue: 0,0:07:20.65,0:07:23.48,Main,Geto,0000,0000,0000,,They're creatures that take \Nshape when cursed energy
+Dialogue: 0,0:07:23.48,0:07:26.79,Main,Geto,0000,0000,0000,,leaking from humans \Nbuilds up like sediment.
+Dialogue: 0,0:07:26.79,0:07:28.65,Main,Tsukumo,0000,0000,0000,,Excellent.
+Dialogue: 0,0:07:28.65,0:07:33.05,Main,Tsukumo,0000,0000,0000,,Now this means there are two ways to create \Na world where cursed spirits aren't born.
+Dialogue: 0,0:07:33.05,0:07:36.99,Main,Tsukumo,0000,0000,0000,,One: Eliminate cursed energy from mankind.
+Dialogue: 0,0:07:36.99,0:07:41.06,Main,Tsukumo,0000,0000,0000,,Two: Make it possible for all of humanity \Nto control their cursed energy.
+Dialogue: 0,0:07:41.29,0:07:44.82,Main,Tsukumo,0000,0000,0000,,I thought number one had a \Npretty good chance of working.
+Dialogue: 0,0:07:45.21,0:07:47.05,Main,Tsukumo,0000,0000,0000,,There was a model case for it, too.
+Dialogue: 0,0:07:47.05,0:07:48.51,Main,Geto,0000,0000,0000,,A model case?
+Dialogue: 0,0:07:48.51,0:07:50.78,Main,Tsukumo,0000,0000,0000,,Someone you know well.
+Dialogue: 0,0:07:50.78,0:07:52.40,Main,Tsukumo,0000,0000,0000,,Toji Zen'in.
+Dialogue: 0,0:07:53.30,0:07:55.84,Main,Tsukumo,0000,0000,0000,,I've seen plenty of cases \Nwhere a Heavenly Pact reduced
+Dialogue: 0,0:07:55.84,0:07:58.76,Main,Tsukumo,0000,0000,0000,,a person's cursed energy to the \Nlevel of your average person,
+Dialogue: 0,0:07:58.76,0:08:00.90,Main,Tsukumo,0000,0000,0000,,but you could search the \Nwhole world only to find
+Dialogue: 0,0:08:00.90,0:08:03.55,Main,Tsukumo,0000,0000,0000,,he was the only case in which \Nthat cursed energy dropped to zero.
+Dialogue: 0,0:08:04.51,0:08:07.98,Main,Tsukumo,0000,0000,0000,,That wasn't the only intriguing \Nthing about him, either.
+Dialogue: 0,0:08:08.41,0:08:11.66,Main,Tsukumo,0000,0000,0000,,Even though Zen'in Toji \Nhad zero cursed energy,
+Dialogue: 0,0:08:11.66,0:08:14.08,Main,Tsukumo,0000,0000,0000,,he was able to perceive cursed \Nspirits with his five senses.
+Dialogue: 0,0:08:14.08,0:08:16.43,Main,Tsukumo,0000,0000,0000,,By completely casting aside cursed energy,
+Dialogue: 0,0:08:16.43,0:08:18.29,Main,Tsukumo,0000,0000,0000,,his body drew a hard line
+Dialogue: 0,0:08:18.29,0:08:21.18,Main,Tsukumo,0000,0000,0000,,and actually gave him \Ngreat resistance to curses.
+Dialogue: 0,0:08:21.41,0:08:23.28,Main,Tsukumo,0000,0000,0000,,He truly was superhuman.
+Dialogue: 0,0:08:23.66,0:08:25.81,Main,Tsukumo,0000,0000,0000,,You shouldn't be ashamed of losing to him.
+Dialogue: 0,0:08:26.74,0:08:30.73,Main,Tsukumo,0000,0000,0000,,I wanted to try studying him, \Nbut he turned me down.
+Dialogue: 0,0:08:30.73,0:08:32.69,Main,Tsukumo,0000,0000,0000,,It was a real shame to lose him.
+Dialogue: 0,0:08:33.19,0:08:35.66,Main,Tsukumo,0000,0000,0000,,And there aren't many people \Nwith Heavenly Pacts,
+Dialogue: 0,0:08:35.66,0:08:38.35,Main,Tsukumo,0000,0000,0000,,so I'm currently favoring route number two,
+Dialogue: 0,0:08:38.35,0:08:42.04,Main,Tsukumo,0000,0000,0000,,making it possible for all of humanity \Nto control their cursed energy.
+Dialogue: 0,0:08:42.88,0:08:44.04,Main,Tsukumo,0000,0000,0000,,Did you know?
+Dialogue: 0,0:08:44.52,0:08:46.99,Main,Tsukumo,0000,0000,0000,,Cursed spirits aren't born from sorcerers.
+Dialogue: 0,0:08:47.94,0:08:50.85,Main,Tsukumo,0000,0000,0000,,Of course, that excludes cases \Nwhere the jujutsu sorcerer
+Dialogue: 0,0:08:50.85,0:08:52.64,Main,Tsukumo,0000,0000,0000,,turns themselves into a curse after death.
+Dialogue: 0,0:08:53.25,0:08:57.79,Main,Tsukumo,0000,0000,0000,,Compared to non-sorcerers, jujutsu sorcerers \Nleak extremely little cursed energy.
+Dialogue: 0,0:08:58.14,0:09:00.26,Main,Tsukumo,0000,0000,0000,,There's some variance based \Non the sorcerer's capacity
+Dialogue: 0,0:09:00.26,0:09:02.56,Main,Tsukumo,0000,0000,0000,,and the amount of cursed \Nenergy their technique expends,
+Dialogue: 0,0:09:02.88,0:09:05.16,Main,Tsukumo,0000,0000,0000,,but the main reason is their flow.
+Dialogue: 0,0:09:05.16,0:09:09.52,Main,Tsukumo,0000,0000,0000,,Jujutsu sorcerers circulate cursed \Nenergy through their own bodies well.
+Dialogue: 0,0:09:09.52,0:09:11.45,Main,Tsukumo,0000,0000,0000,,To put it in rough, general terms,
+Dialogue: 0,0:09:11.45,0:09:14.05,Main,Tsukumo,0000,0000,0000,,if all of mankind were jujutsu sorcerers,
+Dialogue: 0,0:09:14.05,0:09:15.79,Main,Tsukumo,0000,0000,0000,,curses wouldn't be born.
+Dialogue: 0,0:09:17.00,0:09:21.29,Main,Geto,0000,0000,0000,,Then you could solve it simply \Nby killing all non-sorcerers.
+Dialogue: 0,0:09:23.32,0:09:24.74,Main,Tsukumo,0000,0000,0000,,Geto-kun.
+Dialogue: 0,0:09:25.71,0:09:27.62,Main,Tsukumo,0000,0000,0000,,That's possible.
+Dialogue: 0,0:09:27.62,0:09:29.27,Main,Geto,0000,0000,0000,,Huh? But...
+Dialogue: 0,0:09:30.51,0:09:34.30,Main,Tsukumo,0000,0000,0000,,I mean, that's probably \Nthe easiest way to achieve it.
+Dialogue: 0,0:09:34.75,0:09:37.08,Main,Tsukumo,0000,0000,0000,,Just keep culling non-sorcerers and
+Dialogue: 0,0:09:37.08,0:09:40.50,Main,Tsukumo,0000,0000,0000,,force them to adapt into sorcerers \Nas a survival strategy.
+Dialogue: 0,0:09:40.50,0:09:45.55,Main,Tsukumo,0000,0000,0000,,You would be forcing them to \Nevolve using fear and danger,
+Dialogue: 0,0:09:45.55,0:09:48.31,Main,Tsukumo,0000,0000,0000,,the same way birds gained wings.
+Dialogue: 0,0:09:48.31,0:09:52.35,Main,Tsukumo,0000,0000,0000,,But unfortunately, I'm not \Ncrazy enough to do that.
+Dialogue: 0,0:09:52.35,0:09:55.57,Main,Tsukumo,0000,0000,0000,,Do you hate non-sorcerers, Geto-kun?
+Dialogue: 0,0:09:59.53,0:10:01.29,Main,Geto,0000,0000,0000,,I don't know.
+Dialogue: 0,0:10:01.29,0:10:05.27,Main,Geto,0000,0000,0000,,I always thought jujutsu sorcery \Nexisted to protect non-sorcerers.
+Dialogue: 0,0:10:05.27,0:10:08.06,Main,Geto,0000,0000,0000,,But lately, the value of non-sorcerers
+Dialogue: 0,0:10:08.06,0:10:10.61,Main,Geto,0000,0000,0000,,has been wavering in my mind.
+Dialogue: 0,0:10:11.11,0:10:13.04,Main,Geto,0000,0000,0000,,The admirability of the weak...
+Dialogue: 0,0:10:13.04,0:10:14.96,Main,Geto,0000,0000,0000,,The ugliness of the weak...
+Dialogue: 0,0:10:14.96,0:10:18.47,Main,Geto,0000,0000,0000,,I find myself struggling to discern \Nthe difference and accept those things.
+Dialogue: 0,0:10:18.93,0:10:20.80,Main,Geto,0000,0000,0000,,There's a part of me \Nthat despises non-sorcerers,
+Dialogue: 0,0:10:20.80,0:10:22.89,Main,Geto,0000,0000,0000,,and a part of me that wants to reject that part.
+Dialogue: 0,0:10:22.89,0:10:25.47,Main,Geto,0000,0000,0000,,My vision for what lies at \Nthe end of the marathon game
+Dialogue: 0,0:10:25.47,0:10:27.89,Main,Geto,0000,0000,0000,,of being a jujutsu sorcerer is so vague now
+Dialogue: 0,0:10:28.44,0:10:30.63,Main,Geto,0000,0000,0000,,that I can't tell which \Nrepresents how I truly feel.
+Dialogue: 0,0:10:31.62,0:10:33.91,Main,Tsukumo,0000,0000,0000,,Neither one is how you truly feel.
+Dialogue: 0,0:10:37.52,0:10:39.65,Main,Tsukumo,0000,0000,0000,,You're not at that stage yet.
+Dialogue: 0,0:10:39.65,0:10:42.15,Main,Tsukumo,0000,0000,0000,,This part of you despising non-sorcerers,
+Dialogue: 0,0:10:42.15,0:10:44.41,Main,Tsukumo,0000,0000,0000,,and this part of you rejecting that,
+Dialogue: 0,0:10:44.63,0:10:47.73,Main,Tsukumo,0000,0000,0000,,are both just possibilities \Nthat you're considering.
+Dialogue: 0,0:10:48.16,0:10:50.40,Main,Tsukumo,0000,0000,0000,,It's up to you to choose which part
+Dialogue: 0,0:10:50.40,0:10:53.02,Main,Tsukumo,0000,0000,0000,,becomes your true \Nfeelings from here on out.
+Dialogue: 0,0:10:56.79,0:10:58.06,Main,Tsukumo,0000,0000,0000,,See you later.
+Dialogue: 0,0:10:58.06,0:11:01.18,Main,Tsukumo,0000,0000,0000,,It's a shame I didn't get to \Ntalk to Gojo-kun, too,
+Dialogue: 0,0:11:01.18,0:11:03.08,Main,Tsukumo,0000,0000,0000,,but it looks like I missed him today.
+Dialogue: 0,0:11:03.55,0:11:06.91,Main,Tsukumo,0000,0000,0000,,I hope the three of us can all \Nget along as fellow special-grades.
+Dialogue: 0,0:11:08.14,0:11:10.96,Main,Geto,0000,0000,0000,,I'll pass that along to Satoru.
+Dialogue: 0,0:11:11.53,0:11:14.20,Main,Tsukumo,0000,0000,0000,,Oh, right, one last thing.
+Dialogue: 0,0:11:14.20,0:11:17.09,Main,Tsukumo,0000,0000,0000,,You don't need to worry \Nabout the Star Plasma Vessel.
+Dialogue: 0,0:11:17.09,0:11:20.74,Main,Tsukumo,0000,0000,0000,,Either there was already another \NStar Plasma Vessel at the time,
+Dialogue: 0,0:11:20.74,0:11:24.18,Main,Tsukumo,0000,0000,0000,,or a new Star Plasma Vessel \Nhas already been born.
+Dialogue: 0,0:11:24.65,0:11:28.09,Main,Tsukumo,0000,0000,0000,,Either way, Tengen is stable.
+Dialogue: 0,0:11:32.19,0:11:33.46,Main,Geto,0000,0000,0000,,I'm sure.
+Dialogue: 0,0:11:34.48,0:11:34.86,Sign_Basic,Tsukumo,0000,0000,0000,,{\fad(1,84)\pos(295,74)\fnComic Sans MS\c&H141B15&\3c&HC1CACC&}Oh...
+Dialogue: 0,0:11:34.48,0:11:37.35,Main,Tsukumo,0000,0000,0000,,Oh, I didn't get his type.
+Dialogue: 0,0:11:35.77,0:11:36.61,Main,Tsukumo,0000,0000,0000,,{\fad(84,84)\fnComic Sans MS\c&H141B15&\3c&HC1CACC&\pos(240,80)}I didn't get his type.
+Dialogue: 0,0:11:40.11,0:11:44.85,Main,Nanami,0000,0000,0000,,It was supposed to be an easy mission to \Nexterminate a second-grade cursed spirit!
+Dialogue: 0,0:11:49.59,0:11:50.47,Main,Nanami,0000,0000,0000,,Damn it!
+Dialogue: 0,0:11:55.56,0:11:57.49,Main,Nanami,0000,0000,0000,,Their faith in Ubusunagami...
+Dialogue: 0,0:11:59.56,0:12:01.53,Main,Nanami,0000,0000,0000,,That was a local deity.
+Dialogue: 0,0:12:02.26,0:12:03.95,Main,Nanami,0000,0000,0000,,That was a first-grade case!
+Dialogue: 0,0:12:06.95,0:12:09.75,Main,Geto,0000,0000,0000,,You need to rest for now, Nanami.
+Dialogue: 0,0:12:10.11,0:12:12.20,Main,Geto,0000,0000,0000,,Satoru has taken up your mission.
+Dialogue: 0,0:12:14.30,0:12:17.59,Main,Nanami,0000,0000,0000,,Can't we just leave everything \Nup to him alone at this point?
+Dialogue: 0,0:12:19.39,0:12:22.21,Italics,Geto,0000,0000,0000,,This marathon game of being \Na jujutsu sorcerer...
+Dialogue: 0,0:12:24.48,0:12:26.59,Italics,Geto,0000,0000,0000,,If the only thing waiting at the end
+Dialogue: 0,0:12:28.39,0:12:31.77,Italics,Geto,0000,0000,0000,,is a mountain of our \Ncomrades' corpses, then...
+Dialogue: 0,0:12:43.23,0:12:44.70,Main,Geto,0000,0000,0000,,What is this?
+Dialogue: 0,0:12:44.70,0:12:46.39,Main,Man,0000,0000,0000,,What, you ask?
+Dialogue: 0,0:12:46.39,0:12:49.45,Main,Man,0000,0000,0000,,These two are responsible \Nfor the latest incidents, right?
+Dialogue: 0,0:12:52.13,0:12:53.21,Main,Geto,0000,0000,0000,,No, they're not.
+Dialogue: 0,0:12:59.92,0:13:01.88,Main,Man,0000,0000,0000,,These two are crazy!
+Dialogue: 0,0:13:02.23,0:13:05.79,Main,Man,0000,0000,0000,,They used their mysterious powers \Nto attack the villagers!
+Dialogue: 0,0:13:06.29,0:13:09.43,Main,Geto,0000,0000,0000,,I've already exterminated \Nthe cause of those incidents.
+Dialogue: 0,0:13:09.43,0:13:12.55,Main,Woman,0000,0000,0000,,My granddaughter was nearly \Nkilled by these two, too!
+Dialogue: 0,0:13:12.55,0:13:13.68,Main,Nanako,0000,0000,0000,,That's because she—
+Dialogue: 0,0:13:13.68,0:13:15.67,Main,Woman,0000,0000,0000,,Shut up, you monsters!
+Dialogue: 0,0:13:15.67,0:13:17.72,Main,Woman,0000,0000,0000,,Your parents were just as bad!
+Dialogue: 0,0:13:17.72,0:13:21.11,Main,Curse,0000,0000,0000,,{\an8}It... It's okay.
+Dialogue: 0,0:13:17.73,0:13:21.11,Main,Woman,0000,0000,0000,,I knew we should have killed you \Ntwo when you were babies!
+Dialogue: 0,0:13:23.56,0:13:25.82,Main,Tsukumo,0000,0000,0000,,This part of you despising non-sorcerers,
+Dialogue: 0,0:13:25.82,0:13:27.44,Main,Tsukumo,0000,0000,0000,,and this part of you rejecting that..
+Dialogue: 0,0:13:27.87,0:13:30.16,Flashback,Tsukumo,0000,0000,0000,,It's up to you to choose which part...
+Dialogue: 0,0:13:30.75,0:13:34.62,Main,Geto,0000,0000,0000,,Everyone, shall we step \Noutside for a moment?
+Dialogue: 0,0:13:34.62,0:13:37.12,Flashback,Tsukumo,0000,0000,0000,,...becomes your true \Nfeelings from here on out.
+Dialogue: 0,0:13:42.51,0:13:43.91,Main,Woman,0000,0000,0000,,What?!
+Dialogue: 0,0:13:44.55,0:13:45.04,Main,Man,0000,0000,0000,,Why?!
+Dialogue: 0,0:13:47.55,0:13:48.90,Main,Woman,0000,0000,0000,,No!
+Dialogue: 0,0:14:02.86,0:14:05.19,Sign_Basic,Screen,0000,0000,0000,,{\c&H3E4666&\fnTimes New Roman\fs14\3c&HC0D5F6&\shad0\an7\pos(20,20)}...112 residents of the village were killed,\Nafter which a fire...\N(By the time Jujutsu High investigated\Non September 23rd...\NInvestigations confirmed that all 112 were...\N...residuals revealed to be the work of\NSuguru Geto's curse manipulation.
+Dialogue: 0,0:14:05.19,0:14:07.57,Sign_Basic,Screen,0000,0000,0000,,{\c&H3E4666&\fnTimes New Roman\fs18\3c&HC0D5F6&\shad0\an7\pos(30,20)}Investigations confirmed that all 112 were killed by a cursed spirit,\Nwhich the residuals revealed to be the work \Nof Suguru Geto's curse manipulation.
+Dialogue: 0,0:14:07.57,0:14:10.95,Sign_Basic,Screen,0000,0000,0000,,{\c&H1C2736&\fnTimes New Roman\fs30\b1\3c&HC0D5F6&\shad0\an8\pos(320,20)}...sentenced to death.
+Dialogue: 0,0:14:16.23,0:14:17.15,Main,Gojo,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:17.96,0:14:20.08,Main,Yaga,0000,0000,0000,,Don't make me repeat myself.
+Dialogue: 0,0:14:20.08,0:14:23.10,Main,Yaga,0000,0000,0000,,Suguru killed everyone in the village and—
+Dialogue: 0,0:14:22.16,0:14:24.01,Main,Gojo,0000,0000,0000,,I heard you the first time.
+Dialogue: 0,0:14:24.01,0:14:26.38,Main,Gojo,0000,0000,0000,,That's why I said, "Huh?"
+Dialogue: 0,0:14:27.73,0:14:31.27,Main,Yaga,0000,0000,0000,,Suguru's old home was already \Nan empty husk, as well.
+Dialogue: 0,0:14:31.72,0:14:35.47,Main,Yaga,0000,0000,0000,,Though, from the bloodstains and residuals, he most likely killed his parents, too—
+Dialogue: 0,0:14:35.47,0:14:36.63,Main,Gojo,0000,0000,0000,,Like hell he did!
+Dialogue: 0,0:14:36.63,0:14:37.98,Main,Yaga,0000,0000,0000,,Satoru.
+Dialogue: 0,0:14:37.98,0:14:41.48,Main,Yaga,0000,0000,0000,,I don't understand what's going on, either.
+Dialogue: 0,0:14:50.24,0:14:51.36,Default,Sign,0000,0000,0000,,{\fad(425,0)\fnComic Sans MS\b1\an4\3c&HFFFFFF&\c&H474A49&\shad0\bord1\frz351.7\pos(221.333,94)}Huh?\NA high\Nschooler?
+Dialogue: 0,0:14:55.24,0:14:56.89,Main,Geto,0000,0000,0000,,Need a light?
+Dialogue: 0,0:14:58.83,0:14:59.78,Main,Geto,0000,0000,0000,,Hey.
+Dialogue: 0,0:15:00.83,0:15:02.29,Main,Shoko,0000,0000,0000,,It's the criminal.
+Dialogue: 0,0:15:02.63,0:15:04.04,Main,Shoko,0000,0000,0000,,Need something?
+Dialogue: 0,0:15:04.04,0:15:06.34,Main,Geto,0000,0000,0000,,Just testing my luck, I guess.
+Dialogue: 0,0:15:07.79,0:15:09.23,Main,Shoko,0000,0000,0000,,I'll go ahead and ask...
+Dialogue: 0,0:15:09.23,0:15:10.88,Main,Shoko,0000,0000,0000,,Any chance the charges are false?
+Dialogue: 0,0:15:11.08,0:15:13.35,Main,Geto,0000,0000,0000,,Nope. Unfortunately not.
+Dialogue: 0,0:15:14.00,0:15:16.79,Main,Shoko,0000,0000,0000,,I'll ask further, then. Why?
+Dialogue: 0,0:15:17.22,0:15:19.34,Main,Geto,0000,0000,0000,,I'm going to create a world \Nof only jujutsu sorcerers.
+Dialogue: 0,0:15:20.46,0:15:22.48,Main,Shoko,0000,0000,0000,,I don't get it.
+Dialogue: 0,0:15:22.48,0:15:24.32,Main,Geto,0000,0000,0000,,I'm not a child.
+Dialogue: 0,0:15:24.32,0:15:27.70,Main,Geto,0000,0000,0000,,I'm not holding out hope \Nthat everyone will understand.
+Dialogue: 0,0:15:28.11,0:15:31.38,Main,Shoko,0000,0000,0000,,Sulking over the idea that \Nno one will understand you
+Dialogue: 0,0:15:31.38,0:15:33.87,Main,Shoko,0000,0000,0000,,sounds pretty childish to me, though.
+Dialogue: 0,0:15:33.87,0:15:35.48,Main,Shoko,0000,0000,0000,,Hey, Gojo?
+Dialogue: 0,0:15:35.82,0:15:37.04,Main,Shoko,0000,0000,0000,,I found Geto.
+Dialogue: 0,0:15:37.57,0:15:39.16,Main,Shoko,0000,0000,0000,,Yeah, Shinjuku.
+Dialogue: 0,0:15:40.32,0:15:42.62,Main,Shoko,0000,0000,0000,,No way. I don't want to get killed.
+Dialogue: 0,0:15:51.91,0:15:54.34,Main,Gojo,0000,0000,0000,,Explain yourself, Suguru.
+Dialogue: 0,0:15:58.76,0:16:00.67,Main,Geto,0000,0000,0000,,You already heard from Shoko, right?
+Dialogue: 0,0:16:01.00,0:16:03.31,Main,Geto,0000,0000,0000,,That's all there is to it.
+Dialogue: 0,0:16:03.31,0:16:05.81,Main,Gojo,0000,0000,0000,,So you're just going to kill \Neveryone who's not a sorcerer?
+Dialogue: 0,0:16:06.56,0:16:07.82,Main,Gojo,0000,0000,0000,,Even your parents?!
+Dialogue: 0,0:16:07.82,0:16:10.87,Main,Geto,0000,0000,0000,,I can't allow my parents \Nto be a special exception.
+Dialogue: 0,0:16:10.87,0:16:14.07,Main,Geto,0000,0000,0000,,Besides, those people \Naren't my family anymore.
+Dialogue: 0,0:16:14.07,0:16:15.94,Main,Gojo,0000,0000,0000,,That's not what I was asking!
+Dialogue: 0,0:16:16.30,0:16:19.12,Main,Gojo,0000,0000,0000,,I thought we weren't allowed to \Nkill when there's no point to it!
+Dialogue: 0,0:16:19.82,0:16:22.27,Main,Geto,0000,0000,0000,,There is a point to it. Significance, too.
+Dialogue: 0,0:16:22.27,0:16:23.66,Main,Geto,0000,0000,0000,,Even a great cause.
+Dialogue: 0,0:16:23.66,0:16:25.15,Main,Gojo,0000,0000,0000,,There's not!
+Dialogue: 0,0:16:25.15,0:16:28.73,Main,Gojo,0000,0000,0000,,You're going to kill all non-sorcerers and \Ncreate a world of only jujutsu sorcerers?!
+Dialogue: 0,0:16:28.73,0:16:30.17,Main,Gojo,0000,0000,0000,,You know that's impossible!
+Dialogue: 0,0:16:30.88,0:16:32.92,Main,Gojo,0000,0000,0000,,There's no point in chipping away bit by bit
+Dialogue: 0,0:16:32.92,0:16:34.68,Main,Gojo,0000,0000,0000,,at something you can't possibly do!
+Dialogue: 0,0:16:36.37,0:16:37.68,Main,Geto,0000,0000,0000,,How arrogant.
+Dialogue: 0,0:16:38.65,0:16:39.81,Main,Gojo,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:40.31,0:16:43.15,Main,Geto,0000,0000,0000,,You could do it, couldn't you, Satoru?
+Dialogue: 0,0:16:45.91,0:16:47.98,Main,Geto,0000,0000,0000,,Yet you would try to convince someone else
+Dialogue: 0,0:16:48.57,0:16:52.90,Main,Geto,0000,0000,0000,,that it's impossible to do \Nsomething that's possible for you?
+Dialogue: 0,0:16:56.11,0:16:59.63,Main,Geto,0000,0000,0000,,Are you the strongest \Nbecause you're Satoru Gojo?
+Dialogue: 0,0:16:59.63,0:17:02.19,Main,Geto,0000,0000,0000,,Or does being the strongest \Nmake you Satoru Gojo?
+Dialogue: 0,0:17:02.19,0:17:04.32,Main,Gojo,0000,0000,0000,,What are you trying to say?
+Dialogue: 0,0:17:04.32,0:17:07.07,Main,Geto,0000,0000,0000,,If I were able to become you,
+Dialogue: 0,0:17:07.54,0:17:11.12,Main,Geto,0000,0000,0000,,this foolish ideal would become a lot \Nmore grounded and real, don't you think?
+Dialogue: 0,0:17:12.87,0:17:14.75,Main,Geto,0000,0000,0000,,I've decided how I'll live my life.
+Dialogue: 0,0:17:14.75,0:17:17.63,Main,Geto,0000,0000,0000,,Now it's just a matter of doing \Nthe best I can to achieve that.
+Dialogue: 0,0:17:27.10,0:17:28.84,Main,Geto,0000,0000,0000,,If you want to kill me, then kill me.
+Dialogue: 0,0:17:30.85,0:17:32.60,Main,Geto,0000,0000,0000,,There would be a point to that.
+Dialogue: 0,0:17:42.60,0:17:44.67,Main,Yaga,0000,0000,0000,,Why didn't you pursue him?
+Dialogue: 0,0:17:48.11,0:17:50.51,Main,Gojo,0000,0000,0000,,You're actually asking me that?
+Dialogue: 0,0:17:52.55,0:17:54.05,Main,Yaga,0000,0000,0000,,Nah, it's fine.
+Dialogue: 0,0:17:54.37,0:17:55.63,Main,Yaga,0000,0000,0000,,My bad.
+Dialogue: 0,0:17:59.39,0:18:02.00,Main,Gojo,0000,0000,0000,,Sensei, I'm strong, right?
+Dialogue: 0,0:18:02.00,0:18:04.79,Main,Yaga,0000,0000,0000,,Yeah, brazenly so.
+Dialogue: 0,0:18:06.58,0:18:10.21,Main,Gojo,0000,0000,0000,,But apparently, it's not good enough \Nfor just me to be strong.
+Dialogue: 0,0:18:10.85,0:18:12.71,Main,Gojo,0000,0000,0000,,The only ones I can save
+Dialogue: 0,0:18:12.71,0:18:15.44,Main,Gojo,0000,0000,0000,,are those who are already ready \Nto be saved by another.
+Dialogue: 0,0:18:20.27,0:18:23.07,Main,Geto,0000,0000,0000,,I thought the Star Religious Group \Nwas already dissolved.
+Dialogue: 0,0:18:23.07,0:18:25.90,Main,Kong,0000,0000,0000,,It's a different group, \Nbut their roots are the same.
+Dialogue: 0,0:18:25.90,0:18:28.79,Main,Kong,0000,0000,0000,,They're claiming they just bought \Nthe existing space as-is.
+Dialogue: 0,0:18:28.79,0:18:29.87,Main,Kong,0000,0000,0000,,Don't like it?
+Dialogue: 0,0:18:29.87,0:18:33.67,Main,Geto,0000,0000,0000,,No, it doesn't matter, as long as \NI can gather curses and money.
+Dialogue: 0,0:18:33.84,0:18:36.47,Main,Kong,0000,0000,0000,,Are you really going out dressed like that?
+Dialogue: 0,0:18:36.47,0:18:39.36,Main,Geto,0000,0000,0000,,Why not? A little showmanship is important.
+Dialogue: 0,0:18:39.75,0:18:41.37,Main,Nanako,0000,0000,0000,,Geto-sama...
+Dialogue: 0,0:18:41.37,0:18:42.75,Main,Geto,0000,0000,0000,,Watch closely.
+Dialogue: 0,0:18:43.20,0:18:44.43,Main,Geto,0000,0000,0000,,They're all there, right?
+Dialogue: 0,0:18:44.43,0:18:47.68,Main,Kong,0000,0000,0000,,All the branch directors, \Nall the representatives, and the president.
+Dialogue: 0,0:18:47.68,0:18:49.96,Main,Kong,0000,0000,0000,,All the big donors, as well.
+Dialogue: 0,0:18:53.29,0:18:58.39,Main,Geto,0000,0000,0000,,Test, test. Sorry for the wait, everyone.
+Dialogue: 0,0:18:58.39,0:19:00.27,Main,Geto,0000,0000,0000,,Now, I'll keep this brief.
+Dialogue: 0,0:19:00.63,0:19:04.27,Main,Geto,0000,0000,0000,,From this moment onward, \Nthis organization belongs to me.
+Dialogue: 0,0:19:04.77,0:19:06.36,Main,Geto,0000,0000,0000,,I'll be changing the name, too,
+Dialogue: 0,0:19:06.36,0:19:09.15,Main,Geto,0000,0000,0000,,so everyone, please be sure to follow me.
+Dialogue: 0,0:19:09.15,0:19:11.16,Sign_Basic,,0000,0000,0000,,{\pos(320,245)\fnTimes New Roman\fscy140\fs28\b1\bord0\shad0}Many Objected
+Dialogue: 0,0:19:11.16,0:19:13.23,Main,Geto,0000,0000,0000,,Now, that's not good.
+Dialogue: 0,0:19:13.79,0:19:15.17,Main,Geto,0000,0000,0000,,I know!
+Dialogue: 0,0:19:15.17,0:19:18.15,Main,Geto,0000,0000,0000,,Sonoda-san, if you wouldn't mind, \Nplease come to the stage.
+Dialogue: 0,0:19:19.09,0:19:20.91,Main,Geto,0000,0000,0000,,Yes! You there!
+Dialogue: 0,0:19:21.59,0:19:23.58,Main,Geto,0000,0000,0000,,Now, once again.
+Dialogue: 0,0:19:24.11,0:19:25.59,Italics,Geto,0000,0000,0000,,I hate monkeys.
+Dialogue: 0,0:19:25.59,0:19:27.53,Main,Geto,0000,0000,0000,,You obey me now...
+Dialogue: 0,0:19:27.75,0:19:30.02,Italics,Geto,0000,0000,0000,,That's the true feeling I chose.
+Dialogue: 0,0:19:30.68,0:19:32.07,Main,Geto,0000,0000,0000,,...monkeys.
+Dialogue: 0,0:19:34.62,0:19:37.52,Main,Gojo,0000,0000,0000,,You're Megumi Fushiguro-kun, right?
+Dialogue: 0,0:19:39.65,0:19:41.07,Main,Megumi,0000,0000,0000,,Who are you?
+Dialogue: 0,0:19:41.07,0:19:43.36,Main,Megumi,0000,0000,0000,,And what's with that weird face?
+Dialogue: 0,0:19:44.88,0:19:47.29,Main,Gojo,0000,0000,0000,,You look just like him, is all.
+Dialogue: 0,0:19:48.65,0:19:50.19,Main,Gojo,0000,0000,0000,,My own issue.
+Dialogue: 0,0:19:50.56,0:19:52.47,Main,Gojo,0000,0000,0000,,So listen. About your dad...
+Dialogue: 0,0:19:52.47,0:19:55.54,Main,Gojo,0000,0000,0000,,He's from this big shot jujutsu \Nsorcerer family called the Zen'in,
+Dialogue: 0,0:19:55.54,0:19:57.71,Main,Gojo,0000,0000,0000,,but they're such scumbags \Nthey make even me sick,
+Dialogue: 0,0:19:57.71,0:20:00.79,Main,Gojo,0000,0000,0000,,and that's why your dad left \Nthe family and had you.
+Dialogue: 0,0:20:00.79,0:20:03.33,Main,Gojo,0000,0000,0000,,Now, you're one of the \Nones who can see things,
+Dialogue: 0,0:20:03.33,0:20:04.83,Main,Gojo,0000,0000,0000,,so you're privileged there, right?
+Dialogue: 0,0:20:05.38,0:20:08.08,Main,Gojo,0000,0000,0000,,You've noticed the power \Nwithin yourself, too, yeah?
+Dialogue: 0,0:20:08.63,0:20:11.27,Main,Gojo,0000,0000,0000,,The Zen'in clan just loves strong powers.
+Dialogue: 0,0:20:11.27,0:20:14.47,Main,Gojo,0000,0000,0000,,Most become aware of their cursed \Ntechniques around 4-6 years old.
+Dialogue: 0,0:20:14.47,0:20:16.94,Main,Gojo,0000,0000,0000,,So it's the perfect timing to sell a kid off.
+Dialogue: 0,0:20:17.19,0:20:18.85,Main,Gojo,0000,0000,0000,,So, Megumi-kun,
+Dialogue: 0,0:20:18.85,0:20:23.19,Main,Gojo,0000,0000,0000,,you were the ultimate card that your dad \Nkept on hand against the Zen'in clan.
+Dialogue: 0,0:20:23.19,0:20:24.89,Main,Gojo,0000,0000,0000,,Pisses you off, doesn't it?
+Dialogue: 0,0:20:24.89,0:20:28.78,Main,Gojo,0000,0000,0000,,So, about that dad of yours. I ki—
+Dialogue: 0,0:20:27.78,0:20:28.78,Main,Megumi,0000,0000,0000,,I don't care.
+Dialogue: 0,0:20:29.37,0:20:32.15,Main,Megumi,0000,0000,0000,,I have no interest in where \Nhe is or what he's doing.
+Dialogue: 0,0:20:32.15,0:20:35.04,Main,Megumi,0000,0000,0000,,I haven't even seen him in years, \Nso I don't remember what he looks like.
+Dialogue: 0,0:20:35.47,0:20:37.66,Main,Megumi,0000,0000,0000,,Though I get the general idea \Nfrom what you just said.
+Dialogue: 0,0:20:38.33,0:20:41.49,Main,Megumi,0000,0000,0000,,Tsumiki's mother hasn't come home \Nfor a while now, either.
+Dialogue: 0,0:20:41.49,0:20:43.85,Main,Tsumiki,0000,0000,0000,,Ah, Megumi's home!
+Dialogue: 0,0:20:44.29,0:20:46.59,Main,Megumi,0000,0000,0000,,That means they're finished with us,
+Dialogue: 0,0:20:46.59,0:20:49.09,Main,Megumi,0000,0000,0000,,and they're off enjoying \Nthemselves elsewhere, right?
+Dialogue: 0,0:20:50.38,0:20:53.08,Main,Gojo,0000,0000,0000,,Are you really a first grader?
+Dialogue: 0,0:20:53.68,0:20:54.99,Main,Gojo,0000,0000,0000,,Well, whatever.
+Dialogue: 0,0:20:54.99,0:20:58.11,Main,Gojo,0000,0000,0000,,If you ever want to know about \Nyour father, you can ask me.
+Dialogue: 0,0:20:58.11,0:20:59.92,Main,Gojo,0000,0000,0000,,Hup.
+Dialogue: 0,0:20:59.92,0:21:02.39,Main,Gojo,0000,0000,0000,,I think it'll be pretty interesting to hear.
+Dialogue: 0,0:21:02.39,0:21:04.11,Main,Gojo,0000,0000,0000,,Now, on to the main point.
+Dialogue: 0,0:21:04.11,0:21:05.78,Main,Gojo,0000,0000,0000,,What do you want to do?
+Dialogue: 0,0:21:05.78,0:21:07.47,Main,Gojo,0000,0000,0000,,Do you want to go to the Zen'in clan?
+Dialogue: 0,0:21:08.39,0:21:09.95,Main,Megumi,0000,0000,0000,,What will happen to Tsumiki?
+Dialogue: 0,0:21:10.27,0:21:14.03,Main,Megumi,0000,0000,0000,,If I go there, will Tsumiki be able to \Nfind happiness? It all depends on that.
+Dialogue: 0,0:21:14.03,0:21:16.31,Main,Gojo,0000,0000,0000,,No. A hundred percent no.
+Dialogue: 0,0:21:16.31,0:21:18.13,Main,Gojo,0000,0000,0000,,I can say that with certainty.
+Dialogue: 0,0:21:21.48,0:21:22.99,Main,Gojo,0000,0000,0000,,Okay!
+Dialogue: 0,0:21:23.84,0:21:25.75,Main,Gojo,0000,0000,0000,,Leave the rest to me, then.
+Dialogue: 0,0:21:27.61,0:21:30.87,Main,Gojo,0000,0000,0000,,I might need you to push yourself a bit, though.
+Dialogue: 0,0:21:31.19,0:21:32.55,Main,Gojo,0000,0000,0000,,So do your best.
+Dialogue: 0,0:21:32.96,0:21:34.57,Main,Gojo,0000,0000,0000,,Get stronger.
+Dialogue: 0,0:21:35.42,0:21:37.98,Main,Gojo,0000,0000,0000,,Strong enough to keep up with me.
+Dialogue: 0,0:21:39.38,0:21:43.30,Sign_Basic,Screen,0000,0000,0000,,{\fad(1,126)\bord0\shad0\fnTimes New Roman\b1\fs30\fscy130\pos(320,250)}October 19, 2018
+Dialogue: 0,0:21:44.58,0:21:46.02,Main,Megumi,0000,0000,0000,,Gojo-sensei.
+Dialogue: 0,0:21:46.02,0:21:47.98,Main,Yuji,0000,0000,0000,,So even Sensei sleeps, huh?
+Dialogue: 0,0:21:47.98,0:21:50.49,Main,Nobara,0000,0000,0000,,Of course he does. \NWhat kind of nonsense is that?
+Dialogue: 0,0:21:50.49,0:21:51.85,Main,Megumi,0000,0000,0000,,Gojo-sensei!
+Dialogue: 0,0:21:52.90,0:21:54.43,Main,Yuji,0000,0000,0000,,Oh, he's awake.
+Dialogue: 0,0:21:54.43,0:21:56.87,Main,Nobara,0000,0000,0000,,Hey, that's one of those \Nexpensive chairs, isn't it?
+Dialogue: 0,0:21:56.87,0:21:59.83,Main,Megumi,0000,0000,0000,,Please don't fall asleep \Nafter summoning all of us here.
+Dialogue: 0,0:22:01.31,0:22:03.23,Main,Yuji,0000,0000,0000,,Hey, no fair! I get it next, got it?!
+Dialogue: 0,0:22:03.23,0:22:05.15,Main,Yuji,0000,0000,0000,,Hey! Hurry up!
+Dialogue: 0,0:22:05.15,0:22:06.46,Main,Megumi,0000,0000,0000,,What are you smiling about?
+Dialogue: 0,0:22:05.15,0:22:08.34,Main,Yuji,0000,0000,0000,,{\an8}Don't be mean! Move it!
+Dialogue: 0,0:22:08.34,0:22:09.33,Main,Gojo,0000,0000,0000,,Nothing.
+Dialogue: 0,0:23:40.94,0:23:43.75,Main,Yuji,0000,0000,0000,,How do you write "motto" in kanji?
+Dialogue: 0,0:23:43.75,0:23:46.56,Main,Yuji,0000,0000,0000,,Wait, you use katakana? It's a foreign word?
+Dialogue: 0,0:23:47.02,0:23:48.73,Main,Yuji,0000,0000,0000,,Next time, "It's Like That."
+Dialogue: 0,0:23:47.40,0:23:54.99,Next_Ep_Title,,0000,0000,0000,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}It's Like That
+Dialogue: 0,0:23:49.77,0:23:53.43,Main,Yuji,0000,0000,0000,,There's so much I thought I knew, but I don't.
+

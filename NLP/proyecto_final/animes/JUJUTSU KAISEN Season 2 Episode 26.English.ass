@@ -1,0 +1,457 @@
+[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:28.92,0:00:30.25,Main,Kokun,0000,0000,0000,,Please!
+Dialogue: 0,0:00:30.25,0:00:31.84,Main,Kokun,0000,0000,0000,,Please listen to me!
+Dialogue: 0,0:00:31.84,0:00:33.55,Main,Kokun,0000,0000,0000,,I was wrong!
+Dialogue: 0,0:00:33.55,0:00:34.55,Main,Kokun,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:00:34.55,0:00:35.75,Main,Kokun,0000,0000,0000,,I'm really sorry!
+Dialogue: 0,0:00:36.14,0:00:37.55,Main,Curse,0000,0000,0000,,Let's kiss!
+Dialogue: 0,0:00:37.55,0:00:37.93,Main,Kokun,0000,0000,0000,,Huh?!
+Dialogue: 0,0:00:37.93,0:00:40.97,Main,Curse,0000,0000,0000,,Let's kiss!
+Dialogue: 0,0:00:41.52,0:00:43.48,Main,Kokun,0000,0000,0000,,I'll pull out of this job!
+Dialogue: 0,0:00:43.48,0:00:45.14,Main,Kokun,0000,0000,0000,,I'll quit being a curse user, too!
+Dialogue: 0,0:00:45.14,0:00:46.45,Main,Curse,0000,0000,0000,,Let's kiss!
+Dialogue: 0,0:00:46.81,0:00:48.90,Main,Curse,0000,0000,0000,,C'mon, kiss!
+Dialogue: 0,0:00:48.90,0:00:51.11,Main,Kokun,0000,0000,0000,,Of course I'll quit Q, too!
+Dialogue: 0,0:00:51.11,0:00:54.11,Main,Kokun,0000,0000,0000,,I know! I'll go back to the \Ncountryside and farm rice!
+Dialogue: 0,0:00:56.07,0:00:57.53,Main,Kokun,0000,0000,0000,,I know you can hear me!
+Dialogue: 0,0:00:58.32,0:01:01.08,Main,Geto,0000,0000,0000,,Like a curse user could cut it as a farmer.
+Dialogue: 0,0:01:01.08,0:01:02.75,Main,Kokun,0000,0000,0000,,You {\i1}can{\i0} hear me!
+Dialogue: 0,0:01:02.75,0:01:05.33,Main,Kokun,0000,0000,0000,,Damn student acting all condescending!
+Dialogue: 0,0:01:05.08,0:01:08.83,Main,Curse,0000,0000,0000,,{\an8}Lick, lick.
+Dialogue: 0,0:01:05.33,0:01:07.67,Main,Kokun,0000,0000,0000,,But Bayer-san is here, too!
+Dialogue: 0,0:01:07.67,0:01:10.00,Main,Kokun,0000,0000,0000,,He's Q's strongest combatant!
+Dialogue: 0,0:01:10.84,0:01:12.80,Main,Kokun,0000,0000,0000,,He'll take care of you and these things!
+Dialogue: 0,0:01:12.80,0:01:13.80,Main,Geto,0000,0000,0000,,Hey.
+Dialogue: 0,0:01:14.42,0:01:16.30,Main,Geto,0000,0000,0000,,Is this your "Bayer"?
+Dialogue: 0,0:01:16.51,0:01:17.30,Main,Kokun,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:20.97,0:01:22.97,Main,Kokun,0000,0000,0000,,That's him.
+Dialogue: 0,0:01:24.43,0:01:27.81,Sign_Basic,Screen,0000,0000,0000,,{\fad(875,0)\shad0\3a&HA0&\fnArial\b1\an8\pos(320,250)\fs28}"Q"
+Dialogue: 0,0:01:24.43,0:01:27.81,Sign_Basic,Screen,0000,0000,0000,,{\fad(875,0)\shad0\3a&HA0&\fnGeorgia\b0\an8\pos(320,280)\fs20}Departure of Top Combatant, Bayer,\NLeads to Organization's Collapse
+Dialogue: 0,0:01:33.15,0:01:35.78,Italics,Announcer,0000,0000,0000,,{\an8}And all the boats are off at once.
+Dialogue: 0,0:01:35.78,0:01:39.03,Italics,Announcer,0000,0000,0000,,{\an8}From the inside, we have Numbers \N1, 2, 4, 5, 3, and 6 starting the race.
+Dialogue: 0,0:01:39.03,0:01:41.78,Italics,Announcer,0000,0000,0000,,{\an8}They're off with a beautiful straight shot.
+Dialogue: 0,0:01:42.74,0:01:46.29,Main,Kong,0000,0000,0000,,And just what are you doing after \Nsuddenly disappearing on me?
+Dialogue: 0,0:01:49.00,0:01:51.09,Main,Toji,0000,0000,0000,,Getting more money.
+Dialogue: 0,0:01:51.75,0:01:54.67,Main,Kong,0000,0000,0000,,I've never seen you win once.
+Dialogue: 0,0:01:55.01,0:01:56.67,Main,Kong,0000,0000,0000,,What about your job?
+Dialogue: 0,0:01:57.38,0:01:59.09,Main,Toji,0000,0000,0000,,Oh, give it a rest.
+Dialogue: 0,0:01:59.09,0:02:01.72,Main,Toji,0000,0000,0000,,You're talking like I'm unemployed.
+Dialogue: 0,0:02:03.51,0:02:05.01,Main,Kong,0000,0000,0000,,Because you are.
+Dialogue: 0,0:02:05.40,0:02:10.40,Main,Kong,0000,0000,0000,,As a mediator, it's my duty to report \Nhow the job's going to the client.
+Dialogue: 0,0:02:10.40,0:02:12.77,Main,Toji,0000,0000,0000,,I'm up against the Gojo clan's kid.
+Dialogue: 0,0:02:12.77,0:02:16.19,Main,Toji,0000,0000,0000,,I wouldn't be able to do anything \Nif I just popped up in front of him.
+Dialogue: 0,0:02:16.53,0:02:19.66,Main,Toji,0000,0000,0000,,I have to wear him down\Nusing some idiots first.
+Dialogue: 0,0:02:20.01,0:02:21.74,Main,Toji,0000,0000,0000,,You go do your own damn job.
+Dialogue: 0,0:02:21.74,0:02:23.53,Main,Kong,0000,0000,0000,,Already did, dumbass.
+Dialogue: 0,0:02:23.53,0:02:27.55,Main,Kong,0000,0000,0000,,What were you thinking, \Nletting go of the entire deposit?
+Dialogue: 0,0:02:28.25,0:02:30.33,Main,Toji,0000,0000,0000,,I told you, wearing him down.
+Dialogue: 0,0:02:30.33,0:02:33.04,Main,Toji,0000,0000,0000,,Don't you worry. All that \Nmoney will come back to me.
+Dialogue: 0,0:02:33.04,0:02:35.00,Main,Toji,0000,0000,0000,,Just like with this race.
+Dialogue: 0,0:02:36.84,0:02:39.09,Italics,Announcer,0000,0000,0000,,{\an8}Number 6, Hateno, crosses the line first!
+Dialogue: 0,0:02:39.09,0:02:41.30,Italics,Announcer,0000,0000,0000,,{\an8}Number 1, Doguchi, finishes next!
+Dialogue: 0,0:02:41.30,0:02:43.47,Italics,Announcer,0000,0000,0000,,{\an8}Following them in third is Number 2, Matsuda.
+Dialogue: 0,0:02:43.47,0:02:45.26,Italics,Announcer,0000,0000,0000,,{\an8}In fourth is Number 4, Nakaoka.
+Dialogue: 0,0:02:44.01,0:02:45.10,Main,Toji,0000,0000,0000,,Tsk.
+Dialogue: 0,0:02:45.26,0:02:47.10,Italics,Announcer,0000,0000,0000,,{\an8}In fifth is Number 3, Tanaka.
+Dialogue: 0,0:02:45.26,0:02:48.52,Main,Kong,0000,0000,0000,,You're not cut out for making easy money.
+Dialogue: 0,0:02:47.10,0:02:49.31,Italics,Announcer,0000,0000,0000,,{\an8}In sixth is Number 5, \NOkazaki, finishing last!
+Dialogue: 0,0:02:49.31,0:02:53.73,Italics,Announcer,0000,0000,0000,,{\an8}Number 6, Hateno, has given us an amazing \Ncomeback to watch in his first race!
+Dialogue: 0,0:02:49.48,0:02:52.52,Main,Kong,0000,0000,0000,,I'm counting on you, Sorcerer Killer.
+Dialogue: 0,0:02:53.73,0:02:55.23,Italics,Announcer,0000,0000,0000,,{\an8}That was our third race of the day.
+Dialogue: 0,0:02:53.81,0:02:55.23,Main,Kong,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:02:55.90,0:02:57.36,Main,Kong,0000,0000,0000,,How's Megumi doing?
+Dialogue: 0,0:03:09.21,0:03:10.37,Main,Toji,0000,0000,0000,,Who's that?
+Dialogue: 0,0:03:10.96,0:03:13.96,Ep_Title,Screen,0000,0000,0000,,Episode 26\N{\fs30\fscy150}Hidden Inventory 2
+Dialogue: 0,0:03:23.09,0:03:28.10,Show_Title,Screen,0000,0000,0000,,{\fad(550,1000)\pos(320,10)}JUJUTSU KAISEN\N{\fs16\bord0\fscy100}Hidden Inventory/Premature Death
+Dialogue: 0,0:04:44.88,0:04:46.93,Main,Gojo,0000,0000,0000,,Should we get her to a doctor?
+Dialogue: 0,0:04:47.24,0:04:51.39,Main,Geto,0000,0000,0000,,I wish I could use reverse \Ncursed energy like Shoko.
+Dialogue: 0,0:04:51.39,0:04:52.89,Main,Gojo,0000,0000,0000,,Yeah, that's impossible.
+Dialogue: 0,0:04:52.89,0:04:55.64,Main,Gojo,0000,0000,0000,,I can't understand a word she says about it.
+Dialogue: 0,0:04:55.92,0:04:58.19,Flashback,Shoko,0000,0000,0000,,You go "fwoo," then "hyoi."
+Dialogue: 0,0:04:58.19,0:05:01.23,Flashback,Shoko,0000,0000,0000,,Fwoo, hyoi. Get it?
+Dialogue: 0,0:05:01.23,0:05:02.94,Flashback,Shoko,0000,0000,0000,,You've got no sense for this.
+Dialogue: 0,0:05:07.74,0:05:08.95,Main,Gojo,0000,0000,0000,,You're awake.
+Dialogue: 0,0:05:18.00,0:05:19.04,Main,Riko,0000,0000,0000,,You scum!
+Dialogue: 0,0:05:19.04,0:05:22.30,Main,Riko,0000,0000,0000,,If you want to kill me, \Nyou'll be the one to die first!
+Dialogue: 0,0:05:24.76,0:05:26.72,Main,Geto,0000,0000,0000,,Riko-chan, calm down.
+Dialogue: 0,0:05:26.72,0:05:30.24,Main,Geto,0000,0000,0000,,We're not with the group that attacked you.
+Dialogue: 0,0:05:30.24,0:05:31.47,Main,Riko,0000,0000,0000,,Liar!
+Dialogue: 0,0:05:31.47,0:05:32.89,Main,Riko,0000,0000,0000,,You have the face of a liar!
+Dialogue: 0,0:05:32.89,0:05:34.60,Main,Riko,0000,0000,0000,,Your bangs are weird, too!
+Dialogue: 0,0:05:41.19,0:05:45.94,Sign_Basic,Screen,0000,0000,0000,,{\fad(300,0)\an8\fnArial\b1\c&H826AEC&\bord0\shad0\pos(320,215)}Grind
+Dialogue: 0,0:05:42.36,0:05:45.74,Main,Riko,0000,0000,0000,,This is disrespectful!
+Dialogue: 0,0:05:42.78,0:05:44.57,Sign_Basic,Screen,0000,0000,0000,,{\fad(375,425)\an8\fnArial\b1\shad0\bord1\c&HF6EBCF&\3c&H424148&\pos(320,110)}This is disrespectful!
+Dialogue: 0,0:05:44.19,0:05:45.74,Main,Kuroi,0000,0000,0000,,P-Please stop it!
+Dialogue: 0,0:05:45.74,0:05:46.95,Main,Riko,0000,0000,0000,,Kuroi!
+Dialogue: 0,0:05:49.11,0:05:52.28,Main,Kuroi,0000,0000,0000,,Young lady, these men are our allies.
+Dialogue: 0,0:05:53.16,0:05:56.37,Main,Riko,0000,0000,0000,,Kuroi, what are you riding on?
+Dialogue: 0,0:05:56.75,0:05:59.50,Main,Kuroi,0000,0000,0000,,This is thanks to Bangs Guy's technique.
+Dialogue: 0,0:05:59.50,0:06:01.75,Main,Geto,0000,0000,0000,,Could you please not call me that?
+Dialogue: 0,0:06:02.80,0:06:04.55,Main,Geto,0000,0000,0000,,It's Curse Manipulation.
+Dialogue: 0,0:06:04.55,0:06:08.01,Main,Geto,0000,0000,0000,,As the name suggests, I can absorb \Nand manipulate cursed spirits.
+Dialogue: 0,0:06:08.34,0:06:11.26,Main,Gojo,0000,0000,0000,,This brat is more aggressive \Nthan I expected.
+Dialogue: 0,0:06:11.26,0:06:13.76,Main,Gojo,0000,0000,0000,,I was trying to figure out \Nhow to be considerate,
+Dialogue: 0,0:06:13.76,0:06:16.35,Main,Gojo,0000,0000,0000,,thinking she'd be more sentimental \Nabout the assimilation thing.
+Dialogue: 0,0:06:16.73,0:06:17.68,Main,Riko,0000,0000,0000,,Hmph!
+Dialogue: 0,0:06:17.68,0:06:20.48,Main,Riko,0000,0000,0000,,A commoner's way of thinking!
+Dialogue: 0,0:06:20.48,0:06:21.31,Main,Gojo,0000,0000,0000,,Huh?!
+Dialogue: 0,0:06:21.31,0:06:22.10,Main,Riko,0000,0000,0000,,Listen up!
+Dialogue: 0,0:06:24.44,0:06:28.82,Main,Riko,0000,0000,0000,,Tengen-sama is me, and I am Tengen-sama!
+Dialogue: 0,0:06:28.82,0:06:32.62,Main,Riko,0000,0000,0000,,Some might mistake \Nassimilation for death, as you do,
+Dialogue: 0,0:06:32.62,0:06:35.28,Main,Riko,0000,0000,0000,,but there's a big difference!
+Dialogue: 0,0:06:35.54,0:06:38.58,Main,Riko,0000,0000,0000,,I might become Tengen-sama \Nthrough the assimilation,
+Dialogue: 0,0:06:38.58,0:06:41.16,Main,Riko,0000,0000,0000,,but Tengen-sama will also become me!
+Dialogue: 0,0:06:41.44,0:06:43.54,Main,Riko,0000,0000,0000,,My will! My heart!
+Dialogue: 0,0:06:43.54,0:06:45.90,Main,Riko,0000,0000,0000,,My soul will continue to live \Non after the assimilation!
+Dialogue: 0,0:06:45.90,0:06:47.05,Main,Geto,0000,0000,0000,,You changed your home screen?
+Dialogue: 0,0:06:47.05,0:06:48.34,Main,Gojo,0000,0000,0000,,To Inoue Waka.
+Dialogue: 0,0:06:48.34,0:06:49.51,Main,Riko,0000,0000,0000,,Listen to me!
+Dialogue: 0,0:06:50.01,0:06:53.14,Main,Gojo,0000,0000,0000,,I bet you don't have many \Nfriends if you talk like that.
+Dialogue: 0,0:06:53.14,0:06:55.14,Main,Geto,0000,0000,0000,,We won't have to feel bad sending you off.
+Dialogue: 0,0:06:55.14,0:06:57.39,Main,Riko,0000,0000,0000,,I talk normally at school!
+Dialogue: 0,0:07:00.06,0:07:00.94,Main,Riko,0000,0000,0000,,School!
+Dialogue: 0,0:07:00.94,0:07:02.40,Main,Riko,0000,0000,0000,,Kuroi, what time is it?!
+Dialogue: 0,0:07:02.40,0:07:05.52,Main,Kuroi,0000,0000,0000,,It's not yet noon. But I think going to school—
+Dialogue: 0,0:07:05.52,0:07:06.36,Main,Riko,0000,0000,0000,,Be quiet!
+Dialogue: 0,0:07:06.36,0:07:08.15,Main,Riko,0000,0000,0000,,I said I'm going, and I'm going!
+Dialogue: 0,0:07:10.36,0:07:11.61,Main,Gojo,0000,0000,0000,,Huh?!
+Dialogue: 0,0:07:12.43,0:07:15.50,Main,Gojo,0000,0000,0000,,Surely it'd be safer to head \Nback to Jujutsu High at once!
+Dialogue: 0,0:07:15.83,0:07:20.58,Italics,Yaga,0000,0000,0000,,As much as I want to do that, \Nthis is an order from Tengen-sama.
+Dialogue: 0,0:07:20.91,0:07:24.42,Italics,Yaga,0000,0000,0000,,He said to fulfill all of \NAmanai Riko's demands.
+Dialogue: 0,0:07:25.84,0:07:26.96,Main,Gojo,0000,0000,0000,,Tsk.
+Dialogue: 0,0:07:30.47,0:07:32.63,Main,Gojo,0000,0000,0000,,Lax upbringing at its finest.
+Dialogue: 0,0:07:33.16,0:07:34.85,Main,Geto,0000,0000,0000,,Don't be like that, Satoru.
+Dialogue: 0,0:07:34.85,0:07:36.18,Main,Geto,0000,0000,0000,,Despite what she may say,
+Dialogue: 0,0:07:36.18,0:07:38.47,Main,Geto,0000,0000,0000,,after the assimilation, she'll spend \Nher whole life as Tengen-sama
+Dialogue: 0,0:07:38.47,0:07:40.98,Main,Geto,0000,0000,0000,,in the deepest floor of Jujutsu High, \Nas the foundation of all barriers.
+Dialogue: 0,0:07:41.52,0:07:46.57,Main,Geto,0000,0000,0000,,She won't be able to see her friends, \Nfamily, or anyone precious to her ever again.
+Dialogue: 0,0:07:47.69,0:07:49.07,Main,Classmate,0000,0000,0000,,Riko!
+Dialogue: 0,0:07:50.40,0:07:51.92,Main,Classmate,0000,0000,0000,,Our next class is in a different room.
+Dialogue: 0,0:07:51.92,0:07:52.48,Main,Riko,0000,0000,0000,,Okay!
+Dialogue: 0,0:07:52.86,0:07:54.32,Main,Geto,0000,0000,0000,,Let her do what she wants.
+Dialogue: 0,0:07:55.03,0:07:57.79,Main,Geto,0000,0000,0000,,That's part of our mission.
+Dialogue: 0,0:08:00.67,0:08:03.29,Main,Kuroi,0000,0000,0000,,Riko-sama has no family.
+Dialogue: 0,0:08:03.29,0:08:05.27,Main,Kuroi,0000,0000,0000,,They were in an accident when she was little.
+Dialogue: 0,0:08:05.27,0:08:08.09,Main,Kuroi,0000,0000,0000,,I've taken care of her ever since then.
+Dialogue: 0,0:08:08.75,0:08:12.14,Main,Kuroi,0000,0000,0000,,So I want her to at least have \Nwhat time she can with her friends.
+Dialogue: 0,0:08:13.26,0:08:15.80,Main,Geto,0000,0000,0000,,So you're her family, then.
+Dialogue: 0,0:08:18.39,0:08:19.30,Main,Kuroi,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:22.60,0:08:23.81,Main,Gojo,0000,0000,0000,,Suguru.
+Dialogue: 0,0:08:23.81,0:08:25.73,Main,Gojo,0000,0000,0000,,How're the cursed spirits you \Nsent to watch over her?
+Dialogue: 0,0:08:26.90,0:08:30.78,Main,Geto,0000,0000,0000,,I just wish I could share my senses \Nwith them like Mei-san does.
+Dialogue: 0,0:08:30.78,0:08:33.65,Main,Geto,0000,0000,0000,,Even so, they'll let us know as \Nsoon as anything unusual happens.
+Dialogue: 0,0:08:34.74,0:08:35.91,Main,Geto,0000,0000,0000,,Satoru.
+Dialogue: 0,0:08:35.91,0:08:37.87,Main,Geto,0000,0000,0000,,Hurry to Riko-chan's side.
+Dialogue: 0,0:08:37.87,0:08:38.78,Main,Gojo,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:40.40,0:08:42.32,Main,Geto,0000,0000,0000,,Two have been exorcised.
+Dialogue: 0,0:08:42.82,0:08:45.12,Italics,Announcer,0000,0000,0000,,{\an8}Who will be the ace of the next generation?
+Dialogue: 0,0:08:45.12,0:08:47.79,Italics,Announcer,0000,0000,0000,,{\an8}This will be an important match \Nto help us find out.
+Dialogue: 0,0:08:48.38,0:08:51.34,Italics,Announcer,0000,0000,0000,,{\an8}Number 6's final position \Nis finally starting to solidify.
+Dialogue: 0,0:08:51.34,0:08:54.88,Italics,Announcer,0000,0000,0000,,{\an8}Now, the fifth race, the one all eyes \Nare focused on, is about to begin.
+Dialogue: 0,0:09:00.35,0:09:01.85,Sign_Basic,Laptop,0000,0000,0000,,{\an8\q2\pos(320,110)\fs18\c&H29FF2C&\b1\bord0\shad0\fnArial}Amanai Riko\N Renchoku Girls' Academy\N #DEAD OR ALIVE
+Dialogue: 0,0:09:06.35,0:09:09.82,Sign_Basic,,0000,0000,0000,,{\fad(2975,0)\an7\q2\fs12\c&H29FF2C&\b1\bord0\shad0\fay.03\pos(499.333,295.333)}Time Remaining
+Dialogue: 0,0:09:06.35,0:09:09.82,Sign_Basic,,0000,0000,0000,,{\fad(2975,0)\an7\q2\fs12\c&H29FF2C&\b1\bord0\shad0\fay.03\pos(493.333,72.667)\fscx80}Renchoku Girls' Academy\NMiddle School Second-year\NDEAD OR ALIVE
+Dialogue: 0,0:09:15.15,0:09:16.95,Show_Title,,0000,0000,0000,,{\fad(550,0)\c&H3B4F3C&\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:09:17.57,0:09:18.99,Main,Gojo,0000,0000,0000,,Where's Amanai?!
+Dialogue: 0,0:09:18.99,0:09:21.03,Main,Kuroi,0000,0000,0000,,She has music this period,
+Dialogue: 0,0:09:21.03,0:09:23.12,Main,Kuroi,0000,0000,0000,,so either the music room or the chapel.
+Dialogue: 0,0:09:23.12,0:09:24.75,Main,Gojo,0000,0000,0000,,Chapel?!
+Dialogue: 0,0:09:24.75,0:09:27.17,Main,Kuroi,0000,0000,0000,,It changes depending on what \Nthe music teacher wants.
+Dialogue: 0,0:09:27.17,0:09:29.04,Main,Kuroi,0000,0000,0000,,Also, this is a missionary school.
+Dialogue: 0,0:09:29.38,0:09:30.96,Main,Geto,0000,0000,0000,,Satoru, you take the chapel.
+Dialogue: 0,0:09:30.96,0:09:32.59,Main,Geto,0000,0000,0000,,Kuroi-san, take the music room.
+Dialogue: 0,0:09:32.59,0:09:34.46,Main,Geto,0000,0000,0000,,I'll take the two unknowns.
+Dialogue: 0,0:09:34.46,0:09:36.00,Main,Kuroi,0000,0000,0000,,Roger that.
+Dialogue: 0,0:09:36.47,0:09:37.93,Main,Riko,0000,0000,0000,,I told you not to follow me!
+Dialogue: 0,0:09:37.93,0:09:40.47,Main,Riko,0000,0000,0000,,What if my friends see you?!
+Dialogue: 0,0:09:40.47,0:09:42.10,Main,Kuroi,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:09:42.10,0:09:44.93,Main,Kuroi,0000,0000,0000,,I even told her to text us \Nwhen she was on the move.
+Dialogue: 0,0:09:44.93,0:09:49.02,Main,Gojo,0000,0000,0000,,This is why I told that brat to stay within \Neyeshot so we could protect her!
+Dialogue: 0,0:09:52.02,0:09:53.15,Italics,Announcer,0000,0000,0000,,{\an8}And they're off.
+Dialogue: 0,0:09:53.15,0:09:55.61,Italics,Announcer,0000,0000,0000,,{\an8}Numbers 1 and 2 make a good start, \Nfavoring the inside.
+Dialogue: 0,0:09:55.61,0:09:57.70,Italics,Announcer,0000,0000,0000,,{\an8}Number 3 trails a bit behind.
+Dialogue: 0,0:09:56.19,0:09:57.78,Main,Touji,0000,0000,0000,,What?
+Dialogue: 0,0:09:57.70,0:10:01.07,Italics,Announcer,0000,0000,0000,,{\an8}Taking the lead at the first mark of \Nthe first lap is Number 2, Yamazaki.
+Dialogue: 0,0:09:58.07,0:10:00.24,Main,Touji,0000,0000,0000,,They didn't go back to Jujutsu High?
+Dialogue: 0,0:10:00.24,0:10:01.78,Main,Touji,0000,0000,0000,,Lucky me.
+Dialogue: 0,0:10:01.07,0:10:02.51,Italics,Announcer,0000,0000,0000,,{\an8}Behind him is Number 1, Masaki.
+Dialogue: 0,0:10:02.51,0:10:04.70,Italics,Announcer,0000,0000,0000,,{\an8}They're followed by Number 3, Kawano.
+Dialogue: 0,0:10:02.76,0:10:06.83,Main,Toji,0000,0000,0000,,Now the ones drawn to the bounty will\N be reasonable fools instead of just fools.
+Dialogue: 0,0:10:04.70,0:10:09.50,Italics,Announcer,0000,0000,0000,,{\an8}Then comes Number 4, Nomiya, Number 5, \NMifune, and in last is Number 6, Funegi.
+Dialogue: 0,0:10:06.83,0:10:08.17,Italics,Kong,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:10:08.17,0:10:09.50,Main,Toji,0000,0000,0000,,About what?
+Dialogue: 0,0:10:09.83,0:10:14.36,Italics,Kong,0000,0000,0000,,The bounty is the thirty-million deposit \Nthat the Star Religious Group paid you.
+Dialogue: 0,0:10:14.76,0:10:17.88,Italics,Kong,0000,0000,0000,,If they kill the Star Plasma Vessel, \Nthe deposit is gone,
+Dialogue: 0,0:10:17.88,0:10:20.64,Italics,Kong,0000,0000,0000,,and worst-case, you might not \Nget the full reward, either.
+Dialogue: 0,0:10:20.64,0:10:23.35,Italics,Kong,0000,0000,0000,,They might start saying \Nthey could have posted
+Dialogue: 0,0:10:23.35,0:10:25.85,Italics,Kong,0000,0000,0000,,a bounty from the start \Ninstead of hiring you.
+Dialogue: 0,0:10:25.85,0:10:28.83,Main,Toji,0000,0000,0000,,Gojo Satoru is with the girl.
+Dialogue: 0,0:10:28.83,0:10:31.19,Main,Toji,0000,0000,0000,,He's the first in several \Ncenturies to possess both
+Dialogue: 0,0:10:31.19,0:10:33.27,Main,Toji,0000,0000,0000,,the Six Eyes and the Limitless technique.
+Dialogue: 0,0:10:33.27,0:10:37.44,Main,Toji,0000,0000,0000,,No one can kill the Star Plasma \NVessel as long as he's nearby.
+Dialogue: 0,0:10:37.44,0:10:38.96,Italics,Kong,0000,0000,0000,,Not even you?
+Dialogue: 0,0:10:47.75,0:10:49.89,Italics,Announcer,0000,0000,0000,,{\an8}Number 3, Kawano, \Nis making a rushing comeback!
+Dialogue: 0,0:10:49.89,0:10:51.75,Italics,Announcer,0000,0000,0000,,{\an8}He's pulled into first place!
+Dialogue: 0,0:10:51.75,0:10:54.36,Main,Toji,0000,0000,0000,,Who knows?
+Dialogue: 0,0:10:54.59,0:10:57.13,Italics,Announcer,0000,0000,0000,,{\an8}He's managed to take the lead twice now.
+Dialogue: 0,0:10:55.92,0:11:00.55,Main,Toji,0000,0000,0000,,For now, we'll leave the bounty\N up for another 47 hours,
+Dialogue: 0,0:10:57.13,0:11:00.55,Italics,Announcer,0000,0000,0000,,{\an8}This race has been \Nfilled with ups and downs.
+Dialogue: 0,0:11:00.55,0:11:02.64,Italics,Announcer,0000,0000,0000,,{\an8}Can Number 3, Kawano, \Ndefend his position at the top?
+Dialogue: 0,0:11:00.88,0:11:05.31,Main,Toji,0000,0000,0000,,and let the fools wear down Gojo \Nand the sorcerers with him.
+Dialogue: 0,0:11:02.64,0:11:04.81,Italics,Announcer,0000,0000,0000,,{\an8}The race is now entering its third lap.
+Dialogue: 0,0:11:13.81,0:11:14.90,Main,Oldman,0000,0000,0000,,Hey!
+Dialogue: 0,0:11:15.27,0:11:16.57,Main,Oldman,0000,0000,0000,,Hold it right there!
+Dialogue: 0,0:11:22.91,0:11:24.54,Main,Toji,0000,0000,0000,,Nah, never mind.
+Dialogue: 0,0:11:27.79,0:11:30.08,Main,Toji,0000,0000,0000,,They won't be able to kill the \NStar Plasma Vessel, of course,
+Dialogue: 0,0:11:30.08,0:11:31.58,Main,Toji,0000,0000,0000,,so they're working for free.
+Dialogue: 0,0:11:32.08,0:11:35.00,Italics,Kong,0000,0000,0000,,It's a good thing you put \Nthat time limit on it.
+Dialogue: 0,0:11:35.00,0:11:37.80,Italics,Kong,0000,0000,0000,,The curse users are \Nquickly flocking to them.
+Dialogue: 0,0:11:37.80,0:11:39.76,Main,Toji,0000,0000,0000,,That's not the only reason.
+Dialogue: 0,0:11:39.76,0:11:40.38,Italics,Kong,0000,0000,0000,,Eh?
+Dialogue: 0,0:11:41.72,0:11:43.05,Main,Toji,0000,0000,0000,,Just talking to myself.
+Dialogue: 0,0:11:43.05,0:11:44.26,Italics,Announcer,0000,0000,0000,,{\an8}What?!
+Dialogue: 0,0:11:45.05,0:11:48.73,Italics,Announcer,0000,0000,0000,,{\an8}Number 3, Kawano, just lost his balance, \Nand Number 2, Yamazaki, is passing him!
+Dialogue: 0,0:11:48.97,0:11:50.93,Italics,Announcer,0000,0000,0000,,{\an8}Number 3 has drifted far to the outside,
+Dialogue: 0,0:11:49.02,0:11:50.93,Main,Toji,0000,0000,0000,,I'll head out soon enough.
+Dialogue: 0,0:11:50.93,0:11:53.15,Main,Toji,0000,0000,0000,,Looks like things are developing \Nfaster than I expected.
+Dialogue: 0,0:11:50.93,0:11:53.31,Italics,Announcer,0000,0000,0000,,{\an8}but he's righted his boat \Nand is chasing after them!
+Dialogue: 0,0:11:53.31,0:11:55.31,Italics,Announcer,0000,0000,0000,,{\an8}But there is now a considerable \Ngap between them!
+Dialogue: 0,0:11:53.65,0:11:56.61,Main,Toji,0000,0000,0000,,Make sure you get that \Nthirty million back for me.
+Dialogue: 0,0:11:56.61,0:11:58.82,Italics,Announcer,0000,0000,0000,,{\an8}Number 2, Yamazaki, crosses the goal first!
+Dialogue: 0,0:11:58.82,0:12:00.53,Italics,Announcer,0000,0000,0000,,{\an8}Number 5, Mifune, crosses next.
+Dialogue: 0,0:11:59.19,0:12:00.53,Italics,Kong,0000,0000,0000,,Don't be ridiculous.
+Dialogue: 0,0:12:00.53,0:12:03.07,Italics,Kong,0000,0000,0000,,This wasn't your average \Nanonymous message board.
+Dialogue: 0,0:12:00.53,0:12:03.07,Italics,Announcer,0000,0000,0000,,{\an8}Number 1, Masaki, crosses next, \Nfollowed by Number 3, Kawano.
+Dialogue: 0,0:12:03.07,0:12:05.75,Italics,Announcer,0000,0000,0000,,{\an8}Following them is Number 4, Nomiya, \Nand last is Number 6, Funegi.
+Dialogue: 0,0:12:03.07,0:12:05.75,Italics,Kong,0000,0000,0000,,There are posting fees, handling fees, and—
+Dialogue: 0,0:12:04.11,0:12:05.75,Main,Toji,0000,0000,0000,,Signal's dropping.
+Dialogue: 0,0:12:06.07,0:12:07.20,Main,Kong,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:08.49,0:12:10.16,Main,Kong,0000,0000,0000,,That bastard.
+Dialogue: 0,0:12:20.16,0:12:22.39,Italics,Geto,0000,0000,0000,,Are the unknowns remnants of Q?
+Dialogue: 0,0:12:22.75,0:12:26.30,Italics,Geto,0000,0000,0000,,This will be a little troublesome if they've \Nbeen sent by the Star Religious Group.
+Dialogue: 0,0:12:28.94,0:12:31.43,Main,Elder,0000,0000,0000,,That uniform...
+Dialogue: 0,0:12:36.52,0:12:39.98,Italics,Geto,0000,0000,0000,,As soon as he saw the Jujutsu High \Nuniform, he anticipated a fight against
+Dialogue: 0,0:12:39.98,0:12:42.57,Italics,Geto,0000,0000,0000,,multiple opponents and set \Nshikigami in front of and behind him.
+Dialogue: 0,0:12:42.57,0:12:44.03,Italics,Geto,0000,0000,0000,,He's experienced.
+Dialogue: 0,0:12:45.66,0:12:47.32,Italics,Elder,0000,0000,0000,,No catalyst?!
+Dialogue: 0,0:12:47.32,0:12:49.74,Italics,Elder,0000,0000,0000,,Their cursed energy is different \Nfrom the sorcerer's, too.
+Dialogue: 0,0:12:49.74,0:12:51.08,Italics,Elder,0000,0000,0000,,It couldn't be...
+Dialogue: 0,0:12:51.08,0:12:52.83,Main,Elder,0000,0000,0000,,Curse Manipulation?!
+Dialogue: 0,0:12:53.19,0:12:54.41,Main,Geto,0000,0000,0000,,Correct.
+Dialogue: 0,0:12:54.41,0:12:57.21,Main,Geto,0000,0000,0000,,Living a long life has its perks, I see.
+Dialogue: 0,0:12:57.21,0:13:00.38,Main,Elder,0000,0000,0000,,Nah, it's not worth \Nliving too long, you know.
+Dialogue: 0,0:13:00.38,0:13:03.67,Main,Elder,0000,0000,0000,,It costs money just to stay alive.
+Dialogue: 0,0:13:03.67,0:13:06.43,Italics,Elder,0000,0000,0000,,His cursed technique is stronger than mine.
+Dialogue: 0,0:13:06.43,0:13:09.89,Italics,Elder,0000,0000,0000,,However, he thinks like \Na typical shikigami user.
+Dialogue: 0,0:13:09.89,0:13:12.18,Italics,Elder,0000,0000,0000,,Add his youth on top of that,
+Dialogue: 0,0:13:12.18,0:13:15.64,Italics,Elder,0000,0000,0000,,and I can tell exactly what he's thinking.
+Dialogue: 0,0:13:15.64,0:13:17.40,Italics,Elder,0000,0000,0000,,I knew it.
+Dialogue: 0,0:13:17.40,0:13:20.19,Italics,Elder,0000,0000,0000,,Types like him never \Nstep forward themselves.
+Dialogue: 0,0:13:20.44,0:13:23.07,Italics,Elder,0000,0000,0000,,Close combat is his weakness!
+Dialogue: 0,0:13:23.07,0:13:28.62,Italics,Elder,0000,0000,0000,,Plus, he thinks a shikigami user \Nlike me would never get close to him.
+Dialogue: 0,0:13:28.62,0:13:32.20,Italics,Elder,0000,0000,0000,,He's someone who hates close \Ncombat, and he isn't wary of it.
+Dialogue: 0,0:13:32.20,0:13:35.08,Italics,Elder,0000,0000,0000,,No one is easier to kill.
+Dialogue: 0,0:13:35.41,0:13:38.54,Main,Geto,0000,0000,0000,,Looks like you're thinking up lots of plans,
+Dialogue: 0,0:13:38.79,0:13:40.13,Main,Geto,0000,0000,0000,,but there's no point.
+Dialogue: 0,0:13:45.47,0:13:45.97,Italics,Elder,0000,0000,0000,,What?!
+Dialogue: 0,0:13:45.97,0:13:48.72,Italics,Elder,0000,0000,0000,,Those first two were to prevent \Nme from anticipating this?!
+Dialogue: 0,0:13:53.52,0:13:56.23,Main,Geto,0000,0000,0000,,Now, that leaves one more.
+Dialogue: 0,0:14:00.23,0:14:01.86,Main,Elder,0000,0000,0000,,You're mine!
+Dialogue: 0,0:14:18.10,0:14:21.59,Main,Elder,0000,0000,0000,,Tasuke? Is that you, Tasuke?
+Dialogue: 0,0:14:22.32,0:14:26.76,Italics,Elder,0000,0000,0000,,My parents used all their time and money \Non my well-behaved little brother.
+Dialogue: 0,0:14:26.76,0:14:30.47,Italics,Elder,0000,0000,0000,,They thought I was creepy \Nbecause I could see the unseen.
+Dialogue: 0,0:14:31.01,0:14:36.10,Italics,Elder,0000,0000,0000,,But Tasuke was my one and only friend, \Nwho interacted with me without such fear.
+Dialogue: 0,0:14:38.27,0:14:40.44,Main,Elder,0000,0000,0000,,It's been a long time.
+Dialogue: 0,0:14:40.44,0:14:43.32,Main,Elder,0000,0000,0000,,Has it been over 50 years already?
+Dialogue: 0,0:14:43.32,0:14:46.11,Main,Elder,0000,0000,0000,,Since the day you died—
+Dialogue: 0,0:14:46.82,0:14:48.40,Italics,Elder,0000,0000,0000,,I see now!
+Dialogue: 0,0:14:54.12,0:14:56.04,Italics,Elder,0000,0000,0000,,My life flashed before my eyes!
+Dialogue: 0,0:14:56.45,0:14:58.71,Main,Elder,0000,0000,0000,,You lured me in!
+Dialogue: 0,0:14:58.71,0:14:59.96,Main,Geto,0000,0000,0000,,Well, yeah.
+Dialogue: 0,0:14:59.96,0:15:03.23,Main,Geto,0000,0000,0000,,You were itching to get in \Nclose that whole time, right?
+Dialogue: 0,0:15:03.23,0:15:05.17,Main,Geto,0000,0000,0000,,Those with a set means of victory
+Dialogue: 0,0:15:05.17,0:15:08.21,Main,Geto,0000,0000,0000,,will easily jump on the chance \Nwhen you give them that opening.
+Dialogue: 0,0:15:09.97,0:15:13.20,Main,Geto,0000,0000,0000,,More importantly, are you with Q?
+Dialogue: 0,0:15:13.20,0:15:14.68,Main,Geto,0000,0000,0000,,Or the Star Religious Group?
+Dialogue: 0,0:15:38.12,0:15:39.33,Main,Gojo,0000,0000,0000,,Amanai!
+Dialogue: 0,0:15:44.92,0:15:47.50,Main,Riko,0000,0000,0000,,Wh-Wh-Wh-Wh-Wha...
+Dialogue: 0,0:15:47.50,0:15:49.09,Main,Girls,0000,0000,0000,,What?!
+Dialogue: 0,0:15:49.09,0:15:50.84,Main,GirlD,0000,0000,0000,,Riko, you have a boyfriend?!
+Dialogue: 0,0:15:50.84,0:15:53.72,Main,Riko,0000,0000,0000,,No! He's a cousin! Just a cousin!
+Dialogue: 0,0:15:53.72,0:15:55.35,Main,GirlC,0000,0000,0000,,You're a smooth operator.
+Dialogue: 0,0:15:55.35,0:15:57.18,Main,Riko,0000,0000,0000,,I told you, he's not!
+Dialogue: 0,0:15:57.18,0:15:59.52,Main,GirlA,0000,0000,0000,,A high schooler?! He's so tall!
+Dialogue: 0,0:15:59.52,0:16:01.02,Main,GirlA,0000,0000,0000,,Hey, mister!
+Dialogue: 0,0:16:01.02,0:16:02.52,Main,GirlF,0000,0000,0000,,Take off your sunglasses!
+Dialogue: 0,0:16:05.23,0:16:07.04,Main,Girls,0000,0000,0000,,Squee! He's so hot!
+Dialogue: 0,0:16:05.40,0:16:07.04,Main,Screen,0000,0000,0000,,{\fad(100,0)\an8\fnArial\b1\c&HD1FEFF&\fs35\bord4\shad0\pos(320,20)\3c&H02080E&}Squee!
+Dialogue: 0,0:16:05.40,0:16:07.04,Main,Screen,0000,0000,0000,,{\fad(100,0)\an8\fnArial\b1\c&HD1FEFF&\fs35\bord3\shad0\pos(320,20)\3c&H3033D1&}Squee!
+Dialogue: 0,0:16:05.40,0:16:07.04,Main,Screen,0000,0000,0000,,{\fad(100,0)\an8\fnArial\b1\c&HD1FEFF&\fs35\bord1\shad0\pos(320,20)}Squee!
+Dialogue: 0,0:16:07.04,0:16:08.44,Main,GirlA,0000,0000,0000,,Such long lashes!
+Dialogue: 0,0:16:07.57,0:16:08.44,Main,Gojo,0000,0000,0000,,Hey.
+Dialogue: 0,0:16:08.44,0:16:10.07,Main,GirlB,0000,0000,0000,,Why are your eyes blue?
+Dialogue: 0,0:16:10.07,0:16:12.28,Main,Girl,0000,0000,0000,,Could you pose for me?
+Dialogue: 0,0:16:12.82,0:16:14.74,Main,Riko,0000,0000,0000,,Hey! Quit getting carried away!
+Dialogue: 0,0:16:14.74,0:16:16.95,Main,Teacher,0000,0000,0000,,All right, everyone! Quiet down!
+Dialogue: 0,0:16:16.95,0:16:18.70,Main,Teacher,0000,0000,0000,,This is disgraceful!
+Dialogue: 0,0:16:18.70,0:16:21.08,Main,GirlA,0000,0000,0000,,You know you're curious \Nabout him, too, Sensei!
+Dialogue: 0,0:16:21.08,0:16:22.41,Main,GirlB,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:22.76,0:16:24.21,Main,Teacher,0000,0000,0000,,This is inappropriate.
+Dialogue: 0,0:16:24.21,0:16:26.50,Main,Teacher,0000,0000,0000,,Even if you are a relative, \Nyou can't just barge in.
+Dialogue: 0,0:16:26.50,0:16:30.46,Main,Gojo,0000,0000,0000,,Oh, you'll have to forgive me.\NIt was an emergency.
+Dialogue: 0,0:16:32.92,0:16:34.63,Main,Teacher,0000,0000,0000,,Also, here. My phone number.
+Dialogue: 0,0:16:34.63,0:16:36.89,Main,Girls,0000,0000,0000,,Hey! That's against the rules!
+Dialogue: 0,0:16:35.24,0:16:35.99,Sign_Basic,Girls,0000,0000,0000,,{\fad(167,167)\an8\bord3\shad0\fnArial\b1\c&HBEFBFA&\3c&H725933&}GRAAAH
+Dialogue: 0,0:16:36.89,0:16:39.69,Main,Teacher,0000,0000,0000,,Shut up! You don't get many chances \Nto meet people as a teacher!
+Dialogue: 0,0:16:39.69,0:16:41.89,Main,GirlA,0000,0000,0000,,The same is true for us, too!
+Dialogue: 0,0:16:41.89,0:16:44.31,Main,GirlB,0000,0000,0000,,I can't believe you're into younger men! \NI've lost respect for you!
+Dialogue: 0,0:16:44.31,0:16:46.86,Main,Teacher,0000,0000,0000,,What?! You dissin' Hikaru Genji?!
+Dialogue: 0,0:16:46.86,0:16:48.79,Main,Gojo,0000,0000,0000,,What a lively school.
+Dialogue: 0,0:16:48.79,0:16:52.08,Main,Riko,0000,0000,0000,,You idiot! I told you not to show \Nyourself before my friends!
+Dialogue: 0,0:16:52.74,0:16:55.53,Main,Gojo,0000,0000,0000,,Curse users attacked. Figure out the rest.
+Dialogue: 0,0:16:56.95,0:16:58.20,Main,Riko,0000,0000,0000,,I'm floating?!
+Dialogue: 0,0:17:03.57,0:17:05.26,Main,Gojo,0000,0000,0000,,We're heading to Jujutsu High now.
+Dialogue: 0,0:17:05.70,0:17:08.03,Main,Gojo,0000,0000,0000,,You don't want you friends to \Nget caught up in this, do you?
+Dialogue: 0,0:17:10.34,0:17:12.34,Main,Bag,0000,0000,0000,,Is that the thirty million?
+Dialogue: 0,0:17:12.34,0:17:14.30,Main,Bag,0000,0000,0000,,The one with her is another sorcerer?
+Dialogue: 0,0:17:14.30,0:17:16.11,Main,Bag,0000,0000,0000,,Her bodyguard, too, I bet.
+Dialogue: 0,0:17:16.44,0:17:17.97,Main,Bag,0000,0000,0000,,What a sweet deal.
+Dialogue: 0,0:17:17.97,0:17:20.81,Main,Bag,0000,0000,0000,,Thirty million for killing a kid \Nwho's not even a sorcerer.
+Dialogue: 0,0:17:20.81,0:17:22.60,Main,Bag,0000,0000,0000,,Maybe I'll have eel tonight?
+Dialogue: 0,0:17:22.60,0:17:24.81,Main,Bag,0000,0000,0000,,Food always tastes best \Nafter killing someone.
+Dialogue: 0,0:17:24.81,0:17:27.27,Main,Kuroi,0000,0000,0000,,Are you from the Star Religious Group?
+Dialogue: 0,0:17:27.65,0:17:31.92,Main,Kuroi,0000,0000,0000,,The people in Q wore even weirder outfits.
+Dialogue: 0,0:17:32.15,0:17:33.65,Main,Bag,0000,0000,0000,,Are you a rookie?
+Dialogue: 0,0:17:33.65,0:17:35.78,Main,Bag,0000,0000,0000,,If you're killing someone, do it without talking.
+Dialogue: 0,0:17:39.95,0:17:41.12,Main,Bag,0000,0000,0000,,Too slow.
+Dialogue: 0,0:17:54.53,0:17:56.72,Main,Kuroi,0000,0000,0000,,Don't you dare take anything from that girl.
+Dialogue: 0,0:17:57.45,0:17:58.93,Main,Kuroi,0000,0000,0000,,I'll kill you.
+Dialogue: 0,0:18:04.06,0:18:05.23,Main,Geto,0000,0000,0000,,What's this?
+Dialogue: 0,0:18:06.14,0:18:07.81,Main,Geto,0000,0000,0000,,Well, aren't you strong?
+Dialogue: 0,0:18:09.07,0:18:10.23,Main,Geto,0000,0000,0000,,Where's Riko-chan?
+Dialogue: 0,0:18:11.02,0:18:13.61,Main,Kuroi,0000,0000,0000,,She left the school with Gojo-sama.
+Dialogue: 0,0:18:13.61,0:18:16.28,Main,Geto,0000,0000,0000,,Then we should head that way, too.
+Dialogue: 0,0:18:16.28,0:18:18.69,Main,Geto,0000,0000,0000,,This has gotten a bit troublesome.
+Dialogue: 0,0:18:19.95,0:18:22.74,Main,Bag,0000,0000,0000,,So that really was the thirty million earlier.
+Dialogue: 0,0:18:25.75,0:18:27.16,Main,Kuroi,0000,0000,0000,,A shikigami?!
+Dialogue: 0,0:18:27.16,0:18:29.62,Main,Geto,0000,0000,0000,,No, it's not quite the same as a shikigami.
+Dialogue: 0,0:18:30.00,0:18:31.04,Main,Geto,0000,0000,0000,,Satoru.
+Dialogue: 0,0:18:31.42,0:18:34.25,Main,Gojo,0000,0000,0000,,There's a bounty of thirty \Nmillion on Amanai's head?
+Dialogue: 0,0:18:34.25,0:18:38.22,Italics,Geto,0000,0000,0000,,Yeah. It was posted on an \Nunderground site for curse users.
+Dialogue: 0,0:18:38.22,0:18:40.93,Italics,Geto,0000,0000,0000,,Apparently, the time limit is\N11 AM the day after tomorrow.
+Dialogue: 0,0:18:41.43,0:18:42.93,Main,Gojo,0000,0000,0000,,Now things make sense.
+Dialogue: 0,0:18:43.90,0:18:47.68,Main,Riko,0000,0000,0000,,Two, three, four... They all look the same.
+Dialogue: 0,0:18:47.68,0:18:48.98,Main,Riko,0000,0000,0000,,Are they shikigami?
+Dialogue: 0,0:18:49.33,0:18:53.65,Main,Gojo,0000,0000,0000,,Jeez... And jujutsu sorcerers are \Nshort-handed all year round.
+Dialogue: 0,0:18:53.65,0:18:56.67,Main,Gojo,0000,0000,0000,,If you want to change jobs, \Nwe'll welcome you, old man.
+Dialogue: 0,0:18:56.67,0:18:59.99,Main,Bag,0000,0000,0000,,Nah, public employment \Nain't easy work, either.
+Dialogue: 0,0:18:59.99,0:19:02.62,Main,Bag,0000,0000,0000,,Just hand over that brat and we'll be fine.
+Dialogue: 0,0:19:02.62,0:19:04.17,Main,Riko,0000,0000,0000,,There's more! Five of them now!
+Dialogue: 0,0:19:04.17,0:19:07.45,Main,Gojo,0000,0000,0000,,What's so great about this brat?
+Dialogue: 0,0:19:16.46,0:19:18.19,Main,Bag,0000,0000,0000,,What did you just do?
+Dialogue: 0,0:19:18.45,0:19:20.01,Main,Riko,0000,0000,0000,,The shikigami isn't disappearing!
+Dialogue: 0,0:19:20.01,0:19:21.72,Main,Riko,0000,0000,0000,,Which is the real one?!
+Dialogue: 0,0:19:21.72,0:19:22.99,Main,Gojo,0000,0000,0000,,They're not shikigami.
+Dialogue: 0,0:19:22.99,0:19:24.30,Main,Gojo,0000,0000,0000,,They're clones.
+Dialogue: 0,0:19:24.30,0:19:26.56,Main,Gojo,0000,0000,0000,,And each one is the real one.
+Dialogue: 0,0:19:31.23,0:19:32.77,Main,Bag,0000,0000,0000,,The hell is this?!
+Dialogue: 0,0:19:32.77,0:19:33.69,Main,Gojo,0000,0000,0000,,Infinity.
+Dialogue: 0,0:19:33.69,0:19:35.40,Main,Gojo,0000,0000,0000,,It's Achilles and the Tortoise.
+Dialogue: 0,0:19:35.40,0:19:36.23,Main,Bag,0000,0000,0000,,Huh?!
+Dialogue: 0,0:19:36.23,0:19:38.74,Main,Gojo,0000,0000,0000,,It's important to study, you know.
+Dialogue: 0,0:19:40.82,0:19:44.24,Main,Gojo,0000,0000,0000,,Yours is a cloning technique that allows \Na maximum of five, including the original.
+Dialogue: 0,0:19:44.24,0:19:48.12,Main,Gojo,0000,0000,0000,,And you're always free to decide which \Nof the clones is the main body, right?
+Dialogue: 0,0:19:48.12,0:19:50.33,Main,Gojo,0000,0000,0000,,So if your main body is in danger,
+Dialogue: 0,0:19:50.33,0:19:52.79,Main,Gojo,0000,0000,0000,,you make a safe clone the main body.
+Dialogue: 0,0:19:52.79,0:19:54.75,Main,Gojo,0000,0000,0000,,That's a nice technique you have there.
+Dialogue: 0,0:19:54.75,0:19:57.67,Main,Gojo,0000,0000,0000,,I don't understand why you're so weak.
+Dialogue: 0,0:19:58.63,0:20:02.15,Main,Gojo,0000,0000,0000,,Are you unable to produce a clone \Nfor a while after it's destroyed?
+Dialogue: 0,0:20:02.15,0:20:04.64,Main,Bag,0000,0000,0000,,How do you know what my technique is?
+Dialogue: 0,0:20:04.64,0:20:06.22,Main,Gojo,0000,0000,0000,,Unfortunately for you,
+Dialogue: 0,0:20:06.22,0:20:07.97,Main,Gojo,0000,0000,0000,,I have good eyes.
+Dialogue: 0,0:20:08.62,0:20:10.64,Main,Gojo,0000,0000,0000,,You see, my technique
+Dialogue: 0,0:20:10.64,0:20:13.73,Main,Gojo,0000,0000,0000,,is like a convergent \Nseries of infinite numbers.
+Dialogue: 0,0:20:13.73,0:20:16.59,Main,Gojo,0000,0000,0000,,Anything that approaches me \Ngrows slower and slower,
+Dialogue: 0,0:20:16.59,0:20:19.57,Main,Gojo,0000,0000,0000,,and ultimately, it fails to ever reach me.
+Dialogue: 0,0:20:20.10,0:20:22.61,Main,Gojo,0000,0000,0000,,When I amplify my Limitless technique,
+Dialogue: 0,0:20:22.61,0:20:25.37,Main,Gojo,0000,0000,0000,,I get what you might call \Na negative natural number.
+Dialogue: 0,0:20:25.37,0:20:28.95,Main,Gojo,0000,0000,0000,,It basically creates a \Nsingle imaginary apple.
+Dialogue: 0,0:20:29.58,0:20:32.58,Main,Gojo,0000,0000,0000,,Doing so causes everything around to \Nget sucked into that space, like you saw.
+Dialogue: 0,0:20:32.87,0:20:34.58,Main,Gojo,0000,0000,0000,,Though it's surprisingly inconvenient.
+Dialogue: 0,0:20:34.83,0:20:38.75,Main,Gojo,0000,0000,0000,,I can't create too large \Na reaction near myself,
+Dialogue: 0,0:20:38.75,0:20:41.05,Main,Gojo,0000,0000,0000,,and if I start worrying \Nabout the vectors, too,
+Dialogue: 0,0:20:41.05,0:20:44.01,Main,Gojo,0000,0000,0000,,controlling the cursed \Nenergy becomes a real pain.
+Dialogue: 0,0:20:44.47,0:20:46.98,Main,Gojo,0000,0000,0000,,Basically, it's super exhausting.
+Dialogue: 0,0:20:50.22,0:20:54.23,Main,Gojo,0000,0000,0000,,But that's all just the proper \Noperation of the technique.
+Dialogue: 0,0:20:56.02,0:20:57.90,Main,Gojo,0000,0000,0000,,Protect your head.
+Dialogue: 0,0:21:14.66,0:21:16.96,Main,Gojo,0000,0000,0000,,This next one is the divergence of infinity.
+Dialogue: 0,0:21:19.25,0:21:21.06,Main,Gojo,0000,0000,0000,,My reverse cursed technique,
+Dialogue: 0,0:21:22.67,0:21:23.55,Main,Gojo,0000,0000,0000,,Red!
+Dialogue: 0,0:21:38.86,0:21:40.36,Main,Gojo,0000,0000,0000,,I failed!
+Dialogue: 0,0:21:50.28,0:21:53.24,Main,Gojo,0000,0000,0000,,I really thought I could do it that time.
+Dialogue: 0,0:21:54.08,0:21:56.25,Italics,Riko,0000,0000,0000,,Is this guy for real?
+Dialogue: 0,0:21:59.17,0:22:00.59,Main,Riko,0000,0000,0000,,It's from Kuroi.
+Dialogue: 0,0:22:02.92,0:22:04.42,Main,Riko,0000,0000,0000,,Wh-What do we do?!
+Dialogue: 0,0:22:04.42,0:22:05.51,Main,Riko,0000,0000,0000,,Kuroi has...
+Dialogue: 0,0:22:06.18,0:22:07.43,Main,Riko,0000,0000,0000,,Kuroi has been...
+Dialogue: 0,0:23:40.48,0:23:42.65,Main,Kuroi,0000,0000,0000,,I've always thought the voices \Nof young people should be heard,
+Dialogue: 0,0:23:42.65,0:23:44.74,Main,Kuroi,0000,0000,0000,,so I've voted in every election,
+Dialogue: 0,0:23:44.74,0:23:48.15,Main,Kuroi,0000,0000,0000,,but now I'm debating how long it's actually \Nokay to consider myself a young person.
+Dialogue: 0,0:23:48.15,0:23:49.53,Main,Riko,0000,0000,0000,,{\an8}Next time, "Hidden Inventory 3"!
+Dialogue: 0,0:23:48.15,0:23:55.64,Ep_Title,Screen,0000,0000,0000,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}Hidden Inventory 3
+Dialogue: 0,0:23:49.53,0:23:50.79,Main,Riko,0000,0000,0000,,{\an8}Be sure to watch!
+Dialogue: 0,0:23:50.79,0:23:52.37,Main,Riko,0000,0000,0000,,{\an8}Exactly how old are you, Kuroi?
+Dialogue: 0,0:23:52.37,0:23:53.12,Main,Kuroi,0000,0000,0000,,{\an8}It's a sekwet!
+Dialogue: 0,0:23:53.12,0:23:54.29,Main,Riko,0000,0000,0000,,{\an8}Oh, how cute!
+

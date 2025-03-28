@@ -1,0 +1,260 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Box,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:29.84,0:00:31.51,Gen_Main,Mahito,0000,0000,0000,,¡Por mí está muy bien!
+Dialogue: 0,0:00:48.32,0:00:52.62,Cart_C_Tim,Screen,0000,0000,0000,,{\q2\fscx80\fs24\pos(320,195.75)}Ultimate Mechamaru - Modo absoluto\NMarioneta Armadura Ultimate Mechamaru Prototipo N.° 0
+Dialogue: 0,0:00:53.57,0:00:57.62,Gen_Italics,Muta,0000,0000,0000,,Pero sí, la condición para mi victoria\Nes él, Satoru Gojo.
+Dialogue: 0,0:00:58.16,0:01:03.50,Gen_Italics,Muta,0000,0000,0000,,Debo contactarlo por cualquier medio,\Ninformarle sobre su plan de Shibuya
+Dialogue: 0,0:01:04.21,0:01:05.96,Gen_Italics,Muta,0000,0000,0000,,y hacer que me proteja.
+Dialogue: 0,0:01:06.42,0:01:09.59,Gen_Italics,Muta,0000,0000,0000,,Pero si me concentro demasiado\Nen la cortina y Geto,
+Dialogue: 0,0:01:09.92,0:01:12.22,Gen_Italics,Muta,0000,0000,0000,,quedaré indefenso\Nante la amenaza de Mahito.
+Dialogue: 0,0:01:12.64,0:01:14.76,Gen_Italics,Muta,0000,0000,0000,,Tengo que exorcizarlo a él primero.
+Dialogue: 0,0:01:19.68,0:01:21.35,Gen_Main,Muta,0000,0000,0000,,¡Carga de un año!
+Dialogue: 0,0:01:21.56,0:01:24.15,Gen_Main,Muta,0000,0000,0000,,¡Quémalo hasta los huesos, Mechamaru!
+Dialogue: 0,0:01:27.53,0:01:29.69,Gen_Main,Muta,0000,0000,0000,,¡Ultracañón!
+Dialogue: 0,0:01:51.34,0:01:54.59,Gen_Main,Mahito,0000,0000,0000,,¿Planeas seguir quemándome\Nhasta que me quede sin poder maldito?
+Dialogue: 0,0:01:55.43,0:01:59.81,Gen_Main,Mahito,0000,0000,0000,,¡Primero te sacaré de la cabina!
+Dialogue: 0,0:02:01.98,0:02:04.98,Cart_A_Tim,Screen,0000,0000,0000,,{\pos(320,111.15)\bord0}Episodio 31\N\N\N\N\N\N\N\N\N\N\N{\fs30}La víspera del festival
+Dialogue: 0,0:02:15.53,0:02:20.04,Cart_Serieslogo,Screen,0000,0000,0000,,{\fad(0,800)\fs28\3c&H9EF2FA&\move(320,47.64,320,48.85,20,4983)}{\t(0,5050,\fs-0.3)}JUJUTSU KAISEN{\fscy100}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\bord0\c&HFFFFFF&}Shibuya Incident
+Dialogue: 0,0:03:40.57,0:03:44.87,Gen_Italics,Muta,0000,0000,0000,,Los ataques de Mechamaru no son\Ncapaces de dañar el espíritu de Mahito.
+Dialogue: 0,0:03:45.16,0:03:48.00,Gen_Italics,Muta,0000,0000,0000,,Él mismo también acaba de comprobarlo.
+Dialogue: 0,0:04:29.33,0:04:31.13,Gen_Main,Muta,0000,0000,0000,,Carga de dos años…
+Dialogue: 0,0:04:32.08,0:04:36.09,Gen_Main,Muta,0000,0000,0000,,¡Cañón Milagroso!
+Dialogue: 0,0:04:45.51,0:04:47.93,Gen_Italics,Muta,0000,0000,0000,,Mahito sigue a la ofensiva.
+Dialogue: 0,0:04:48.39,0:04:51.10,Gen_Italics,Muta,0000,0000,0000,,Mis ataques no significan nada para él.
+Dialogue: 0,0:04:51.85,0:04:55.11,Gen_Main,Muta,0000,0000,0000,,Pero le voy a plantar esto\Ncuando menos se lo espere.
+Dialogue: 0,0:05:00.20,0:05:02.45,Gen_Italics,Muta,0000,0000,0000,,Qué poder tan inmenso.
+Dialogue: 0,0:05:02.87,0:05:06.04,Gen_Main,Muta,0000,0000,0000,,Si no actúo rápido,\Ndestrozará la armadura.
+Dialogue: 0,0:05:09.41,0:05:10.83,Gen_Italics,Computadora,0000,0000,0000,,Carga de técnica ritual.
+Dialogue: 0,0:05:11.17,0:05:13.67,Gen_Italics,Muta,0000,0000,0000,,Tengo cuatro oportunidades.
+Dialogue: 0,0:05:14.54,0:05:16.05,Gen_Italics,Muta,0000,0000,0000,,¡Acabaré con esto
+Dialogue: 0,0:05:17.67,0:05:19.47,Gen_Italics,Muta,0000,0000,0000,,de una sola vez!
+Dialogue: 0,0:05:24.85,0:05:27.10,Gen_Main,Muta,0000,0000,0000,,¡Fuego, Mechamaru!
+Dialogue: 0,0:05:32.60,0:05:34.23,Gen_Main,Mahito,0000,0000,0000,,Te digo que no sirve de nada.
+Dialogue: 0,0:05:34.44,0:05:36.57,Gen_Main,Mahito,0000,0000,0000,,¿No le pusiste atención a lo que viste?
+Dialogue: 0,0:05:39.44,0:05:40.57,Gen_Italics,Mahito,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:06:01.59,0:06:03.22,Gen_Italics,Mahito,0000,0000,0000,,¿Qué fue eso?
+Dialogue: 0,0:06:03.68,0:06:05.89,Gen_Italics,Mahito,0000,0000,0000,,¿Me está destruyendo\Ncon todo y espíritu?
+Dialogue: 0,0:06:20.07,0:06:22.36,Gen_Main,Muta,0000,0000,0000,,¿Otra vez un pájaro?\N¡Puros trucos baratos!
+Dialogue: 0,0:06:24.32,0:06:27.32,Gen_Italics,Muta,0000,0000,0000,,Regeneró el brazo izquierdo que le volé.
+Dialogue: 0,0:06:28.12,0:06:30.99,Gen_Italics,Muta,0000,0000,0000,,No, solamente moldeó\Nla forma de su espíritu
+Dialogue: 0,0:06:31.20,0:06:33.62,Gen_Italics,Muta,0000,0000,0000,,para que parezca\Nque fue capaz de regenerarlo.
+Dialogue: 0,0:06:34.08,0:06:37.29,Gen_Italics,Muta,0000,0000,0000,,Que haya regresado para alardearlo\Nlo prueba.
+Dialogue: 0,0:06:40.92,0:06:42.26,Gen_Main,Muta,0000,0000,0000,,No hay problema
+Dialogue: 0,0:06:43.01,0:06:44.93,Gen_Main,Muta,0000,0000,0000,,con esta táctica.
+Dialogue: 0,0:06:47.85,0:06:49.30,Gen_Main,Geto,0000,0000,0000,,Está surtiendo efecto.
+Dialogue: 0,0:06:49.76,0:06:51.25,Gen_Italics,Geto,0000,0000,0000,,El chico lo hace bien.
+Dialogue: 0,0:06:51.43,0:06:55.21,Gen_Italics,Geto,0000,0000,0000,,Temporalmente alcanza una cantidad\Nde poder maldito de un grado especial.
+Dialogue: 0,0:06:55.39,0:06:57.52,Gen_Italics,Geto,0000,0000,0000,,Y planeó con cuidado\Nmedidas anti-Mahito.
+Dialogue: 0,0:06:57.83,0:07:00.90,Gen_Main,Geto,0000,0000,0000,,Dependiendo de la situación,\Nquizá sería mejor hacerlo aquí…
+Dialogue: 0,0:07:07.57,0:07:09.07,Gen_Main,Muta,0000,0000,0000,,Carga de cinco años…
+Dialogue: 0,0:07:15.37,0:07:18.13,Gen_Main,Muta,0000,0000,0000,,¡Quinteto de Misiles Guiados!
+Dialogue: 0,0:08:03.75,0:08:06.97,Gen_Italics,Mahito,0000,0000,0000,,Primero hay que confirmar\Na ciencia cierta
+Dialogue: 0,0:08:07.17,0:08:10.01,Gen_Italics,Mahito,0000,0000,0000,,cuáles de sus ataques\Nafectan a mi espíritu.
+Dialogue: 0,0:08:29.32,0:08:30.82,Gen_Italics,Muta,0000,0000,0000,,¡Sí se puede!
+Dialogue: 0,0:08:35.87,0:08:37.50,Gen_Italics,Computadora,0000,0000,0000,,Carga de técnica ritual.
+Dialogue: 0,0:08:38.83,0:08:40.12,Gen_Italics,Muta,0000,0000,0000,,¡Puedo vencerlo!
+Dialogue: 0,0:08:40.96,0:08:42.38,Gen_Italics,Muta,0000,0000,0000,,Tengo que verlos
+Dialogue: 0,0:08:43.00,0:08:44.50,Gen_Italics,Muta,0000,0000,0000,,¡a todos!
+Dialogue: 0,0:08:59.23,0:09:02.85,Gen_Main,Mahito,0000,0000,0000,,Expansión del Dominio,\NAutoencarnación de la Iluminación.
+Dialogue: 0,0:09:24.67,0:09:26.55,Gen_Main,Mahito,0000,0000,0000,,Hasta aquí llegaste.
+Dialogue: 0,0:09:36.05,0:09:37.97,Gen_Main,Mahito,0000,0000,0000,,Mutación Inactiva.
+Dialogue: 0,0:09:45.36,0:09:49.78,Gen_Main,Mahito,0000,0000,0000,,Al meterte a mi dominio, no importa\Nsi no te puedo tocar directamente.
+Dialogue: 0,0:09:50.15,0:09:56.95,Cart_A_Verd,Screen,0000,0000,0000,,{\fad(0,1625)\an8\b1\shad0\3c&H321A1C&\frx40\pos(345.25,86)}9 años, 5 meses, 6 días
+Dialogue: 0,0:09:50.44,0:09:52.99,Gen_Main,Mahito,0000,0000,0000,,Lo sabías muy bien, ¿no es cierto?
+Dialogue: 0,0:09:58.45,0:10:02.21,Gen_Italics,Muta,0000,0000,0000,,Estos cilindros contienen esa brujería.
+Dialogue: 0,0:10:02.79,0:10:07.75,Gen_Italics,Muta,0000,0000,0000,,Solo de esta manera\Npude ser capaz de utilizarla.
+Dialogue: 0,0:10:08.55,0:10:11.07,Gen_Main,Mahito,0000,0000,0000,,Faltan unos diez días para Halloween.
+Dialogue: 0,0:10:11.35,0:10:15.29,Gen_Main,Mahito,0000,0000,0000,,¿Creíste que no usaría la Expansión\Nde Dominio para ahorrar poder maldito?
+Dialogue: 0,0:10:15.49,0:10:17.76,Gen_Main,Mahito,0000,0000,0000,,Me recuperaré si descanso diez días.
+Dialogue: 0,0:10:19.60,0:10:21.73,Gen_Italics,Muta,0000,0000,0000,,Me queda una reserva de dos disparos.
+Dialogue: 0,0:10:24.10,0:10:28.23,Gen_Italics,Muta,0000,0000,0000,,En la era Heian,\Nen la era de la cúspide de la brujería,
+Dialogue: 0,0:10:28.44,0:10:32.19,Gen_Italics,Muta,0000,0000,0000,,Sadatsuna Ashiya ideó esta técnica\Npara proteger a sus discípulos
+Dialogue: 0,0:10:32.65,0:10:35.89,Gen_Italics,Muta,0000,0000,0000,,de las garras de hechiceros maléficos\Ny espíritus malditos.
+Dialogue: 0,0:10:37.70,0:10:40.87,Gen_Main,Mahito,0000,0000,0000,,No pongas todos tus sueños\Ny esperanzas en la estrategia.
+Dialogue: 0,0:10:41.08,0:10:43.87,Gen_Main,Mahito,0000,0000,0000,,Me da tanta pena que ya ni sé\Nqué cara poner.
+Dialogue: 0,0:10:45.37,0:10:47.29,Gen_Italics,Muta,0000,0000,0000,,Solo se transmitía dentro de la secta.
+Dialogue: 0,0:10:47.75,0:10:52.92,Gen_Italics,Muta,0000,0000,0000,,Estaba prohibido con ataduras\Nenseñar esta brujería en mala fe a otros.
+Dialogue: 0,0:10:53.47,0:10:57.09,Gen_Italics,Muta,0000,0000,0000,,Se trata de un dominio de los débiles
+Dialogue: 0,0:11:02.27,0:11:04.94,Gen_Italics,Muta,0000,0000,0000,,para protegerlos del dominio\Nde los fuertes.
+Dialogue: 0,0:11:14.95,0:11:18.16,Gen_Main,Muta,0000,0000,0000,,{\i1}Shin Kageryu{\i0}, Nuevo Estilo de Sombras,\NDominio Simple.
+Dialogue: 0,0:11:24.65,0:11:27.75,Gen_Italics,Muta,0000,0000,0000,,Lo estuve observando todo.
+Dialogue: 0,0:11:49.52,0:11:51.23,Gen_Main,Geto,0000,0000,0000,,¡Un dominio simple!
+Dialogue: 0,0:11:51.82,0:11:54.57,Gen_Italics,Geto,0000,0000,0000,,Los dominios neutralizan\Ncualquier tipo de rituales.
+Dialogue: 0,0:11:54.90,0:11:58.99,Gen_Italics,Geto,0000,0000,0000,,Dentro de un dominio, los ataques dan\Nen el blanco hasta al mismo Satoru Gojo.
+Dialogue: 0,0:11:59.70,0:12:04.04,Gen_Italics,Geto,0000,0000,0000,,Aunque sea uno simple, si se genera\Nun dominio desde el interior,
+Dialogue: 0,0:12:04.24,0:12:08.87,Gen_Italics,Geto,0000,0000,0000,,Mahito recibirá el daño\Nsin importar la técnica ritual.
+Dialogue: 0,0:12:14.55,0:12:17.17,Gen_Main,Muta,0000,0000,0000,,¡Tendrás que dejar de ser\Nun simple espectador,
+Dialogue: 0,0:12:18.88,0:12:20.18,Gen_Main,Muta,0000,0000,0000,,Geto!
+Dialogue: 0,0:12:24.56,0:12:26.22,Gen_Italics,Muta,0000,0000,0000,,Me da gusto este imprevisto.
+Dialogue: 0,0:12:26.43,0:12:29.84,Gen_Italics,Muta,0000,0000,0000,,Podré pelear contra Geto teniendo\Nuna reserva de un dominio simple
+Dialogue: 0,0:12:30.00,0:12:31.56,Gen_Italics,Muta,0000,0000,0000,,y nueve años de poder maldito.
+Dialogue: 0,0:12:35.44,0:12:38.36,Gen_Italics,Muta,0000,0000,0000,,Puedo vencerlo. ¡Voy a poder verlos
+Dialogue: 0,0:12:40.53,0:12:41.95,Gen_Italics,Muta,0000,0000,0000,,a todos!
+Dialogue: 0,0:12:52.17,0:12:54.67,Gen_Italics,Muta,0000,0000,0000,,¡¿No acabé con él?!
+Dialogue: 0,0:12:54.88,0:12:59.13,Gen_Main,Muta,0000,0000,0000,,¡Ven, Mechamaru!
+Dialogue: 0,0:13:07.22,0:13:09.48,Gen_Italics,Muta,0000,0000,0000,,Todavía me queda un dominio.
+Dialogue: 0,0:13:09.68,0:13:11.31,Gen_Italics,Muta,0000,0000,0000,,¡Voy a clavárselo directamente!
+Dialogue: 0,0:13:13.44,0:13:15.11,Gen_Main,Muta,0000,0000,0000,,¡Aquí vamos, Mechamaru!
+Dialogue: 0,0:14:14.92,0:14:16.33,Gen_Main,Miwa,0000,0000,0000,,Oye, Mechamaru.
+Dialogue: 0,0:14:17.17,0:14:19.30,Gen_Main,Miwa,0000,0000,0000,,¿Puedo ir a visitarte pronto?
+Dialogue: 0,0:14:22.76,0:14:28.56,Gen_Main,Miwa,0000,0000,0000,,En el evento de intercambio, después de\Njugar béisbol, todos nos llevamos mejor.
+Dialogue: 0,0:14:29.06,0:14:31.64,Gen_Main,Miwa,0000,0000,0000,,¿Será cosa del oficio de hechicero?
+Dialogue: 0,0:14:31.85,0:14:35.98,Gen_Main,Miwa,0000,0000,0000,,Antes solía mantener las distancias\Naun con los que consideraba mis amigos.
+Dialogue: 0,0:14:38.06,0:14:42.24,Gen_Main,Miwa,0000,0000,0000,,Porque sabes que te va a doler mucho\Ncuando esos amigos te vayan a faltar.
+Dialogue: 0,0:14:44.15,0:14:48.33,Gen_Main,Miwa,0000,0000,0000,,Sin embargo, me agrada la relación\Nque ahora tengo con todos.
+Dialogue: 0,0:14:48.62,0:14:52.16,Gen_Main,Miwa,0000,0000,0000,,Y como tú no pudiste participar\Nen el partido de béisbol…
+Dialogue: 0,0:14:52.58,0:14:55.25,Gen_Main,Miwa,0000,0000,0000,,Bueno, te representó\Nuna máquina de pitcheo.
+Dialogue: 0,0:14:59.46,0:15:03.51,Gen_Main,Miwa,0000,0000,0000,,Me gustaría pasar tiempo contigo\Ny conocerte mejor.
+Dialogue: 0,0:15:05.34,0:15:06.47,Gen_Main,Miwa,0000,0000,0000,,Por eso,
+Dialogue: 0,0:15:07.72,0:15:10.93,Gen_Main,Miwa,0000,0000,0000,,te iré a visitar algún día, ¿está bien?
+Dialogue: 0,0:15:14.39,0:15:16.81,Gen_Main,Geto,0000,0000,0000,,¿No estuvo a punto de derrotarte?
+Dialogue: 0,0:15:17.19,0:15:21.32,Gen_Main,Mahito,0000,0000,0000,,Me exploté a mí mismo justo antes\Nde que se activara su brujería.
+Dialogue: 0,0:15:21.75,0:15:24.57,Gen_Main,Mahito,0000,0000,0000,,Desactivé el dominio\Npara que pensara que había muerto.
+Dialogue: 0,0:15:24.74,0:15:28.07,Gen_Main,Mahito,0000,0000,0000,,No pasa nada.\NTodo estaba fríamente calculado.
+Dialogue: 0,0:15:28.49,0:15:30.58,Gen_Main,Mahito,0000,0000,0000,,Así que ese fue un dominio simple.
+Dialogue: 0,0:15:31.12,0:15:33.58,Gen_Main,Mahito,0000,0000,0000,,Tuvimos suerte de verlo\Nantes de la gran fiesta.
+Dialogue: 0,0:15:33.91,0:15:37.96,Gen_Main,Geto,0000,0000,0000,,Sí. Ya acabé los ajustes de las cortinas\Nde tipo de comisión.
+Dialogue: 0,0:15:38.75,0:15:42.88,Gen_Main,Geto,0000,0000,0000,,Podemos entregarles poder maldito\Ny los encantamientos a nuestro aliados.
+Dialogue: 0,0:15:46.38,0:15:49.26,Cart_A_Verd,ScrollingText,0000,0000,0000,,{\q2\an7\bord0\shad0\move(145,230,18,230)\fscx65\clip(m 188 3 l 122 358 529 356 510 269 494 200 472 100 456 24 451 6)\frz356.2}1 de noviembre de 2018 - [Hokkaido] Lluvias y soleado - [Aomori] Lluvias
+Dialogue: 0,0:16:05.44,0:16:10.16,Gen_Italics,Narradora,0000,0000,0000,,31 de octubre de 2018,\Na las 19:00 en punto,
+Dialogue: 0,0:16:10.57,0:16:13.28,Gen_Italics,Narradora,0000,0000,0000,,Baja una cortina de aproximadamente\N400 m de radio
+Dialogue: 0,0:16:13.49,0:16:17.87,Gen_Italics,Narradora,0000,0000,0000,,con centro en los alrededores\Nde la tienda departamental Tokyu.
+Dialogue: 0,0:16:21.17,0:16:23.96,Cart_Serieslogo,Eyecatch,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:16:27.22,0:16:28.97,Cart_Serieslogo,Eyecatch,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:16:34.89,0:16:37.68,Gen_Main,Hombre A,0000,0000,0000,,¡Fondo! ¡Fondo! ¡Tomátelo todo!
+Dialogue: 0,0:16:38.18,0:16:41.35,Gen_Main,Hombre B/Hombre C,0000,0000,0000,,-¡Apresúrate!\N-¡Menso, deja de hacer eso!
+Dialogue: 0,0:16:41.73,0:16:46.32,Gen_Main,Mujer A,0000,0000,0000,,Dicen que viene mucha gente de Ibakaraki\Ny Tochigi a celebrar Halloween.
+Dialogue: 0,0:16:46.48,0:16:48.57,Gen_Main,Mujer B/Hombre D,0000,0000,0000,,-¿Desde tan lejos hasta acá?\N-Disculpen…
+Dialogue: 0,0:16:49.24,0:16:52.70,Gen_Main,Hombre D,0000,0000,0000,,¿Les podemos tomar fotos?\NSe ven lindísimas.
+Dialogue: 0,0:16:52.87,0:16:54.83,Gen_Main,Mujer C/Mujer D,0000,0000,0000,,-Gracias.\N-Qué alegría.
+Dialogue: 0,0:16:58.25,0:17:01.71,Gen_Main,Hombre E/Mujer E,0000,0000,0000,,-Todos esos están locos.\N-El año que viene no vengamos a Shibuya.
+Dialogue: 0,0:17:03.67,0:17:05.17,Gen_Main,Mujer E,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:17:05.46,0:17:08.34,Gen_Main,Hombre E/Mujer E,0000,0000,0000,,-¿Qué cosa?\N-¡Esa cosa allá!
+Dialogue: 0,0:17:11.72,0:17:12.97,Gen_Main,Hombre E,0000,0000,0000,,¿Cuál cosa?
+Dialogue: 0,0:17:13.93,0:17:15.39,Gen_Main,Mujer E,0000,0000,0000,,¡Te digo que eso en el cielo!
+Dialogue: 0,0:17:15.60,0:17:17.81,Gen_Main,Mujer E,0000,0000,0000,,Hace falta que te revises los ojos.
+Dialogue: 0,0:17:27.19,0:17:28.86,Gen_Main,Hombre F,0000,0000,0000,,¡Viva!
+Dialogue: 0,0:17:30.61,0:17:32.95,Gen_Main,Hombre G/Hombre H,0000,0000,0000,,-¿Por qué te caes de la nada?\N-Qué gracioso.
+Dialogue: 0,0:17:33.16,0:17:35.99,Gen_Main,Hombre H/Hombre I,0000,0000,0000,,-¿Ya estás borracho?\N-Todavía es muy pronto.
+Dialogue: 0,0:17:36.20,0:17:38.95,Gen_Main,Hombre F,0000,0000,0000,,No, aquí hay una pared.\NUna pared, les digo.
+Dialogue: 0,0:18:01.35,0:18:06.36,Cart_A_Tim,Screen,0000,0000,0000,,{\fs30\bord0\shad0\pos(421.5,256.25)}20:14, Shibuya, Tokio
+Dialogue: 0,0:18:06.36,0:18:14.11,Cart_A_Tim,Screen,0000,0000,0000,,{\an3\fs24\bord0\shad0\pos(602,260)}Misma hora, estación de Shibuya\NSalida #13 (Fuera de la cortina)
+Dialogue: 0,0:18:07.00,0:18:10.25,Gen_Main_Up,Ijichi,0000,0000,0000,,Es una cortina que mantiene encerradas\Na las personas normales.
+Dialogue: 0,0:18:10.52,0:18:14.11,Gen_Main_Up,Ijichi,0000,0000,0000,,Solo pueden entrar. El efecto\Ncon las ventanas depende de la persona.
+Dialogue: 0,0:18:14.45,0:18:18.49,Gen_Main,Ijichi,0000,0000,0000,,Los hechiceros, incluidos los directores\Nasistentes, podemos entrar y salir.
+Dialogue: 0,0:18:18.87,0:18:21.16,Gen_Main,Nanami/Ijichi,0000,0000,0000,,-¿Y las ondas de comunicación?\N-Bloqueadas.
+Dialogue: 0,0:18:21.46,0:18:26.46,Gen_Main,Ijichi,0000,0000,0000,,Tendrían que salir de la cortina para\Ncomunicarse, o usarnos como mensajeros.
+Dialogue: 0,0:18:26.87,0:18:29.75,Cart_A_Tre,Screen,0000,0000,0000,,{\an1\fnTimes New Roman\fs20\bord0\shad0\pos(80,251)\b1\fscx70}Equipo Nanami\h\h\h\h\h\hKento Nanami (Hechicero de primer grado)\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTakuma Ino (Hechicero de segundo grado) (Pendiente de posible ascenso)\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMegumi Fushiguro (Hechicero de segundo grado) (Pendiente de posible ascenso)
+Dialogue: 0,0:18:26.88,0:18:29.75,Gen_Main_Up,Nanami,0000,0000,0000,,Tenemos entre manos una situación\Nun tanto fastidiosa.
+Dialogue: 0,0:18:29.96,0:18:31.76,Gen_Main,Ino,0000,0000,0000,,Fushiguro… ¡Fushiguro!
+Dialogue: 0,0:18:32.01,0:18:36.05,Gen_Main,Ino,0000,0000,0000,,Las barreras como las cortinas\Nsolo pueden afectar
+Dialogue: 0,0:18:36.26,0:18:39.51,Gen_Main,Ino,0000,0000,0000,,a algo que contenga poder maldito,\Nbásicamente.
+Dialogue: 0,0:18:39.72,0:18:43.35,Gen_Main,Ino,0000,0000,0000,,A grandes rasgos, humanos, maldiciones\Ny objetos malditos, ¿sabías?
+Dialogue: 0,0:18:43.56,0:18:47.77,Gen_Main,Ino,0000,0000,0000,,Que la cortina bloquee las ondas\Nde comunicación es un efecto secundario.
+Dialogue: 0,0:18:47.98,0:18:52.86,Gen_Main,Ino,0000,0000,0000,,O sea, bloquear las señales no se puede\Najustar en el ritual de la barrera, ¿eh?
+Dialogue: 0,0:18:53.53,0:18:55.74,Gen_Main,Megumi,0000,0000,0000,,Ah, sí. Ya lo sabía.
+Dialogue: 0,0:18:56.41,0:18:59.87,Gen_Main,Nanami,0000,0000,0000,,Joven Ino, él es muy inteligente.\NNo te hagas tanto el sabelotodo.
+Dialogue: 0,0:19:00.08,0:19:02.66,Gen_Main,Ino,0000,0000,0000,,¡¿Qué me quiere decir, Nanami?!
+Dialogue: 0,0:19:03.00,0:19:05.87,Gen_Main,Nanami,0000,0000,0000,,Entonces, ¿qué hay de Gojo?
+Dialogue: 0,0:19:05.87,0:19:10.88,Cart_A_Tim,Screen,0000,0000,0000,,{\an1\fs24\bord0\shad0\pos(59.25,260)}Misma hora, Shibuya Mark City\NEntrada a la zona de restauración (Fuera de la cortina)
+Dialogue: 0,0:19:06.67,0:19:10.42,Gen_Main_Up,Nobara,0000,0000,0000,,¿No hay gente? ¿En el cruce peatonal\Ntan famoso de Shibuya?
+Dialogue: 0,0:19:11.09,0:19:12.88,Gen_Main,Nobara,0000,0000,0000,,¡¿En la noche de Halloween?!
+Dialogue: 0,0:19:13.09,0:19:15.51,Gen_Main,Nitta,0000,0000,0000,,Según el recuento de los hechos,\Nalgo pasó
+Dialogue: 0,0:19:15.68,0:19:20.39,Gen_Main,Nitta,0000,0000,0000,,que forzó a la gente a huir al borde\Nde la cortina. Y ellos mismos demandan
+Dialogue: 0,0:19:21.18,0:19:24.18,Gen_Main,Nitta,0000,0000,0000,,lo siguiente: "Traigan a Satoru Gojo".
+Dialogue: 0,0:19:24.93,0:19:30.52,Cart_A_Tre,Screen,0000,0000,0000,,{\an1\fnTimes New Roman\fs20\bord0\shad0\b1\fscx70\pos(64,251)}Equipo Zenin\h\h\h\h\h\h\h\hNaobito Zenin (Hechicero de primer grado)\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMaki Zenin (Hechicera de cuarto grado) (Pendiente de posible ascenso)\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hNobara Kugisaki (Hechicera de tercer grado) (Pendiente de posible ascenso)
+Dialogue: 0,0:19:25.52,0:19:28.65,Gen_Main_Up,Naobito,0000,0000,0000,,No hay forma de que\Nlos no hechiceros conozcan al sujeto.
+Dialogue: 0,0:19:28.86,0:19:30.52,Gen_Main_Up,Naobito,0000,0000,0000,,Alguien los obliga a decir eso.
+Dialogue: 0,0:19:30.94,0:19:32.82,Gen_Main,Naobito,0000,0000,0000,,¿Es posible destruir la cortina?
+Dialogue: 0,0:19:33.51,0:19:35.11,Gen_Main,Nitta,0000,0000,0000,,Se están teniendo dificultades.
+Dialogue: 0,0:19:35.30,0:19:39.20,Gen_Main,Nitta,0000,0000,0000,,Ya que la misma cortina no rechaza\Nel paso de hechiceros por ningún lado.
+Dialogue: 0,0:19:39.66,0:19:42.20,Gen_Main,Nitta,0000,0000,0000,,No parece algo\Nque se pueda lograr con la fuerza.
+Dialogue: 0,0:19:42.62,0:19:46.92,Gen_Main,Nitta,0000,0000,0000,,Sería más rápido encontrar al hechicero\Nmaléfico que la bajó para que la quite.
+Dialogue: 0,0:19:47.33,0:19:49.92,Gen_Main,Maki,0000,0000,0000,,Entonces, nuestro trabajo\Nes ayudar con eso, ¿no?
+Dialogue: 0,0:19:50.38,0:19:53.80,Gen_Main,Nitta,0000,0000,0000,,¡No! Ustedes deben permanecer aquí\Npor el momento.
+Dialogue: 0,0:19:56.09,0:19:59.80,Gen_Main,Kusakabe,0000,0000,0000,,Una cortina de gran precisión\Ny demandar la presencia de Satoru Gojo…
+Dialogue: 0,0:19:59.80,0:20:06.81,Cart_A_Tim,Screen,0000,0000,0000,,{\an3\fs24\bord0\shad0\pos(602,300)\fscx80}Misma hora, entrada sur de la estación\Ndel JR de Shibuya (Fuera de la cortina)
+Dialogue: 0,0:20:00.35,0:20:03.85,Gen_Main_Up,Kusakabe,0000,0000,0000,,Debe ser obra de la misma banda\Nque atacó el evento de intercambio.
+Dialogue: 0,0:20:04.06,0:20:06.81,Gen_Main_Up,Kusakabe,0000,0000,0000,,Para minimizar los daño,\Nlos de arriba decidieron
+Dialogue: 0,0:20:06.81,0:20:12.69,Cart_A_Tim,,0000,0000,0000,,{\bord0\shad0\an3\fs24\fscx70\pos(606,267)}Hechicero de primer grado (Profesor de segundo en la escuela)\N{\fscx100}Atsuya Kusakabe
+Dialogue: 0,0:20:07.02,0:20:11.52,Gen_Italics_top,Kusakabe,0000,0000,0000,,enviar a Satoru Gojo solo para que\Nse encargue de controlar Shibuya.
+Dialogue: 0,0:20:12.94,0:20:15.99,Gen_Main,Kusakabe,0000,0000,0000,,El equipo de Nanami,\Nel del viejo del clan Zenin,
+Dialogue: 0,0:20:16.19,0:20:17.95,Gen_Main,Kusakabe,0000,0000,0000,,el de Meimei y nosotros dos…
+Dialogue: 0,0:20:18.15,0:20:20.66,Gen_Main,Kusakabe,0000,0000,0000,,Todos estamos distribuidos\Nafuera de la cortina
+Dialogue: 0,0:20:20.66,0:20:26.66,Cart_A_Tim,Screen,0000,0000,0000,,{\an1\fs20\bord0\shad0\fscx85\q2\pos(60,280)}Equipo Kusakabe\h\h\h\h\h\h\hAtsuya Kusakabe (Hechicero de primer grado)\h\h\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hPanda (Hechicero de segundo grado) (Evaluación pospuesta)
+Dialogue: 0,0:20:20.89,0:20:23.77,Gen_Main_Up,Kusakabe,0000,0000,0000,,para encargarnos de los cabos sueltos\Nque Gojo deje ir.
+Dialogue: 0,0:20:23.92,0:20:26.66,Gen_Main_Up,Kusakabe,0000,0000,0000,,No podremos comunicarnos\Nsi entramos a la cortina.
+Dialogue: 0,0:20:27.21,0:20:31.00,Gen_Main,Panda,0000,0000,0000,,Eso de minimizar daños se refiere\Na los de los hechiceros, ¿verdad?
+Dialogue: 0,0:20:31.33,0:20:34.09,Gen_Main,Panda,0000,0000,0000,,¿No importan las víctimas\Nde las personas normales?
+Dialogue: 0,0:20:34.42,0:20:36.42,Gen_Main,Kusakabe,0000,0000,0000,,No le busques tres pies al gato.
+Dialogue: 0,0:20:36.63,0:20:41.01,Gen_Main,Kusakabe,0000,0000,0000,,A diferencia de la Procesión de Cien\NDemonios en Navidad, la cosa ya comenzó.
+Dialogue: 0,0:20:41.22,0:20:43.43,Gen_Main,Kusakabe,0000,0000,0000,,Yo también creo que esto es lo mejor.
+Dialogue: 0,0:20:43.68,0:20:48.31,Gen_Main,Kusakabe,0000,0000,0000,,Además, acabo de echar un vistazo dentro\Nde la cortina, y todo estaba tranquilo.
+Dialogue: 0,0:20:48.52,0:20:53.94,Gen_Main,Kusakabe,0000,0000,0000,,Estaban en pánico, pero no los masacraban\Nmaldiciones ni hechiceros maléficos.
+Dialogue: 0,0:20:54.27,0:20:57.50,Gen_Main,Kusakabe,0000,0000,0000,,La situación es que solo están\Natrapados dentro de la cortina.
+Dialogue: 0,0:20:57.94,0:21:01.07,Gen_Main,Kusakabe,0000,0000,0000,,Pero te confieso que no me quedaron\Nganas de volver a entrar.
+Dialogue: 0,0:21:01.28,0:21:02.91,Gen_Main,Panda,0000,0000,0000,,¿Por qué no?
+Dialogue: 0,0:21:03.16,0:21:05.45,Gen_Main,Kusakabe,0000,0000,0000,,Creo que era\Nen el centro comercial Hikarie.
+Dialogue: 0,0:21:05.87,0:21:11.75,Cart_A_Tim,Screen,0000,0000,0000,,{\an1\fs24\bord0\shad0\fscx80\pos(167.75,263)}Misma hora, calle Bunkamura, Dougenzaka\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h2-Chome este (Dentro de la cortina)
+Dialogue: 0,0:21:06.56,0:21:10.79,Gen_Main_Up,Kusakabe,0000,0000,0000,,En los pisos subterráneos hay un montón\Nde espíritus malditos de grado especial.
+Dialogue: 0,0:21:11.75,0:21:14.50,Gen_Main,Hombre J/Mujer F,0000,0000,0000,,-¡¿Qué diablos sucede?!\N-¿Por qué no podemos pasar?
+Dialogue: 0,0:21:14.88,0:21:17.30,Gen_Main,Hombre K,0000,0000,0000,,¡Rápido, traigan ya a Satoru Gojo!
+Dialogue: 0,0:21:17.46,0:21:19.13,Gen_Main,Hombre L,0000,0000,0000,,¿Quién es ese tal Gojo?
+Dialogue: 0,0:21:19.34,0:21:23.51,Gen_Main,Hombre K,0000,0000,0000,,¡No lo sé! Pero ¡me dijeron\Nque no vamos a poder salir si no viene!
+Dialogue: 0,0:21:23.72,0:21:26.10,Gen_Main,Hombre L/Hombre K,0000,0000,0000,,-¿Quién te dijo?\N-¡No sé! ¡Todos lo dicen!
+Dialogue: 0,0:21:26.31,0:21:29.43,Gen_Main,Mujer G,0000,0000,0000,,¿Qué onda con los hombres\Nque no se calman en estos casos?
+Dialogue: 0,0:21:29.68,0:21:34.40,Gen_Main,Mujer H,0000,0000,0000,,Eso de no poder pasar está como de\Npelícula de terror. Pero estamos bien.
+Dialogue: 0,0:21:34.61,0:21:36.15,Gen_Main,Mujer H,0000,0000,0000,,Pronto vendrán a rescatarnos.
+Dialogue: 0,0:21:36.36,0:21:38.40,Gen_Main,Mujer G,0000,0000,0000,,Ah. No tengo señal.
+Dialogue: 0,0:21:36.65,0:21:38.40,Cart_A_Box,Phone,0000,0000,0000,,{\bord0\shad0\and8\fs16\pos(346,174.666)\c&HE0EDFF&\frz13.41\fax.1}Miércoles, 31 de octubre
+Dialogue: 0,0:21:36.65,0:21:38.40,Cart_A_Tre,Phone,0000,0000,0000,,{\bord2\shad0\fs12\c&H6D5D8B&\frz13.41\fax.1\an7\3c&HCCC5F7&\pos(253.75,252.75)}Error de conexión\N\hImposible conectar a la red
+Dialogue: 0,0:21:38.65,0:21:41.07,Gen_Main,Hombre K,0000,0000,0000,,¿Ustedes no vieron lo que pasó allá?
+Dialogue: 0,0:21:41.32,0:21:47.08,Gen_Main,Hombre K,0000,0000,0000,,Absorbieron a todo el montón de gente\Nhacia el interior de la estación,
+Dialogue: 0,0:21:47.29,0:21:49.95,Gen_Main,Hombre K,0000,0000,0000,,Como cuando se va el agua\Nal quitar el tapón.
+Dialogue: 0,0:21:50.16,0:21:53.00,Gen_Main,Hombre K,0000,0000,0000,,¡Si no fuera por eso,\Nya nos habríamos ido en tren!
+Dialogue: 0,0:21:53.21,0:21:55.96,Gen_Main,Hombre K,0000,0000,0000,,¡No entienden\Npor su pobre nivel de educación!
+Dialogue: 0,0:21:56.71,0:21:59.46,Gen_Main,Hombre L,0000,0000,0000,,¡Usa tus estudios para traspasar\Nesa pared invisible!
+Dialogue: 0,0:22:00.59,0:22:02.30,Gen_Main,Hombre K,0000,0000,0000,,Ay, mi trasero.
+Dialogue: 0,0:22:05.51,0:22:06.97,Gen_Main,Gojo,0000,0000,0000,,Ah. Perdón.
+Dialogue: 0,0:22:06.97,0:22:09.97,Cart_A_Tim,Screen,0000,0000,0000,,{\fs30\bord0\shad0\fscx85\pos(320,115.5)}20:31    Satoru Gojo llega al lugar de los hechos
+Dialogue: 0,0:23:37.10,0:23:39.02,Cart_A_Tre,,0000,0000,0000,,{\b0\fs20\bord1.5\be1\3c&H161622&}Traducción: Abraham Gayuvas y Antonio Valdez\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:40.90,0:23:44.24,Gen_Main,Nobara,0000,0000,0000,,Te mandé a comprar un {\i1}melon pan{\i0},\N¡pero este trae chocochispas!
+Dialogue: 0,0:23:44.40,0:23:46.24,Gen_Main,Yuji,0000,0000,0000,,¡Pues el de chocochispas es mejor!
+Dialogue: 0,0:23:46.40,0:23:48.36,Gen_Main,Nobara,0000,0000,0000,,¡Son como Kampala y Gunpla!
+Dialogue: 0,0:23:48.54,0:23:50.03,Gen_Main,Yuji,0000,0000,0000,,¿Eh? ¿No has ido a Kampala?
+Dialogue: 0,0:23:50.20,0:23:52.77,Gen_Main,Megumi/Nobara,0000,0000,0000,,-Próximo: "El incidente de Shibuya".\N-¿Me entiendes?
+Dialogue: 0,0:23:50.20,0:23:55.04,Cart_A_Tim,Screen,0000,0000,0000,,{\pos(320,111.15)\bord2.5\blur3}Próximo episodio\N\N\N\N\N\N\N\N\N\N\N{\fs30}El incidente de Shibuya
+Dialogue: 0,0:23:52.94,0:23:54.50,Gen_Main,Megumi,0000,0000,0000,,Una vez armé un Acguy.
+

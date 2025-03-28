@@ -1,0 +1,474 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,56,&H00000000,&H000000FF,&H00B7BD80,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H28FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0028,0050,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+Style: sign_3594_23_Name__Kanda_Taic,Trebuchet MS,18,&H008D8B8B,&H000000FF,&H00F8F8F8,&H00000000,0,0,0,0,100,100,0,0,3,1,0,4,0350,0010,0000,1
+Style: sign_18174_233_Koi_no_Kuchi_Can,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0000,0241,0080,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.01,0:00:03.00,Main,Taichi,0000,0000,0000,,Hey, are you listening?!
+Dialogue: 0,0:00:03.66,0:00:07.44,Main,Taichi,0000,0000,0000,,I told you! The auto-locking \Ndoor was left wide open!
+Dialogue: 0,0:00:07.89,0:00:09.68,Main,Taichi,0000,0000,0000,,Don't make me repeat myself!
+Dialogue: 0,0:00:10.44,0:00:12.47,Main,Screen,0000,0000,0000,,{\pos(592,80)\an8\fs18\bord0\shad0}Operating Pro
+Dialogue: 0,0:00:10.44,0:00:12.47,Main,Screen,0000,0000,0000,,{\pos(592,130)\an8\fs10\bord0\shad0}1) Please\Nthe room you wish to visit.
+Dialogue: 0,0:00:10.44,0:00:12.47,Main,Screen,0000,0000,0000,,{\pos(592,194)\an8\fs10\bord0\shad0}2) Please\Nconfirm on the display.
+Dialogue: 0,0:00:10.44,0:00:12.47,Main,Screen,0000,0000,0000,,{\pos(592,250)\an8\fs10\bord0\shad0}3) Please\Nthe room you're visiting.
+Dialogue: 0,0:00:10.83,0:00:12.47,Main,Taichi,0000,0000,0000,,I told you this last week, too!
+Dialogue: 0,0:00:13.30,0:00:16.07,Main,Taichi,0000,0000,0000,,Why am I paying such \Nhigh management fees?!
+Dialogue: 0,0:00:16.94,0:00:18.00,Main,Taichi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:00:18.00,0:00:19.38,Main,Taichi,0000,0000,0000,,Screw you!
+Dialogue: 0,0:00:19.38,0:00:20.45,Main,Taichi,0000,0000,0000,,Do it today!
+Dialogue: 0,0:00:20.45,0:00:22.64,Main,Taichi,0000,0000,0000,,Come inspect it right now!
+Dialogue: 0,0:00:23.48,0:00:25.29,Main,Taichi,0000,0000,0000,,Are you even listening to me?!
+Dialogue: 0,0:00:25.81,0:00:27.44,Main,Taichi,0000,0000,0000,,I'll kill you!
+Dialogue: 0,0:01:51.11,0:01:54.86,Show_Title,,0000,0000,0000,,{\fad(1398,1)\c&H0F0D09&\3c&HB7BD80&\t(1236,1817,1 \3c&H85A2A4&)\t(1819,2945,1 \3c&H95DED9&)}JUJUTSU KAISEN
+Dialogue: 0,0:02:01.40,0:02:04.47,Main,Akari,0000,0000,0000,,{\pos(320,342)}Kanada Taichi in Morioka, in June.
+Dialogue: 0,0:02:02.10,0:02:04.85,sign_3594_23_Name__Kanda_Taic,Screen,0000,0000,0000,,{\pos(350,32)}Name: Kanada Taichi\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:02:02.10,0:02:04.85,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,62)}Gender: Male
+Dialogue: 0,0:02:02.10,0:02:04.85,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,92)\q2}Date of Birth: {\fs12\fscx95}February 10th, 1984 (34 years old)
+Dialogue: 0,0:02:02.10,0:02:04.85,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,120)}Blood-type: A
+Dialogue: 0,0:02:02.10,0:02:04.85,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,150)}Height: {\fs14}175cm / Weight: 63kg
+Dialogue: 0,0:02:02.10,0:02:04.85,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\an7\pos(350,172)\q2}History: {\fs10\fscy120}Saitama Prefecture, Saitama Municipal Urami\h\h\h\h\h\NElementary School. Same city, Urami East Middle School. After\h\h\Ngraduation, he enrolled in the same city's Iwasa Commercial\h\h\h\h\h\h\NHigh School. Dropped out in second year. Hired by Misaki\h\h\h\h\h\h\h\h\h\h\NConstruction, INC. Worked as an on-site laborer for two years,\h\h\Nthen changed jobs. Moved to Morioka City, Iwate Prefecture.\h\h\h\h\h\h\NWorked for Sakino Civil Engineering, LTC for four years.\h\h\h\h\h\h\h\h\h\h\h\h\NTransferred to Soma Manufacturing Inc. and worked as on-site\Nlaborer. Currently still listed as an on-site supervisor at the\h\h\h\h\h\h\h\Nsame company. He was confirmed dead inside the entrance of\h\h\Nhis apartment in Morioka City on June 23rd of this year, just past \h\N8:00 PM. It's believed he was stabbed to death by a cursed spirit.\h\NRight before his death, a resident witnessed Kanada shouting on\Nthe phone after returning from his shopping.
+Dialogue: 0,0:02:04.85,0:02:08.85,sign_3594_23_Name__Kanda_Taic,Screen,0000,0000,0000,,{\pos(350,32)}Name: Shimada Osamu\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:02:04.85,0:02:08.85,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,62)}Gender: Male
+Dialogue: 0,0:02:04.85,0:02:08.85,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,92)\q2}Date of Birth: {\fs12\fscx95}July 27th, 1983 (35 years old)\h\h\h\h\h\h
+Dialogue: 0,0:02:04.85,0:02:08.85,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,120)}Blood-type: AB
+Dialogue: 0,0:02:04.85,0:02:08.85,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,150)}Height: {\fs14}169cm / Weight: 74kg
+Dialogue: 0,0:02:04.85,0:02:08.85,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\an7\pos(350,172)\q2}History: {\fs10\fscy120}Saitama Prefecture, Saitama Municipal Urami\h\h\h\h\h\NElementary School. Same city, Urami East Middle School. After\h\h\Ngraduation, he enrolled in Shounan Private High School and\h\h\h\h\h\h\h\Ngraduated. He spent two years working several part-time jobs\h\h\h\Ndoing construction work, office work, and independent\h\h\h\h\h\h\h\h\h\h\h\h\h\h\Ncontracts. Afterward he enrolled in Tongmyong University, and\h\h\Nafter graduating he joined Rinne & Kidd Inc. He worked there as\Na programmer for four years before transferring to SRAD'D Inc.\h\h\NHe worked there as a system engineer until the present. He was\h\Nconfirmed dead in front of the entrance of his apartment in\h\h\h\h\h\h\h\NTsurumi Ward, Yokohama, on August 18th of this year, around \h\h\N3:00 PM. It is suspected that he was stabbed to death by a cursed \Nspirit when he returned home from a nearby convenience store.
+Dialogue: 0,0:02:05.51,0:02:08.64,Main,Akari,0000,0000,0000,,{\pos(320,342)}Shimada Osamu in Yokohama, in August.
+Dialogue: 0,0:02:08.85,0:02:17.24,sign_3594_23_Name__Kanda_Taic,Screen,0000,0000,0000,,{\pos(350,32)}Name: Yamato Hiroshi\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:02:08.85,0:02:17.24,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,62)}Gender: Male
+Dialogue: 0,0:02:08.85,0:02:17.24,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,92)\q2}Date of Birth: {\fs12\fscx95}October 9th, 1983 (35 years old)\h\h\h
+Dialogue: 0,0:02:08.85,0:02:17.24,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,120)}Blood-type: B
+Dialogue: 0,0:02:08.85,0:02:17.24,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\pos(350,150)}Height: {\fs14}180cm / Weight: 69kg
+Dialogue: 0,0:02:08.85,0:02:17.24,sign_3594_23_Name__Kanda_Taic,,0000,0000,0000,,{\an7\pos(350,176)\q2}History: {\fs10\fscy120}Saitama Prefecture, Saitama Municipal Yoha\h\h\h\h\h\h\h\h\NElementary School. Same city, Urami East Middle School. After\h\h\h\Ngraduation, he enrolled in the same city's Urami High School and\h\Ngraduated. He then advanced to Kanbe Commercial College.\h\h\h\h\h\h\h\NAfter graduating, he joined Bereact Inc. One year later, he\h\h\h\h\h\h\h\h\h\Ntransferred to Sangent Inc. After working there for three years,\h\h\h\Nhe transferred to Houwa Home Inc. There, he worked in sales for\h\Nthe Nagoya branch until the present. He was confirmed dead inside\Nthe entrance of his apartment in Midori Ward, Nagoya, on\h\h\h\h\h\h\h\h\h\h\h\h\h\NSeptember 7th of this year, around 11:00 PM. It is believed that he\h\Nwas stabbed to death by a cursed spirit upon returning from work.
+Dialogue: 0,0:02:09.55,0:02:12.65,Main,Akari,0000,0000,0000,,{\pos(320,342)}Yamato Hiroshi in Nagoya, in September.
+Dialogue: 0,0:02:13.43,0:02:16.80,Main,Akari,0000,0000,0000,,These three died in similar circumstances.
+Dialogue: 0,0:02:17.81,0:02:21.99,Main,Akari,0000,0000,0000,,They were stabbed to death by a cursed spirit \Nat the entrances to their apartments,
+Dialogue: 0,0:02:22.40,0:02:25.33,Main,Akari,0000,0000,0000,,and all of them had filed the same complaint
+Dialogue: 0,0:02:22.74,0:02:27.73,sign_3594_23_Name__Kanda_Taic,Screen,0000,0000,0000,,{\fad(441,392)\fnTimes New Roman\c&H000000&\bord0\pos(58,42)}Jujutsu High Assistant Supervisor\N\NNitta Akari
+Dialogue: 0,0:02:22.81,0:02:27.73,Main,Screen,0000,0000,0000,,{\fad(441,392)\p1\shad0\bord1\an7\pos(50,72)}m 0 0 l 0 -60 l 240 -60 l 240 0
+Dialogue: 0,0:02:25.33,0:02:28.13,Main,Akari,0000,0000,0000,,with the property managers \Nseveral weeks before dying.
+Dialogue: 0,0:02:28.78,0:02:32.35,Main,Akari,0000,0000,0000,,{\an8}They claimed their auto-locking \Ndoors were left wide open.
+Dialogue: 0,0:02:28.96,0:02:36.03,Ep_Title_Shadow,Screen,0000,0000,0000,,{\fad(529,475)\pos(612,310)}Episode 22: {\fscx80}The Origin of Blind Obedience
+Dialogue: 0,0:02:29.02,0:02:36.03,Ep_Title,Screen,0000,0000,0000,,{\fad(529,475)\pos(612,310)}Episode 22: {\fscx80}The Origin of Blind Obedience
+Dialogue: 0,0:02:33.56,0:02:37.01,Main,Akari,0000,0000,0000,,{\an8}None of the other residents have \Nany idea what could have happened.
+Dialogue: 0,0:02:37.42,0:02:39.96,Main,Fushiguro,0000,0000,0000,,None of the dates or locations match, though.
+Dialogue: 0,0:02:39.96,0:02:42.45,Main,Fushiguro,0000,0000,0000,,Could the same cursed \Nspirit have killed them all?
+Dialogue: 0,0:02:42.45,0:02:46.01,Main,Yuji,0000,0000,0000,,Hey, could the cursed spirit \Nbe responsible for the doors?
+Dialogue: 0,0:02:46.01,0:02:48.68,Main,Yuji,0000,0000,0000,,Do sensors like those pick up cursed spirits?
+Dialogue: 0,0:02:48.68,0:02:50.98,Main,Yuji,0000,0000,0000,,They don't show up on \Ncameras and stuff, right?
+Dialogue: 0,0:02:51.42,0:02:57.51,Main,Akari,0000,0000,0000,,Apparently, the cursed spirit made the \Ndoor operators go crazy, not the sensors.
+Dialogue: 0,0:02:58.10,0:02:59.37,Main,Yuji,0000,0000,0000,,Oh...
+Dialogue: 0,0:02:59.37,0:03:01.11,Main,Yuji,0000,0000,0000,,Operators?
+Dialogue: 0,0:03:01.11,0:03:05.08,Main,Akari,0000,0000,0000,,And as for whether or not the same \Ncursed spirit was behind this...
+Dialogue: 0,0:03:05.08,0:03:08.39,Main,Akari,0000,0000,0000,,Well, we couldn't be certain \Nfrom just the residuals.
+Dialogue: 0,0:03:08.90,0:03:11.11,Main,Akari,0000,0000,0000,,After all, a lot of time had already passed.
+Dialogue: 0,0:03:11.11,0:03:14.82,Main,Akari,0000,0000,0000,,So we tried to track down any \Nconnections between the three.
+Dialogue: 0,0:03:14.82,0:03:19.13,Main,Akari,0000,0000,0000,,We found that all three attended \Nthe same middle school for two years.
+Dialogue: 0,0:03:19.47,0:03:23.28,Main,Kugisaki,0000,0000,0000,,Meaning all three received the same curse,
+Dialogue: 0,0:03:23.28,0:03:25.80,Main,Kugisaki,0000,0000,0000,,and it activated after time had passed?
+Dialogue: 0,0:03:26.91,0:03:29.60,Main,Akari,0000,0000,0000,,Precisely. That's highly likely.
+Dialogue: 0,0:03:30.08,0:03:32.16,Main,Akari,0000,0000,0000,,So we're going to that middle school now
+Dialogue: 0,0:03:32.16,0:03:36.00,Main,,0000,0000,0000,,to question someone \Nthe three victims all knew,
+Dialogue: 0,0:03:36.34,0:03:40.56,Main,Akari,0000,0000,0000,,and I want you three to see \Nwhat you can find as sorcerers.
+Dialogue: 0,0:03:41.44,0:03:43.51,Main,Yuji,0000,0000,0000,,Way to go, Kugisaki!
+Dialogue: 0,0:03:43.51,0:03:45.24,Main,Kugisaki,0000,0000,0000,,Heh. What'd you expect?
+Dialogue: 0,0:03:48.24,0:03:50.27,Main,Lantern,0000,0000,0000,,{\pos(178,128)\an5\c&H2D2F2F&\fnTimes New Roman\bord0\shad0\b1}Spirit\NLantern
+Dialogue: 0,0:03:50.27,0:03:53.73,Main,Sign,0000,0000,0000,,{\fad(2320,1)\pos(536,112)\fs18\shad0\fnTimes New Roman\c&H3B3D3F&\3c&HDCDEE0&}Morishita Family\NFuneral 11:00~
+Dialogue: 0,0:03:51.84,0:03:53.73,Main,Yuji,0000,0000,0000,,A funeral?
+Dialogue: 0,0:03:54.48,0:03:56.73,Main,Kugisaki,0000,0000,0000,,Is this the home of that acquaintance?
+Dialogue: 0,0:03:57.12,0:04:00.24,Main,Akari,0000,0000,0000,,Yes, it is...
+Dialogue: 0,0:04:01.57,0:04:03.96,Main,Akari,0000,0000,0000,,Well, this sucks.
+Dialogue: 0,0:04:03.96,0:04:06.67,Main,Akari,0000,0000,0000,,He died the same way the other three did.
+Dialogue: 0,0:04:07.66,0:04:12.52,Main,Sign,0000,0000,0000,,{\fad(738,1)\an8\move(362,60,90,60)\c&H838181&\3c&H22190F&\shad0\bord3}Morishita
+Dialogue: 0,0:04:08.58,0:04:11.93,Main,Akari,0000,0000,0000,,He lived with his family, \Nso there was no auto-locking door,
+Dialogue: 0,0:04:12.37,0:04:14.67,Main,Akari,0000,0000,0000,,but he was killed in front of the entrance.
+Dialogue: 0,0:04:15.78,0:04:18.13,Main,Akari,0000,0000,0000,,Previously, upon returning home alone,
+Dialogue: 0,0:04:18.13,0:04:20.93,Main,Akari,0000,0000,0000,,he reported, "The door was unlocked, \Nbut it wouldn't open,"
+Dialogue: 0,0:04:20.93,0:04:23.14,Main,Akari,0000,0000,0000,,to his other family members.
+Dialogue: 0,0:04:24.86,0:04:27.89,Main,Sign,0000,0000,0000,,{\fs12\fnTimes New Roman\c&H8A8D8C&\3c&H25271E&\shad0\fay.18\fax-.2\frx10\fry6\move(194,15,72,77)}Saitama Municipal\NUrami East Middle School
+Dialogue: 0,0:04:24.86,0:04:27.89,Main,WhiteSign,0000,0000,0000,,{\c&HD0C1E5&\3c&HFAF7FA&\shad0\fs10\fay.2\frx14\fry28\move(484,2,375,54)}Congratulations,\N{\c&HC0BDBF&}Making it to Koushien!
+Dialogue: 0,0:04:26.22,0:04:28.62,Main,Akari,0000,0000,0000,,I asked his parents, too,
+Dialogue: 0,0:04:28.62,0:04:32.16,Main,Akari,0000,0000,0000,,but they said they didn't know what \Nrelationship he had with the other three.
+Dialogue: 0,0:04:32.16,0:04:34.96,Main,Akari,0000,0000,0000,,Man, there goes our only lead!
+Dialogue: 0,0:04:34.96,0:04:35.90,Main,Yuji,0000,0000,0000,,Don't worry!
+Dialogue: 0,0:04:35.90,0:04:38.40,Main,Yuji,0000,0000,0000,,There has to be something \Nat this middle school!
+Dialogue: 0,0:04:38.40,0:04:40.78,Main,Akari,0000,0000,0000,,I sure hope so.
+Dialogue: 0,0:04:40.78,0:04:44.34,Main,Akari,0000,0000,0000,,For now, I've secured an appointment \Nwith a teacher, so I'm counting on you.
+Dialogue: 0,0:04:44.63,0:04:45.57,Main,Yuji,0000,0000,0000,,Roger.
+Dialogue: 0,0:04:48.94,0:04:50.79,Main,Kugisaki,0000,0000,0000,,There's some obvious punks.
+Dialogue: 0,0:04:50.79,0:04:52.36,Main,Kugisaki,0000,0000,0000,,Let's beat 'em up and set 'em straight!
+Dialogue: 0,0:04:52.36,0:04:53.04,Main,Yuji,0000,0000,0000,,Why?
+Dialogue: 0,0:04:53.78,0:04:54.63,Main,Delinquents,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:54.63,0:04:55.41,Main,Delinquents,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:00.00,0:05:02.05,Main,Delinquents,0000,0000,0000,,I-It's good to see you!
+Dialogue: 0,0:05:02.48,0:05:06.12,Main,Kugisaki,0000,0000,0000,,Heh, look at that. You actually get it.
+Dialogue: 0,0:05:06.12,0:05:10.03,Main,Yuji,0000,0000,0000,,An aura just pours out, \Neven if you try to hide it.
+Dialogue: 0,0:05:10.03,0:05:12.35,Main,Delinquents,0000,0000,0000,,We haven't seen you since\Ngraduation, Fushiguro-san!
+Dialogue: 0,0:05:17.44,0:05:20.77,Main,Fushiguro,0000,0000,0000,,I... went here... for middle school.
+Dialogue: 0,0:05:20.75,0:05:32.79,Main,Screen,0000,0000,0000,,{\an8\b1\c&H1DE2F2&\bord0\fnArial\frz14.15\4a&H88&\pos(152,85.333)}Grinding
+Dialogue: 0,0:05:20.75,0:05:32.79,Main,Screen,0000,0000,0000,,{\an8\b1\c&H1DE2F2&\bord0\fnArial\frz14.15\4a&H88&\pos(442,268)}Grinding
+Dialogue: 0,0:05:20.77,0:05:23.53,Main,Kugisaki,0000,0000,0000,,That's a surprise, too, but that's not the point!
+Dialogue: 0,0:05:23.53,0:05:24.60,Main,Kugisaki,0000,0000,0000,,Look at me!
+Dialogue: 0,0:05:24.60,0:05:25.50,Main,Yuji,0000,0000,0000,,What'd you do?!
+Dialogue: 0,0:05:25.50,0:05:27.40,Main,Yuji,0000,0000,0000,,What did you do in middle school?!
+Dialogue: 0,0:05:27.40,0:05:29.95,Main,Yuji,0000,0000,0000,,No, it would be quicker to ask them!
+Dialogue: 0,0:05:29.95,0:05:32.79,Main,Kugisaki,0000,0000,0000,,Hey, Idiot A and Idiot B! \NWhat did this guy do to you?
+Dialogue: 0,0:05:33.05,0:05:34.29,Main,Pompadour,0000,0000,0000,,We...
+Dialogue: 0,0:05:34.29,0:05:38.14,Main,Pompadour,0000,0000,0000,,Or rather, every delinquent, \Ngang member, and so on in this area
+Dialogue: 0,0:05:38.14,0:05:40.52,Main,Pompadour,0000,0000,0000,,got beaten up by Fushiguro-san.
+Dialogue: 0,0:05:46.52,0:05:48.55,Main,Fushiguro,0000,0000,0000,,I beat them up.
+Dialogue: 0,0:05:48.53,0:05:50.80,Main,Kugisaki,0000,0000,0000,,Why do you keep talking so stiffly?!
+Dialogue: 0,0:05:48.53,0:05:55.56,Main,Screen,0000,0000,0000,,{\an8\b1\c&H1DE2F2&\bord0\fnArial\frz14.15\4a&H88&\pos(152,85.333)}Grinding...
+Dialogue: 0,0:05:48.53,0:05:55.56,Main,Screen,0000,0000,0000,,{\an8\b1\c&H1DE2F2&\bord0\fnArial\frz14.15\4a&H88&\pos(442,268)}Grinding...
+Dialogue: 0,0:05:50.80,0:05:51.96,Main,Kugisaki,0000,0000,0000,,Look at me!
+Dialogue: 0,0:05:51.96,0:05:52.95,Main,Yuji,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:05:52.95,0:05:54.60,Main,Yuji,0000,0000,0000,,Hey! What are you doing?!
+Dialogue: 0,0:05:54.60,0:05:55.62,Main,Takeda,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:56.56,0:06:00.04,Main,Takeda,0000,0000,0000,,Who are you? Students from other \Nschools aren't allowed in here!
+Dialogue: 0,0:06:00.44,0:06:02.81,Main,Kugisaki,0000,0000,0000,,And who the hell are you?!
+Dialogue: 0,0:06:02.81,0:06:04.36,Main,Yuji,0000,0000,0000,,He's clearly a staff member.
+Dialogue: 0,0:06:04.36,0:06:05.88,Main,Yuji,0000,0000,0000,,Why are you so combative?
+Dialogue: 0,0:06:05.88,0:06:07.82,Main,Akari,0000,0000,0000,,We have permission to be here.
+Dialogue: 0,0:06:09.01,0:06:11.22,Main,Takeda,0000,0000,0000,,Oh, you're the ones?
+Dialogue: 0,0:06:11.22,0:06:13.35,Main,Takeda,0000,0000,0000,,You're all young.
+Dialogue: 0,0:06:13.35,0:06:16.63,Main,Takeda,0000,0000,0000,,You need to hang your pass around your neck.
+Dialogue: 0,0:06:17.83,0:06:19.33,Main,Takeda,0000,0000,0000,,Fushiguro-kun?
+Dialogue: 0,0:06:20.66,0:06:21.56,Main,Fushiguro,0000,0000,0000,,Hello.
+Dialogue: 0,0:06:21.56,0:06:23.84,Main,Yuji/Kugisaki,0000,0000,0000,,He remembers you!
+Dialogue: 0,0:06:23.84,0:06:26.47,Main,Akari,0000,0000,0000,,So this man's been here a long time?
+Dialogue: 0,0:06:26.47,0:06:27.65,Main,Fushiguro,0000,0000,0000,,Probably.
+Dialogue: 0,0:06:27.65,0:06:30.10,Main,Fushiguro,0000,0000,0000,,Takeda-san's a permanent employee.
+Dialogue: 0,0:06:30.10,0:06:31.89,Main,Akari,0000,0000,0000,,Then I leave the rest to you!
+Dialogue: 0,0:06:31.89,0:06:33.44,Italics,Fushiguro,0000,0000,0000,,Abandoning her duty...
+Dialogue: 0,0:06:34.61,0:06:37.60,Main,Takeda,0000,0000,0000,,Kanada, Shimada, Yamato...
+Dialogue: 0,0:06:37.97,0:06:40.23,Main,Takeda,0000,0000,0000,,and Morishita, huh?
+Dialogue: 0,0:06:40.82,0:06:43.42,Main,Takeda,0000,0000,0000,,I was shocked by their passing,
+Dialogue: 0,0:06:43.42,0:06:47.33,Main,Takeda,0000,0000,0000,,but I guess it's been nearly \Ntwenty years since they graduated.
+Dialogue: 0,0:06:48.11,0:06:50.99,Main,Takeda,0000,0000,0000,,I remember it like it was yesterday.
+Dialogue: 0,0:06:51.89,0:06:55.99,Main,Takeda,0000,0000,0000,,They were problem children in their \Nown right, though not as bad as you.
+Dialogue: 0,0:06:55.99,0:06:57.35,Main,Takeda,0000,0000,0000,,What did you want to know?
+Dialogue: 0,0:06:57.92,0:07:02.05,Main,Fushiguro,0000,0000,0000,,Strange rumors, dark rumors,\Nconnections to bad adults...
+Dialogue: 0,0:07:02.05,0:07:04.69,Main,Yuji/Kugisaki,0000,0000,0000,,Hey, problem child!
+Dialogue: 0,0:07:04.69,0:07:07.34,Main,Fushiguro,0000,0000,0000,,...and anything of ill omen.
+Dialogue: 0,0:07:07.79,0:07:09.74,Main,Takeda,0000,0000,0000,,Dark rumors?
+Dialogue: 0,0:07:09.74,0:07:11.28,Main,Takeda,0000,0000,0000,,They may have been problem children,
+Dialogue: 0,0:07:11.28,0:07:13.97,Main,Takeda,0000,0000,0000,,but they never went beyond \Naverage middle school stuff.
+Dialogue: 0,0:07:14.82,0:07:17.02,Main,Takeda,0000,0000,0000,,But wait... ill omen?
+Dialogue: 0,0:07:17.50,0:07:18.81,Main,Pompadour,0000,0000,0000,,Do you mean that tale?
+Dialogue: 0,0:07:19.33,0:07:21.50,Main,Pompadour,0000,0000,0000,,About the Yasohachi Bridge bungee jumping?
+Dialogue: 0,0:07:22.01,0:07:23.77,Main,Kugisaki,0000,0000,0000,,You're still here, A and B?
+Dialogue: 0,0:07:23.77,0:07:25.92,Main,Yuji,0000,0000,0000,,Yasohachi Bridge?
+Dialogue: 0,0:07:25.92,0:07:27.68,Main,Fushiguro,0000,0000,0000,,A notorious suicide spot.
+Dialogue: 0,0:07:27.68,0:07:30.26,Main,Fushiguro,0000,0000,0000,,It's well-known in this \Narea as a haunted location.
+Dialogue: 0,0:07:30.62,0:07:34.07,Main,Takeda,0000,0000,0000,,Oh, that's right! Back then, it was \Nall the rage among delinquents
+Dialogue: 0,0:07:34.07,0:07:36.24,Main,,0000,0000,0000,,to bungee jump off \NYasohachi Bridge late at night.
+Dialogue: 0,0:07:36.24,0:07:38.45,Main,Takeda,0000,0000,0000,,It was one of those tests of courage.
+Dialogue: 0,0:07:38.45,0:07:40.10,Main,Kugisaki,0000,0000,0000,,What a weird tribe.
+Dialogue: 0,0:07:40.10,0:07:42.64,Main,Yuji,0000,0000,0000,,I'm surprised there are people dumber than me!
+Dialogue: 0,0:07:42.64,0:07:44.32,Main,Fushiguro,0000,0000,0000,,What do you use for a cord?
+Dialogue: 0,0:07:44.32,0:07:46.54,Main,Pompadour,0000,0000,0000,,We don't do it.
+Dialogue: 0,0:07:46.54,0:07:50.44,Main,Pompadour,0000,0000,0000,,I just heard some students from our \Nparents' generation talking about it.
+Dialogue: 0,0:07:50.44,0:07:56.04,Main,Takeda,0000,0000,0000,,One day, Kanada and the other three \Nwere absent without permission.
+Dialogue: 0,0:07:57.01,0:08:01.97,Main,Takeda,0000,0000,0000,,That wasn't all that unusual by itself, \Nbut when we contacted their families,
+Dialogue: 0,0:08:01.97,0:08:05.14,Main,Takeda,0000,0000,0000,,we learned that those four hadn't \Ncome home the day before.
+Dialogue: 0,0:08:05.96,0:08:08.17,Main,Takeda,0000,0000,0000,,It caused a pretty big stir.
+Dialogue: 0,0:08:08.17,0:08:12.48,Main,Takeda,0000,0000,0000,,Then they were found \Nunconscious under the bridge.
+Dialogue: 0,0:08:12.48,0:08:14.48,Main,Takeda,0000,0000,0000,,They got chewed out good,
+Dialogue: 0,0:08:14.48,0:08:18.47,Main,Takeda,0000,0000,0000,,but all four swore up and down \Nthey didn't remember a thing.
+Dialogue: 0,0:08:20.74,0:08:22.83,Main,Akari,0000,0000,0000,,I think that's it.
+Dialogue: 0,0:08:22.83,0:08:25.81,Main,Fushiguro,0000,0000,0000,,I've been to Yasohachi Bridge, too.
+Dialogue: 0,0:08:25.81,0:08:26.96,Main,Yuji,0000,0000,0000,,To bungee jump?
+Dialogue: 0,0:08:26.96,0:08:28.26,Main,Yuji,0000,0000,0000,,Ow!
+Dialogue: 0,0:08:28.26,0:08:32.84,Main,Fushiguro,0000,0000,0000,,It's easy for curses to take root in \Nhaunted locations, just like in schools,
+Dialogue: 0,0:08:32.84,0:08:36.45,Main,Fushiguro,0000,0000,0000,,so people from Jujutsu High \Nregularly patrol it.
+Dialogue: 0,0:08:37.16,0:08:39.49,Main,Fushiguro,0000,0000,0000,,There wasn't anything unusual \Nat the time, though.
+Dialogue: 0,0:08:39.49,0:08:41.49,Main,Fushiguro,0000,0000,0000,,It might be a bit famous,
+Dialogue: 0,0:08:41.49,0:08:43.56,Main,Fushiguro,0000,0000,0000,,but it's still used as a normal bridge.
+Dialogue: 0,0:08:43.90,0:08:46.23,Main,Kugisaki,0000,0000,0000,,We still have to go check it out, though.
+Dialogue: 0,0:08:46.64,0:08:47.90,Main,Akari,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:47.90,0:08:49.44,Main,Takeda,0000,0000,0000,,Fushiguro-kun?
+Dialogue: 0,0:08:50.10,0:08:53.20,Main,Takeda,0000,0000,0000,,Sorry, I was curious about something.
+Dialogue: 0,0:08:53.20,0:08:54.38,Main,Fushiguro,0000,0000,0000,,What is it?
+Dialogue: 0,0:08:54.38,0:08:58.32,Main,Takeda,0000,0000,0000,,Tsukimi-kun took awfully good care \Nof you when you were in school.
+Dialogue: 0,0:08:58.70,0:09:01.33,Main,Takeda,0000,0000,0000,,Is she doing well?
+Dialogue: 0,0:09:02.82,0:09:03.81,Main,Fushiguro,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:04.22,0:09:05.84,Main,Yuji,0000,0000,0000,,Who's Tsumiki?
+Dialogue: 0,0:09:06.56,0:09:07.67,Main,Fushiguro,0000,0000,0000,,My older sister.
+Dialogue: 0,0:09:07.67,0:09:08.58,Main,Kugisaki,0000,0000,0000,,What?!
+Dialogue: 0,0:09:08.58,0:09:11.21,Main,Kugisaki,0000,0000,0000,,You tell us too little about yourself!
+Dialogue: 0,0:09:11.21,0:09:12.84,Main,Yuji,0000,0000,0000,,Yeah, that's right!
+Dialogue: 0,0:09:14.16,0:09:16.57,Main,Mahito,0000,0000,0000,,When they have cursed objects like these,
+Dialogue: 0,0:09:17.56,0:09:19.56,Main,Mahito,0000,0000,0000,,why don't they destroy them?
+Dialogue: 0,0:09:19.56,0:09:21.35,Main,Geto,0000,0000,0000,,They can't destroy them.
+Dialogue: 0,0:09:21.78,0:09:23.65,Main,Geto,0000,0000,0000,,Not when it comes to special-grades.
+Dialogue: 0,0:09:23.65,0:09:27.80,Main,Geto,0000,0000,0000,,So they use a pact to put their life \Non pause and prevent harm to others,
+Dialogue: 0,0:09:27.80,0:09:29.59,Main,Geto,0000,0000,0000,,preserving their existence.
+Dialogue: 0,0:09:29.96,0:09:32.47,Main,Mahito,0000,0000,0000,,Sukuna's fingers cause harm, though.
+Dialogue: 0,0:09:32.47,0:09:34.50,Main,Geto,0000,0000,0000,,That's an exception.
+Dialogue: 0,0:09:34.50,0:09:38.88,Main,Geto,0000,0000,0000,,It's a monster that still \Nattracts curses over time,
+Dialogue: 0,0:09:38.88,0:09:42.10,Main,Geto,0000,0000,0000,,even after becoming a cursed object \Nand divided into twenty pieces.
+Dialogue: 0,0:09:42.44,0:09:45.10,Main,Geto,0000,0000,0000,,And because of that, it can choose its vessel.
+Dialogue: 0,0:09:45.59,0:09:51.11,Main,Mahito,0000,0000,0000,,Hmm... Then anyone works for these?
+Dialogue: 0,0:09:52.69,0:09:54.77,Main,Man,0000,0000,0000,,Hey, you.
+Dialogue: 0,0:09:55.27,0:09:56.21,Main,Man,0000,0000,0000,,Money?
+Dialogue: 0,0:09:56.61,0:09:57.49,Main,Man,0000,0000,0000,,Money, right?
+Dialogue: 0,0:09:57.49,0:10:00.01,Main,Man,0000,0000,0000,,I don't have that much!
+Dialogue: 0,0:10:00.01,0:10:02.64,Main,Man,0000,0000,0000,,But there are loan sharks and stuff, right?!
+Dialogue: 0,0:10:02.96,0:10:05.11,Main,Mahito,0000,0000,0000,,Will he work okay?
+Dialogue: 0,0:10:05.11,0:10:07.91,Main,Mahito,0000,0000,0000,,He still can't see me, even at this point.
+Dialogue: 0,0:10:07.91,0:10:09.65,Main,Mahito,0000,0000,0000,,He's seriously lacking in ability.
+Dialogue: 0,0:10:09.90,0:10:11.66,Main,Mahito,0000,0000,0000,,Here, say "ahh."
+Dialogue: 0,0:10:21.22,0:10:24.04,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:10:26.68,0:10:29.02,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:10:41.41,0:10:42.50,Main,Akari,0000,0000,0000,,We're here.
+Dialogue: 0,0:10:42.93,0:10:46.00,Main,Akari,0000,0000,0000,,{\an8}Koi no Kuchi Canyon, Yasohachi Bridge.
+Dialogue: 0,0:10:43.03,0:10:49.75,sign_18174_233_Koi_no_Kuchi_Can,Screen,0000,0000,0000,,{\fscx85}Koi no Kuchi Canyon, Yasohachi Bridge
+Dialogue: 0,0:10:46.00,0:10:49.74,Main,Akari,0000,0000,0000,,{\an8}Once you confirm a cursed \Nspirit's here, I'll lower a veil.
+Dialogue: 0,0:10:50.45,0:10:51.71,Main,Yuji,0000,0000,0000,,Roger!
+Dialogue: 0,0:10:53.57,0:10:54.53,Main,Mahito,0000,0000,0000,,Hey.
+Dialogue: 0,0:10:54.53,0:10:56.71,Main,Mahito,0000,0000,0000,,Sorry to ask this right after you woke up,
+Dialogue: 0,0:10:57.51,0:11:00.39,Main,Mahito,0000,0000,0000,,but could you go run a little errand for me?
+Dialogue: 0,0:11:10.31,0:11:14.03,Main,Kugisaki,0000,0000,0000,,Hey, we didn't find hide \Nnor hair of any cursed spirit.
+Dialogue: 0,0:11:14.86,0:11:15.57,Main,Wrapper,0000,0000,0000,,{\fnTimes New Roman\b1\c&H392627&\3c&HDECDCB&\shad0\fs18\frz35.58\pos(448.667,294.666)}Spicy Cod Roe
+Dialogue: 0,0:11:15.85,0:11:19.22,Main,Fushiguro,0000,0000,0000,,We didn't sense any presences or residuals.
+Dialogue: 0,0:11:15.86,0:11:23.86,Main,Sign,0000,0000,0000,,{\move(423,97,285,97)\fs10\fnArial\b1\c&H2F7E37&\3c&H8B8D59&\4c&H724842&\frx8\fry350\frz2.595}Pounded Fish Cake is finally here!
+Dialogue: 0,0:11:19.79,0:11:20.94,Main,Akari,0000,0000,0000,,I see.
+Dialogue: 0,0:11:20.94,0:11:23.86,Main,Akari,0000,0000,0000,,Which means this isn't it. \NGuess it's back to square one.
+Dialogue: 0,0:11:23.86,0:11:26.44,Main,Yuji,0000,0000,0000,,But isn't it bad if we take too long?
+Dialogue: 0,0:11:26.44,0:11:27.59,Main,Kugisaki,0000,0000,0000,,Why?
+Dialogue: 0,0:11:27.59,0:11:30.87,Main,Yuji,0000,0000,0000,,Well, it's a famous haunted location, right?
+Dialogue: 0,0:11:31.17,0:11:34.14,Main,Yuji,0000,0000,0000,,There might still be plenty \Nof others who got cursed.
+Dialogue: 0,0:11:34.14,0:11:37.37,Main,Yuji,0000,0000,0000,,And right now, the death rate's at 100%.
+Dialogue: 0,0:11:37.82,0:11:40.19,Main,Yuji,0000,0000,0000,,We don't want to see any others die, right?
+Dialogue: 0,0:11:40.19,0:11:41.88,Main,Kugisaki,0000,0000,0000,,True.
+Dialogue: 0,0:11:42.01,0:11:47.89,Main,Screen&Akari,0000,0000,0000,,{\fnArial\b1\c&H0D02C7&\3c&H07193D&\pos(230,12)\an8}Ding-ding
+Dialogue: 0,0:11:42.15,0:11:43.21,Main,Screen&Akari,0000,0000,0000,,Ding-ding!
+Dialogue: 0,0:11:43.21,0:11:45.40,Main,Akari,0000,0000,0000,,Bungee jumping was all the rage then, right?
+Dialogue: 0,0:11:45.40,0:11:47.88,Main,Akari,0000,0000,0000,,So maybe the act of jumping off is the key?
+Dialogue: 0,0:11:48.16,0:11:50.65,Main,Yuji,0000,0000,0000,,Did she say "ding-ding"? \NDid she really say that?
+Dialogue: 0,0:11:50.65,0:11:52.35,Main,Kugisaki,0000,0000,0000,,She did! She did!
+Dialogue: 0,0:11:52.35,0:11:54.90,Main,Fushiguro,0000,0000,0000,,Itadori already tried that.
+Dialogue: 0,0:11:55.13,0:11:55.89,Main,Akari,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:57.91,0:12:01.73,Main,Akari,0000,0000,0000,,What?! You mean you jumped \Nwith that vinyl cord?!
+Dialogue: 0,0:12:04.74,0:12:08.41,Main,,0000,0000,0000,,{\fad(400,1)\fnTimes New Roman\b1\fsp4\c&H281CE3&\shad0\bord1.5\fs30\frz298\pos(142,136)}Gyaaah!
+Dialogue: 0,0:12:07.30,0:12:08.45,Main,Pompadour,0000,0000,0000,,Hey, there you are!
+Dialogue: 0,0:12:08.45,0:12:09.76,Main,Pompadour,0000,0000,0000,,Thank goodness!
+Dialogue: 0,0:12:10.21,0:12:11.68,Main,Pompadour,0000,0000,0000,,Fushiguro-san!
+Dialogue: 0,0:12:12.54,0:12:13.93,Main,Kugisaki,0000,0000,0000,,Who's that again?
+Dialogue: 0,0:12:13.93,0:12:15.80,Main,Yuji,0000,0000,0000,,Fushiguro's underclassman.
+Dialogue: 0,0:12:15.80,0:12:18.08,Main,Yuji,0000,0000,0000,,Remember how much you picked on him?
+Dialogue: 0,0:12:18.49,0:12:20.79,Main,Pompadour,0000,0000,0000,,You were talking about Yasohachi Bridge, so...
+Dialogue: 0,0:12:20.79,0:12:22.58,Main,Pompadour,0000,0000,0000,,I'm really glad I found you here!
+Dialogue: 0,0:12:23.52,0:12:24.59,Main,Fushiguro,0000,0000,0000,,Fujinuma?
+Dialogue: 0,0:12:25.81,0:12:27.33,Main,Fushiguro,0000,0000,0000,,A classmate.
+Dialogue: 0,0:12:27.33,0:12:28.64,Main,Pompadour,0000,0000,0000,,My older sister.
+Dialogue: 0,0:12:29.87,0:12:33.12,Main,Fujinuma,0000,0000,0000,,I'm glad you remember me.
+Dialogue: 0,0:12:33.12,0:12:37.60,Main,Sign,0000,0000,0000,,{\pos(370,245)\c&H93847B&\fnArial\b1\bord0\shad0}Bank ATM
+Dialogue: 0,0:12:33.33,0:12:37.61,Main,Pompadour,0000,0000,0000,,I was talking to my sister \Nabout you yesterday, and...
+Dialogue: 0,0:12:37.61,0:12:41.87,Main,Fujinuma,0000,0000,0000,,Um, Morishita-san had a \Nfuneral in the neighborhood...
+Dialogue: 0,0:12:43.30,0:12:48.62,Main,Fujinuma,0000,0000,0000,,Then I heard from my brother that you were \Nlooking into that man and Yasohachi Bridge,
+Dialogue: 0,0:12:48.62,0:12:52.12,Main,Fujinuma,0000,0000,0000,,so I started wondering \Nif they were related...
+Dialogue: 0,0:12:55.04,0:12:56.20,Main,Fushiguro,0000,0000,0000,,If what's related?
+Dialogue: 0,0:12:56.20,0:12:59.96,Main,Fujinuma,0000,0000,0000,,Morishita-san's death and the bridge...
+Dialogue: 0,0:12:59.96,0:13:01.11,Main,Fushiguro,0000,0000,0000,,They're not related.
+Dialogue: 0,0:13:01.11,0:13:02.09,Main,Fushiguro,0000,0000,0000,,We're just—
+Dialogue: 0,0:13:02.09,0:13:02.89,Main,Fujinuma,0000,0000,0000,,I...
+Dialogue: 0,0:13:03.20,0:13:04.90,Main,Fujinuma,0000,0000,0000,,I went there.
+Dialogue: 0,0:13:04.90,0:13:08.17,Main,Fujinuma,0000,0000,0000,,In eighth grade... I went to \NYasohachi Bridge at night.
+Dialogue: 0,0:13:09.16,0:13:10.13,Main,Kugisaki,0000,0000,0000,,Geh.
+Dialogue: 0,0:13:10.64,0:13:14.10,Main,Akari,0000,0000,0000,,Has anything odd happened at home recently?
+Dialogue: 0,0:13:14.10,0:13:17.81,Main,,0000,0000,0000,,Any strange feelings that only \Naffect you and no one else?
+Dialogue: 0,0:13:20.82,0:13:24.94,Main,Fujinuma,0000,0000,0000,,My family runs a local branch shop...
+Dialogue: 0,0:13:25.11,0:13:34.95,Main,Sign,0000,0000,0000,,{\fad(776,2000)\fnTimes New Roman\bord3\shad0\fs16\pos(80,90)}Mugiwara\N{\fs15}Open for business
+Dialogue: 0,0:13:25.48,0:13:30.92,Main,Fujinuma,0000,0000,0000,,and the shop's automatic door is \Nwide open only when I come home.
+Dialogue: 0,0:13:31.92,0:13:36.05,Main,Fujinuma,0000,0000,0000,,Mom and Dad both say it's just a coincidence,
+Dialogue: 0,0:13:36.53,0:13:39.73,Main,Fujinuma,0000,0000,0000,,but there's definitely something there.
+Dialogue: 0,0:13:40.68,0:13:41.84,Main,Fujinuma,0000,0000,0000,,It scared me.
+Dialogue: 0,0:13:42.69,0:13:46.43,Main,Fujinuma,0000,0000,0000,,That's when I heard about you,
+Dialogue: 0,0:13:46.43,0:13:49.38,Main,Fujinuma,0000,0000,0000,,and remembered the Yasohachi Bridge.
+Dialogue: 0,0:13:49.70,0:13:52.69,Main,Akari,0000,0000,0000,,When did the issue with \Nyour automatic door start?
+Dialogue: 0,0:13:52.69,0:13:56.29,Main,Fujinuma,0000,0000,0000,,It's happened about every other \Nday for exactly one week now.
+Dialogue: 0,0:13:56.73,0:14:03.14,Italics,Fushiguro,0000,0000,0000,,There's at least two weeks between when the \Nfour victims noticed something and their deaths.
+Dialogue: 0,0:14:03.38,0:14:05.16,Italics,Yuji,0000,0000,0000,,We still have some time.
+Dialogue: 0,0:14:05.41,0:14:09.24,Main,Kugisaki,0000,0000,0000,,You didn't go to Yasohachi Bridge \Nby yourself at the time, did you?
+Dialogue: 0,0:14:09.24,0:14:10.91,Main,Kugisaki,0000,0000,0000,,Do you remember who you went with?
+Dialogue: 0,0:14:10.91,0:14:13.91,Main,Fujinuma,0000,0000,0000,,Um, so this really does \Nhave something to do with...
+Dialogue: 0,0:14:13.91,0:14:15.70,Main,Akari,0000,0000,0000,,Just with your automatic door.
+Dialogue: 0,0:14:15.70,0:14:18.94,Main,Akari,0000,0000,0000,,But it has nothing to do \Nwith Morishita-san's death.
+Dialogue: 0,0:14:18.94,0:14:23.48,Main,Akari,0000,0000,0000,,Fushiguro-kun and the others are \Nhelping me with my college report.
+Dialogue: 0,0:14:23.48,0:14:27.60,Main,Akari,0000,0000,0000,,"Electromagnetic Waves from Haunted \NLocations and their Effects on Electronics."
+Dialogue: 0,0:14:27.60,0:14:29.53,Main,Akari,0000,0000,0000,,It's a huge pain in my gut!
+Dialogue: 0,0:14:29.53,0:14:32.33,Main,Akari,0000,0000,0000,,But I want to hear from all kinds of people,
+Dialogue: 0,0:14:32.33,0:14:34.85,Main,Akari,0000,0000,0000,,so I'd love to hear who you went with.
+Dialogue: 0,0:14:35.57,0:14:38.34,Italics,Akari,0000,0000,0000,,We'd better save her, \Nafter lying to her like this.
+Dialogue: 0,0:14:41.33,0:14:44.77,Main,Fujinuma,0000,0000,0000,,I went on a test of courage \Nwith two others from my club.
+Dialogue: 0,0:14:45.17,0:14:46.93,Main,Fujinuma,0000,0000,0000,,That's right. Fushiguro-kun,
+Dialogue: 0,0:14:46.93,0:14:49.36,Main,Fujinuma,0000,0000,0000,,Tsumiki-san was with us then, too.
+Dialogue: 0,0:14:50.85,0:14:51.94,Italics,Yuji,0000,0000,0000,,Tsumiki?
+Dialogue: 0,0:14:51.94,0:14:53.38,Italics,Kugisaki,0000,0000,0000,,That's Fushiguro's sister!
+Dialogue: 0,0:14:54.85,0:14:56.04,Main,Fushiguro,0000,0000,0000,,I see.
+Dialogue: 0,0:14:56.04,0:14:58.62,Main,Fushiguro,0000,0000,0000,,Then I'll try asking Tsumiki, too.
+Dialogue: 0,0:14:58.62,0:15:02.60,Main,Akari,0000,0000,0000,,Okay, then I'll escort these two home.
+Dialogue: 0,0:15:02.60,0:15:05.21,Main,Akari,0000,0000,0000,,Please keep working on the report.
+Dialogue: 0,0:15:05.21,0:15:07.43,Main,Guy,0000,0000,0000,,Something's up, isn't it?
+Dialogue: 0,0:15:07.43,0:15:10.22,Main,Akari,0000,0000,0000,,I can't let you both go home on one bike!
+Dialogue: 0,0:15:18.43,0:15:19.64,Main,Yuji,0000,0000,0000,,Fushiguro.
+Dialogue: 0,0:15:21.24,0:15:22.39,Main,Yuji,0000,0000,0000,,Fushiguro!
+Dialogue: 0,0:15:24.53,0:15:26.56,Main,Yuji,0000,0000,0000,,Fushiguro, snap out of it.
+Dialogue: 0,0:15:26.56,0:15:28.36,Main,Yuji,0000,0000,0000,,Make sure she's safe first!
+Dialogue: 0,0:15:32.43,0:15:33.66,Main,Fushiguro,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:15:33.66,0:15:35.96,Main,Fushiguro,0000,0000,0000,,Sorry, I'm stepping away for a sec.
+Dialogue: 0,0:15:43.70,0:15:45.45,Main,Ijichi,0000,0000,0000,,I understand the situation.
+Dialogue: 0,0:15:45.45,0:15:47.34,Main,Ijichi,0000,0000,0000,,A guard for Tsumiki-san, right?
+Dialogue: 0,0:15:47.59,0:15:52.09,Main,Ijichi,0000,0000,0000,,But the only ones we have available \Nright now are second-grade sorcerers.
+Dialogue: 0,0:15:52.37,0:15:53.76,Main,Fushiguro,0000,0000,0000,,Second-grade...
+Dialogue: 0,0:15:53.76,0:15:57.96,Italics,Ijichi,0000,0000,0000,,Since the number of victims \Nfar exceeds our estimates,
+Dialogue: 0,0:15:57.96,0:16:01.10,Italics,Ijichi,0000,0000,0000,,we'll have to re-evaluate \Nthe curse's grade, as well.
+Dialogue: 0,0:16:02.26,0:16:07.38,Main,Ijichi,0000,0000,0000,,You were probably assigned to this mission \Nwith Itadori-kun's growth taken into account,
+Dialogue: 0,0:16:07.78,0:16:10.54,Main,Ijichi,0000,0000,0000,,so if it's even more dangerous than that,
+Dialogue: 0,0:16:10.54,0:16:13.06,Main,Ijichi,0000,0000,0000,,it might be too much for \Na second-grade sorcerer.
+Dialogue: 0,0:16:13.63,0:16:15.67,Italics,Ijichi,0000,0000,0000,,It's just as dangerous \Nfor all of you, as well.
+Dialogue: 0,0:16:15.67,0:16:18.40,Italics,Ijichi,0000,0000,0000,,Personally, I recommend you withdraw.
+Dialogue: 0,0:16:20.10,0:16:21.36,Italics,Fushiguro,0000,0000,0000,,What do I do?
+Dialogue: 0,0:16:22.17,0:16:24.25,Italics,Fushiguro,0000,0000,0000,,Do I go back by myself right now?
+Dialogue: 0,0:16:25.24,0:16:28.54,Italics,Fushiguro,0000,0000,0000,,No, the mission was already \Ndangerous for all three of us.
+Dialogue: 0,0:16:28.54,0:16:30.56,Italics,Fushiguro,0000,0000,0000,,I can't leave it to just the two of them.
+Dialogue: 0,0:16:31.07,0:16:34.01,Italics,Fushiguro,0000,0000,0000,,Gojo-sensei will return next week.
+Dialogue: 0,0:16:34.01,0:16:35.96,Italics,Fushiguro,0000,0000,0000,,I could ask him then...
+Dialogue: 0,0:16:36.51,0:16:39.49,Italics,Fushiguro,0000,0000,0000,,No, I can't! The time limit\Nis the big problem!
+Dialogue: 0,0:16:40.02,0:16:42.25,Italics,Fushiguro,0000,0000,0000,,This isn't the type of cursed spirit \Nthat attacks someone.
+Dialogue: 0,0:16:42.25,0:16:45.99,Italics,Fushiguro,0000,0000,0000,,It's the type that activates a cursed \Ntechnique from within a marked person.
+Dialogue: 0,0:16:45.99,0:16:48.88,Italics,Fushiguro,0000,0000,0000,,So there's no point staying \Nnearby and protecting them!
+Dialogue: 0,0:16:48.88,0:16:50.81,Italics,Fushiguro,0000,0000,0000,,I have to exorcise it right away!
+Dialogue: 0,0:16:51.54,0:16:53.89,Main,Kugisaki,0000,0000,0000,,Why were you talking to Ijichi-san?
+Dialogue: 0,0:16:53.89,0:16:55.99,Main,Yuji,0000,0000,0000,,Is your sister Tsumiki okay?
+Dialogue: 0,0:16:56.74,0:16:58.49,Main,Fushiguro,0000,0000,0000,,She's fine.
+Dialogue: 0,0:16:58.49,0:17:01.38,Main,Fushiguro,0000,0000,0000,,More importantly, this mission's \Ndanger level just shot up.
+Dialogue: 0,0:17:01.38,0:17:04.00,Main,Fushiguro,0000,0000,0000,,Other sorcerers will be taking over this case.
+Dialogue: 0,0:17:04.39,0:17:06.00,Main,Fushiguro,0000,0000,0000,,You two can go home now.
+Dialogue: 0,0:17:08.00,0:17:09.92,Main,Yuji,0000,0000,0000,,Huh? Why?
+Dialogue: 0,0:17:09.92,0:17:11.85,Main,Yuji,0000,0000,0000,,Us two? What about you?
+Dialogue: 0,0:17:12.36,0:17:14.99,Main,Fushiguro,0000,0000,0000,,I'll go back after I say farewell to Takeda-san.
+Dialogue: 0,0:17:14.99,0:17:15.84,Main,Fushiguro,0000,0000,0000,,Now go!
+Dialogue: 0,0:17:25.96,0:17:27.32,Flashback,Fushiguro,0000,0000,0000,,Thanks for your help.
+Dialogue: 0,0:17:27.32,0:17:28.69,Flashback,Fushiguro,0000,0000,0000,,Is this Nitta-san?
+Dialogue: 0,0:17:28.69,0:17:30.61,Flashback,Fushiguro,0000,0000,0000,,There's something I want to ask you.
+Dialogue: 0,0:17:31.29,0:17:32.77,Flashback,Akari,0000,0000,0000,,The procedure, right?
+Dialogue: 0,0:17:33.87,0:17:37.32,Flashback,Akari,0000,0000,0000,,Fujinuma-san didn't go \Nover Yasohachi Bridge.
+Dialogue: 0,0:17:37.94,0:17:40.93,Flashback,Akari,0000,0000,0000,,They held their test of \Ncourage under the bridge.
+Dialogue: 0,0:17:41.81,0:17:44.02,Flashback,Fushiguro,0000,0000,0000,,Itadori went under it, too.
+Dialogue: 0,0:17:44.02,0:17:46.85,Flashback,Akari,0000,0000,0000,,Most likely, you can't get \Nbelow it from up above.
+Dialogue: 0,0:17:46.85,0:17:50.26,Flashback,Akari,0000,0000,0000,,The cursed spirit is within its barrier, \Nso the procedure's important.
+Dialogue: 0,0:17:50.65,0:17:52.78,Flashback,Akari,0000,0000,0000,,You go at night, from underneath.
+Dialogue: 0,0:17:52.78,0:17:54.45,Flashback,Akari,0000,0000,0000,,And one more thing...
+Dialogue: 0,0:17:55.29,0:18:00.79,Italics,Fushiguro,0000,0000,0000,,It's impossible to constantly keep a domain \Nimbued with a technique deployed forever.
+Dialogue: 0,0:18:01.17,0:18:05.41,Italics,Fushiguro,0000,0000,0000,,Which means it's like that barrier \Nat the juvenile detention center...
+Dialogue: 0,0:18:05.41,0:18:07.23,Italics,Fushiguro,0000,0000,0000,,an incomplete domain.
+Dialogue: 0,0:18:07.89,0:18:10.13,Italics,Fushiguro,0000,0000,0000,,I'm actually lucky this time around,
+Dialogue: 0,0:18:12.11,0:18:14.03,Italics,Fushiguro,0000,0000,0000,,since I won't need a veil.
+Dialogue: 0,0:18:17.53,0:18:20.16,Main,Kugisaki,0000,0000,0000,,You tell us too little about yourself.
+Dialogue: 0,0:18:20.16,0:18:21.03,Main,Yuji,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:23.60,0:18:27.43,Main,Kugisaki,0000,0000,0000,,You're seriously at your wits' end \Nif you didn't notice us until now.
+Dialogue: 0,0:18:27.43,0:18:30.34,Main,Yuji,0000,0000,0000,,We're not saying you have \Nto tell us everything,
+Dialogue: 0,0:18:30.34,0:18:31.80,Main,Yuji,0000,0000,0000,,but at least rely on us.
+Dialogue: 0,0:18:32.69,0:18:33.98,Main,Yuji,0000,0000,0000,,We're friends, aren't we?
+Dialogue: 0,0:18:43.14,0:18:44.52,Main,Fushiguro,0000,0000,0000,,Tsumiki's...
+Dialogue: 0,0:18:47.19,0:18:48.45,Main,Fushiguro,0000,0000,0000,,still bedridden.
+Dialogue: 0,0:18:50.32,0:18:55.79,Main,Fushiguro,0000,0000,0000,,The curse of Yasohachi Bridge \Nonly appears before its victims.
+Dialogue: 0,0:18:58.21,0:19:00.66,Main,Fushiguro,0000,0000,0000,,Since she can't communicate herself,
+Dialogue: 0,0:19:01.86,0:19:04.34,Main,Fushiguro,0000,0000,0000,,I have no idea when she'll \Nbe killed by the curse.
+Dialogue: 0,0:19:06.93,0:19:08.96,Main,Fushiguro,0000,0000,0000,,So I want to exorcise it right away.
+Dialogue: 0,0:19:09.99,0:19:12.59,Main,Fushiguro,0000,0000,0000,,But it's true that our mission's \Ndanger level has increased.
+Dialogue: 0,0:19:12.59,0:19:15.23,Main,Kugisaki,0000,0000,0000,,Okay, okay, we get it now.
+Dialogue: 0,0:19:15.23,0:19:17.69,Main,Yuji,0000,0000,0000,,You should have told us that from the start.
+Dialogue: 0,0:19:23.48,0:19:26.94,Flashback_Italics,Akari,0000,0000,0000,,The cursed spirit is within its barrier, \Nso the procedure's important.
+Dialogue: 0,0:19:27.81,0:19:29.65,Flashback_Italics,Akari,0000,0000,0000,,You go at night, from underneath.
+Dialogue: 0,0:19:30.25,0:19:31.69,Flashback_Italics,Akari,0000,0000,0000,,And one more thing...
+Dialogue: 0,0:19:32.45,0:19:33.69,Flashback_Italics,Akari,0000,0000,0000,,At the bottom of the canyon,
+Dialogue: 0,0:19:34.98,0:19:36.50,Flashback_Italics,Akari,0000,0000,0000,,there might be a river.
+Dialogue: 0,0:19:41.80,0:19:45.61,Flashback_Italics,Akari,0000,0000,0000,,Crossing a river or other border— \Nacts that symbolize crossing to the afterlife—
+Dialogue: 0,0:19:46.56,0:19:50.01,Flashback_Italics,Akari,0000,0000,0000,,carry important meaning in sorcery.
+Dialogue: 0,0:20:02.58,0:20:04.11,Main,Yuji,0000,0000,0000,,There it is.
+Dialogue: 0,0:20:06.05,0:20:08.23,Main,Kugisaki,0000,0000,0000,,This one will be rewarding to exorcise.
+Dialogue: 0,0:20:22.51,0:20:25.74,Main,Curse,0000,0000,0000,,What's this? Someone beat me here?
+Dialogue: 0,0:20:25.74,0:20:26.75,Main,Kugisaki,0000,0000,0000,,Huh?!
+Dialogue: 0,0:20:27.05,0:20:29.25,Main,Yuji,0000,0000,0000,,Fushiguro, this one's \Na different case, right?
+Dialogue: 0,0:20:29.57,0:20:30.75,Main,Fushiguro,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:31.84,0:20:34.98,Main,Yuji,0000,0000,0000,,Then you two focus on that other one.
+Dialogue: 0,0:20:36.33,0:20:38.76,Main,Yuji,0000,0000,0000,,I'll exorcise this one.
+Dialogue: 0,0:20:39.02,0:20:40.45,Main,Curse,0000,0000,0000,,What?
+Dialogue: 0,0:20:40.45,0:20:43.27,Main,Curse,0000,0000,0000,,You're going to play with me?
+Dialogue: 0,0:22:15.10,0:22:17.61,sign_32727_342_Juju_Stroll,All&Screen,0000,0000,0000,,Juju Stroll
+Dialogue: 0,0:22:18.50,0:22:20.32,Main,Woman,0000,0000,0000,,Help! It's a purse snatcher!
+Dialogue: 0,0:22:25.89,0:22:28.59,Main,Woman,0000,0000,0000,,I run a Chinese restaurant.
+Dialogue: 0,0:22:28.59,0:22:30.52,Main,Woman,0000,0000,0000,,Allow me to treat you as thanks.
+Dialogue: 0,0:22:30.52,0:22:31.87,Main,Kugisaki,0000,0000,0000,,We couldn't!
+Dialogue: 0,0:22:31.87,0:22:32.71,Main,Yuji,0000,0000,0000,,Are you sure?!
+Dialogue: 0,0:22:32.71,0:22:35.33,Main,Yuji,0000,0000,0000,,Thank you so much! I'll gladly eat!
+Dialogue: 0,0:22:36.17,0:22:40.92,Main,Signs,0000,0000,0000,,{\pos(213.333,66)\an8\b1\c&HA6908B&\bord1\shad0\fnArial\3c&H897F73&}Chinese Restaurant {\c&H586ACE&}Manpuku
+Dialogue: 0,0:22:36.40,0:22:38.78,Main,Woman,0000,0000,0000,,This restaurant has lasted four generations.
+Dialogue: 0,0:22:38.78,0:22:43.49,Main,Woman,0000,0000,0000,,That was supposed to end with my father,
+Dialogue: 0,0:22:43.49,0:22:47.19,Main,Woman,0000,0000,0000,,but I insisted and kept it running.
+Dialogue: 0,0:22:47.86,0:22:53.40,Main,Woman,0000,0000,0000,,I wanted to keep this restaurant, \Nthis flavor, around.
+Dialogue: 0,0:22:53.78,0:22:56.44,Italics,Both,0000,0000,0000,,What a nice story.
+Dialogue: 0,0:22:56.90,0:22:59.43,Main,Woman,0000,0000,0000,,Sorry for the wait. Here's our pride and joy,
+Dialogue: 0,0:22:59.43,0:23:01.70,Main,Woman,0000,0000,0000,,the gyoza meal passed \Ndown for generations!
+Dialogue: 0,0:23:01.70,0:23:03.41,Main,All,0000,0000,0000,,Time to dig in!
+Dialogue: 0,0:23:03.40,0:23:06.28,Main,Signs,0000,0000,0000,,{\pos(270,70)\an8\b1\c&HA6908B&\bord1\shad0\fnArial\3c&H897F73&}Chinese Restaurant {\c&H586ACE&}Manpuku
+Dialogue: 0,0:23:04.17,0:23:06.28,Main,All,0000,0000,0000,,Thank you for the meal!
+Dialogue: 0,0:23:12.10,0:23:13.44,Main,Fushiguro,0000,0000,0000,,You two...
+Dialogue: 0,0:23:13.44,0:23:15.31,Main,Fushiguro,0000,0000,0000,,What do you think of gyoza \Nwith no meat flavor,
+Dialogue: 0,0:23:15.31,0:23:17.63,Main,,0000,0000,0000,,that's basically just \Ncabbage and thickener?
+Dialogue: 0,0:23:17.63,0:23:19.57,Main,Kugisaki,0000,0000,0000,,I'm glad you said something, Fushiguro!
+Dialogue: 0,0:23:19.57,0:23:21.29,Main,Yuji,0000,0000,0000,,She was a nice woman, too!
+Dialogue: 0,0:23:21.29,0:23:23.42,Main,Yuji,0000,0000,0000,,She was a nice woman, but still!
+Dialogue: 0,0:23:24.42,0:23:28.68,Main,Yuji,0000,0000,0000,,But apparently, gyoza is meant to \Nbe a vegetable dish, not a meat dish.
+Dialogue: 0,0:23:28.68,0:23:29.61,Main,Both,0000,0000,0000,,Seriously?
+Dialogue: 0,0:23:36.60,0:23:40.06,Next_Ep_Title,Screen,0000,0000,0000,,{\fad(1071,1)}Episode 23: \NThe Origin of Blind Obedience - 2 -

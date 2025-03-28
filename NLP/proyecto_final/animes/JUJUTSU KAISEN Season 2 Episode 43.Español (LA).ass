@@ -1,0 +1,260 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Box,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.52,0:00:07.57,Cart_A_Tim,,0000,0000,0000,,{\an1\fad(1500,900)\fs24\bord0\shad0\3c&H919196&\pos(147.05,305.3)}Calle Shoto Bunkamura (fuera de la cortina)
+Dialogue: 0,0:00:11.10,0:00:13.08,Gen_Main,Nitta,0000,0000,0000,,¡No vayas, Kugisaki!
+Dialogue: 0,0:00:13.88,0:00:15.95,Gen_Main,Nitta,0000,0000,0000,,Recuerda lo que dijo el señor Nanami.
+Dialogue: 0,0:00:16.15,0:00:19.22,Gen_Main,Nitta,0000,0000,0000,,Además, la razón por la que\Nno mencioné a la doctora Ieiri…
+Dialogue: 0,0:00:19.42,0:00:22.89,Gen_Main,Nobara,0000,0000,0000,,Fue para evitar que yo intentara\Nhacer una locura como ahora, ¿no?
+Dialogue: 0,0:00:23.80,0:00:27.32,Gen_Main,Nobara,0000,0000,0000,,Tal vez el equipo de rescate\Nse tardó por lo mismo.
+Dialogue: 0,0:00:29.69,0:00:35.43,Gen_Main,Nobara,0000,0000,0000,,De todos modos, no puedo regresar sola\Nsi todos los demás siguen luchando.
+Dialogue: 0,0:00:35.63,0:00:36.97,Gen_Main,Nitta,0000,0000,0000,,¡Alto!
+Dialogue: 0,0:00:37.38,0:00:38.97,Gen_Main,Nitta,0000,0000,0000,,¡Kugisaki!
+Dialogue: 0,0:00:57.95,0:01:00.95,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord0}Episodio 43\N\N\N\N\N\N\N\N\N\N\N{\fs30}Lo correcto y lo incorrecto, parte dos
+Dialogue: 0,0:01:11.50,0:01:16.01,Cart_Serieslogo,,0000,0000,0000,,{\fad(0,800)\fs28\3c&H9EF2FA&\move(320,47.64,320,48.85,20,4983)}{\t(0,5050,\fs-0.3)}JUJUTSU KAISEN{\fscy100}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\bord0\c&HFFFFFF&}Shibuya Incident
+Dialogue: 0,0:02:39.18,0:02:43.10,Gen_Italics,Mahito,0000,0000,0000,,Me habría gustado que Dagon me hubiera\Ndejado un poco más de humanos.
+Dialogue: 0,0:02:45.65,0:02:47.43,Gen_Main,Mahito,0000,0000,0000,,Bueno, serán suficientes.
+Dialogue: 0,0:02:50.22,0:02:51.53,Gen_Italics,Yuji,0000,0000,0000,,¡Mierda!
+Dialogue: 0,0:02:59.02,0:03:00.45,Gen_Main,Yuji,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,0:03:11.30,0:03:13.04,Gen_Italics,Yuji,0000,0000,0000,,¡Diablos!
+Dialogue: 0,0:03:50.79,0:03:52.08,Gen_Main,Mahito Copia,0000,0000,0000,,¡Qué divertido!
+Dialogue: 0,0:04:05.40,0:04:07.78,Gen_Italics,Mahito Copia,0000,0000,0000,,Se está cuidando de mis manos.
+Dialogue: 0,0:04:08.29,0:04:11.55,Gen_Italics,Mahito Copia,0000,0000,0000,,Es evidente que el hechicero\Nsiete tres les advirtió.
+Dialogue: 0,0:04:11.75,0:04:13.35,Gen_Main,Mahito Copia,0000,0000,0000,,Qué tristeza.
+Dialogue: 0,0:04:22.71,0:04:25.01,Gen_Italics,Mahito Copia,0000,0000,0000,,Pero yo soy una copia.
+Dialogue: 0,0:04:26.78,0:04:31.54,Gen_Italics,Mahito Copia,0000,0000,0000,,Puedo cambiar mi propia forma. Pero no\Nmanipular a los humanos modificados
+Dialogue: 0,0:04:31.73,0:04:34.52,Gen_Italics,Mahito Copia,0000,0000,0000,,o interferir con el espíritu de otros.
+Dialogue: 0,0:04:38.01,0:04:41.55,Gen_Italics,Mahito Copia,0000,0000,0000,,Me conviene\Nque te estés estresando tú sola.
+Dialogue: 0,0:04:43.80,0:04:47.18,Gen_Main,Mahito Copia,0000,0000,0000,,Como te decía, no funcionan tus golpes.
+Dialogue: 0,0:04:47.66,0:04:49.27,Gen_Main,Mahito Copia,0000,0000,0000,,¿No lo has comprendido?
+Dialogue: 0,0:04:50.73,0:04:54.17,Gen_Main,Nobara,0000,0000,0000,,Sí, pero hay veces en las que\Nde todas formas hay que actuar.
+Dialogue: 0,0:04:54.64,0:04:56.44,Cart_C_Tim,,0000,0000,0000,,{\fnComic Sans MS\fs30\pos(478.12,11.76)\fad(500,0)}Qué babosada
+Dialogue: 0,0:05:00.82,0:05:02.02,Gen_Main,Nobara,0000,0000,0000,,Te lo regalo.
+Dialogue: 0,0:05:03.61,0:05:05.17,Gen_Main,Nobara,0000,0000,0000,,¡Pasador de Cabello!
+Dialogue: 0,0:05:05.37,0:05:08.16,Gen_Italics,Mahito Copia,0000,0000,0000,,¿Saltó hacia acá? ¿Qué va a hacer?
+Dialogue: 0,0:05:08.36,0:05:09.66,Gen_Main,Nobara,0000,0000,0000,,Y uno más.
+Dialogue: 0,0:05:13.23,0:05:14.66,Gen_Main,Nobara,0000,0000,0000,,¡Pasador de Cabello!
+Dialogue: 0,0:05:15.98,0:05:17.92,Gen_Italics,Mahito Copia,0000,0000,0000,,Me dio con los clavos en el piso.
+Dialogue: 0,0:05:20.51,0:05:22.34,Gen_Main,Nobara,0000,0000,0000,,Desde que supe cómo era tu ritual
+Dialogue: 0,0:05:23.55,0:05:26.30,Gen_Main,Nobara,0000,0000,0000,,he estado pensando que tal vez
+Dialogue: 0,0:05:26.50,0:05:29.06,Gen_Main,Nobara,0000,0000,0000,,este sí tendría efecto sobre ti.
+Dialogue: 0,0:05:30.39,0:05:32.30,Gen_Main,Nobara,0000,0000,0000,,¡Resonancia!
+Dialogue: 0,0:05:41.65,0:05:43.32,Gen_Main,Yuji,0000,0000,0000,,¿Kugisaki?
+Dialogue: 0,0:05:46.60,0:05:49.78,Gen_Italics,Mahito Copia,0000,0000,0000,,¡No lo creo! ¡No puede ser!
+Dialogue: 0,0:05:50.43,0:05:52.83,Gen_Italics,Mahito Copia,0000,0000,0000,,¡Mi enemigo natural
+Dialogue: 0,0:05:53.03,0:05:56.14,Gen_Italics,Mahito Copia,0000,0000,0000,,no solo era Yuji Itadori!
+Dialogue: 0,0:05:58.95,0:06:00.66,Gen_Main,Nobara,0000,0000,0000,,Qué extraño.
+Dialogue: 0,0:06:01.27,0:06:05.59,Gen_Main,Nobara,0000,0000,0000,,En un lugar no muy lejano sentí\Nque explotó algo de mi poder maldito.
+Dialogue: 0,0:06:05.95,0:06:08.51,Gen_Main,Nobara,0000,0000,0000,,Además, tu poder maldito\Nse siente muy pobre.
+Dialogue: 0,0:06:08.71,0:06:12.13,Gen_Main,Nobara,0000,0000,0000,,Hace rato tuviste la oportunidad\Nde atraparme con las manos.
+Dialogue: 0,0:06:12.33,0:06:13.60,Gen_Main,Nobara,0000,0000,0000,,Tú eres una copia
+Dialogue: 0,0:06:14.51,0:06:17.61,Gen_Main,Nobara,0000,0000,0000,,y no puedes\Nusar técnicas rituales, ¿verdad?
+Dialogue: 0,0:06:19.15,0:06:20.74,Gen_Main,Mahito Copia,0000,0000,0000,,Bingo.
+Dialogue: 0,0:06:33.61,0:06:35.95,Gen_Italics,Mahito,0000,0000,0000,,¡La reverberación del ritual dura mucho!
+Dialogue: 0,0:06:38.15,0:06:40.92,Gen_Italics,Mahito,0000,0000,0000,,¡El cuerpo no me responde como quiero!
+Dialogue: 0,0:06:46.63,0:06:48.02,Gen_Italics,Yuji,0000,0000,0000,,Kugisaki,
+Dialogue: 0,0:06:49.22,0:06:50.36,Gen_Italics,Yuji,0000,0000,0000,,gracias.
+Dialogue: 0,0:06:54.15,0:06:56.39,Gen_Italics,Yuji,0000,0000,0000,,No fui capaz de rescatar a nadie.
+Dialogue: 0,0:06:56.74,0:06:59.39,Gen_Italics,Yuji,0000,0000,0000,,Eché a perder el esfuerzo de todos.
+Dialogue: 0,0:07:00.40,0:07:01.91,Gen_Italics,Yuji,0000,0000,0000,,Sin embargo,
+Dialogue: 0,0:07:04.42,0:07:07.91,Gen_Italics,Yuji,0000,0000,0000,,muchas gracias por hacerme sentir\Nque no estoy solo.
+Dialogue: 0,0:07:08.36,0:07:09.41,Gen_Main,Yuji,0000,0000,0000,,¡Por eso,
+Dialogue: 0,0:07:10.81,0:07:11.91,Gen_Main,Yuji,0000,0000,0000,,te voy a matar
+Dialogue: 0,0:07:14.89,0:07:16.18,Gen_Main,Yuji,0000,0000,0000,,aquí y ahora,
+Dialogue: 0,0:07:17.56,0:07:19.08,Gen_Main,Yuji,0000,0000,0000,,cabrón de mierda!
+Dialogue: 0,0:07:19.98,0:07:25.16,Gen_Italics,Nobara,0000,0000,0000,,Ahora sabe que Resonancia surte efecto.\NNo caerá de nuevo en la trampa.
+Dialogue: 0,0:07:25.91,0:07:28.01,Gen_Main,Nobara,0000,0000,0000,,Aquí empieza la verdadera pelea.
+Dialogue: 0,0:07:31.98,0:07:33.30,Gen_Main,Mahito Copia,0000,0000,0000,,No…
+Dialogue: 0,0:07:34.55,0:07:36.31,Gen_Main,Mahito Copia,0000,0000,0000,,Patitas, ¿para qué las quiero?
+Dialogue: 0,0:07:39.10,0:07:40.31,Gen_Main,Nobara,0000,0000,0000,,¡Alto ahí!
+Dialogue: 0,0:07:41.00,0:07:43.80,Gen_Italics,Nobara,0000,0000,0000,,Podría ignorarlo\Ny dirigirme directamente al piso S5,
+Dialogue: 0,0:07:44.06,0:07:48.08,Gen_Italics,Nobara,0000,0000,0000,,pero presiento que luego nos dará\Nmás problemas si lo dejo libre por ahí.
+Dialogue: 0,0:07:55.90,0:07:57.38,Gen_Italics,Nobara,0000,0000,0000,,¿Va hacia abajo?
+Dialogue: 0,0:07:57.58,0:08:01.89,Gen_Italics,Nobara,0000,0000,0000,,¡Me queda bien!\N¡Lo exorcizo y de ahí me voy al piso S5!
+Dialogue: 0,0:08:08.37,0:08:10.09,Gen_Italics,Yuji,0000,0000,0000,,¡Se dividió!
+Dialogue: 0,0:08:10.34,0:08:11.56,Gen_Italics,Yuji,0000,0000,0000,,¿Cuál es?
+Dialogue: 0,0:08:12.19,0:08:13.84,Gen_Italics,Yuji,0000,0000,0000,,¡Alguno de ellos debe tener
+Dialogue: 0,0:08:14.04,0:08:17.60,Gen_Italics,Yuji,0000,0000,0000,,una parte del alma que le infligirá\Nuna herida fatal si la aplasto!
+Dialogue: 0,0:08:21.32,0:08:23.10,Gen_Main,Mahito,0000,0000,0000,,Caíste, menso.
+Dialogue: 0,0:08:23.35,0:08:25.10,Gen_Italics,Yuji,0000,0000,0000,,¡Usó poder maldito como carnada!
+Dialogue: 0,0:08:33.88,0:08:35.57,Gen_Italics,Yuji,0000,0000,0000,,¿Hay dos Mahitos?
+Dialogue: 0,0:08:36.38,0:08:39.06,Gen_Italics,Yuji,0000,0000,0000,,¿Había creado una copia\Npara que actuara aparte?
+Dialogue: 0,0:08:39.26,0:08:41.91,Gen_Italics,Yuji,0000,0000,0000,,¡Piensa fusionarse con ella\Npara curarse el daño!
+Dialogue: 0,0:08:58.03,0:08:59.64,Gen_Main,Nobara,0000,0000,0000,,¿Itadori?
+Dialogue: 0,0:09:01.79,0:09:05.66,Gen_Main,Yuji,0000,0000,0000,,¡Sal de aquí, Kugisaki!
+Dialogue: 0,0:09:13.39,0:09:15.08,Gen_Main,Mahito Copia,0000,0000,0000,,¡La tocó de lleno!
+Dialogue: 0,0:09:17.00,0:09:18.33,Gen_Main,Yuji,0000,0000,0000,,¡A un lado, estorbo!
+Dialogue: 0,0:09:19.13,0:09:20.29,Gen_Main,Yuji,0000,0000,0000,,¡Kugisaki!
+Dialogue: 0,0:09:22.35,0:09:28.26,Gen_Italics,Mahito,0000,0000,0000,,Veamos. No pude acabar con el hechicero\Nsiete tres al tocarlo solo una vez.
+Dialogue: 0,0:09:30.13,0:09:31.80,Gen_Italics,Mahito,0000,0000,0000,,¿Qué pasará con ella?
+Dialogue: 0,0:09:42.56,0:09:46.06,Cart_A_Verd,,0000,0000,0000,,{\fscy130\fs30\pos(320,113.88)}Año 2009
+Dialogue: 0,0:09:52.99,0:09:55.57,Gen_Main,Nobara Niña,0000,0000,0000,,¡Muere de una vez, basura!
+Dialogue: 0,0:09:57.35,0:10:01.80,Gen_Main,Papá de Fumi,0000,0000,0000,,Tienes que ser más cruel, Nobara.\NNo dejes que regresen a la plataforma.
+Dialogue: 0,0:10:03.54,0:10:05.33,Gen_Italics,Nobara,0000,0000,0000,,En ese entonces, yo…
+Dialogue: 0,0:10:05.69,0:10:07.33,Gen_Main,Fumi,0000,0000,0000,,Ánimo, tú puedes.
+Dialogue: 0,0:10:07.75,0:10:10.96,Gen_Italics,Nobara,0000,0000,0000,,…creía ciegamente que todos en la aldea
+Dialogue: 0,0:10:11.83,0:10:14.09,Gen_Italics,Nobara,0000,0000,0000,,estaban locos
+Dialogue: 0,0:10:14.29,0:10:16.39,Gen_Italics,Nobara,0000,0000,0000,,y que yo era la única cuerda.
+Dialogue: 0,0:10:21.26,0:10:23.01,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:10:26.27,0:10:28.02,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:10:38.03,0:10:41.79,Gen_Main,Mamá de Fumi,0000,0000,0000,,La vas a usar por seis años.\N¿En verdad la quieres de este color?
+Dialogue: 0,0:10:41.99,0:10:43.18,Gen_Main,Fumi,0000,0000,0000,,Sí.
+Dialogue: 0,0:10:43.88,0:10:48.69,Gen_Italics,Fumi,0000,0000,0000,,Eso me advirtió mamá, pero aun así\Nelegí una mochila de color azul claro.
+Dialogue: 0,0:10:49.42,0:10:53.27,Gen_Italics,Fumi,0000,0000,0000,,Nos mudamos a este pueblo el mismo año\Nque iba a entrar a la primaria.
+Dialogue: 0,0:10:54.50,0:10:57.44,Gen_Italics,Fumi,0000,0000,0000,,A mis padres les preocupaban\Nlas incomodidades del campo.
+Dialogue: 0,0:10:57.72,0:11:01.01,Gen_Italics,Fumi,0000,0000,0000,,Pero a mí lo que más me molestaba\Nera alejarme de mis amigos.
+Dialogue: 0,0:11:03.39,0:11:07.66,Gen_Italics,Fumi,0000,0000,0000,,En la primaria había 19 alumnos, no en\Nuna sola clase, sino en toda la escuela.
+Dialogue: 0,0:11:08.55,0:11:11.20,Gen_Italics,Fumi,0000,0000,0000,,Las mochilas de todos\Neran rojas o negras.
+Dialogue: 0,0:11:11.80,0:11:14.48,Gen_Italics,Fumi,0000,0000,0000,,A mí me gustaban esos dos colores,
+Dialogue: 0,0:11:15.07,0:11:17.82,Gen_Italics,Fumi,0000,0000,0000,,pero a los demás\Nles desagradaba el azul de la mía.
+Dialogue: 0,0:12:01.81,0:12:03.27,Gen_Main,Fumi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:12:06.23,0:12:10.17,Gen_Main,Nobara Niña,0000,0000,0000,,Oye, Fumi, ¿me cambias tu mochila?
+Dialogue: 0,0:12:13.18,0:12:15.27,Gen_Main,Nobara Niña,0000,0000,0000,,¡Que si me la cambias!
+Dialogue: 0,0:12:17.63,0:12:20.63,Gen_Main,Nobara Niña,0000,0000,0000,,¡Aquí voy, niños tontos!
+Dialogue: 0,0:12:28.83,0:12:31.72,Gen_Main,Nobara Niña,0000,0000,0000,,¡Soy la número uno de Japón!
+Dialogue: 0,0:12:32.33,0:12:35.39,Gen_Main,Maestro/Nobara Niña,0000,0000,0000,,-¡Ya te vi, Kugisaki!\N-¡Demonios!
+Dialogue: 0,0:12:35.59,0:12:38.41,Gen_Main,Maestro,0000,0000,0000,,¡¿Tú otra vez, Kugisaki?!
+Dialogue: 0,0:12:38.61,0:12:42.97,Gen_Main,Nobara Niña,0000,0000,0000,,¡Anciano enfadoso, no te me acerques!
+Dialogue: 0,0:12:44.85,0:12:48.41,Gen_Italics,Fumi,0000,0000,0000,,La obligaron a que me regresara\Nmi mochila ese mismo día.
+Dialogue: 0,0:12:48.74,0:12:51.19,Gen_Main,Nobara Niña,0000,0000,0000,,En primer lugar,\Nyo odio las mugres mochilas.
+Dialogue: 0,0:12:53.33,0:12:56.46,Gen_Italics,Fumi,0000,0000,0000,,Desde ese día,\NNobara empezó a invitarse sola a casa.
+Dialogue: 0,0:12:56.66,0:12:59.25,Gen_Italics,Fumi,0000,0000,0000,,Y se la pasaba\Njugando videojuegos con mi papá.
+Dialogue: 0,0:12:59.98,0:13:02.28,Gen_Main,Papá de Fumi,0000,0000,0000,,Ya te sale mejor pelear en el aire.
+Dialogue: 0,0:13:03.75,0:13:06.98,Gen_Italics,Fumi,0000,0000,0000,,Ella detestaba\Na la demás gente del pueblo.
+Dialogue: 0,0:13:07.96,0:13:10.43,Gen_Main,Nobara Niña,0000,0000,0000,,Pueblo chico, infierno grande.
+Dialogue: 0,0:13:10.91,0:13:14.94,Gen_Main,Nobara Niña,0000,0000,0000,,Aquí es más difícil ser una desconocida\Nque hacerte amiga de alguien.
+Dialogue: 0,0:13:17.25,0:13:20.92,Gen_Italics,Fumi,0000,0000,0000,,En ese momento pensé:\N"Pero eso es algo bueno, ¿no?",
+Dialogue: 0,0:13:22.47,0:13:27.45,Gen_Italics,Fumi,0000,0000,0000,,pero cuando una vieja trajo arroz rojo\Npara celebrar mi menstruación,
+Dialogue: 0,0:13:27.86,0:13:32.55,Gen_Italics,Fumi,0000,0000,0000,,comprendí la repugnancia hacia la aldea\Nque ella quería transmitir aquella vez.
+Dialogue: 0,0:13:36.02,0:13:37.22,Gen_Main,Nobara Niña,0000,0000,0000,,¡Fumi,
+Dialogue: 0,0:13:38.41,0:13:40.53,Gen_Main,Nobara Niña,0000,0000,0000,,encontré la base secreta perfecta!
+Dialogue: 0,0:13:45.77,0:13:48.98,Gen_Italics,Fumi,0000,0000,0000,,A veces decía cosas\Nque una niña de su edad no diría,
+Dialogue: 0,0:13:49.18,0:13:51.85,Gen_Italics,Fumi,0000,0000,0000,,pero de pronto\Ntambién decía cosas infantiles.
+Dialogue: 0,0:13:52.19,0:13:54.85,Gen_Main,Nobara Niña,0000,0000,0000,,A partir de hoy vamos a vivir ahí.
+Dialogue: 0,0:13:55.09,0:13:58.96,Gen_Italics,Fumi,0000,0000,0000,,Ahora que lo pienso, lo más probable\Nes que repitiera las quejas de alguien
+Dialogue: 0,0:13:59.42,0:14:01.46,Gen_Italics,Fumi,0000,0000,0000,,como las de su madre, por ejemplo.
+Dialogue: 0,0:14:05.34,0:14:06.58,Gen_Main,Nobara Niña,0000,0000,0000,,¡Aquí es!
+Dialogue: 0,0:14:08.39,0:14:11.33,Gen_Italics,Fumi,0000,0000,0000,,La base secreta que Nobara decía\Nera la casa de alguien.
+Dialogue: 0,0:14:11.53,0:14:13.13,Gen_Main,Nobara Niña,0000,0000,0000,,¡Viva!
+Dialogue: 0,0:14:13.33,0:14:15.74,Gen_Main,Saori,0000,0000,0000,,Ah, en verdad viniste a visitarme.
+Dialogue: 0,0:14:17.22,0:14:19.84,Gen_Main,Saori,0000,0000,0000,,Pasen, adelante.\NHace mucho frío afuera, ¿no?
+Dialogue: 0,0:14:22.11,0:14:24.50,Gen_Italics,Fumi,0000,0000,0000,,Esa chica se llamaba Saori.
+Dialogue: 0,0:14:24.70,0:14:27.53,Gen_Italics,Fumi,0000,0000,0000,,Se mudó al pueblo\Nun poco después que yo.
+Dialogue: 0,0:14:34.34,0:14:40.01,Gen_Italics,Fumi,0000,0000,0000,,Siempre íbamos a visitarla de improviso,\Npero nunca nos recibía con mala cara.
+Dialogue: 0,0:14:41.15,0:14:44.84,Gen_Italics,Fumi,0000,0000,0000,,Es cierto. Saori siempre estaba en casa.
+Dialogue: 0,0:14:45.90,0:14:49.13,Gen_Italics,Fumi,0000,0000,0000,,Nobara cambió cuando conoció a Saori.
+Dialogue: 0,0:14:49.33,0:14:52.32,Gen_Main,Nobara Niña,0000,0000,0000,,Sí, ¿ves? Sí me entiendes, ¿verdad?
+Dialogue: 0,0:14:52.52,0:14:54.41,Gen_Main,Fumi,0000,0000,0000,,Hablas como Matsuko Deluxe.
+Dialogue: 0,0:14:55.09,0:14:57.86,Gen_Main,Nobara Niña,0000,0000,0000,,Déjame practicar las trenzas contigo.
+Dialogue: 0,0:14:58.46,0:15:00.04,Gen_Main,Fumi,0000,0000,0000,,¿Otra vez?
+Dialogue: 0,0:15:01.32,0:15:03.35,Gen_Italics,Fumi,0000,0000,0000,,Comenzó a expresarse más suavemente.
+Dialogue: 0,0:15:03.55,0:15:08.01,Gen_Italics,Fumi,0000,0000,0000,,¿Cómo decirlo?\NComo que adquirió un poco de clase.
+Dialogue: 0,0:15:10.23,0:15:15.54,Gen_Italics,Fumi,0000,0000,0000,,Tanto Saori como yo éramos forasteras,\Npero éramos lo completo opuesto en todo.
+Dialogue: 0,0:15:19.02,0:15:26.02,Cart_A_Tre,,0000,0000,0000,,{\3c&H84506F&\fs15\c&H0C0C70&\pos(113.18,239.76)\frz5.752}¡Largo de aquí!
+Dialogue: 0,0:15:19.02,0:15:26.02,Cart_C_Tre,,0000,0000,0000,,{\fs12\bord1.5\3c&H84506F&\pos(471.06,246.35)}¡Desaparezcan\N{\c&H62284B&}del pueblo!
+Dialogue: 0,0:15:19.71,0:15:24.28,Gen_Italics,Fumi,0000,0000,0000,,Al poco tiempo, empezaron a ocurrir\Ncosas extrañas en la casa de Saori.
+Dialogue: 0,0:15:26.03,0:15:31.03,Cart_C_Tre,,0000,0000,0000,,{\fs18\bord1.5\3c&H84506F&\pos(510.59,155.06)}¡Desaparezcan\N{\c&H62284B&}del pueblo!
+Dialogue: 0,0:15:26.33,0:15:31.03,Gen_Italics,Fumi,0000,0000,0000,,Aparecía basura, grafiti o nieve,\Nque era obvio alguien había apilado ahí.
+Dialogue: 0,0:15:31.59,0:15:35.08,Gen_Italics,Fumi,0000,0000,0000,,Su hermosa casa ahora se veía\Ncomo una mansión embrujada.
+Dialogue: 0,0:15:44.57,0:15:47.03,Gen_Italics,Fumi,0000,0000,0000,,No transcurrió mucho tiempo
+Dialogue: 0,0:15:48.79,0:15:51.02,Gen_Italics,Fumi,0000,0000,0000,,antes de que Saori se fuera del pueblo.
+Dialogue: 0,0:15:52.37,0:15:54.85,Gen_Italics,Fumi,0000,0000,0000,,Nobara y yo fuimos a despedirla,
+Dialogue: 0,0:15:55.05,0:15:57.56,Gen_Italics,Fumi,0000,0000,0000,,pero no puedo recordar qué dijimos
+Dialogue: 0,0:15:57.78,0:16:01.38,Gen_Italics,Fumi,0000,0000,0000,,o cómo estaba el clima en esa ocasión.
+Dialogue: 0,0:16:02.84,0:16:04.06,Gen_Italics,Fumi,0000,0000,0000,,Pero lo que recuerdo
+Dialogue: 0,0:16:04.90,0:16:09.07,Gen_Italics,Fumi,0000,0000,0000,,es que Nobara Lloró a chorros hasta\Nque le quedó la cara toda pegajosa.
+Dialogue: 0,0:16:10.84,0:16:12.57,Gen_Italics,Fumi,0000,0000,0000,,Fue tanta mi sorpresa al notar
+Dialogue: 0,0:16:13.05,0:16:17.65,Gen_Italics,Fumi,0000,0000,0000,,que ella también era capaz de llorar\Nque mi cerebro no captó nada más.
+Dialogue: 0,0:16:25.70,0:16:27.60,Gen_Italics,Fumi,0000,0000,0000,,En junio de este año,
+Dialogue: 0,0:16:28.93,0:16:32.54,Gen_Italics,Fumi,0000,0000,0000,,Nobara se cambió\Na una escuela preparatoria en Tokio.
+Dialogue: 0,0:16:37.32,0:16:41.69,Gen_Italics,Fumi,0000,0000,0000,,Me dijo que discutió con su abuela, por\Neso el cambió se retrasó hasta entonces.
+Dialogue: 0,0:16:42.69,0:16:45.68,Gen_Main,Nobara,0000,0000,0000,,¡Adiós!\N¡No volveré nunca más a este lugar!
+Dialogue: 0,0:16:45.88,0:16:48.98,Gen_Main,Nobara,0000,0000,0000,,¡Fumi, tú también escápate pronto\Nde este pueblucho!
+Dialogue: 0,0:16:50.92,0:16:52.14,Gen_Main,Fumi,0000,0000,0000,,Ajá.
+Dialogue: 0,0:16:53.03,0:16:55.34,Gen_Italics,Fumi,0000,0000,0000,,"¿No vas a llorar al despedirte de mí?".
+Dialogue: 0,0:16:55.54,0:17:00.46,Gen_Italics,Fumi,0000,0000,0000,,Como me contuve de espetar ese horrible\Nreclamo, no pude decir otra cosa.
+Dialogue: 0,0:17:01.53,0:17:05.41,Gen_Italics,Fumi,0000,0000,0000,,Desde aquella vez,\Nno habíamos vuelto a hablar sobre Saori.
+Dialogue: 0,0:17:09.07,0:17:10.25,Gen_Main,Nobara,0000,0000,0000,,Fumi,
+Dialogue: 0,0:17:11.43,0:17:13.65,Gen_Main,Nobara,0000,0000,0000,,la próxima vez estaremos las tres.
+Dialogue: 0,0:17:38.26,0:17:39.45,Gen_Main,Fumi,0000,0000,0000,,Sí.
+Dialogue: 0,0:17:56.34,0:17:59.20,Gen_Main,Jefa de Saori,0000,0000,0000,,Saori, ¿por qué no descansas un poco?
+Dialogue: 0,0:18:02.78,0:18:08.52,Gen_Main,Saori,0000,0000,0000,,No puedo. La fecha límite para revisar\Nel manuscrito era hoy. ¿O más bien ayer?
+Dialogue: 0,0:18:09.32,0:18:11.37,Gen_Main,Jefa de Saori,0000,0000,0000,,Sigue siendo hoy hasta que amanezca.
+Dialogue: 0,0:18:24.93,0:18:27.69,Gen_Main,Saori,0000,0000,0000,,Me salió una espinilla.
+Dialogue: 0,0:18:28.03,0:18:30.97,Gen_Main,Jefa de Saori,0000,0000,0000,,Shibuya es un desastre.\N¿Será un ataque terrorista?
+Dialogue: 0,0:18:31.96,0:18:36.49,Gen_Main,Saori,0000,0000,0000,,¿Usted tiene ganas de casarse?
+Dialogue: 0,0:18:38.25,0:18:39.60,Gen_Main,Jefa de Saori,0000,0000,0000,,¿Ahora qué te pasa?
+Dialogue: 0,0:18:40.19,0:18:44.33,Gen_Main,Saori,0000,0000,0000,,Es que no se suponía\Nque mi vida fuera a ser así.
+Dialogue: 0,0:18:45.40,0:18:48.05,Gen_Main,Saori,0000,0000,0000,,Nos mudamos al campo\Nen segundo de secundaria.
+Dialogue: 0,0:18:48.25,0:18:49.57,Gen_Main,Jefa de Saori,0000,0000,0000,,¿Por trabajo de tu padre?
+Dialogue: 0,0:18:49.78,0:18:54.13,Gen_Main,Saori,0000,0000,0000,,No, mi madre está loca por esas cosas\Nde lo orgánico y lo espiritual.
+Dialogue: 0,0:18:54.33,0:18:56.39,Gen_Main,Jefa de Saori,0000,0000,0000,,Más o menos ya me lo imaginé.
+Dialogue: 0,0:18:58.73,0:19:02.99,Gen_Main,Saori,0000,0000,0000,,Y ahí conocí a dos niñas\Nsiete años menores que yo.
+Dialogue: 0,0:19:03.19,0:19:07.09,Gen_Main,Saori,0000,0000,0000,,En especial la que se llamaba Nobara\Nme tomó mucho cariño.
+Dialogue: 0,0:19:09.49,0:19:11.55,Gen_Main,Saori,0000,0000,0000,,Como yo soy hija única,
+Dialogue: 0,0:19:11.75,0:19:14.89,Gen_Main,Saori,0000,0000,0000,,ella me parecía muy linda y adorable.
+Dialogue: 0,0:19:15.09,0:19:18.26,Gen_Main,Saori,0000,0000,0000,,Como quería que me quisiera,\Nme las daba muy de hermana mayor.
+Dialogue: 0,0:19:23.49,0:19:26.00,Gen_Main,Saori,0000,0000,0000,,Les servía té negro cuando me visitaban.
+Dialogue: 0,0:19:27.32,0:19:29.54,Gen_Main,Saori,0000,0000,0000,,A unas niñas de seis años, ¿usted cree?
+Dialogue: 0,0:19:30.49,0:19:31.91,Gen_Main,Jefa de Saori,0000,0000,0000,,Qué lindas.
+Dialogue: 0,0:19:35.59,0:19:38.84,Gen_Main,Saori,0000,0000,0000,,No les pasé mi contacto.
+Dialogue: 0,0:19:39.65,0:19:42.42,Gen_Main,Saori,0000,0000,0000,,Tenía miedo de que nos distanciáramos\Ncon el tiempo.
+Dialogue: 0,0:19:44.66,0:19:48.37,Gen_Main,Saori,0000,0000,0000,,El día que me fui de esa aldea,\Nella no paraba de llorar y gritar.
+Dialogue: 0,0:19:49.83,0:19:51.29,Gen_Main,Saori,0000,0000,0000,,Pero…
+Dialogue: 0,0:19:51.61,0:19:55.84,Gen_Main,Saori,0000,0000,0000,,si me viera ahora mismo, me imagino\Nque de seguro se decepcionaría.
+Dialogue: 0,0:20:00.29,0:20:02.68,Gen_Main,Saori,0000,0000,0000,,Me pregunto cómo estará\Nla pequeña Nobara.
+Dialogue: 0,0:20:03.57,0:20:05.92,Gen_Main,Saori,0000,0000,0000,,¿Dónde estará?\N¿Qué estará haciendo ahora?
+Dialogue: 0,0:20:13.71,0:20:17.75,Gen_Italics,Nobara,0000,0000,0000,,"Todos los habitantes de ese pueblo\Nestán mal de la cabeza".
+Dialogue: 0,0:20:18.39,0:20:20.32,Gen_Italics,Nobara,0000,0000,0000,,Ya sé que eso no es cierto.
+Dialogue: 0,0:20:20.93,0:20:23.86,Gen_Italics,Nobara,0000,0000,0000,,Pero la voz de los imbéciles\Nopaca a los demás,
+Dialogue: 0,0:20:24.06,0:20:26.63,Gen_Italics,Nobara,0000,0000,0000,,haciendo parecer que todos son así,
+Dialogue: 0,0:20:26.99,0:20:30.32,Gen_Italics,Nobara,0000,0000,0000,,como si entraran a la vida de los demás\Npisoteándolo todo.
+Dialogue: 0,0:20:38.26,0:20:41.24,Gen_Main,Nobara,0000,0000,0000,,Bueno, tampoco fue así, ¿verdad?
+Dialogue: 0,0:21:03.83,0:21:05.51,Gen_Main,Nobara,0000,0000,0000,,Perdóname, Fumi,
+Dialogue: 0,0:21:09.70,0:21:12.54,Gen_Main,Nobara,0000,0000,0000,,por no poder cumplir nuestra promesa.
+Dialogue: 0,0:21:19.10,0:21:22.36,Gen_Main,Nobara,0000,0000,0000,,Itadori, diles a todos
+Dialogue: 0,0:21:24.85,0:21:26.73,Gen_Main,Nobara,0000,0000,0000,,que no estuvo tan mal.
+Dialogue: 0,0:21:52.73,0:21:54.13,Gen_Main,Yuji,0000,0000,0000,,Kugisaki…
+Dialogue: 0,0:23:22.17,0:23:24.09,Cart_A_Tre,,0000,0000,0000,,{\b0\fs20\bord1.5\be1\3c&H161622&}Traducción: Abraham Gayuvas y Antonio Valdez\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:25.57,0:23:27.88,Gen_Italics,Nobara,0000,0000,0000,,Al llegar a la estación de Tokio,
+Dialogue: 0,0:23:28.08,0:23:32.20,Gen_Italics,Nobara,0000,0000,0000,,me desagradó la sensación como de estar\Ndetrás del tubo de escape de un camión,
+Dialogue: 0,0:23:32.40,0:23:34.73,Gen_Italics,Nobara,0000,0000,0000,,aunque ahora ya no me incomoda\Npara nada.
+Dialogue: 0,0:23:34.93,0:23:37.09,Gen_Main,Nobara,0000,0000,0000,,"Lo correcto y lo incorrecto,\Nparte tres".
+Dialogue: 0,0:23:34.93,0:23:39.93,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord2.5\blur3}Próximo episodio\N\N\N\N\N\N\N\N\N\N\N{\q2\fs30}Lo correcto y lo incorrecto, parte tres
+Dialogue: 0,0:23:37.30,0:23:39.59,Gen_Main,Nobara,0000,0000,0000,,Al final, una vida algo sucia\Nes lo mejor.
+

@@ -1,0 +1,289 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:25.27,0:00:27.08,Gen_Main,Riko,0000,0000,0000,,Un mensaje de Kuroi.
+Dialogue: 0,0:00:29.33,0:00:31.09,Gen_Main,Riko,0000,0000,0000,,¿Qué vamos a hacer?
+Dialogue: 0,0:00:31.65,0:00:33.05,Gen_Main,Riko,0000,0000,0000,,¡Está en apuros!
+Dialogue: 0,0:00:33.53,0:00:34.88,Gen_Main,Riko,0000,0000,0000,,¡Kuroi está en apuros!
+Dialogue: 0,0:00:37.19,0:00:39.39,Gen_Main,Kuroi,0000,0000,0000,,Puede ocurrir un imprevisto.
+Dialogue: 0,0:00:39.66,0:00:41.39,Gen_Main,Kuroi,0000,0000,0000,,Señor Geto, usted es más rápido.
+Dialogue: 0,0:00:41.59,0:00:43.59,Gen_Main,Kuroi,0000,0000,0000,,¡Así que vaya antes con la señorita!
+Dialogue: 0,0:00:46.65,0:00:49.32,Gen_Main,Geto,0000,0000,0000,,Lo siento. Fue mi error.
+Dialogue: 0,0:00:49.53,0:00:52.86,Gen_Main,Gojo,0000,0000,0000,,¿Tú crees? No es un error tan grave.
+Dialogue: 0,0:00:53.06,0:00:56.57,Gen_Main,Geto,0000,0000,0000,,No tomé en cuenta el valor\Nque tiene Kuroi para el enemigo.
+Dialogue: 0,0:00:57.01,0:01:01.08,Gen_Main,Gojo,0000,0000,0000,,El siguiente movimiento del enemigo\Nserá proponer un intercambio de rehenes.
+Dialogue: 0,0:01:01.40,0:01:03.69,Gen_Main,Gojo,0000,0000,0000,,Pedirán un intercambio\Nentre Amanai y Kuroi.
+Dialogue: 0,0:01:03.89,0:01:06.97,Gen_Main,Gojo,0000,0000,0000,,O amenazarán con ejecutar a Kuroi\Nsi no matamos a la chica.
+Dialogue: 0,0:01:07.94,0:01:11.52,Gen_Main,Gojo,0000,0000,0000,,Pero la ventaja es nuestra\Nporque tenemos a Amanai.
+Dialogue: 0,0:01:12.29,0:01:16.59,Gen_Main,Gojo,0000,0000,0000,,Si podemos acordar un lugar para el\Ntrato, nos será fácil darle la vuelta.
+Dialogue: 0,0:01:17.23,0:01:19.68,Gen_Main,Gojo,0000,0000,0000,,Llevemos a la niña\Na la Escuela de Brujería.
+Dialogue: 0,0:01:19.88,0:01:23.23,Gen_Main,Gojo,0000,0000,0000,,-Y le pedimos a Shoko que sea su doble…\N-¡Un momento!
+Dialogue: 0,0:01:24.03,0:01:27.77,Gen_Main,Riko,0000,0000,0000,,¡Yo también iré al lugar del trato!\N¡Todavía no confío en ustedes!
+Dialogue: 0,0:01:27.97,0:01:30.36,Gen_Main,Gojo,0000,0000,0000,,¿Qué? ¿Otra vez sales con eso, mocosa?
+Dialogue: 0,0:01:30.56,0:01:32.39,Gen_Main,Riko,0000,0000,0000,,Aun si pudieran rescatarla,
+Dialogue: 0,0:01:33.51,0:01:37.60,Gen_Main,Riko,0000,0000,0000,,si ella no llegara a tiempo\Nantes de la fusión con el señor Tengen…
+Dialogue: 0,0:01:38.79,0:01:40.05,Gen_Main,Riko,0000,0000,0000,,Todavía…
+Dialogue: 0,0:01:43.22,0:01:45.12,Gen_Main,Riko,0000,0000,0000,,no me he despedido de ella.
+Dialogue: 0,0:01:56.17,0:01:59.09,Gen_Main,Gojo,0000,0000,0000,,El secuestrador debe comunicarse\Nen cualquier momento.
+Dialogue: 0,0:01:59.80,0:02:02.67,Gen_Main,Gojo,0000,0000,0000,,Pero en caso de que sean\Nmás astutos de lo que creemos,
+Dialogue: 0,0:02:02.87,0:02:07.41,Gen_Main,Gojo,0000,0000,0000,,o las probabilidades de supervivencia\Nde Kuroi se reduzcan por tu presencia,
+Dialogue: 0,0:02:11.17,0:02:13.42,Gen_Main,Gojo,0000,0000,0000,,te dejaremos atrás antes de ir al sitio.
+Dialogue: 0,0:02:21.29,0:02:24.06,Gen_Main,Riko,0000,0000,0000,,De acuerdo. Así está bien.
+Dialogue: 0,0:02:25.02,0:02:30.39,Gen_Main,Gojo,0000,0000,0000,,O si a la mitad te entra el pavor y te\Ndan ganas de ir a casa, te ignoraremos.
+Dialogue: 0,0:02:31.41,0:02:33.05,Gen_Main,Gojo,0000,0000,0000,,Prepárate para lo que sigue.
+Dialogue: 0,0:02:38.44,0:02:41.26,Gen_Main,Riko/Gojo,0000,0000,0000,,¡{\i1}Mensore{\i0}, como dicen en Okinawa!
+Dialogue: 0,0:02:45.26,0:02:48.02,Cart_C_Tim,,0000,0000,0000,,{\fnComic Sans MS\fscx80\c&H313431&\fs28\pos(320,268.25)}Segundo día de escolta
+Dialogue: 0,0:02:48.02,0:02:51.02,Cart_A_Tim,,0000,0000,0000,,{\fs40}Okinawa
+Dialogue: 0,0:02:51.02,0:02:54.02,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)}Episodio 27\N\N\N\N\N\N\N\N\N\N\N{\fs30}El tesoro escondido - Parte 3 -
+Dialogue: 0,0:03:03.16,0:03:08.16,Cart_Serieslogo,,0000,0000,0000,,{\fad(600,800)\fs28\3c&H9EF2FA&\move(320,47.64,320,48.85,20,4983)}{\t(0,5050,\fs-0.3)}JUJUTSU KAISEN{\fscy100}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\bord0}Hidden Inventory • Premature Death
+Dialogue: 0,0:04:29.48,0:04:33.96,Gen_Main,Kuroi,0000,0000,0000,,No pensé que un creyente no hechicero\Nde la secta pudiera contra mí.
+Dialogue: 0,0:04:34.41,0:04:36.46,Gen_Main,Kuroi,0000,0000,0000,,Me siento tan humillada.
+Dialogue: 0,0:04:36.66,0:04:38.95,Gen_Main,Geto,0000,0000,0000,,No puede estar atenta en todo momento.
+Dialogue: 0,0:04:39.15,0:04:40.96,Gen_Main,Geto,0000,0000,0000,,También fue mi culpa.
+Dialogue: 0,0:04:41.47,0:04:44.64,Gen_Main,Kuroi,0000,0000,0000,,¿En serio habrá sido un descuido?
+Dialogue: 0,0:04:46.14,0:04:50.31,Gen_Main,Kuroi,0000,0000,0000,,Después del incidente con Q,\Nse suponía que estaba en máxima alerta.
+Dialogue: 0,0:04:51.18,0:04:52.47,Gen_Main,Riko,0000,0000,0000,,¡Kuroi!
+Dialogue: 0,0:04:54.28,0:04:57.44,Gen_Main,Kuroi,0000,0000,0000,,No recuerdo para nada el momento\Ncuando me atacaron.
+Dialogue: 0,0:04:58.12,0:05:00.70,Gen_Main,Kuroi,0000,0000,0000,,Por cierto, vinieron en avión, ¿verdad?
+Dialogue: 0,0:05:00.90,0:05:03.94,Gen_Main,Kuroi,0000,0000,0000,,¿No tuvieron problemas?\N¿No los atacaron mientras volaban?
+Dialogue: 0,0:05:04.21,0:05:06.06,Gen_Main,Geto,0000,0000,0000,,Satoru tiene muy buena vista.
+Dialogue: 0,0:05:07.62,0:05:10.46,Gen_Main,Geto,0000,0000,0000,,Antes de despegar,\Nrevisó a todos los pasajeros
+Dialogue: 0,0:05:12.01,0:05:14.13,Gen_Main,Geto,0000,0000,0000,,y el interior del avión.
+Dialogue: 0,0:05:14.98,0:05:18.40,Gen_Main,Geto,0000,0000,0000,,Y una de mis maldiciones\Nvigilaba el exterior durante el vuelo.
+Dialogue: 0,0:05:20.53,0:05:22.96,Gen_Main,Geto,0000,0000,0000,,Fue mucho más seguro\Nque viajar por tierra.
+Dialogue: 0,0:05:24.52,0:05:29.64,Gen_Main,Geto,0000,0000,0000,,A mí lo que me preocupa es que los\Nsecuestradores hayan elegido Okinawa.
+Dialogue: 0,0:05:29.94,0:05:32.14,Gen_Main,Kuroi,0000,0000,0000,,¿No sería para ganar tiempo?
+Dialogue: 1,0:05:32.14,0:05:37.14,Cart_C_Tim,,0000,0000,0000,,{\pos(477.25,20)}Resumen del viaje
+Dialogue: 1,0:05:32.14,0:05:37.14,Cart_C_Tim,,0000,0000,0000,,{\fs12\an7\pos(347,45.5)\u1}Primer día:{\u0}\N13:30, secuestro de Kuroi.\N21:00, el secuestrador propone que el intercambio\Nse haga en Okinawa.\N\N{\u1}Segundo día:{\u0}\N09:00, Gojo, Geto y Amanai llegamos a Okinawa.\N11:00, salvamos a Kuroi y aprehendemos al secuestrador.\N12:00, terminamos el interrogatorio.\N13:00, hora de recreación en la playa.\N15:00, salida de Okinawa.\N18:00, llegada a Tokio y resguardo\Nen la Escuela de Brujería.\N\N{\u1}Tercer día:{\u0}\N11:00, se termina el plazo de la recompensa por Amanai.\NAmanai se fusiona con el señor Tengen a la puesta del sol.\NFinaliza la escolta.
+Dialogue: 1,0:05:32.14,0:05:37.15,Cart_A_Tre,,0000,0000,0000,,{\an7\p1\bord2\alpha&H50&\pos(337.16,12.28)}m 0 0 l 290 0 290 260 0 260{\p0}
+Dialogue: 0,0:05:32.65,0:05:37.14,Gen_Main,Kuroi,0000,0000,0000,,Para que lleguemos tarde a la luna llena\Nde mañana en caso de que siga viva.
+Dialogue: 1,0:05:37.14,0:05:42.11,Cart_C_Tim,,0000,0000,0000,,{\fs24\an9\pos(613.75,39.25)}Amanai se fusiona\Ncon el señor Tengen\Na la puesta del sol.\NFinaliza la escolta.
+Dialogue: 0,0:05:37.15,0:05:42.11,Cart_A_Tre,,0000,0000,0000,,{\an7\p1\bord2\alpha&H50&\pos(426.66,12.28)}m 0 0 l 200 0 200 160 0 160{\p0}
+Dialogue: 0,0:05:37.45,0:05:42.11,Gen_Main,Geto,0000,0000,0000,,Para eso habrían escogido un lugar en\Nel campo con pocos medios de transporte.
+Dialogue: 0,0:05:42.33,0:05:45.41,Gen_Main,Kuroi,0000,0000,0000,,¿Acaso no querrán ocupar el aeropuerto?
+Dialogue: 0,0:05:45.61,0:05:48.11,Gen_Main,Geto,0000,0000,0000,,Existe esa posibilidad.\NPero no hay problema.
+Dialogue: 1,0:05:48.57,0:05:51.60,Gen_Main,Geto,0000,0000,0000,,No somos los únicos\Nque vinimos a Okinawa.
+Dialogue: 0,0:05:49.53,0:05:52.12,Cart_A_Verd,Building,0000,0000,0000,,{\bord.25\c&HBFC3C0&\4c&H636664&\shad1\b1\fay.18\fs18\frx6\fry14\move(320,360,320,170)}Aeropuerto de Naha
+Dialogue: 0,0:05:49.53,0:05:52.12,Cart_A_Verd,Building,0000,0000,0000,,{\bord.25\c&HBFC3C0&\4c&H636664&\shad1\b1\fay.19\fs18\frx6\fry14\move(524,396,524,208)}Vuelos nacionales
+Dialogue: 1,0:05:53.57,0:05:57.79,Gen_Main,Nanami,0000,0000,0000,,Por más que lo pienso, no me parece que\Nsea una misión para alguien de primero.
+Dialogue: 0,0:05:54.83,0:05:57.80,Cart_C_Tre,,0000,0000,0000,,{\an7\p1\bord0\3c&HA4A09F&\pos(83.36,104.86)\fscx102\fscy107\c&HF7FAF8&}m 0 0 l 130 0 130 180 0 180{\p0}
+Dialogue: 1,0:05:54.83,0:05:57.80,Cart_C_Tim,,0000,0000,0000,,{\an7\fs14\fscx90\bord0\pos(74.1,204.62)}Estudiante de primer año\Nde la Escuela Técnica\Nde Brujería
+Dialogue: 1,0:05:54.83,0:05:57.80,Cart_C_Tim,,0000,0000,0000,,{\fs44\fscx\bord0\pos(145.56,100)}Kento\NNanami
+Dialogue: 0,0:05:57.80,0:06:02.63,Cart_C_Tre,,0000,0000,0000,,{\an7\p1\bord0\3c&HA4A09F&\fscx102\fscy107\c&HF7FAF8&\pos(460.36,104.86)}m 0 0 l 130 0 130 180 0 180{\p0}
+Dialogue: 1,0:05:57.80,0:06:02.63,Cart_C_Tim,,0000,0000,0000,,{\an7\fs14\fscx90\bord0\pos(451.1,204.62)}Estudiante de primer año\Nde la Escuela Técnica\Nde Brujería
+Dialogue: 1,0:05:57.80,0:06:02.63,Cart_C_Tim,,0000,0000,0000,,{\fs44\fscx\bord0\pos(522.56,100)}Yu\NHaibara
+Dialogue: 0,0:05:57.99,0:05:59.90,Gen_Main,Haibara,0000,0000,0000,,¡Pues yo ando bien motivado!
+Dialogue: 1,0:06:00.10,0:06:02.63,Gen_Main,Haibara,0000,0000,0000,,¡Tengo muchas ganas\Nde impresionar a Geto!
+Dialogue: 0,0:06:02.86,0:06:07.95,Gen_Main,Haibara,0000,0000,0000,,Ambos están dando su mejor esfuerzo\Npara proteger a una adorable jovencita.
+Dialogue: 0,0:06:08.15,0:06:10.77,Gen_Main,Haibara,0000,0000,0000,,¡Nosotros también\Ntenemos que hacer lo mismo!
+Dialogue: 0,0:06:11.37,0:06:15.37,Gen_Main,Nanami,0000,0000,0000,,Sería una pena que todo fuera en vano\Nsi cerraran el aeropuerto por un tifón.
+Dialogue: 0,0:06:16.85,0:06:19.35,Cart_A_Verd,Screen,0000,0000,0000,,{\p1\an5\c&HF2F7F4&\bord0\shad0\be2\\fscx93\fscy105\move(547.25,251.75,544,260.75,26,2487)}m 0 0 l 120 0 l 120 146 l 0 146
+Dialogue: 1,0:06:16.85,0:06:19.35,Cart_C_Verd,Screen,0000,0000,0000,,{\fnComic Sans MS\c&H292D28&\bord0\fs19\shad0\an5\pos(545.25,252.5)}El de segundo\Nque está dando\Nsu mejor esfuerzo.
+Dialogue: 0,0:06:17.91,0:06:19.35,Gen_Main,Gojo,0000,0000,0000,,¡Es un mojón de mar!
+Dialogue: 0,0:06:19.54,0:06:21.96,Gen_Main,Riko,0000,0000,0000,,¡Qué asco! ¡Qué desagradable criatura!
+Dialogue: 0,0:06:23.46,0:06:25.66,Gen_Main,Kuroi,0000,0000,0000,,¿No hay problema con que nos divirtamos?
+Dialogue: 0,0:06:25.86,0:06:27.98,Gen_Main,Geto,0000,0000,0000,,Satoru fue el que lo propuso.
+Dialogue: 0,0:06:28.63,0:06:31.82,Gen_Main,Geto,0000,0000,0000,,Él a su manera lo hizo pensando en ella.
+Dialogue: 0,0:06:32.76,0:06:34.25,Gen_Main,Geto,0000,0000,0000,,Pero ya es hora.
+Dialogue: 0,0:06:35.11,0:06:36.84,Gen_Main,Geto,0000,0000,0000,,¡Satoru, ya vámonos!
+Dialogue: 0,0:06:37.04,0:06:39.20,Gen_Main,Gojo,0000,0000,0000,,Ah, ¿ya es tan tarde?
+Dialogue: 0,0:06:44.98,0:06:48.01,Gen_Main,Gojo,0000,0000,0000,,Suguru, volvamos a Tokio\Nmañana en la mañana.
+Dialogue: 0,0:06:50.34,0:06:51.58,Gen_Main,Geto,0000,0000,0000,,Pero…
+Dialogue: 0,0:06:51.78,0:06:53.84,Gen_Main,Gojo,0000,0000,0000,,Mañana también estará despejado.
+Dialogue: 0,0:06:55.09,0:06:58.77,Gen_Main,Gojo,0000,0000,0000,,Además, a comparación de Tokio,\Nen Okinawa,
+Dialogue: 0,0:06:58.77,0:07:03.31,Cart_C_Tre,Screen,0000,0000,0000,,{\fad(175,0)\an8\fnTimes New Roman\b1\c&H191C19&\move(576,55,562,55,191,4527)\bord0\shad0}Hechiceros\Nmaldosos
+Dialogue: 0,0:06:59.21,0:07:00.73,Gen_Main,Gojo,0000,0000,0000,,hay menos hechiceros maldosos.
+Dialogue: 0,0:07:00.93,0:07:03.31,Gen_Main,Geto,0000,0000,0000,,A veces no sé si hablas en serio o no.
+Dialogue: 0,0:07:04.15,0:07:07.90,Gen_Main,Gojo,0000,0000,0000,,Es mejor que el tiempo límite de\Nla recompensa se acabe durante el vuelo.
+Dialogue: 0,0:07:08.68,0:07:09.83,Gen_Main,Geto,0000,0000,0000,,Satoru,
+Dialogue: 0,0:07:10.18,0:07:12.82,Gen_Main,Geto,0000,0000,0000,,no has desactivado tu técnica ritual\Ndesde ayer.
+Dialogue: 0,0:07:13.08,0:07:16.33,Gen_Main,Geto,0000,0000,0000,,Tienes que descansar.\NEsta noche no piensas dormir, ¿verdad?
+Dialogue: 0,0:07:16.66,0:07:19.77,Gen_Main,Geto,0000,0000,0000,,¿No hay problema si no regresamos\Na la Escuela de Brujería?
+Dialogue: 0,0:07:21.83,0:07:23.63,Gen_Main,Gojo,0000,0000,0000,,Claro que no lo hay.
+Dialogue: 0,0:07:23.83,0:07:27.48,Gen_Main,Gojo,0000,0000,0000,,Fue mucho más pesado cuando\Nnos desvelamos jugando videojuegos, ¿no?
+Dialogue: 0,0:07:28.99,0:07:31.84,Gen_Main,Gojo,0000,0000,0000,,Además, tú estás aquí conmigo.
+Dialogue: 0,0:07:38.34,0:07:41.09,Gen_Main,Haibara,0000,0000,0000,,Nanami,\Ndicen que nos vamos a quedar otro día.
+Dialogue: 0,0:07:41.29,0:07:42.96,Gen_Main,Haibara,0000,0000,0000,,¿Habrá pasado algo?
+Dialogue: 0,0:09:29.71,0:09:31.96,Cart_A_Tim,,0000,0000,0000,,{\bord0\pos(320,128.75)\fs24\fscx80}Escuela de Bachillerato Técnico de Brujería de Tokio\N\N\N\N\N\NBase de la montaña Mushiro
+Dialogue: 0,0:09:33.46,0:09:38.22,Cart_A_Tim,,0000,0000,0000,,{\bord0\fs24\fscx80\pos(320,123.25)}15:00, tercer día de escolta
+Dialogue: 0,0:09:36.23,0:09:38.22,Gen_Main,Geto,0000,0000,0000,,Chicos, fue toda una odisea,
+Dialogue: 0,0:09:40.39,0:09:42.81,Gen_Main,Geto,0000,0000,0000,,pero ya estamos\Nen la barrera de la escuela.
+Dialogue: 0,0:09:44.17,0:09:45.92,Gen_Main,Riko,0000,0000,0000,,Ya podemos relajarnos un poco.
+Dialogue: 0,0:09:46.12,0:09:47.27,Gen_Main,Kuroi,0000,0000,0000,,Tiene razón.
+Dialogue: 0,0:09:49.31,0:09:50.48,Gen_Main,Geto,0000,0000,0000,,Satoru,
+Dialogue: 0,0:09:52.11,0:09:54.03,Gen_Main,Geto,0000,0000,0000,,debes estar agotado, ¿verdad?
+Dialogue: 0,0:09:57.47,0:10:00.64,Gen_Main,Gojo,0000,0000,0000,,Nunca más voy a trabajar de niñero\Nde una mocosa malcriada.
+Dialogue: 0,0:10:10.45,0:10:11.62,Gen_Italics,Geto,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:10:12.09,0:10:15.90,Gen_Italics,Geto,0000,0000,0000,,¡Este es el interior\Nde la barrera de la Escuela de Brujería!
+Dialogue: 0,0:10:16.61,0:10:20.01,Gen_Main,Gojo,0000,0000,0000,,Oye, tú,\N¿no te he visto antes en algún lado?
+Dialogue: 0,0:10:20.23,0:10:22.94,Gen_Main,Toji,0000,0000,0000,,No te preocupes. Yo tampoco soy bueno
+Dialogue: 0,0:10:23.26,0:10:26.02,Gen_Main,Toji,0000,0000,0000,,recordando nombres de hombres.
+Dialogue: 0,0:10:29.27,0:10:31.03,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:10:34.40,0:10:37.39,Gen_Italics,Toji,0000,0000,0000,,Una vez se me ocurrió\Nvisitar el clan Gojo por curiosidad
+Dialogue: 0,0:10:37.59,0:10:40.33,Gen_Italics,Toji,0000,0000,0000,,para ver al muchacho\Nque nació con los Seis Ojos.
+Dialogue: 0,0:11:00.07,0:11:01.89,Gen_Italics,Toji,0000,0000,0000,,Fue la única vez en toda mi vida
+Dialogue: 0,0:11:02.20,0:11:06.26,Gen_Italics,Toji,0000,0000,0000,,que alguien notó mi presencia a sus\Nespaldas y se volteó a ver con sospecha.
+Dialogue: 0,0:11:07.22,0:11:09.26,Gen_Italics,Toji,0000,0000,0000,,Por eso manipulé todo para diezmarlo.
+Dialogue: 0,0:11:14.15,0:11:16.13,Gen_Italics,Toji,0000,0000,0000,,Hasta que bajara la guardia.
+Dialogue: 0,0:11:26.24,0:11:27.43,Gen_Main,Geto,0000,0000,0000,,¡Satoru!
+Dialogue: 0,0:11:28.75,0:11:30.18,Gen_Main,Gojo,0000,0000,0000,,No hay ningún problema.
+Dialogue: 0,0:11:30.43,0:11:33.71,Gen_Main,Gojo,0000,0000,0000,,No activé a tiempo mi ritual,\Npero no me dio en un órgano vital.
+Dialogue: 0,0:11:34.21,0:11:38.24,Gen_Main,Gojo,0000,0000,0000,,Reforcé mi cuerpo con poder maldito,\Nasí que la hoja no hizo ningún daño.
+Dialogue: 0,0:11:38.94,0:11:42.94,Gen_Main,Gojo,0000,0000,0000,,Fue como si un alfiler pasara\Npor un suéter tejido de estambre.
+Dialogue: 0,0:11:43.43,0:11:45.10,Gen_Main,Gojo,0000,0000,0000,,En serio, no hay problema.
+Dialogue: 0,0:11:45.42,0:11:47.85,Gen_Main,Gojo,0000,0000,0000,,Además, Amanai es la prioridad.
+Dialogue: 0,0:11:48.18,0:11:50.37,Gen_Main,Gojo,0000,0000,0000,,Yo me encargaré de lidiar con él.
+Dialogue: 0,0:11:51.02,0:11:54.86,Gen_Main,Gojo,0000,0000,0000,,Ustedes adelántense\Nal lugar del señor Tengen.
+Dialogue: 0,0:11:56.10,0:11:57.37,Gen_Main,Geto,0000,0000,0000,,Satoru…
+Dialogue: 0,0:12:03.07,0:12:04.67,Gen_Main,Geto,0000,0000,0000,,No vayas a cometer un descuido.
+Dialogue: 0,0:12:04.87,0:12:06.99,Gen_Main,Geto/Kuroi,0000,0000,0000,,-Vámonos, en marcha.\N-¡Sí!
+Dialogue: 0,0:12:08.27,0:12:10.00,Gen_Main,Gojo,0000,0000,0000,,¿Quién carajos crees que soy?
+Dialogue: 0,0:12:17.17,0:12:20.38,Gen_Italics,Gojo,0000,0000,0000,,Es una espada diferente\Na la que usó para atravesarme.
+Dialogue: 0,0:12:20.66,0:12:23.26,Gen_Italics,Gojo,0000,0000,0000,,¿Y de dónde salió ese espíritu maldito?
+Dialogue: 0,0:12:23.64,0:12:26.26,Gen_Italics,Gojo,0000,0000,0000,,Este tipo es un completo misterio.\N¡Maldita sea!
+Dialogue: 0,0:12:26.70,0:12:28.95,Gen_Main,Toji,0000,0000,0000,,Ya no veo al Cuerpo del Plasma Estelar.
+Dialogue: 0,0:12:29.51,0:12:33.79,Gen_Main,Toji,0000,0000,0000,,Me hubiera gustado acabar contigo\Ncon ese ataque. ¿Ya me habré oxidado?
+Dialogue: 0,0:12:33.99,0:12:37.27,Gen_Main,Gojo,0000,0000,0000,,Ya se canceló la recompensa\Nsobre Amanai, pedazo de imbécil.
+Dialogue: 0,0:12:37.54,0:12:40.28,Gen_Main,Toji,0000,0000,0000,,Yo fui el que la canceló,\Nmocoso insolente.
+Dialogue: 0,0:12:40.79,0:12:46.64,Gen_Main,Toji,0000,0000,0000,,Se trata a los que andan alerta como tú\Nimponiéndoles un ritmo con metas falsas.
+Dialogue: 0,0:12:47.03,0:12:51.33,Gen_Main,Toji,0000,0000,0000,,Fue muy divertida la escena con los de\Nla Secta del Manto Estelar en Okinawa.
+Dialogue: 0,0:12:51.53,0:12:55.01,Gen_Main,Toji,0000,0000,0000,,Me pareció una mierda que ninguno\Nde tus compañeros hubiera muerto.
+Dialogue: 0,0:12:55.21,0:12:57.67,Gen_Main,Toji,0000,0000,0000,,Pero sin el tiempo límite\Nde la recompensa,
+Dialogue: 0,0:12:58.54,0:13:02.18,Gen_Main,Toji,0000,0000,0000,,no habrías desactivado tu técnica ritual\Nhasta el final.
+Dialogue: 0,0:13:02.77,0:13:04.59,Gen_Main,Gojo,0000,0000,0000,,No me digas.
+Dialogue: 0,0:13:09.77,0:13:12.89,Gen_Italics,Gojo,0000,0000,0000,,No es solo su gran velocidad.
+Dialogue: 0,0:13:13.15,0:13:15.89,Gen_Italics,Gojo,0000,0000,0000,,Desde el principio,\Neste me pareció muy extraño.
+Dialogue: 0,0:13:16.13,0:13:17.90,Gen_Italics,Gojo,0000,0000,0000,,No genera nada de poder maldito.
+Dialogue: 0,0:13:18.15,0:13:21.53,Gen_Italics,Gojo,0000,0000,0000,,Es un superdotado físicamente\Npor el hechizo de atadura celestial.
+Dialogue: 0,0:13:53.79,0:13:57.31,Gen_Italics,Gojo,0000,0000,0000,,No creo que un tipo que conoce\Nmi técnica ritual no tenga un plan.
+Dialogue: 0,0:13:57.85,0:13:59.81,Gen_Main,Gojo,0000,0000,0000,,¿Es acaso un arma mágica legendaria?
+Dialogue: 0,0:14:00.01,0:14:02.60,Gen_Main,Gojo,0000,0000,0000,,Perdón.\NNo dejaré que te me acerques con eso.
+Dialogue: 0,0:14:17.54,0:14:20.11,Gen_Italics,Gojo,0000,0000,0000,,No puedo detectarlo\Npor la falta de poder maldito.
+Dialogue: 0,0:14:20.31,0:14:23.37,Gen_Italics,Gojo,0000,0000,0000,,Tengo que confiar en mis sentidos.\NNo, claro que no.
+Dialogue: 0,0:14:23.72,0:14:25.82,Gen_Italics,Gojo,0000,0000,0000,,Lo que tengo que hacer es localizar
+Dialogue: 0,0:14:26.37,0:14:28.64,Gen_Italics,Gojo,0000,0000,0000,,al espíritu maldito que trae enrollado.
+Dialogue: 0,0:14:30.22,0:14:31.93,Gen_Italics,Gojo,0000,0000,0000,,No puedo creer
+Dialogue: 0,0:14:32.64,0:14:34.15,Gen_Italics,Gojo,0000,0000,0000,,lo rápido que es.
+Dialogue: 0,0:14:34.69,0:14:36.56,Gen_Main,Gojo,0000,0000,0000,,Rotación del ritual
+Dialogue: 0,0:14:37.22,0:14:38.97,Gen_Main,Gojo,0000,0000,0000,,a la máxima potencia.
+Dialogue: 0,0:14:44.47,0:14:45.70,Gen_Main,Gojo,0000,0000,0000,,¡Azul!
+Dialogue: 0,0:15:00.21,0:15:02.08,Gen_Main,Gojo,0000,0000,0000,,Ya no hay nada que me estorbe.
+Dialogue: 0,0:15:02.28,0:15:05.46,Gen_Main,Gojo,0000,0000,0000,,Ya no podrá atacar por sorpresa.\NSe ocultó en el bosque, ¿eh?
+Dialogue: 0,0:15:07.79,0:15:08.89,Gen_Italics,Gojo,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:15:10.22,0:15:11.38,Gen_Italics,Gojo,0000,0000,0000,,¿Cabezas de mosca?
+Dialogue: 0,0:15:15.98,0:15:18.52,Gen_Italics,Gojo,0000,0000,0000,,Las guardaba dentro\Nde aquel espíritu maldito.
+Dialogue: 0,0:15:18.78,0:15:21.27,Gen_Main,Gojo,0000,0000,0000,,Las usa como señuelo\Ny se oculta con ellas, ¿eh?
+Dialogue: 0,0:15:21.81,0:15:24.56,Gen_Italics,Gojo,0000,0000,0000,,Así no puedo ubicarlo para nada.
+Dialogue: 0,0:15:24.99,0:15:27.03,Gen_Italics,Gojo,0000,0000,0000,,Me creó varios puntos muertos.
+Dialogue: 0,0:15:27.21,0:15:28.87,Gen_Italics,Gojo,0000,0000,0000,,Voy a disparar Azul otra vez…
+Dialogue: 0,0:15:29.07,0:15:32.03,Gen_Italics,Gojo,0000,0000,0000,,No, espera. Su objetivo
+Dialogue: 0,0:15:32.23,0:15:33.37,Gen_Italics,Gojo,0000,0000,0000,,es Amanai.
+Dialogue: 0,0:15:39.96,0:15:42.58,Gen_Italics,Toji,0000,0000,0000,,Su percepción\Nme detecta aun con las manos vacías.
+Dialogue: 0,0:15:42.94,0:15:45.54,Gen_Italics,Toji,0000,0000,0000,,Es imposible que sus Seis Ojos\Nno vayan a detectar
+Dialogue: 0,0:15:45.93,0:15:48.77,Gen_Italics,Toji,0000,0000,0000,,el poder maldito anormal\Nque surge de esta arma mágica.
+Dialogue: 0,0:15:49.98,0:15:51.38,Gen_Italics,Toji,0000,0000,0000,,Pero al fin
+Dialogue: 0,0:15:54.61,0:15:57.56,Gen_Italics,Toji,0000,0000,0000,,está usando su técnica ritual\Nen modo de defensa.
+Dialogue: 0,0:16:30.30,0:16:33.47,Gen_Main,Toji,0000,0000,0000,,Arma mágica de grado especial:\NAmanosaka Hoko, Daga Celestial.
+Dialogue: 0,0:16:33.69,0:16:37.45,Gen_Main,Toji,0000,0000,0000,,Su efecto es desactivar\Na la fuerza técnicas rituales en uso.
+Dialogue: 0,0:16:38.37,0:16:39.81,Gen_Main,Toji,0000,0000,0000,,Ya me siento
+Dialogue: 0,0:16:43.07,0:16:45.16,Gen_Main,Toji,0000,0000,0000,,un poco más en forma.
+Dialogue: 0,0:17:23.74,0:17:25.08,Gen_Main,Kuroi,0000,0000,0000,,Señorita Riko,
+Dialogue: 0,0:17:26.44,0:17:28.52,Gen_Main,Kuroi,0000,0000,0000,,aquí dejo de acompañarla.
+Dialogue: 0,0:17:30.44,0:17:33.62,Gen_Main,Kuroi,0000,0000,0000,,Señorita Riko, por favor… ¡Por favor!
+Dialogue: 0,0:17:37.83,0:17:40.62,Gen_Main,Riko,0000,0000,0000,,Kuroi, te quiero mucho.
+Dialogue: 0,0:17:40.90,0:17:44.17,Gen_Main,Riko,0000,0000,0000,,¡Para siempre!\N¡Te voy a querer para siempre!
+Dialogue: 0,0:17:45.05,0:17:46.38,Gen_Main,Kuroi,0000,0000,0000,,Yo también…
+Dialogue: 0,0:17:46.91,0:17:49.06,Gen_Main,Kuroi,0000,0000,0000,,¡Yo también la quiero mucho!
+Dialogue: 0,0:18:10.83,0:18:13.19,Gen_Main,Riko/Geto,0000,0000,0000,,-¿Aquí es?\N-Sí.
+Dialogue: 0,0:18:13.50,0:18:16.04,Gen_Main,Geto,0000,0000,0000,,Los cimientos\Nde la barrera principal de Japón
+Dialogue: 0,0:18:17.14,0:18:19.32,Gen_Main,Geto,0000,0000,0000,,bajo el cuidado del señor Tengen.
+Dialogue: 0,0:18:20.12,0:18:22.55,Gen_Main,Geto,0000,0000,0000,,El centro\Ndel Santuario de la Muerte Estelar.
+Dialogue: 0,0:18:23.79,0:18:26.91,Gen_Main,Geto,0000,0000,0000,,Baja las escaleras, cruza el portal
+Dialogue: 0,0:18:27.11,0:18:29.58,Gen_Main,Geto,0000,0000,0000,,y ve hasta las raíces\Nde ese árbol enorme.
+Dialogue: 0,0:18:29.93,0:18:35.09,Gen_Main,Geto,0000,0000,0000,,Ahí estarás dentro de una barrera\Nespecial aparte de la de la escuela.
+Dialogue: 0,0:18:35.49,0:18:38.33,Gen_Main,Geto,0000,0000,0000,,Solo pueden entrar\Nquienes hayan sido invitados.
+Dialogue: 0,0:18:38.97,0:18:42.33,Gen_Main,Geto,0000,0000,0000,,El señor Tengen te protegerá\Nhasta que comience la fusión.
+Dialogue: 0,0:18:44.89,0:18:49.49,Gen_Main,Geto,0000,0000,0000,,¿O prefieres volver sobre tus pasos\Ny regresar a casa junto con Kuroi?
+Dialogue: 0,0:18:54.63,0:18:57.89,Gen_Main,Geto,0000,0000,0000,,Cuando nuestro maestro nos explicó\Nel objetivo de esta misión,
+Dialogue: 0,0:18:58.19,0:19:01.54,Gen_Main,Geto,0000,0000,0000,,llamó "eliminar"\Na la ceremonia de fusión,
+Dialogue: 0,0:19:02.22,0:19:05.99,Gen_Main,Geto,0000,0000,0000,,con la intención de que fuéramos\Nconscientes de la culpa que nos traería.
+Dialogue: 0,0:19:06.47,0:19:10.86,Gen_Main,Geto,0000,0000,0000,,El maestro tiene músculos en la cabeza,\Npero a menudo habla con indirectas.
+Dialogue: 0,0:19:15.02,0:19:19.05,Gen_Main,Geto,0000,0000,0000,,Satoru y yo ya lo teníamos decidido\Nantes de conocerte.
+Dialogue: 0,0:19:21.13,0:19:24.60,Gen_Main,Gojo,0000,0000,0000,,¿En caso de que el Cuerpo de Plasma\NEstelar rechace la fusión?
+Dialogue: 0,0:19:24.80,0:19:26.29,Gen_Main,Gojo,0000,0000,0000,,Si eso llega a pasar,
+Dialogue: 0,0:19:26.49,0:19:28.10,Gen_Main,Gojo,0000,0000,0000,,¡no se llevará a cabo la fusión!
+Dialogue: 0,0:19:29.61,0:19:31.60,Gen_Main,Geto/Gojo,0000,0000,0000,,-¿Estás seguro?\N-¿Qué?
+Dialogue: 0,0:19:31.98,0:19:35.61,Gen_Main,Geto,0000,0000,0000,,¿Sabes que tal vez terminaríamos\Nluchando contra el señor Tengen?
+Dialogue: 0,0:19:37.18,0:19:39.11,Gen_Main,Gojo,0000,0000,0000,,¿Te da miedo?
+Dialogue: 0,0:19:39.58,0:19:42.33,Gen_Main,Gojo,0000,0000,0000,,Todo iría bien.\NDe alguna forma saldríamos de esa.
+Dialogue: 0,0:19:43.16,0:19:45.87,Gen_Main,Geto,0000,0000,0000,,Nosotros dos somos\Nlos hechiceros más poderosos.
+Dialogue: 0,0:19:46.20,0:19:51.53,Gen_Main,Geto,0000,0000,0000,,No importa qué elijas, nos aseguraremos\Nde que ese futuro se cumpla.
+Dialogue: 0,0:19:55.70,0:19:57.17,Gen_Main,Riko,0000,0000,0000,,Yo…
+Dialogue: 0,0:19:57.78,0:19:59.98,Gen_Main,Riko,0000,0000,0000,,Desde que nací, siempre me decían
+Dialogue: 0,0:20:00.53,0:20:03.26,Gen_Main,Riko,0000,0000,0000,,que era especial y diferente a todos.
+Dialogue: 0,0:20:04.63,0:20:07.43,Gen_Main,Riko,0000,0000,0000,,Pero para mí esa vida especial\Nera lo normal.
+Dialogue: 0,0:20:07.98,0:20:11.94,Gen_Main,Riko,0000,0000,0000,,He vivido siempre evitando el peligro\Nlo más posible, esperando este día.
+Dialogue: 0,0:20:13.48,0:20:17.40,Gen_Main,Riko,0000,0000,0000,,No recuerdo el día\Nque mis padres murieron.
+Dialogue: 0,0:20:17.74,0:20:20.09,Gen_Main,Riko,0000,0000,0000,,No estoy triste ni me siento sola\Npor eso.
+Dialogue: 0,0:20:21.89,0:20:26.87,Gen_Main,Riko,0000,0000,0000,,Por eso creía que estaría bien aunque\Nme separara de todos luego de la fusión.
+Dialogue: 0,0:20:30.26,0:20:32.25,Gen_Main,Riko,0000,0000,0000,,No importaba todo lo que sufriera.
+Dialogue: 0,0:20:32.71,0:20:36.33,Gen_Main,Riko,0000,0000,0000,,Algún día ya no estaría triste ni sola.
+Dialogue: 0,0:20:38.03,0:20:39.17,Gen_Main,Riko,0000,0000,0000,,Pero…
+Dialogue: 0,0:20:39.96,0:20:41.13,Gen_Main,Riko,0000,0000,0000,,Pero…
+Dialogue: 0,0:20:41.63,0:20:42.97,Gen_Main,Riko,0000,0000,0000,,La verdad es que
+Dialogue: 0,0:20:43.89,0:20:46.57,Gen_Main,Riko,0000,0000,0000,,quiero estar más tiempo con todos.
+Dialogue: 0,0:20:46.99,0:20:50.69,Gen_Main,Riko,0000,0000,0000,,Quiero conocer más lugares
+Dialogue: 0,0:20:51.17,0:20:53.01,Gen_Main,Riko,0000,0000,0000,,y ver cosas nuevas con ustedes.
+Dialogue: 0,0:20:54.42,0:20:55.80,Gen_Main,Riko,0000,0000,0000,,¡Muchas más!
+Dialogue: 0,0:20:56.76,0:20:59.25,Gen_Main,Geto,0000,0000,0000,,Vamos a casa, Riko.
+Dialogue: 0,0:21:06.30,0:21:07.45,Gen_Main,Riko,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:21:23.31,0:21:24.61,Gen_Main,Geto,0000,0000,0000,,¿Riko?
+Dialogue: 0,0:21:26.30,0:21:28.08,Gen_Main,Toji,0000,0000,0000,,Se terminó el espectáculo.
+Dialogue: 0,0:21:30.22,0:21:32.06,Gen_Main,Toji,0000,0000,0000,,Todos a sus casas.
+Dialogue: 0,0:21:36.91,0:21:39.19,Gen_Main,Geto,0000,0000,0000,,¿Cómo es que estás tú aquí?
+Dialogue: 0,0:21:40.10,0:21:42.68,Gen_Main,Toji,0000,0000,0000,,¿Eh? ¿En qué sentido?
+Dialogue: 0,0:21:43.06,0:21:45.22,Gen_Main,Toji,0000,0000,0000,,Ah. Te refieres a eso, ¿verdad?
+Dialogue: 0,0:21:47.93,0:21:51.12,Gen_Main,Toji,0000,0000,0000,,Maté a Satoru Gojo.
+Dialogue: 0,0:22:04.94,0:22:06.30,Gen_Main,Geto,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:22:06.83,0:22:08.29,Gen_Main,Geto,0000,0000,0000,,Muere entonces.
+Dialogue: 0,0:23:36.89,0:23:40.02,Cart_A_Tre,,0000,0000,0000,,{\b0\fs20\bord1.5\3c&H161622&}Traducción: Abraham Gayuvas y Antonio Valdez\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:41.60,0:23:44.86,Gen_Italics,Shoko,0000,0000,0000,,Dicen que nunca es tarde\Npara comenzar algo nuevo,
+Dialogue: 0,0:23:45.06,0:23:48.57,Gen_Italics,Shoko,0000,0000,0000,,pero la cuestión es cuándo rendirse\Nmás que cuándo empezar, ¿no?
+Dialogue: 0,0:23:49.53,0:23:52.26,Gen_Main,Shoko,0000,0000,0000,,Próximamente:\N"El tesoro escondido, parte 4".
+Dialogue: 0,0:23:49.65,0:23:55.03,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord2.5\blur3}Próximo episodio\N\N\N\N\N\N\N\N\N\N\N{\fs30}El tesoro escondido - Parte 4 -
+Dialogue: 0,0:23:52.46,0:23:54.22,Gen_Italics,Shoko,0000,0000,0000,,Pero no sé si deba decir eso.
+

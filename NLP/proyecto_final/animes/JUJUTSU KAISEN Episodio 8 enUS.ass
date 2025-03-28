@@ -1,0 +1,402 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,60,&H000F0063,&H000000FF,&H002F1595,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,60,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H28FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0028,0050,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+Style: sign_27116_312_Playing,Times New Roman,20,&H00FFFFFF,&H000000FF,&H001600D3,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,2,0516,0050,0291,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.98,0:00:06.98,Main,Sign,0000,0000,0000,,{\an8\fnTimes New Roman\fs20\c&H23363B&\3c&H4A7093&\shad0\b1}Tokyo Metropolitan\NJujutsu Technical High School
+Dialogue: 0,0:00:06.98,0:00:09.44,Main,MachineBlue,0000,0000,0000,,{\3c&HBD5350&\bord3\shad0\c&HFFDAD2&\frx352\fry330\pos(388.667,158)\frz343.1}Cold
+Dialogue: 0,0:00:12.14,0:00:15.40,Main,Kugisaki,0000,0000,0000,,Couldn't they put in a few \Nmore vending machines?
+Dialogue: 0,0:00:15.92,0:00:19.46,Main,Fushiguro,0000,0000,0000,,They can't. There are only so many \Nworkers who can come in here.
+Dialogue: 0,0:00:19.85,0:00:20.67,Main,Panda,0000,0000,0000,,Huh?
+Dialogue: 0,0:00:21.59,0:00:22.84,Main,Panda,0000,0000,0000,,Where are the first-years?
+Dialogue: 0,0:00:23.37,0:00:24.55,Main,Maki,0000,0000,0000,,On errands.
+Dialogue: 0,0:00:24.55,0:00:25.92,Main,Toge,0000,0000,0000,,Bonito flakes.
+Dialogue: 0,0:00:26.36,0:00:27.61,Main,Panda,0000,0000,0000,,Will they be okay?
+Dialogue: 0,0:00:27.61,0:00:28.29,Main,Toge,0000,0000,0000,,Salmon.
+Dialogue: 0,0:00:28.83,0:00:30.66,Main,Maki,0000,0000,0000,,They're not three years old.
+Dialogue: 0,0:00:30.66,0:00:32.31,Main,Maki,0000,0000,0000,,They can handle an errand run.
+Dialogue: 0,0:00:32.75,0:00:34.39,Main,Panda,0000,0000,0000,,No, that's not what I mean.
+Dialogue: 0,0:00:34.72,0:00:35.86,Main,Panda,0000,0000,0000,,It's today, right?
+Dialogue: 0,0:00:36.02,0:00:37.81,Main,Panda,0000,0000,0000,,The day Kyoto's principal comes.
+Dialogue: 0,0:00:39.36,0:00:41.60,Main,Panda,0000,0000,0000,,To go over the exchange event.
+Dialogue: 0,0:00:41.60,0:00:42.48,Main,Toge,0000,0000,0000,,Tuna.
+Dialogue: 0,0:00:43.15,0:00:46.56,Main,Panda,0000,0000,0000,,Satoru's fighting with the higher-ups \Nbecause they arranged for
+Dialogue: 0,0:00:46.56,0:00:50.03,Main,,0000,0000,0000,,the first-years to get dispatched \Non that special-grade case, right?
+Dialogue: 0,0:00:51.30,0:00:54.55,Main,Panda,0000,0000,0000,,And the principal of Kyoto is \None of those higher-ups, isn't he?
+Dialogue: 0,0:00:54.90,0:00:56.80,Main,Panda,0000,0000,0000,,So if they run into each other...
+Dialogue: 0,0:00:57.89,0:01:01.88,Main,Maki,0000,0000,0000,,The first-year they were \Ntargeting, Itadori, is dead.
+Dialogue: 0,0:01:02.34,0:01:05.46,Main,Maki,0000,0000,0000,,I doubt he has any plans to do \Nanything about the other two.
+Dialogue: 0,0:01:07.20,0:01:12.29,Main,Maki,0000,0000,0000,,Besides, the old man from Kyoto \Nwon't cause a scene in broad daylight.
+Dialogue: 0,0:01:12.55,0:01:13.52,Main,Toge,0000,0000,0000,,Salmon.
+Dialogue: 0,0:01:14.51,0:01:16.85,Main,Panda,0000,0000,0000,,An instructor might have \Nhis position to worry about,
+Dialogue: 0,0:01:16.85,0:01:18.96,Main,Panda,0000,0000,0000,,but that's not the case for the students.
+Dialogue: 0,0:01:18.96,0:01:21.92,Main,Maki,0000,0000,0000,,Are you saying Mai is coming?
+Dialogue: 0,0:01:22.41,0:01:23.90,Main,Panda,0000,0000,0000,,It's just a guess.
+Dialogue: 0,0:01:23.90,0:01:26.49,Main,Panda,0000,0000,0000,,Students aren't necessary for a meeting.
+Dialogue: 0,0:01:28.15,0:01:29.86,Main,Panda,0000,0000,0000,,But still...
+Dialogue: 0,0:01:30.83,0:01:33.66,Main,Panda,0000,0000,0000,,They love harassing us, right?
+Dialogue: 0,0:01:34.26,0:01:35.94,Main,Panda,0000,0000,0000,,Both Toudou and Mai.
+Dialogue: 0,0:01:37.00,0:01:39.71,Main,Fushiguro,0000,0000,0000,,What are you doing here, Zenin-senpai?
+Dialogue: 0,0:01:39.71,0:01:40.99,Main,Kugisaki,0000,0000,0000,,Oh, she's one, too?
+Dialogue: 0,0:01:41.46,0:01:44.16,Main,Kugisaki,0000,0000,0000,,They do seem similar. Are they sisters?
+Dialogue: 0,0:01:44.16,0:01:45.59,Main,Fushiguro,0000,0000,0000,,They're twins.
+Dialogue: 0,0:01:45.59,0:01:48.00,Main,Mai,0000,0000,0000,,Don't call me that, Fushiguro-kun.
+Dialogue: 0,0:01:48.00,0:01:50.72,Main,Mai,0000,0000,0000,,You make me sound the same as Maki.
+Dialogue: 0,0:01:51.90,0:01:53.59,Main,Mai,0000,0000,0000,,Call me Mai.
+Dialogue: 0,0:01:53.97,0:01:57.22,Main,Toudou,0000,0000,0000,,So these are the pinch hitters \Nfor Okkotsu and the third-years?
+Dialogue: 0,0:01:57.49,0:02:00.89,Main,Mai,0000,0000,0000,,We came here with the principal \Nbecause we were worried about you.
+Dialogue: 0,0:02:01.17,0:02:03.32,Main,Mai,0000,0000,0000,,Your classmate died, right?
+Dialogue: 0,0:02:03.32,0:02:04.57,Main,Mai,0000,0000,0000,,Was that rough?
+Dialogue: 0,0:02:04.57,0:02:06.72,Main,Mai,0000,0000,0000,,Or did you think nothing of it?
+Dialogue: 0,0:02:08.12,0:02:09.62,Main,Fushiguro,0000,0000,0000,,What are you trying to say?
+Dialogue: 0,0:02:10.05,0:02:11.65,Main,Mai,0000,0000,0000,,It's okay.
+Dialogue: 0,0:02:11.65,0:02:13.81,Main,Mai,0000,0000,0000,,Some things are hard to say out loud.
+Dialogue: 0,0:02:13.81,0:02:15.79,Main,Mai,0000,0000,0000,,So I'll say it for you.
+Dialogue: 0,0:02:16.00,0:02:18.48,Main,Mai,0000,0000,0000,,"Vessel" makes it sound nice,
+Dialogue: 0,0:02:18.48,0:02:21.20,Main,Mai,0000,0000,0000,,but it just means he was a half-curse monster.
+Dialogue: 0,0:02:22.26,0:02:25.24,Main,Mai,0000,0000,0000,,Having such a tainted, \Ninhuman being beside you
+Dialogue: 0,0:02:25.55,0:02:30.00,Main,Mai,0000,0000,0000,,brazenly calling himself a jujutsu \Nsorcerer must have been revolting, right?
+Dialogue: 0,0:02:30.54,0:02:33.19,Main,Mai,0000,0000,0000,,Aren't you feeling better \Nnow that he's dead?
+Dialogue: 0,0:02:36.03,0:02:39.63,Main,Toudou,0000,0000,0000,,Mai, don't bring up such pointless topics.
+Dialogue: 0,0:02:40.24,0:02:45.60,Main,Toudou,0000,0000,0000,,I'm only here to see if these guys \Nare fit to take Okkotsu's place.
+Dialogue: 0,0:02:46.69,0:02:48.62,Main,Toudou,0000,0000,0000,,That's all I want to know.
+Dialogue: 0,0:02:50.22,0:02:52.49,Main,Toudou,0000,0000,0000,,Fushiguro, was it?
+Dialogue: 0,0:02:53.31,0:02:55.61,Main,Toudou,0000,0000,0000,,What kind of woman is your type?
+Dialogue: 0,0:02:59.08,0:03:00.96,Main,Toudou,0000,0000,0000,,Depending on your answer,
+Dialogue: 0,0:03:00.96,0:03:03.57,Main,Toudou,0000,0000,0000,,I'll beat you half to death right here
+Dialogue: 0,0:03:03.57,0:03:09.04,Main,Toudou,0000,0000,0000,,and drag Okkotsu, or at least the \Nthird-years, out to the exchange event.
+Dialogue: 0,0:03:11.27,0:03:17.68,Main,Toudou,0000,0000,0000,,By the way, my type is a \Ntall woman with a big ass!
+Dialogue: 0,0:03:29.02,0:03:35.98,Show_Title,,0000,0000,0000,,{\blur1\fad(1191,431)\t(1192,1316,1 \c&H0700D7&\3c&H6659E4&)\t(1317,1941,1 \c&H172918&\3c&H8CCECB&)\t(6197,6529,1 \c&H0F0063&\3c&H222781&)}Jujutsu Kaisen
+Dialogue: 0,0:04:52.33,0:04:58.86,Ep_Title_Shadow,Screen,0000,0000,0000,,{\fad(529,562)\fs20\pos(612,310)}Episode 8:  {\fs24}Boredom
+Dialogue: 0,0:04:52.33,0:04:58.86,Ep_Title,Screen,0000,0000,0000,,{\fad(529,562)\fs20\pos(612,310)}Episode 8:  {\fs24}Boredom
+Dialogue: 0,0:04:52.72,0:04:54.79,Main,Fushiguro,0000,0000,0000,,{\an8}Why do I have to talk about
+Dialogue: 0,0:04:54.79,0:04:57.57,Main,Fushiguro,0000,0000,0000,,{\an8}my taste in women with a guy I just met?
+Dialogue: 0,0:04:58.96,0:05:01.72,Main,Kugisaki,0000,0000,0000,,He's right. That's a tall hurdle \Nfor an antisocial guy.
+Dialogue: 0,0:05:02.08,0:05:03.61,Main,Fushiguro,0000,0000,0000,,You be quiet.
+Dialogue: 0,0:05:03.61,0:05:06.98,Main,Fushiguro,0000,0000,0000,,This is confusing enough already.\NYou'll just make it more complicated.
+Dialogue: 0,0:05:07.73,0:05:10.24,Main,Toudou,0000,0000,0000,,Kyoto, third-year, Toudou Aoi.
+Dialogue: 0,0:05:10.69,0:05:12.26,Main,Toudou,0000,0000,0000,,Introduction over.
+Dialogue: 0,0:05:12.60,0:05:14.56,Main,Toudou,0000,0000,0000,,Now we're friends.
+Dialogue: 0,0:05:14.56,0:05:17.01,Main,Toudou,0000,0000,0000,,Hurry up and answer. \NIf you prefer men, that's fine, too.
+Dialogue: 0,0:05:17.97,0:05:21.81,Main,Toudou,0000,0000,0000,,A person's fetishes reflect \Neverything about them.
+Dialogue: 0,0:05:21.81,0:05:25.82,Main,Toudou,0000,0000,0000,,People with boring taste in women \Nare boring people themselves.
+Dialogue: 0,0:05:27.60,0:05:30.58,Main,Toudou,0000,0000,0000,,And I hate boring men.
+Dialogue: 0,0:05:31.62,0:05:36.55,Main,Toudou,0000,0000,0000,,The exchange event is where my soul can \Nbe free as blood boils and flesh clashes.
+Dialogue: 0,0:05:37.15,0:05:43.38,Main,Toudou,0000,0000,0000,,Who knows what I might do if my \Nlast exchange event ends up boring me?
+Dialogue: 0,0:05:43.38,0:05:46.49,Main,Kugisaki,0000,0000,0000,,Hey, aren't the Jujutsu Tech \Nschools four-year schools?
+Dialogue: 0,0:05:46.49,0:05:49.09,Main,Fushiguro,0000,0000,0000,,Only third-years and under \Ncan join the exchange event.
+Dialogue: 0,0:05:49.09,0:05:50.27,Main,Kugisaki,0000,0000,0000,,Huh...
+Dialogue: 0,0:05:51.29,0:05:54.88,Main,Toudou,0000,0000,0000,,As a show of kindness, I'll let you \Noff only half-dead right now.
+Dialogue: 0,0:05:54.88,0:05:56.34,Main,Toudou,0000,0000,0000,,Answer me, Fushiguro.
+Dialogue: 0,0:05:56.34,0:05:58.35,Main,Toudou,0000,0000,0000,,What kind of woman is your type?
+Dialogue: 0,0:05:58.35,0:06:00.12,Main,Fushiguro,0000,0000,0000,,Is this some kind of comedy routine?
+Dialogue: 0,0:06:01.01,0:06:02.74,Main,Kugisaki,0000,0000,0000,,Is that your summer uniform?
+Dialogue: 0,0:06:03.58,0:06:05.69,Main,Kugisaki,0000,0000,0000,,Ticks me off, but it's nice.
+Dialogue: 0,0:06:06.24,0:06:09.69,Italics,Fushiguro,0000,0000,0000,,Kugisaki's unarmed.\NI'd rather avoid confrontation.
+Dialogue: 0,0:06:11.83,0:06:14.53,Flashback,Tsumiki,0000,0000,0000,,Not forgiving people isn't a bad thing.
+Dialogue: 0,0:06:14.82,0:06:17.20,Flashback,Tsumiki,0000,0000,0000,,That's just part of your kindness, isn't it?
+Dialogue: 0,0:06:19.74,0:06:22.53,Main,Fushiguro,0000,0000,0000,,I don't have a particular preference.
+Dialogue: 0,0:06:23.10,0:06:28.06,Main,Fushiguro,0000,0000,0000,,As long as she has unshakable \Ncharacter, I won't ask for more.
+Dialogue: 0,0:06:30.60,0:06:32.48,Main,Kugisaki,0000,0000,0000,,Not a bad answer.
+Dialogue: 0,0:06:32.48,0:06:35.41,Main,Kugisaki,0000,0000,0000,,If you had said something like \N"big boobs," I'd have killed you.
+Dialogue: 0,0:06:35.76,0:06:37.01,Main,Fushiguro,0000,0000,0000,,Shut up.
+Dialogue: 0,0:06:38.80,0:06:40.42,Main,Toudou,0000,0000,0000,,I knew it.
+Dialogue: 0,0:06:42.17,0:06:45.84,Main,Toudou,0000,0000,0000,,You're boring, Fushiguro.
+Dialogue: 0,0:06:53.44,0:06:54.35,Main,Kugisaki,0000,0000,0000,,Fushiguro!
+Dialogue: 0,0:06:56.72,0:06:58.88,Main,Mai,0000,0000,0000,,Poor Fushiguro-kun.
+Dialogue: 0,0:07:00.66,0:07:03.96,Main,Mai,0000,0000,0000,,Even a talented \Nsecond-grade jujutsu sorcerer
+Dialogue: 0,0:07:03.96,0:07:08.27,Main,Mai,0000,0000,0000,,is nothing more than a first-year \Nagainst the top-grade Toudou-senpai.
+Dialogue: 0,0:07:08.60,0:07:11.44,Main,Mai,0000,0000,0000,,I'll have to comfort him later.
+Dialogue: 0,0:07:12.10,0:07:15.04,Main,Kugisaki,0000,0000,0000,,I thought you two were similar, \Nbut that's not the case at all.
+Dialogue: 0,0:07:15.64,0:07:18.35,Main,Kugisaki,0000,0000,0000,,Maki-san's a hundred times prettier.
+Dialogue: 0,0:07:19.62,0:07:22.30,Main,Kugisaki,0000,0000,0000,,Are you not sleeping enough? \NYou've got open pores.
+Dialogue: 0,0:07:24.40,0:07:25.97,Main,Mai,0000,0000,0000,,I'll teach you...
+Dialogue: 0,0:07:27.73,0:07:29.65,Main,Mai,0000,0000,0000,,how to speak to others.
+Dialogue: 0,0:07:33.36,0:07:36.10,Main,Toudou,0000,0000,0000,,I knew at first glance
+Dialogue: 0,0:07:36.49,0:07:38.97,Main,Toudou,0000,0000,0000,,that you were a boring guy.
+Dialogue: 0,0:07:39.30,0:07:43.02,Main,Toudou,0000,0000,0000,,But you shouldn't judge a \Nperson by their looks, right?
+Dialogue: 0,0:07:43.51,0:07:46.25,Main,Toudou,0000,0000,0000,,So I went out of my way to ask you,
+Dialogue: 0,0:07:47.46,0:07:51.09,Main,Toudou,0000,0000,0000,,but you just trampled on my kindness.
+Dialogue: 0,0:07:51.92,0:07:54.95,Main,Fushiguro,0000,0000,0000,,Is your brain as pineapple as your head?
+Dialogue: 0,0:07:56.49,0:07:59.72,Italics,Fushiguro,0000,0000,0000,,Toudou... {\i0}That{\i1} Toudou?
+Dialogue: 0,0:08:00.65,0:08:02.16,Italics,Fushiguro,0000,0000,0000,,The one involved in last year's
+Dialogue: 0,0:08:02.16,0:08:05.20,Italics,Fushiguro,0000,0000,0000,,unprecedented jujutsu terror attack\Ncaused by the curse user, Getou—
+Dialogue: 0,0:08:04.42,0:08:05.96,Main,Sign,0000,0000,0000,,{\fad(439,434)\pos(315,50)\an8\fs16\fnArial\b1\c&H4253EF&\3c&HF0F1FA&\shad0}Kabuki-cho First Street
+Dialogue: 0,0:08:05.20,0:08:07.61,Italics,Fushiguro,0000,0000,0000,,The Night Parade of a Hundred Demons \Nfrom Kyoto to Shinjuku.
+Dialogue: 0,0:08:08.60,0:08:11.68,Italics,Fushiguro,0000,0000,0000,,The one who exorcised a special-grade and five first-grade cursed spirits
+Dialogue: 0,0:08:11.68,0:08:14.77,Italics,Fushiguro,0000,0000,0000,,by himself when the parade appeared in Kyoto?
+Dialogue: 0,0:08:15.41,0:08:16.96,Italics,Fushiguro,0000,0000,0000,,That Toudou?
+Dialogue: 0,0:08:17.70,0:08:20.89,Italics,Fushiguro,0000,0000,0000,,Still, there are several first-grade \Nsorcerers capable of beating a special-grade.
+Dialogue: 0,0:08:21.34,0:08:22.81,Italics,Fushiguro,0000,0000,0000,,What's shocking is...
+Dialogue: 0,0:08:23.43,0:08:26.12,Main,Fushiguro,0000,0000,0000,,I heard you don't use cursed techniques.
+Dialogue: 0,0:08:26.47,0:08:29.73,Main,Toudou,0000,0000,0000,,Huh? Oh, that rumor's false.
+Dialogue: 0,0:08:30.40,0:08:32.26,Main,Toudou,0000,0000,0000,,I used them against the special-grade.
+Dialogue: 0,0:08:32.26,0:08:34.48,Italics,Fushiguro,0000,0000,0000,,He doesn't use them against first-grades?!
+Dialogue: 0,0:08:34.48,0:08:35.55,Italics,Fushiguro,0000,0000,0000,,Is he a monster?!
+Dialogue: 0,0:08:35.92,0:08:37.62,Main,Fushiguro,0000,0000,0000,,That's a relief to hear.
+Dialogue: 0,0:08:38.72,0:08:42.75,Main,Fushiguro,0000,0000,0000,,Nue, plus Gama!
+Dialogue: 0,0:08:47.04,0:08:48.28,Main,Fushiguro,0000,0000,0000,,Bottomless Well.
+Dialogue: 0,0:08:53.52,0:08:55.80,Italics,Fushiguro,0000,0000,0000,,I'm up against a hardcore \Nclose-range fighter.
+Dialogue: 0,0:08:55.80,0:08:57.65,Italics,Fushiguro,0000,0000,0000,,I'll keep my distance and restrain him.
+Dialogue: 0,0:09:02.87,0:09:03.52,Italics,Fushiguro,0000,0000,0000,,He's fast!
+Dialogue: 0,0:09:03.52,0:09:05.31,Italics,Fushiguro,0000,0000,0000,,That wasn't his full speed earlier?!
+Dialogue: 0,0:09:05.84,0:09:07.81,Main,Toudou,0000,0000,0000,,Flimsy and shallow...
+Dialogue: 0,0:09:08.25,0:09:09.74,Main,Toudou,0000,0000,0000,,Both your body
+Dialogue: 0,0:09:10.12,0:09:13.59,Main,Toudou,0000,0000,0000,,and your taste in women!
+Dialogue: 0,0:09:26.64,0:09:27.47,Italics,Fushiguro,0000,0000,0000,,Damn it!
+Dialogue: 0,0:09:27.85,0:09:29.29,Italics,Fushiguro,0000,0000,0000,,His power is insane!
+Dialogue: 0,0:09:41.08,0:09:44.48,Main,Toudou,0000,0000,0000,,I'm not finished yet!
+Dialogue: 0,0:09:52.20,0:09:53.82,Main,Toudou,0000,0000,0000,,You're always
+Dialogue: 0,0:09:54.24,0:09:56.02,Main,Toudou,0000,0000,0000,,so boring!
+Dialogue: 0,0:10:06.79,0:10:09.75,Main,Toudou,0000,0000,0000,,I barely feel any intention to fight.
+Dialogue: 0,0:10:10.38,0:10:13.19,Main,Fushiguro,0000,0000,0000,,I've been holding back, and you're so proud?
+Dialogue: 0,0:10:13.19,0:10:15.04,Main,Fushiguro,0000,0000,0000,,If you're going to insist like that...
+Dialogue: 0,0:10:18.28,0:10:19.73,Main,Fushiguro,0000,0000,0000,,then I'll show you.
+Dialogue: 0,0:10:23.05,0:10:24.00,Main,Toudou,0000,0000,0000,,Bring it!
+Dialogue: 0,0:10:25.45,0:10:26.48,Main,Toge,0000,0000,0000,,Don't move.
+Dialogue: 0,0:10:29.45,0:10:32.88,Main,Panda,0000,0000,0000,,What are you two doing?!
+Dialogue: 0,0:10:35.53,0:10:38.01,Main,Panda,0000,0000,0000,,Whew, just barely safe.
+Dialogue: 0,0:10:38.49,0:10:39.76,Main,Toge,0000,0000,0000,,Bonito flakes.
+Dialogue: 0,0:10:42.50,0:10:44.91,Main,Panda,0000,0000,0000,,Okay, I guess that might actually be an out.
+Dialogue: 0,0:10:46.56,0:10:48.67,Main,Toudou,0000,0000,0000,,Long time no see, Panda.
+Dialogue: 0,0:10:49.01,0:10:51.99,Main,Panda,0000,0000,0000,,Why can't you just wait \Nuntil the exchange event?
+Dialogue: 0,0:10:52.37,0:10:56.48,Main,Panda,0000,0000,0000,,Go on home, or I'll start screaming, "No!"
+Dialogue: 0,0:10:56.48,0:10:58.67,Main,Toudou,0000,0000,0000,,You don't have to tell me to go home.
+Dialogue: 0,0:10:59.20,0:11:00.95,Main,Toudou,0000,0000,0000,,Where'd I put my jacket?
+Dialogue: 0,0:11:03.21,0:11:06.89,Main,Toudou,0000,0000,0000,,Looks like I won't be bored the whole time.
+Dialogue: 0,0:11:09.38,0:11:13.31,Main,,0000,0000,0000,,Give Okkotsu a message for me: \N"You take part, too."
+Dialogue: 0,0:11:14.12,0:11:15.20,Italics,Panda,0000,0000,0000,,What a pain.
+Dialogue: 0,0:11:15.42,0:11:18.26,Main,Panda,0000,0000,0000,,I panda. I no understand human speech.
+Dialogue: 0,0:11:18.54,0:11:19.56,Main,Toge,0000,0000,0000,,Salmon.
+Dialogue: 0,0:11:25.31,0:11:29.79,Main,Mai,0000,0000,0000,,If you want to continue as a jujutsu sorcerer, \Nlearn to choose who you pick a fight with.
+Dialogue: 0,0:11:33.92,0:11:37.32,Main,Maki,0000,0000,0000,,What are you doing to our errand runner, Mai?
+Dialogue: 0,0:11:37.32,0:11:41.92,Main,Mai,0000,0000,0000,,Oh, my. You're such a loser, \NI didn't even notice you, Maki.
+Dialogue: 0,0:11:42.58,0:11:44.72,Main,Maki,0000,0000,0000,,We're both equally losers, you know.
+Dialogue: 0,0:11:45.12,0:11:47.80,Main,Maki,0000,0000,0000,,All you can do is imbue objects \Nwith cursed energy,
+Dialogue: 0,0:11:47.80,0:11:49.95,Main,Maki,0000,0000,0000,,and you've got shit for cursed techniques.
+Dialogue: 0,0:11:49.95,0:11:52.06,Main,Mai,0000,0000,0000,,Better than having no cursed energy at all.
+Dialogue: 0,0:11:52.06,0:11:54.76,Main,Mai,0000,0000,0000,,My neck gets sore looking up \Nat others all the time,
+Dialogue: 0,0:11:54.76,0:11:57.02,Main,Mai,0000,0000,0000,,so I need to look down on someone \Nlike you every so often.
+Dialogue: 0,0:11:57.36,0:12:01.24,Main,Maki,0000,0000,0000,,Ah, forget it. We're both at \Nrock bottom, and it's pathetic.
+Dialogue: 0,0:12:01.89,0:12:03.62,Main,Maki,0000,0000,0000,,Nobara, can you stand?
+Dialogue: 0,0:12:03.62,0:12:04.88,Main,Mai,0000,0000,0000,,No way.
+Dialogue: 0,0:12:04.88,0:12:06.77,Main,Mai,0000,0000,0000,,She won't be getting up for a while.
+Dialogue: 0,0:12:06.77,0:12:08.53,Main,Mai,0000,0000,0000,,I hurt her pretty good...
+Dialogue: 0,0:12:09.71,0:12:12.17,Main,Mai,0000,0000,0000,,What? You want to fight?
+Dialogue: 0,0:12:15.84,0:12:18.02,Main,Kugisaki,0000,0000,0000,,Nice support, Maki-san!
+Dialogue: 0,0:12:19.49,0:12:22.42,Main,Kugisaki,0000,0000,0000,,You put a bunch of holes \Nin my brand new tracksuit.
+Dialogue: 0,0:12:22.71,0:12:26.42,Main,Kugisaki,0000,0000,0000,,Leave that uniform of yours behind.\NI'll make it my own summer uniform!
+Dialogue: 0,0:12:26.86,0:12:29.99,Main,Mai,0000,0000,0000,,I'll put holes in your body next time.
+Dialogue: 0,0:12:30.39,0:12:34.25,Main,Mai,0000,0000,0000,,Also, you wouldn't be able to wear \Nthis with those long legs of yours—
+Dialogue: 0,0:12:36.48,0:12:38.11,Main,Kugisaki,0000,0000,0000,,Leave it!
+Dialogue: 0,0:12:38.50,0:12:40.37,Main,Toudou,0000,0000,0000,,We're leaving, Mai.
+Dialogue: 0,0:12:41.69,0:12:44.46,Main,Kugisaki,0000,0000,0000,,What?! No way...
+Dialogue: 0,0:12:44.46,0:12:46.23,Main,Toudou,0000,0000,0000,,Oh, there's my jacket.
+Dialogue: 0,0:12:47.15,0:12:48.30,Main,Kugisaki,0000,0000,0000,,Where's Fushiguro?
+Dialogue: 0,0:12:48.72,0:12:51.13,Main,Maki,0000,0000,0000,,Don't worry. The others are with him.
+Dialogue: 0,0:12:51.66,0:12:53.42,Main,Toudou,0000,0000,0000,,Looks like you're having fun.
+Dialogue: 0,0:12:54.60,0:12:57.64,Main,Mai,0000,0000,0000,,Quit joking! I'm just getting started!
+Dialogue: 0,0:12:57.64,0:12:58.64,Main,Toudou,0000,0000,0000,,No, you're not.
+Dialogue: 0,0:12:58.64,0:13:02.38,Main,Toudou,0000,0000,0000,,Unlike you, I still have \Nimportant business here in Tokyo.
+Dialogue: 0,0:13:03.80,0:13:07.90,Main,Toudou,0000,0000,0000,,{\an8}My personal handshake with Takada-chan!
+Dialogue: 0,0:13:05.34,0:13:07.80,Main,Ticket,0000,0000,0000,,{\fad(1,305)\fnTimes New Roman\fs12\3c&H180591&\shad0\pos(423.332,212.667)\frz273.7}5 min
+Dialogue: 0,0:13:05.34,0:13:07.80,Main,Ticket,0000,0000,0000,,{\fad(1,305)\fs10\shad0\bord3\fscx80\fnTimes New Roman\c&H120490&\3c&HEBECEC&\frz273.4\frx348\fry4\pos(415.334,306)}8th single "Youth Mineral" Release Celebration
+Dialogue: 0,0:13:05.34,0:13:07.80,Main,Ticket,0000,0000,0000,,{\fad(1,305)\c&H54585A&\3c&HEDEFF6&\fnTimes New Roman\shad0\fs18\frz274.2\frx354\fry6\pos(392,275.334)}Takada-chan
+Dialogue: 0,0:13:07.51,0:13:09.85,Main,Screen,0000,0000,0000,,{\fad(860,1)\pos(340,190)\fnArial\b1\c&H9C1CDF&\4c&HFEFEFF&\shad2\bord1}Tall Idol Takada-chan
+Dialogue: 0,0:13:11.29,0:13:12.86,Main,All,0000,0000,0000,,Uh-huh...
+Dialogue: 0,0:13:16.11,0:13:21.22,Main,Toudou,0000,0000,0000,,Who knows what I might do if I miss my \Ntransfer and can't make it to the event hall?
+Dialogue: 0,0:13:21.87,0:13:24.26,Main,Toudou,0000,0000,0000,,Come with me, Mai.
+Dialogue: 0,0:13:24.26,0:13:26.80,Main,Mai,0000,0000,0000,,Ugh! You're so selfish!
+Dialogue: 0,0:13:28.44,0:13:30.97,Main,Toudou,0000,0000,0000,,Can't believe I lost the lottery \Nfor the usual one in Kyoto.
+Dialogue: 0,0:13:31.35,0:13:34.96,Main,Mai,0000,0000,0000,,Don't go thinking you'll get off \Nthis easy at the exchange event.
+Dialogue: 0,0:13:35.29,0:13:37.35,Main,Kugisaki,0000,0000,0000,,Quit acting like you won!
+Dialogue: 0,0:13:37.35,0:13:39.56,Main,Kugisaki,0000,0000,0000,,Leave your uniform behind, damn it!
+Dialogue: 0,0:13:39.56,0:13:41.17,Main,Maki,0000,0000,0000,,Cut it out, idiot.
+Dialogue: 0,0:13:41.17,0:13:43.92,Main,Maki,0000,0000,0000,,Winning or losing here hardly matters.
+Dialogue: 0,0:13:43.92,0:13:45.96,Main,Maki,0000,0000,0000,,We'll beat them up at the exchange event.
+Dialogue: 0,0:13:47.53,0:13:48.93,Main,Kugisaki,0000,0000,0000,,Hey, Maki-san...
+Dialogue: 0,0:13:49.24,0:13:52.32,Main,Kugisaki,0000,0000,0000,,Is what she said true? \NThat you don't have cursed energy?
+Dialogue: 0,0:13:52.93,0:13:54.16,Main,Maki,0000,0000,0000,,It's true.
+Dialogue: 0,0:13:54.45,0:13:58.86,Main,Maki,0000,0000,0000,,So I can't even see curses \Nwithout these glasses.
+Dialogue: 0,0:13:59.76,0:14:01.73,Main,Maki,0000,0000,0000,,That's why I use cursed tools.
+Dialogue: 0,0:14:01.73,0:14:03.94,Main,Maki,0000,0000,0000,,They already have curses imbued in them.
+Dialogue: 0,0:14:04.56,0:14:08.69,Main,Maki,0000,0000,0000,,I can't pour my own cursed energy \Ninto them to do things like you all do.
+Dialogue: 0,0:14:11.20,0:14:13.69,Italics,Kugisaki,0000,0000,0000,,Like that thing he gave Itadori?
+Dialogue: 0,0:14:15.43,0:14:17.69,Main,Kugisaki,0000,0000,0000,,Then why are you a jujutsu sorcerer?
+Dialogue: 0,0:14:19.04,0:14:20.56,Main,Maki,0000,0000,0000,,To spite them.
+Dialogue: 0,0:14:21.76,0:14:25.50,Main,Maki,0000,0000,0000,,I can't wait to see the looks on my family's faces when I become a bigshot sorcerer,
+Dialogue: 0,0:14:25.50,0:14:29.43,Main,Maki,0000,0000,0000,,after all the years they've \Nspent looking down on me.
+Dialogue: 0,0:14:31.22,0:14:33.93,Main,Maki,0000,0000,0000,,Come on, let's hurry over to see Shouko-san.
+Dialogue: 0,0:14:37.41,0:14:40.24,Main,Kugisaki,0000,0000,0000,,I respect you, Maki-san.
+Dialogue: 0,0:14:40.70,0:14:41.69,Main,Maki,0000,0000,0000,,That so?
+Dialogue: 0,0:14:46.19,0:14:48.98,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}Jujutsu Kaisen
+Dialogue: 0,0:14:51.65,0:14:53.99,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}Jujutsu Kaisen
+Dialogue: 0,0:15:05.04,0:15:07.17,Main,Gakuganji,0000,0000,0000,,Is Yaga here yet?
+Dialogue: 0,0:15:07.69,0:15:11.68,Main,Gakuganji,0000,0000,0000,,The time of an old man close \Nto death doesn't come cheap.
+Dialogue: 0,0:15:15.55,0:15:17.92,Main,Gojou,0000,0000,0000,,Principal Yaga won't be coming for a while.
+Dialogue: 0,0:15:19.43,0:15:20.58,Main,Gakuganji,0000,0000,0000,,Oh?
+Dialogue: 0,0:15:23.40,0:15:26.56,Main,Gojou,0000,0000,0000,,He was given a false schedule.
+Dialogue: 0,0:15:26.90,0:15:28.63,Italics,Gojou,0000,0000,0000,,After some threats to Ijichi.
+Dialogue: 0,0:15:29.85,0:15:32.94,Main,Gojou,0000,0000,0000,,Thank you for the other day, \NPrincipal Gakuganji.
+Dialogue: 0,0:15:33.37,0:15:36.14,Main,Gakuganji,0000,0000,0000,,Oh? What other day would that be?
+Dialogue: 0,0:15:36.14,0:15:38.08,Main,Gojou,0000,0000,0000,,Don't play dumb with me, old man.
+Dialogue: 0,0:15:38.32,0:15:40.24,Main,Gojou,0000,0000,0000,,I'm referring to the case with Itadori Yuuji.
+Dialogue: 0,0:15:40.59,0:15:43.45,Main,Gojou,0000,0000,0000,,As head of the conservatives, \Nyou were involved too, correct?
+Dialogue: 0,0:15:45.95,0:15:49.52,Main,Gakuganji,0000,0000,0000,,My goodness, youth these days...
+Dialogue: 0,0:15:49.52,0:15:51.71,Main,Gakuganji,0000,0000,0000,,Don't you know how to be polite?
+Dialogue: 0,0:15:52.20,0:15:54.77,Main,Gojou,0000,0000,0000,,I never had any intention of respecting you.
+Dialogue: 0,0:15:54.77,0:15:58.43,Main,Gojou,0000,0000,0000,,Elders these days love to act important, \Nand it's so annoying, honestly.
+Dialogue: 0,0:15:58.43,0:15:59.59,Main,Miwa,0000,0000,0000,,Hey.
+Dialogue: 0,0:16:00.38,0:16:02.60,Main,Miwa,0000,0000,0000,,Your conduct is problematic.
+Dialogue: 0,0:16:02.92,0:16:05.87,Main,Miwa,0000,0000,0000,,I'll be reporting you to \Nthe relevant authorities.
+Dialogue: 0,0:16:06.95,0:16:08.17,Italics,Miwa,0000,0000,0000,,Oh, man!
+Dialogue: 0,0:16:08.17,0:16:11.12,Italics,Miwa,0000,0000,0000,,It's Gojou Satoru in person! \NGojou Satoru in person!
+Dialogue: 0,0:16:11.32,0:16:12.50,Main,Gojou,0000,0000,0000,,Feel free.
+Dialogue: 0,0:16:12.99,0:16:15.01,Main,Gojou,0000,0000,0000,,I don't plan to chat for long.
+Dialogue: 0,0:16:17.26,0:16:19.88,Italics,Miwa,0000,0000,0000,,He spoke! He spoke to me!
+Dialogue: 0,0:16:22.02,0:16:26.24,Main,Gojou,0000,0000,0000,,Last night, I was attacked by two \Nunregistered special-grade cursed spirits.
+Dialogue: 0,0:16:26.24,0:16:29.57,Main,Gakuganji,0000,0000,0000,,Oh? That is unfortunate.
+Dialogue: 0,0:16:30.23,0:16:31.77,Main,Gojou,0000,0000,0000,,Don't get me wrong here.
+Dialogue: 0,0:16:32.12,0:16:35.78,Main,Gojou,0000,0000,0000,,To me, it was about like being coerced \Ninto taking a survey in the city.
+Dialogue: 0,0:16:37.32,0:16:39.03,Italics,Miwa,0000,0000,0000,,So cool!
+Dialogue: 0,0:16:40.27,0:16:43.63,Main,Gojou,0000,0000,0000,,The two cursed spirits were \Ncapable of communication,
+Dialogue: 0,0:16:43.63,0:16:46.28,Main,Gojou,0000,0000,0000,,and they probably have \Nallies who are just as strong.
+Dialogue: 0,0:16:48.99,0:16:50.81,Main,Gojou,0000,0000,0000,,It's not just our enemies, either.
+Dialogue: 0,0:16:50.81,0:16:53.69,Main,Gojou,0000,0000,0000,,Hakari, Okkotsu, and your Toudou...
+Dialogue: 0,0:16:54.18,0:16:57.71,Main,Gojou,0000,0000,0000,,The level of our students has risen \Ndrastically in recent years, as well.
+Dialogue: 0,0:16:59.35,0:17:02.61,Main,Gojou,0000,0000,0000,,Then there was last year's \Nincident with Getou Suguru...
+Dialogue: 0,0:17:06.26,0:17:09.60,Main,Gojou,0000,0000,0000,,And now, the appearance of Sukuna's vessel.
+Dialogue: 0,0:17:10.74,0:17:12.44,Main,Gakuganji,0000,0000,0000,,What are you trying to say?
+Dialogue: 0,0:17:13.48,0:17:14.34,Main,Gojou,0000,0000,0000,,You don't know?
+Dialogue: 0,0:17:14.98,0:17:17.89,Main,Gojou,0000,0000,0000,,The wave of power you guys \Nhave been trying to hold back
+Dialogue: 0,0:17:17.89,0:17:20.06,Main,Gojou,0000,0000,0000,,with your pointless status and traditions
+Dialogue: 0,0:17:20.06,0:17:23.36,Main,Gojou,0000,0000,0000,,has grown bigger than you can handle \Nand is now descending upon us.
+Dialogue: 0,0:17:24.06,0:17:25.73,Main,Gojou,0000,0000,0000,,You won't be able to measure
+Dialogue: 0,0:17:25.73,0:17:28.32,Main,Gojou,0000,0000,0000,,the coming age with the \Nclassification of "special-grade."
+Dialogue: 0,0:17:28.70,0:17:31.92,Main,Gojou,0000,0000,0000,,If you think I'm the only \None who'll be fighting back,
+Dialogue: 0,0:17:31.92,0:17:34.56,Main,Gojou,0000,0000,0000,,you're going to get hurt, old man.
+Dialogue: 0,0:17:35.09,0:17:39.83,Main,Gakuganji,0000,0000,0000,,I think you are getting a bit out of line.
+Dialogue: 0,0:17:40.14,0:17:41.83,Main,Gojou,0000,0000,0000,,Oh, scary!
+Dialogue: 0,0:17:42.10,0:17:45.32,Main,Gojou,0000,0000,0000,,Well, that's all I wanted to say. \NI'll be going now.
+Dialogue: 0,0:17:50.58,0:17:53.35,Main,Gojou,0000,0000,0000,,Oh, Principal Yaga will be \Ncoming in about two hours.
+Dialogue: 0,0:17:53.35,0:17:54.71,Main,Gojou,0000,0000,0000,,Later!
+Dialogue: 0,0:17:55.31,0:17:56.33,Italics,Miwa,0000,0000,0000,,Two hours?!
+Dialogue: 0,0:18:01.18,0:18:04.17,Main,Gakuganji,0000,0000,0000,,Miwa, would you go buy me some tea?
+Dialogue: 0,0:18:04.17,0:18:04.73,Main,Miwa,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:18:08.52,0:18:09.84,Main,Miwa,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:18:15.23,0:18:18.32,Italics,Miwa,0000,0000,0000,,If I can catch up to him, I'll get \Nhim to take a picture with me!
+Dialogue: 0,0:18:18.32,0:18:21.32,Main,Sign,0000,0000,0000,,{\fs16\fnTimes New Roman\shad0\c&H6A6B69&\3c&HEEF0EC&\frx0\fry338\frz5.944\pos(410.667,241.334)}Takada-chan Personal Handshake Event
+Dialogue: 0,0:18:23.57,0:18:26.14,Main,Toudou,0000,0000,0000,,Give me a Taka-tan Beam, please!
+Dialogue: 0,0:18:26.56,0:18:28.91,Main,Takada,0000,0000,0000,,Okay, here I go!
+Dialogue: 0,0:18:29.40,0:18:32.12,Main,Takada,0000,0000,0000,,Tan, Taka-tan!
+Dialogue: 0,0:18:36.43,0:18:37.74,Main,Staff,0000,0000,0000,,Time's up.
+Dialogue: 0,0:18:39.43,0:18:43.26,sign_26840_306_One_Month_Later,Screen,0000,0000,0000,,{\fad(1,2000)}One {\alpha&HFF&\t(147,188,1 \alpha&H00&)}Month {\alpha&HFF&\t(356,397,1 \alpha&H00&)}Later
+Dialogue: 0,0:18:43.47,0:18:46.93,sign_26840_306_One_Month_Later,Screen,0000,0000,0000,,{\an7\move(164,274,164,250,779,861)\clip(148,75,198,322)\t(28,781,1 \clip(148,75,475,322)}Log\h\h\h\h\h——\h\h\hSeptember 2018
+Dialogue: 0,0:18:44.31,0:18:46.93,sign_26840_306_One_Month_Later,Screen,0000,0000,0000,,{\fscx70\an7\pos(296,280)\clip(270,275,326,310)\t(22,563,1 \clip(270,275,570,310)}Kanagawa Prefecture, Kawasaki City
+Dialogue: 0,0:18:44.89,0:18:46.93,sign_26840_306_One_Month_Later,Screen,0000,0000,0000,,{\an7\pos(296,310)\clip(270,300,322,375)\t(26,442,1 \clip(270,300,480,375)}Kinema Cinema
+Dialogue: 0,0:18:46.93,0:18:50.94,Main,SignBottom,0000,0000,0000,,{\pos(153.333,292)\fs14\c&H20192C&\3c&H4E4A54&}Ticket Sales
+Dialogue: 0,0:18:46.93,0:18:50.94,Main,SignDoor,0000,0000,0000,,{\fs10\c&H3E4145&\bord0\shad0\pos(86,321.333)\frx2\fry6\fay.07}Now Showing
+Dialogue: 0,0:18:50.94,0:18:52.90,sign_27116_312_Playing,SignHallDoor,0000,0000,0000,,{\fay.75\frz358.4\move(559,56,559,16)\frx28\fry336}Playing
+Dialogue: 0,0:19:10.42,0:19:15.38,sign_26840_306_One_Month_Later,Screen,0000,0000,0000,,{\fad(1,1024)\an7\move(170,274,170,250,689,855)\clip(148,75,198,322)\t(21,688,1 \clip(148,75,360,322)}After the showing,
+Dialogue: 0,0:19:11.25,0:19:15.38,sign_26840_306_One_Month_Later,Screen,0000,0000,0000,,{\fad(1,1024)\an7\pos(170,280)\clip(148,75,198,340)\t(26,1192,1 \clip(148,75,420,340)}three high school boys'
+Dialogue: 0,0:19:12.58,0:19:15.38,sign_26840_306_One_Month_Later,Screen,0000,0000,0000,,{\fad(1,1024)\pos(170,310)\an7\fscx80\clip(148,300,198,375)\t(30,1531,1 \clip(148,300,540,375)}disfigured corpses were discovered by staff
+Dialogue: 0,0:19:15.50,0:19:20.05,sign_26840_306_One_Month_Later,Screen,0000,0000,0000,,{\fscx80\an7\move(68,274,68,250,1698,1906)\clip(55,75,105,322)\t(30,1697,1 \clip(55,75,525,322)}Cause of death: increased cranial pressure and
+Dialogue: 0,0:19:17.38,0:19:20.05,sign_26840_306_One_Month_Later,Screen,0000,0000,0000,,{\an7\pos(202,280)\fscx80\clip(190,75,240,340)\t(26,1360,1 \clip(190,75,580,340)}respiratory paralysis due to cranial deformity
+Dialogue: 0,0:19:32.26,0:19:33.22,Main,Junpei,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:19:36.10,0:19:37.37,Main,Junpei,0000,0000,0000,,Did you do that?
+Dialogue: 0,0:19:39.35,0:19:41.16,Main,Junpei,0000,0000,0000,,In the theater?
+Dialogue: 0,0:19:45.21,0:19:48.66,Main,Mahito,0000,0000,0000,,Wow. You can see me?
+Dialogue: 0,0:20:02.37,0:20:04.18,Main,Nanami,0000,0000,0000,,It's a gruesome sight.
+Dialogue: 0,0:20:05.23,0:20:07.78,Main,Nanami,0000,0000,0000,,Are you ready to witness it, Itadori-kun?
+Dialogue: 0,0:21:52.44,0:21:53.96,Main,Miwa,0000,0000,0000,,Thank you so much!
+Dialogue: 0,0:21:53.96,0:21:55.66,Main,Gojou,0000,0000,0000,,You're welcome.
+Dialogue: 0,0:21:56.30,0:21:58.42,Main,Miwa,0000,0000,0000,,I got a photo!
+Dialogue: 0,0:22:12.27,0:22:13.07,Main,Gakuganji,0000,0000,0000,,My tea?
+Dialogue: 0,0:22:13.65,0:22:14.38,Main,Miwa,0000,0000,0000,,Ah!
+Dialogue: 0,0:22:15.02,0:22:17.52,sign_32727_342_Juju_Stroll,Screen&Three,0000,0000,0000,,Juju Stroll
+Dialogue: 0,0:22:17.52,0:22:19.02,Main,Sign,0000,0000,0000,,{\pos(366,93)\fs16\b1\fnArial\c&H292929&\bord0\shad0\fay.05}Personal Handshake Event
+Dialogue: 0,0:22:17.52,0:22:19.02,Main,Sign,0000,0000,0000,,{\fs16\b1\fnArial\c&HB16225&\bord0\shad0\fay.04\pos(370,238)}Event Hall
+Dialogue: 0,0:22:20.80,0:22:23.90,Main,Fan,0000,0000,0000,,Hey, that hot lady is looking \Nat us like we're garbage!
+Dialogue: 0,0:22:23.90,0:22:25.30,Main,Fan,0000,0000,0000,,Don't get turned on.
+Dialogue: 0,0:22:25.30,0:22:27.33,Main,Toudou,0000,0000,0000,,Mai, sorry to keep you waiting.
+Dialogue: 0,0:22:27.33,0:22:28.08,Main,Toudou,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:22:28.08,0:22:29.94,Main,Toudou,0000,0000,0000,,Did something unpleasant happen?
+Dialogue: 0,0:22:29.94,0:22:32.03,Main,Mai,0000,0000,0000,,Why don't you ask yourself that?
+Dialogue: 0,0:22:32.33,0:22:34.32,Main,Toudou,0000,0000,0000,,So this moment has finally come...
+Dialogue: 0,0:22:34.32,0:22:35.05,Main,Mai,0000,0000,0000,,Huh?
+Dialogue: 0,0:22:35.04,0:22:38.54,Main,Ticket,0000,0000,0000,,{\fad(605,1)\fnTimes New Roman\fs12\3c&H180591&\shad0\frz52.58\pos(145.998,309.334)}5 min
+Dialogue: 0,0:22:35.04,0:22:38.54,Main,Ticket,0000,0000,0000,,{\fad(605,1)\fs10\shad0\bord3\fscx89\fnTimes New Roman\c&H120490&\3c&HEBECEC&\frx348\fry4\pos(219.334,240.667)\frz46.45}8th single "Youth Mineral" Release Celebration
+Dialogue: 0,0:22:35.04,0:22:38.54,Main,Ticket,0000,0000,0000,,{\fad(605,1)\c&H54585A&\3c&HEDEFF6&\fnTimes New Roman\shad0\fs18\frx354\fry6\frz48.49\pos(210.666,282)}Takada-chan
+Dialogue: 0,0:22:35.54,0:22:36.54,Main,Mai,0000,0000,0000,,What's this?
+Dialogue: 0,0:22:36.54,0:22:38.56,Main,Toudou,0000,0000,0000,,For the next handshake event.
+Dialogue: 0,0:22:38.56,0:22:41.92,Main,Toudou,0000,0000,0000,,You should go experience how \Nwonderful Takada-chan is in person.
+Dialogue: 0,0:22:41.92,0:22:43.84,Italics,Mai,0000,0000,0000,,It's just plain annoying.
+Dialogue: 0,0:22:43.84,0:22:47.76,Main,Toudou,0000,0000,0000,,This is my duty as a fan... \NAs a future husband.
+Dialogue: 0,0:22:47.76,0:22:49.52,Italics,Mai,0000,0000,0000,,That's just plain creepy.
+Dialogue: 0,0:22:49.52,0:22:53.82,Italics,Mai,0000,0000,0000,,But if I reject his offer, \Nhe'll get even more annoying.
+Dialogue: 0,0:22:53.82,0:22:54.93,Main,Toudou,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:22:59.88,0:23:01.44,Main,Mai,0000,0000,0000,,Yeah, sure.
+Dialogue: 0,0:23:02.64,0:23:03.64,Main,Staff,0000,0000,0000,,Huh?!
+Dialogue: 0,0:23:04.44,0:23:07.04,Main,Takada,0000,0000,0000,,Wow, a girl!
+Dialogue: 0,0:23:07.04,0:23:08.88,Main,Takada,0000,0000,0000,,It's your first time, right?
+Dialogue: 0,0:23:08.88,0:23:09.95,Main,Mai,0000,0000,0000,,Yeah.
+Dialogue: 0,0:23:10.22,0:23:11.83,Main,Takada,0000,0000,0000,,What's your name?
+Dialogue: 0,0:23:11.83,0:23:12.76,Main,Mai,0000,0000,0000,,Mai.
+Dialogue: 0,0:23:13.82,0:23:15.85,Main,Takada,0000,0000,0000,,Mai-chan, are you tired?
+Dialogue: 0,0:23:15.85,0:23:17.62,Main,Takada,0000,0000,0000,,Did you wait long?
+Dialogue: 0,0:23:17.62,0:23:20.22,Main,Mai,0000,0000,0000,,It was more the people than the line...
+Dialogue: 0,0:23:20.57,0:23:23.49,Main,Takada,0000,0000,0000,,Then come back again \Nwhen you're feeling better.
+Dialogue: 0,0:23:23.89,0:23:26.47,Main,Takada,0000,0000,0000,,I'll remember you, Mai-chan.
+Dialogue: 0,0:23:27.35,0:23:28.77,Main,Toudou,0000,0000,0000,,You're back, Mai?
+Dialogue: 0,0:23:29.35,0:23:30.41,Main,Toudou,0000,0000,0000,,How was it?
+Dialogue: 0,0:23:30.94,0:23:31.97,Main,Mai,0000,0000,0000,,Fine.
+Dialogue: 0,0:23:33.28,0:23:37.84,Main,Toudou,0000,0000,0000,,True, Takada-chan isn't a woman \Nthat can so easily be put into words.
+Dialogue: 0,0:23:40.90,0:23:44.32,Main,Mai,0000,0000,0000,,She's not bad...
+Dialogue: 0,0:23:51.57,0:23:54.99,Next_Ep_Title,Screen,0000,0000,0000,,{\fad(1027,1)}Episode 9:\NSmall Fry and Reverse Retribution

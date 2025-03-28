@@ -1,0 +1,333 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,56,&H00000000,&H000000FF,&H00B7BD80,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H28FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0028,0050,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.00,0:00:08.00,Ep_Title_Shadow,,0000,0000,0000,,{\fad(524,605)\pos(612,310)\fs20}Episode 19:  {\fs24}Black Flash
+Dialogue: 0,0:00:01.00,0:00:08.00,Ep_Title,,0000,0000,0000,,{\fad(524,605)\pos(612,310)\fs20}Episode 19:  {\fs24}Black Flash
+Dialogue: 0,0:00:11.10,0:00:13.59,Main,Fushiguro,0000,0000,0000,,Are you all right, Inumaki-senpai?
+Dialogue: 0,0:00:13.59,0:00:14.76,Main,Toge,0000,0000,0000,,Salmon.
+Dialogue: 0,0:00:15.56,0:00:16.63,Main,Kamo,0000,0000,0000,,Here it comes!
+Dialogue: 0,0:00:17.51,0:00:18.45,Main,Toge,0000,0000,0000,,Stop.
+Dialogue: 0,0:00:20.72,0:00:21.46,Main,Kamo,0000,0000,0000,,Convergence!
+Dialogue: 0,0:00:21.88,0:00:22.98,Main,Kamo,0000,0000,0000,,Piercing Blood!
+Dialogue: 0,0:00:25.76,0:00:27.54,Italics,Fushiguro,0000,0000,0000,,He wounded it?
+Dialogue: 0,0:00:27.99,0:00:30.87,Italics,Fushiguro,0000,0000,0000,,So he wasn't serious at all \Nwhen he fought me, then?
+Dialogue: 0,0:00:32.25,0:00:34.92,Main,Kamo,0000,0000,0000,,Hurry! He's just gonna heal right away!
+Dialogue: 0,0:00:37.25,0:00:38.74,Italics,Kamo,0000,0000,0000,,Inumaki will stop it,
+Dialogue: 0,0:00:38.74,0:00:41.33,Italics,,0000,0000,0000,,we'll attack, and then \Nwe'll get away from it.
+Dialogue: 0,0:00:41.33,0:00:44.20,Italics,Kamo,0000,0000,0000,,Then we repeat that as we \Ntry to get outside this veil
+Dialogue: 0,0:00:44.20,0:00:46.07,Italics,,0000,0000,0000,,and rejoin the principal and the others.
+Dialogue: 0,0:00:47.34,0:00:50.92,Italics,Kamo,0000,0000,0000,,But there's no telling when the \Ncurrent balance will fall apart.
+Dialogue: 0,0:00:53.40,0:00:55.93,Italics,Kamo,0000,0000,0000,,His cursed speech isn't \Naffecting it much anyway,
+Dialogue: 0,0:00:55.93,0:00:58.35,Italics,Kamo,0000,0000,0000,,and we're not getting a chance \Nto contact the teachers.
+Dialogue: 0,0:00:59.35,0:01:03.51,Italics,Kamo,0000,0000,0000,,If it figures out how to deal with \Nhis cursed speech, we're finished.
+Dialogue: 0,0:01:06.38,0:01:07.36,Main,Kamo,0000,0000,0000,,Hurry!
+Dialogue: 0,0:01:10.13,0:01:12.53,Italics,Kamo,0000,0000,0000,,We don't know what \Nthe cursed spirit's after.
+Dialogue: 0,0:01:12.53,0:01:14.25,Italics,Kamo,0000,0000,0000,,There's a chance the principal and
+Dialogue: 0,0:01:14.25,0:01:17.48,Italics,Kamo,0000,0000,0000,,the other sorcerers stationed at \NJujutsu Tech haven't taken action.
+Dialogue: 0,0:01:18.93,0:01:20.67,Italics,Kamo,0000,0000,0000,,I'd like to quickly rejoin Toudou,
+Dialogue: 0,0:01:20.67,0:01:24.29,Italics,Kamo,0000,0000,0000,,or at the very least, Miwa, but...
+Dialogue: 0,0:01:35.63,0:01:37.36,Main,Fushiguro,0000,0000,0000,,Inumaki-senpai will stop it.
+Dialogue: 0,0:01:37.36,0:01:38.71,Main,Fushiguro,0000,0000,0000,,Don't worry! Just go!
+Dialogue: 0,0:01:39.68,0:01:40.43,Main,Toge,0000,0000,0000,,St—
+Dialogue: 0,0:01:49.09,0:01:51.56,Italics,Kamo,0000,0000,0000,,He's the one hitting his limit first?!
+Dialogue: 0,0:02:00.74,0:02:02.80,Main,Fushiguro,0000,0000,0000,,Are you alive, Kamo-san?
+Dialogue: 0,0:02:06.83,0:02:10.65,Italics,Fushiguro,0000,0000,0000,,He wasn't using powerful words, \Nbut it still destroyed his throat.
+Dialogue: 0,0:02:11.21,0:02:14.85,Italics,Fushiguro,0000,0000,0000,,It's just that much stronger!
+Dialogue: 0,0:02:22.64,0:02:23.72,Main,Toge,0000,0000,0000,,Mustard leaf.
+Dialogue: 0,0:02:26.21,0:02:27.69,Main,Fushiguro,0000,0000,0000,,Inumaki-senpai...
+Dialogue: 0,0:02:28.37,0:02:29.68,Main,Fushiguro,0000,0000,0000,,That's enough!
+Dialogue: 0,0:02:40.36,0:02:41.66,Main,Toge,0000,0000,0000,,Blast away!
+Dialogue: 0,0:03:00.12,0:03:03.18,Main,Hanami,0000,0000,0000,,You can't cut me with that dull blade.
+Dialogue: 0,0:03:16.58,0:03:19.40,Italics,Fushiguro,0000,0000,0000,,Its eye trees are more \Nfragile than the rest!
+Dialogue: 0,0:03:19.86,0:03:22.91,Main,Hanami,0000,0000,0000,,Now this sword isn't so bad.
+Dialogue: 0,0:03:27.17,0:03:29.03,Main,Maki,0000,0000,0000,,I have something even better.
+Dialogue: 0,0:03:30.13,0:03:34.21,Main,Maki,0000,0000,0000,,This one feels disgusting to use, though.
+Dialogue: 0,0:03:37.58,0:03:41.54,Italics,Ijichi,0000,0000,0000,,"Cursed tools" refers to \Nweapons imbued with curses.
+Dialogue: 0,0:03:42.82,0:03:45.44,Italics,Ijichi,0000,0000,0000,,Based on their force and effects,
+Dialogue: 0,0:03:45.44,0:03:49.72,Italics,Ijichi,0000,0000,0000,,they're divided into grades one\Nthrough four, just like sorcerers.
+Dialogue: 0,0:03:50.31,0:03:52.60,Italics,Ijichi,0000,0000,0000,,The higher a cursed tool's grade,
+Dialogue: 0,0:03:52.60,0:03:56.26,Italics,Ijichi,0000,0000,0000,,the greater the advantage it \Nprovides in jujutsu combat.
+Dialogue: 0,0:03:57.33,0:04:00.24,Main,Maki,0000,0000,0000,,Megumi, make absolutely \Nsure you don't lose that.
+Dialogue: 0,0:04:00.24,0:04:01.66,Main,Fushiguro,0000,0000,0000,,I won't lose it.
+Dialogue: 0,0:04:02.24,0:04:04.79,Main,Maki,0000,0000,0000,,If you sold it, you'd get \Nat least five billion for it.
+Dialogue: 0,0:04:04.79,0:04:05.76,Main,Fushiguro,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:06.16,0:04:07.49,Italics,Maki,0000,0000,0000,,Special-grade cursed tool:
+Dialogue: 0,0:04:07.80,0:04:09.14,Italics,Maki,0000,0000,0000,,Playful Cloud!
+Dialogue: 0,0:04:24.21,0:04:26.96,Main,Hanami,0000,0000,0000,,Indeed, that is a good weapon.
+Dialogue: 0,0:04:28.89,0:04:29.98,Italics,Fushiguro,0000,0000,0000,,Demon Dog...
+Dialogue: 0,0:04:31.06,0:04:35.48,Italics,Fushiguro,0000,0000,0000,,With the exception of my expanded \Ntechnique, Bottomless Well,
+Dialogue: 0,0:04:35.77,0:04:38.22,Italics,Fushiguro,0000,0000,0000,,if any of my ten shikigami \Nare completely destroyed,
+Dialogue: 0,0:04:38.22,0:04:40.91,Italics,Fushiguro,0000,0000,0000,,I can never manifest them again.
+Dialogue: 0,0:04:44.92,0:04:49.92,Italics,Fushiguro,0000,0000,0000,,However, the power and techniques \Nof the destroyed shikigami
+Dialogue: 0,0:04:52.97,0:04:55.49,Italics,Fushiguro,0000,0000,0000,,are passed on to the others.
+Dialogue: 0,0:04:59.26,0:05:00.64,Italics,Fushiguro,0000,0000,0000,,...Totality!
+Dialogue: 0,0:05:06.61,0:05:07.82,Italics,Hanami,0000,0000,0000,,It's fast.
+Dialogue: 0,0:05:07.82,0:05:10.31,Italics,Hanami,0000,0000,0000,,It's trying to take off \Nmy wounded arm first?
+Dialogue: 0,0:05:12.55,0:05:15.60,Italics,Hanami,0000,0000,0000,,The sorcerer boy is in the forest...
+Dialogue: 0,0:05:20.16,0:05:21.60,Italics,Hanami,0000,0000,0000,,The boy's sword!
+Dialogue: 0,0:05:24.78,0:05:26.04,Main,Fushiguro,0000,0000,0000,,Maki-san!
+Dialogue: 0,0:05:34.86,0:05:37.70,Main,Fushiguro,0000,0000,0000,,Please don't ever make me use \Nthat three-section staff again!
+Dialogue: 0,0:05:38.24,0:05:39.67,Main,Fushiguro,0000,0000,0000,,It's too hard to use!
+Dialogue: 0,0:05:39.67,0:05:41.10,Main,Maki,0000,0000,0000,,It's handy once you get used—
+Dialogue: 0,0:05:41.42,0:05:42.53,Main,Maki,0000,0000,0000,,Megumi!
+Dialogue: 0,0:05:47.64,0:05:48.68,Main,Fushiguro,0000,0000,0000,,Maki-san!
+Dialogue: 0,0:05:48.96,0:05:51.26,Italics,Fushiguro,0000,0000,0000,,Damn it! All because I screwed up!
+Dialogue: 0,0:05:53.79,0:05:56.55,Main,Hanami,0000,0000,0000,,My strike was aimed for your heart.
+Dialogue: 0,0:05:56.55,0:05:58.77,Main,Hanami,0000,0000,0000,,What a wonderful reaction.
+Dialogue: 0,0:05:59.88,0:06:04.61,Main,Hanami,0000,0000,0000,,Jujutsu sorcerers are \Nextraordinarily compassionate.
+Dialogue: 0,0:06:04.61,0:06:08.67,Main,Hanami,0000,0000,0000,,An opening is always created \Nwhen their ally is injured.
+Dialogue: 0,0:06:11.72,0:06:13.01,Italics,Maki,0000,0000,0000,,It's destroyed?!
+Dialogue: 0,0:06:13.42,0:06:16.69,Italics,Maki,0000,0000,0000,,No, Megumi released the technique!
+Dialogue: 0,0:06:17.67,0:06:20.66,Main,Hanami,0000,0000,0000,,You shouldn't use cursed techniques anymore.
+Dialogue: 0,0:06:21.57,0:06:25.54,Main,Hanami,0000,0000,0000,,The bud embedded in you loves cursed energy.
+Dialogue: 0,0:06:25.54,0:06:30.68,Main,Hanami,0000,0000,0000,,The more you use techniques, the deeper \Nits roots will extend into your body.
+Dialogue: 0,0:06:31.06,0:06:32.92,Main,Fushiguro,0000,0000,0000,,How kind of you to warn me.
+Dialogue: 0,0:06:32.92,0:06:35.18,Main,Fushiguro,0000,0000,0000,,You're planning to kill us anyway, though.
+Dialogue: 0,0:06:35.64,0:06:39.42,Main,Hanami,0000,0000,0000,,Apparently, it works faster \Nwhen I explain it.
+Dialogue: 0,0:06:41.02,0:06:43.22,Main,Hanami,0000,0000,0000,,You move well.
+Dialogue: 0,0:06:48.85,0:06:52.50,Main,Hanami,0000,0000,0000,,But you're missing the edge you had earlier.
+Dialogue: 0,0:06:59.54,0:07:01.70,Italics,Fushiguro,0000,0000,0000,,Wring out that cursed energy,
+Dialogue: 0,0:07:02.29,0:07:04.41,Italics,Fushiguro,0000,0000,0000,,even if it rips my stomach open!
+Dialogue: 0,0:07:06.41,0:07:08.69,Italics,Fushiguro,0000,0000,0000,,I'm not like everyone else.
+Dialogue: 0,0:07:09.57,0:07:11.81,Italics,Fushiguro,0000,0000,0000,,I choose who I protect.
+Dialogue: 0,0:07:13.47,0:07:16.32,Italics,Fushiguro,0000,0000,0000,,I shoulder the least responsibility!
+Dialogue: 0,0:07:16.93,0:07:18.20,Italics,Fushiguro,0000,0000,0000,,Therefore...
+Dialogue: 0,0:07:19.48,0:07:25.50,Italics,Fushiguro,0000,0000,0000,,I'm not allowed to fall before anyone else!
+Dialogue: 0,0:07:28.62,0:07:30.51,Main,Maki,0000,0000,0000,,Megumi, stop!
+Dialogue: 0,0:07:35.19,0:07:37.94,Main,Maki,0000,0000,0000,,Our job is done.
+Dialogue: 0,0:07:37.94,0:07:39.92,Main,Maki,0000,0000,0000,,It's time to tag out.
+Dialogue: 0,0:07:55.64,0:07:58.58,Main,Toudou,0000,0000,0000,,You good to go, my friend?
+Dialogue: 0,0:08:02.22,0:08:02.96,Main,Yuuji,0000,0000,0000,,Yeah!
+Dialogue: 0,0:09:24.02,0:09:27.77,Show_Title,,0000,0000,0000,,{\fad(1398,1)\c&H0F0D09&\3c&HB7BD80&\t(1236,1817,1 \3c&H85A2A4&)\t(1819,2945,1 \3c&H95DED9&)}JUJUTSU KAISEN
+Dialogue: 0,0:09:39.46,0:09:41.08,Main,Momo,0000,0000,0000,,So heavy...
+Dialogue: 0,0:09:41.89,0:09:45.06,Italics,Momo,0000,0000,0000,,I can't believe these two \Nwere beaten this badly.
+Dialogue: 0,0:09:45.74,0:09:48.36,Main,Momo,0000,0000,0000,,We're counting on you, Toudou-kun.
+Dialogue: 0,0:09:49.46,0:09:53.12,Main,Momo,0000,0000,0000,,Your strength is the one thing \Nyou've got going for you.
+Dialogue: 0,0:09:57.54,0:09:59.54,Main,Fushiguro,0000,0000,0000,,Stop, Itadori!
+Dialogue: 0,0:09:59.54,0:10:01.70,Main,Fushiguro,0000,0000,0000,,That's not something we can han—
+Dialogue: 0,0:10:05.14,0:10:06.12,Main,Toudou,0000,0000,0000,,Panda.
+Dialogue: 0,0:10:06.12,0:10:07.54,Main,Panda,0000,0000,0000,,Yeah?
+Dialogue: 0,0:10:09.07,0:10:11.78,Main,Toudou,0000,0000,0000,,Take those two and exit the veil.
+Dialogue: 0,0:10:11.78,0:10:16.37,Main,Toudou,0000,0000,0000,,According to Nishimiya, \Nthis is an anti-Gojou Satoru veil,
+Dialogue: 0,0:10:16.37,0:10:19.28,Main,Toudou,0000,0000,0000,,so we can come and go without issue.
+Dialogue: 0,0:10:19.28,0:10:21.47,Main,Fushiguro,0000,0000,0000,,Wait! Even you can't—
+Dialogue: 0,0:10:21.47,0:10:22.50,Main,Yuuji,0000,0000,0000,,Fushiguro.
+Dialogue: 0,0:10:26.53,0:10:27.89,Main,Yuuji,0000,0000,0000,,It's okay.
+Dialogue: 0,0:10:27.89,0:10:29.17,Flashback,Yuuji,0000,0000,0000,,Please.
+Dialogue: 0,0:10:31.97,0:10:34.02,Main,Toudou,0000,0000,0000,,Looks like you've realized it.
+Dialogue: 0,0:10:34.02,0:10:38.77,Main,Toudou,0000,0000,0000,,Nobody is allowed to touch those \Nwho have started growing wings.
+Dialogue: 0,0:10:39.03,0:10:42.18,Main,Toudou,0000,0000,0000,,And that's exactly where \NItadori stands right now.
+Dialogue: 0,0:10:43.16,0:10:45.68,Main,Fushiguro,0000,0000,0000,,If you die again, I'll kill you myself!
+Dialogue: 0,0:10:45.68,0:10:48.04,Main,Panda,0000,0000,0000,,Okay, let's go.
+Dialogue: 0,0:10:48.98,0:10:50.41,Main,Panda,0000,0000,0000,,Pandash!
+Dialogue: 0,0:10:51.11,0:10:54.17,Main,Yuuji,0000,0000,0000,,Guess I can't afford to die now.
+Dialogue: 0,0:10:55.39,0:10:57.67,Main,Toudou,0000,0000,0000,,I won't lift a finger to help,
+Dialogue: 0,0:10:58.13,0:10:59.29,Main,Toudou,0000,0000,0000,,Itadori.
+Dialogue: 0,0:10:59.86,0:11:03.05,Main,Toudou,0000,0000,0000,,Not until you land a Black Flash.
+Dialogue: 0,0:11:03.85,0:11:05.74,Main,Toudou,0000,0000,0000,,If you can't land a Black Flash,
+Dialogue: 0,0:11:05.74,0:11:08.11,Main,Toudou,0000,0000,0000,,then I'll just watch you die,
+Dialogue: 0,0:11:08.11,0:11:10.81,Main,Toudou,0000,0000,0000,,no matter what happens to you.
+Dialogue: 0,0:11:11.59,0:11:12.31,Main,Yuuji,0000,0000,0000,,Got it!
+Dialogue: 0,0:11:12.99,0:11:17.77,Italics,Hanami,0000,0000,0000,,Sukuna's vessel and... Who is that man?
+Dialogue: 0,0:11:17.77,0:11:19.89,Italics,Hanami,0000,0000,0000,,He has a certain presence,
+Dialogue: 0,0:11:19.89,0:11:22.32,Italics,Hanami,0000,0000,0000,,but the amount of cursed energy he possesses
+Dialogue: 0,0:11:22.66,0:11:25.33,Italics,Hanami,0000,0000,0000,,is most definitely less than mine.
+Dialogue: 0,0:11:26.18,0:11:28.56,Italics,Hanami,0000,0000,0000,,However, he has that mysterious brazenness.
+Dialogue: 0,0:11:28.56,0:11:31.64,Italics,Hanami,0000,0000,0000,,He must have quite the technique,
+Dialogue: 0,0:11:31.64,0:11:34.85,Italics,Hanami,0000,0000,0000,,since I couldn't move carelessly before him.
+Dialogue: 0,0:11:35.38,0:11:37.59,Italics,Hanami,0000,0000,0000,,And what is this "Black Flash"?
+Dialogue: 0,0:11:38.47,0:11:40.49,Italics,Hanami,0000,0000,0000,,So, how will they attack?
+Dialogue: 0,0:11:43.06,0:11:46.30,Main,Yuuji,0000,0000,0000,,You can talk?
+Dialogue: 0,0:11:47.38,0:11:49.43,Main,Yuuji,0000,0000,0000,,There's something I want to ask you.
+Dialogue: 0,0:11:51.33,0:11:53.11,Main,Yuuji,0000,0000,0000,,Are you allied with
+Dialogue: 0,0:11:53.91,0:11:57.27,Main,Yuuji,0000,0000,0000,,a humanoid cursed spirit \Nwho has a patchwork face?
+Dialogue: 0,0:11:58.64,0:12:01.28,Main,Hanami,0000,0000,0000,,And if I say I am?
+Dialogue: 0,0:12:04.86,0:12:07.06,Italics,Hanami,0000,0000,0000,,He didn't carelessly close the distance.
+Dialogue: 0,0:12:07.06,0:12:09.21,Italics,Hanami,0000,0000,0000,,I commend him for that.
+Dialogue: 0,0:12:11.20,0:12:12.28,Italics,Hanami,0000,0000,0000,,He's fast!
+Dialogue: 0,0:12:12.28,0:12:15.08,Italics,Hanami,0000,0000,0000,,He has more explosive power \Nthan the earlier girl!
+Dialogue: 0,0:12:15.60,0:12:18.88,Italics,Hanami,0000,0000,0000,,However, its intensity is poor.
+Dialogue: 0,0:12:19.63,0:12:21.35,Italics,Yuuji,0000,0000,0000,,Its torso's wide open!
+Dialogue: 0,0:12:21.84,0:12:24.48,Italics,Yuuji,0000,0000,0000,,It's letting its guard down because I held back.
+Dialogue: 0,0:12:24.48,0:12:25.84,Italics,Yuuji,0000,0000,0000,,I can land it now!
+Dialogue: 0,0:12:26.21,0:12:27.28,Italics,Yuuji,0000,0000,0000,,Black Flash!
+Dialogue: 0,0:12:32.10,0:12:33.60,Italics,Yuuji,0000,0000,0000,,Damn it!
+Dialogue: 0,0:12:39.83,0:12:41.22,Main,Toudou,0000,0000,0000,,My friend.
+Dialogue: 0,0:12:44.66,0:12:49.08,Main,Toudou,0000,0000,0000,,Anger is an important trigger for sorcerers.
+Dialogue: 0,0:12:49.08,0:12:51.68,Main,Toudou,0000,0000,0000,,Sometimes they can be taken down
+Dialogue: 0,0:12:51.68,0:12:54.96,Main,,0000,0000,0000,,purely because they accidentally \Nangered their foe.
+Dialogue: 0,0:12:55.66,0:12:57.82,Main,Toudou,0000,0000,0000,,And the opposite is also true.
+Dialogue: 0,0:12:57.82,0:13:01.77,Main,Toudou,0000,0000,0000,,Sometimes they lose because their \Nown anger disrupts their cursed energy,
+Dialogue: 0,0:13:01.77,0:13:03.94,Main,,0000,0000,0000,,so they can't exercise their abilities.
+Dialogue: 0,0:13:04.77,0:13:06.69,Main,Toudou,0000,0000,0000,,Your friend has been wounded,
+Dialogue: 0,0:13:06.69,0:13:11.49,Main,Toudou,0000,0000,0000,,and worse yet, they've rained on your \Nhoneymoon with me, your best friend,
+Dialogue: 0,0:13:11.49,0:13:16.50,Main,Toudou,0000,0000,0000,,so I can really understand \Nwhy you'd be boiling with rage.
+Dialogue: 0,0:13:17.36,0:13:20.44,Main,Toudou,0000,0000,0000,,But that rage is too much for you.
+Dialogue: 0,0:13:21.14,0:13:23.01,Main,Toudou,0000,0000,0000,,Put it away for now.
+Dialogue: 0,0:13:26.19,0:13:28.95,Italics,Hanami,0000,0000,0000,,Are they fighting each other?
+Dialogue: 0,0:13:30.00,0:13:32.95,Main,Toudou,0000,0000,0000,,Are those stray thoughts gone now?
+Dialogue: 0,0:13:34.56,0:13:37.12,Main,Yuuji,0000,0000,0000,,Yeah, not a single one left.
+Dialogue: 0,0:13:37.87,0:13:41.25,Main,Yuuji,0000,0000,0000,,Thank you so much, best friend!
+Dialogue: 0,0:13:43.38,0:13:45.00,Italics,Toudou,0000,0000,0000,,Black Flash.
+Dialogue: 0,0:13:45.00,0:13:49.52,Italics,Toudou,0000,0000,0000,,It's a distortion of space born \Nfrom the impact of cursed energy
+Dialogue: 0,0:13:49.52,0:13:54.18,Italics,,0000,0000,0000,,delivered within a trillionth \Nof a second of a blow.
+Dialogue: 0,0:13:54.82,0:13:58.69,Italics,Toudou,0000,0000,0000,,It delivers 2.5 times the \Nforce of a normal strike.
+Dialogue: 0,0:13:59.15,0:14:03.24,Italics,Toudou,0000,0000,0000,,There are no sorcerers who can \Nconsistently use Black Flash.
+Dialogue: 0,0:14:03.84,0:14:05.69,Italics,Toudou,0000,0000,0000,,However...
+Dialogue: 0,0:14:06.20,0:14:10.72,Italics,Toudou,0000,0000,0000,,Between those who have experienced \NBlack Flash and those who have not,
+Dialogue: 0,0:14:10.72,0:14:15.70,Italics,Toudou,0000,0000,0000,,their distance from the core of cursed energy \Nis like that of Heaven from Earth.
+Dialogue: 0,0:14:21.73,0:14:24.00,Italics,Hanami,0000,0000,0000,,What tremendous concentration...
+Dialogue: 0,0:14:24.48,0:14:30.97,Italics,Toudou,0000,0000,0000,,The instant cursed energy impacts \Nwithin a trillionth of a second of a blow,
+Dialogue: 0,0:14:33.00,0:14:34.56,Italics,Toudou,0000,0000,0000,,space is distorted...
+Dialogue: 0,0:14:35.24,0:14:37.77,Italics,Toudou,0000,0000,0000,,and cursed energy flashes black.
+Dialogue: 0,0:14:38.66,0:14:39.92,Main,Yuuji,0000,0000,0000,,Black Flash!
+Dialogue: 0,0:14:43.92,0:14:45.09,Italics,Hanami,0000,0000,0000,,Wha—
+Dialogue: 0,0:14:50.98,0:14:52.42,Main,Toudou,0000,0000,0000,,He's grown.
+Dialogue: 0,0:14:56.19,0:14:58.98,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:15:01.63,0:15:03.96,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:15:10.88,0:15:12.59,Main,Toudou,0000,0000,0000,,He's grown.
+Dialogue: 0,0:15:16.95,0:15:20.10,Main,Yuuji,0000,0000,0000,,That was... Black Flash?
+Dialogue: 0,0:15:21.35,0:15:23.04,Italics,Yuuji,0000,0000,0000,,What?
+Dialogue: 0,0:15:23.04,0:15:26.85,Italics,,0000,0000,0000,,This is my cursed energy, right?
+Dialogue: 0,0:15:26.85,0:15:30.11,Main,Toudou,0000,0000,0000,,Now you understand \Nthe taste of cursed energy.
+Dialogue: 0,0:15:34.37,0:15:36.08,Main,Toudou,0000,0000,0000,,Up until now,
+Dialogue: 0,0:15:36.08,0:15:41.25,Main,,0000,0000,0000,,you've just been throwing an \Ningredient you've never tasted before
+Dialogue: 0,0:15:41.25,0:15:44.08,Main,,0000,0000,0000,,into a pot and boiling it \Nwithout knowing why.
+Dialogue: 0,0:15:44.56,0:15:47.25,Main,Toudou,0000,0000,0000,,But after experiencing Black Flash
+Dialogue: 0,0:15:47.25,0:15:51.09,Main,Toudou,0000,0000,0000,,and understanding the taste of \Nyour ingredient, your cursed energy,
+Dialogue: 0,0:15:51.48,0:15:56.60,Main,Toudou,0000,0000,0000,,you stand on a completely different level \Nas a chef than you did three seconds ago.
+Dialogue: 0,0:15:57.24,0:16:00.10,Main,Toudou,0000,0000,0000,,Congratulations, brother.
+Dialogue: 0,0:16:00.69,0:16:02.90,Main,Toudou,0000,0000,0000,,You can become strong.
+Dialogue: 0,0:16:04.18,0:16:09.82,Italics,Hanami,0000,0000,0000,,I had heard that Sukuna's vessel \Nwas immature as a sorcerer,
+Dialogue: 0,0:16:09.82,0:16:12.77,Italics,Hanami,0000,0000,0000,,but he and this mysterious man...
+Dialogue: 0,0:16:12.77,0:16:15.91,Italics,Hanami,0000,0000,0000,,Something about them is different \Nfrom the other masses.
+Dialogue: 0,0:16:16.62,0:16:18.54,Main,Yuuji,0000,0000,0000,,It can heal?!
+Dialogue: 0,0:16:18.54,0:16:21.41,Main,Toudou,0000,0000,0000,,A cursed spirit's body is made \Nup of cursed energy.
+Dialogue: 0,0:16:22.04,0:16:27.21,Main,Toudou,0000,0000,0000,,Unlike us, they don't need any advanced \Nreversed cursed technique to heal.
+Dialogue: 0,0:16:27.70,0:16:31.63,Main,Toudou,0000,0000,0000,,An injury like that is \Nnothing to a special-grade.
+Dialogue: 0,0:16:32.00,0:16:35.47,Main,Toudou,0000,0000,0000,,But there's no doubt that it \Nshaves away their cursed energy,
+Dialogue: 0,0:16:35.47,0:16:38.39,Main,Toudou,0000,0000,0000,,and if you crush their head, it's game-set.
+Dialogue: 0,0:16:39.13,0:16:42.39,Main,Toudou,0000,0000,0000,,Now, shall we get cooking?
+Dialogue: 0,0:16:44.15,0:16:47.90,Main,Hanami,0000,0000,0000,,It would seem that
+Dialogue: 0,0:16:49.32,0:16:53.35,Main,Hanami,0000,0000,0000,,I should take you two somewhat seriously.
+Dialogue: 0,0:17:12.21,0:17:14.47,Main,Yuuji,0000,0000,0000,,What a wide range of attack!
+Dialogue: 0,0:17:14.47,0:17:15.49,Main,Toudou,0000,0000,0000,,Don't falter!
+Dialogue: 0,0:17:15.49,0:17:17.68,Main,Toudou,0000,0000,0000,,That range means its force \Nand speed are weaker!
+Dialogue: 0,0:17:26.26,0:17:27.37,Italics,Hanami,0000,0000,0000,,That hit hard!
+Dialogue: 0,0:17:27.37,0:17:30.69,Italics,Hanami,0000,0000,0000,,Their blows aren't as bad as \Nthat flashy black one before,
+Dialogue: 0,0:17:31.09,0:17:36.70,Italics,Hanami,0000,0000,0000,,but each one possesses enough \Nforce to steadily damage me!
+Dialogue: 0,0:17:36.99,0:17:39.82,Main,Yuuji,0000,0000,0000,,Toudou! Let's match our timing better!
+Dialogue: 0,0:17:39.82,0:17:40.91,Main,Toudou,0000,0000,0000,,Yeah!
+Dialogue: 0,0:17:43.52,0:17:45.00,Main,Yuuji,0000,0000,0000,,Our footing!
+Dialogue: 0,0:17:45.00,0:17:46.37,Italics,Toudou,0000,0000,0000,,I messed up!
+Dialogue: 0,0:17:46.37,0:17:49.39,Italics,,0000,0000,0000,,I thought it was passing cursed \Nenergy through real objects
+Dialogue: 0,0:17:49.39,0:17:51.25,Italics,,0000,0000,0000,,to manipulate that much mass!
+Dialogue: 0,0:17:51.77,0:17:55.36,Italics,Toudou,0000,0000,0000,,But it's all the embodiment—\Nthe manifestation of its cursed energy!
+Dialogue: 0,0:17:55.36,0:17:57.26,Italics,Toudou,0000,0000,0000,,That's a special-grade for you!
+Dialogue: 0,0:17:57.89,0:18:01.14,Main,Hanami,0000,0000,0000,,Learn how great the land is!
+Dialogue: 0,0:18:01.36,0:18:04.09,Italics,Toudou,0000,0000,0000,,Attacking while we fall? That's brutal!
+Dialogue: 0,0:18:04.09,0:18:04.89,Italics,Toudou,0000,0000,0000,,However...
+Dialogue: 0,0:18:05.17,0:18:06.10,Main,Toudou,0000,0000,0000,,Brother!
+Dialogue: 0,0:18:05.17,0:18:06.10,Main,Yuuji,0000,0000,0000,,{\an8}Brother!
+Dialogue: 0,0:18:09.96,0:18:11.50,Italics,Hanami,0000,0000,0000,,They dodged that?!
+Dialogue: 0,0:18:11.93,0:18:13.47,Italics,Hanami,0000,0000,0000,,But what...
+Dialogue: 0,0:18:14.24,0:18:16.82,Italics,Hanami,0000,0000,0000,,What is this feeling?!
+Dialogue: 0,0:18:23.51,0:18:27.29,Flashback,Mahito,0000,0000,0000,,You know, Hanami, \Nyou should be more honest.
+Dialogue: 0,0:18:27.99,0:18:31.25,Flashback,Hanami,0000,0000,0000,,I don't believe I'm faking anything.
+Dialogue: 0,0:18:31.78,0:18:34.55,Flashback,Mahito,0000,0000,0000,,I don't mean to call you a liar.
+Dialogue: 0,0:18:35.10,0:18:37.83,Flashback,Mahito,0000,0000,0000,,I know why you're fighting.
+Dialogue: 0,0:18:37.83,0:18:39.78,Flashback,Mahito,0000,0000,0000,,But it's the process.
+Dialogue: 0,0:18:39.78,0:18:44.81,Flashback,Mahito,0000,0000,0000,,You should enjoy the battles, \Nthe present, much more.
+Dialogue: 0,0:18:45.62,0:18:48.25,Flashback,Hanami,0000,0000,0000,,Do you enjoy them?
+Dialogue: 0,0:18:48.25,0:18:49.57,Flashback,Mahito,0000,0000,0000,,Well, yeah.
+Dialogue: 0,0:18:49.57,0:18:50.81,Flashback,Mahito,0000,0000,0000,,Though...
+Dialogue: 0,0:18:51.38,0:18:57.57,Flashback,Mahito,0000,0000,0000,,It was only recently that the joy and pleasure \NI feel in battle became my motive.
+Dialogue: 0,0:18:57.92,0:19:02.27,Flashback,Mahito,0000,0000,0000,,Before I knew it, I was tricking, \Ndeceiving, and murdering,
+Dialogue: 0,0:19:02.27,0:19:04.83,Flashback,,0000,0000,0000,,and before I knew it, I felt fulfilled.
+Dialogue: 0,0:19:05.26,0:19:11.08,Flashback,Mahito,0000,0000,0000,,Just as humans eat, sleep, and screw, \NI think that's a curse's instinct.
+Dialogue: 0,0:19:11.89,0:19:15.22,Flashback,Mahito,0000,0000,0000,,We may have gained reason,
+Dialogue: 0,0:19:15.84,0:19:20.26,Flashback,Mahito,0000,0000,0000,,but that doesn't justify \Ngoing against our instincts.
+Dialogue: 0,0:19:22.21,0:19:25.60,Flashback,Mahito,0000,0000,0000,,The soul is a blend of instinct and reason.
+Dialogue: 0,0:19:26.91,0:19:31.35,Flashback,Mahito,0000,0000,0000,,No one can say anything \Nabout an individual's ratio.
+Dialogue: 0,0:19:31.86,0:19:35.60,Flashback,Mahito,0000,0000,0000,,But your soul's a little constrained.
+Dialogue: 0,0:19:37.20,0:19:40.68,Flashback,Mahito,0000,0000,0000,,Hanami, you're actually...
+Dialogue: 0,0:19:41.92,0:19:43.38,Flashback,Mahito,0000,0000,0000,,much stronger, aren't you?
+Dialogue: 0,0:19:45.55,0:19:47.26,Main,Yuuji,0000,0000,0000,,Ow...
+Dialogue: 0,0:19:48.21,0:19:49.62,Main,Yuuji,0000,0000,0000,,Toudou!
+Dialogue: 0,0:19:50.04,0:19:51.55,Main,Toudou,0000,0000,0000,,I'm fine!
+Dialogue: 0,0:20:07.44,0:20:09.27,Italics,Yuuji,0000,0000,0000,,It just expended so much cursed energy!
+Dialogue: 0,0:20:09.87,0:20:12.40,Italics,Toudou,0000,0000,0000,,Now's our chance to strike!
+Dialogue: 0,0:20:12.96,0:20:14.52,Italics,Toudou,0000,0000,0000,,You monster!
+Dialogue: 0,0:20:23.25,0:20:26.58,Italics,Hanami,0000,0000,0000,,Mahito, right now...
+Dialogue: 0,0:20:27.93,0:20:32.77,Italics,Hanami,0000,0000,0000,,I'm enjoying a fight!
+Dialogue: 0,0:20:35.04,0:20:36.96,Main,Toudou,0000,0000,0000,,You okay, brother?!
+Dialogue: 0,0:20:37.67,0:20:38.50,Main,Yuuji,0000,0000,0000,,No problemo!
+Dialogue: 0,0:20:38.50,0:20:39.64,Main,Toudou,0000,0000,0000,,Excellent!
+Dialogue: 0,0:20:39.64,0:20:44.24,Main,Toudou,0000,0000,0000,,Then it's time to unleash my technique!
+Dialogue: 0,0:22:14.97,0:22:17.48,sign_32727_342_Juju_Stroll,Both&Screen,0000,0000,0000,,Juju Stroll
+Dialogue: 0,0:22:17.48,0:22:19.37,Main,Kumiya,0000,0000,0000,,Coat rack!
+Dialogue: 0,0:22:19.37,0:22:23.36,Main,Kumiya,0000,0000,0000,,Going to make a great coat rack!
+Dialogue: 0,0:22:24.28,0:22:29.28,Main,Mahito,0000,0000,0000,,Hey, what kind of coat rack \Nwould Gojou Satoru be?
+Dialogue: 0,0:22:30.67,0:22:32.78,Main,Kumiya,0000,0000,0000,,Probably a standing coat rack.
+Dialogue: 0,0:22:33.49,0:22:39.33,Main,Kumiya,0000,0000,0000,,I'd use his hip bone with the sacral bone \Nand coccyx as the base for the stand,
+Dialogue: 0,0:22:39.33,0:22:42.53,Main,,0000,0000,0000,,then rework his femurs and \Nuse them to stabilize it.
+Dialogue: 0,0:22:43.50,0:22:47.05,Main,Kumiya,0000,0000,0000,,I'd use his spine's lumbar vertebrae, \Nthoracic vertebrae,
+Dialogue: 0,0:22:47.05,0:22:49.17,Main,Kumiya,0000,0000,0000,,and up to the third cervical vertebrae.
+Dialogue: 0,0:22:49.76,0:22:54.22,Main,Kumiya,0000,0000,0000,,To give it more height... let's see...\NAncient camphor wood would be good.
+Dialogue: 0,0:22:54.22,0:22:59.77,Main,Kumiya,0000,0000,0000,,I could alternate ancient camphor replicas \Nwith the bones to accentuate the height.
+Dialogue: 0,0:23:01.07,0:23:04.02,Main,Kumiya,0000,0000,0000,,Then I'd extend the spinous process
+Dialogue: 0,0:23:04.02,0:23:08.67,Main,,0000,0000,0000,,and transverse process based on the \Noverall balance to create the hangers.
+Dialogue: 0,0:23:12.00,0:23:15.03,Main,Kumiya,0000,0000,0000,,I'd do that by grafting on \Nmore ancient camphor.
+Dialogue: 0,0:23:15.90,0:23:20.62,Main,Kumiya,0000,0000,0000,,Depending on the coloring, it could be good \Nto cover the skull with tanned hide.
+Dialogue: 0,0:23:21.08,0:23:24.36,Main,Kumiya,0000,0000,0000,,Nice! Very nice!
+Dialogue: 0,0:23:24.36,0:23:28.53,Main,Kumiya,0000,0000,0000,,I'll be able to make a great coat rack!
+Dialogue: 0,0:23:28.53,0:23:29.93,Main,Mahito,0000,0000,0000,,No one needs it.
+Dialogue: 0,0:23:36.47,0:25:24.95,Next_Ep_Title,Screen,0000,0000,0000,,{\fad(982,1)}Episode 20: \NNonstandard

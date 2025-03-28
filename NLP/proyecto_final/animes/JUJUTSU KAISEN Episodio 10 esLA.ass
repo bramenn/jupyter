@@ -1,0 +1,355 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleEp,Times New Roman,24,&H00E7EAE4,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,7,0020,0028,0020,1
+Style: Cart_TitleNext,Times New Roman,22,&H00FCFFFF,&H000000FF,&H00313131,&H00313131,0,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0050,1
+Style: Cart_TitleSerie,Times New Roman,60,&H000F0063,&H000000FF,&H002F1595,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_C_TreNo,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.60,0:00:04.48,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(1400,0)\fs16\c&HE9E9E9&\3c&H242021&\4c&H242021&\pos(524,233)}Preparatoria Satozakura
+Dialogue: 0,0:00:04.48,0:00:07.48,Cart_C_Tim,Sign,0000,0000,0000,,{\shad0\3c&H958989&\c&H000000&\move(346,83,318,83)}Club de cine
+Dialogue: 0,0:00:07.48,0:00:11.61,Cart_A_Tre,Sign,0000,0000,0000,,{\c&H5A2FB6&\3c&H281F39&\fax-0.27\shad0\fscy120\fs18\frz11.94\move(292,165,292,184)}Superpelícula de miedo
+Dialogue: 0,0:00:07.98,0:00:11.61,Gen_Main,Friend,0000,0000,0000,,¿Qué? ¿{\i1}Superpelícula de miedo{\i0}\Nllegó hasta la cinco?
+Dialogue: 0,0:00:11.99,0:00:13.36,Gen_Main,Junpei,0000,0000,0000,,De hecho, fueron siete.
+Dialogue: 0,0:00:14.07,0:00:15.16,Gen_Main,Friend,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:00:15.32,0:00:17.87,Gen_Main,Friend,0000,0000,0000,,De seguro se quedaron sin ideas\Npara la séptima.
+Dialogue: 0,0:00:18.12,0:00:22.95,Gen_Main,Junpei,0000,0000,0000,,Cambió por completo para la séptima.\NYa ni era del género de parodia.
+Dialogue: 0,0:00:23.58,0:00:25.25,Gen_Main,Friend,0000,0000,0000,,¿Y de qué género era?
+Dialogue: 0,0:00:26.67,0:00:30.53,Gen_Main,Junpei,0000,0000,0000,,Una mezcla de comedia\Ncon horror genealógico.
+Dialogue: 0,0:00:30.67,0:00:31.82,Gen_Main,Friend,0000,0000,0000,,¿Qué diablos?
+Dialogue: 0,0:00:32.13,0:00:35.94,Gen_Main,Junpei,0000,0000,0000,,El nieto del protagonista\Nde la primera acaba viviendo
+Dialogue: 0,0:00:36.09,0:00:38.57,Gen_Main,Junpei,0000,0000,0000,,con el nieto del culpable de la segunda
+Dialogue: 0,0:00:38.72,0:00:42.35,Gen_Main,Junpei,0000,0000,0000,,y el nieto del que murió primero\Nen la tercera película.
+Dialogue: 0,0:00:42.52,0:00:46.77,Gen_Main,Junpei,0000,0000,0000,,Y como la casa está embrujada,\Nterminan llamando a un médium.
+Dialogue: 0,0:00:47.77,0:00:48.98,Gen_Main,Friend,0000,0000,0000,,Suena terrible.
+Dialogue: 0,0:00:49.15,0:00:51.02,Gen_Main,Junpei,0000,0000,0000,,Me mató del aburrimiento.
+Dialogue: 0,0:00:51.32,0:00:52.90,Gen_Main,Friend,0000,0000,0000,,¿Quién vería algo así?
+Dialogue: 0,0:00:53.28,0:00:56.56,Gen_Main,Junpei,0000,0000,0000,,Pero lo interesante fue\Nque el sujeto de la quinta y la sexta…
+Dialogue: 0,0:00:57.21,0:00:58.41,Gen_Main,Sayama,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:00:58.62,0:01:00.16,Gen_Main,Sayama,0000,0000,0000,,¿Qué hacen aquí?
+Dialogue: 0,0:01:00.70,0:01:04.66,Gen_Main,Sayama,0000,0000,0000,,¿No les dije que haríamos de esta\Nla sala de nuestro club?
+Dialogue: 0,0:01:05.12,0:01:10.37,Gen_Main,Junpei,0000,0000,0000,,Pero como no la estaban usando,\Npensé que no habría problema…
+Dialogue: 0,0:01:15.47,0:01:16.47,Gen_Main,Itou,0000,0000,0000,,¿Y?
+Dialogue: 0,0:01:17.22,0:01:18.84,Gen_Main,Junpei,0000,0000,0000,,Bueno, es que…
+Dialogue: 0,0:01:20.64,0:01:23.92,Gen_Main,Sayama,0000,0000,0000,,Ya lárguense de aquí, cucarachas.
+Dialogue: 0,0:01:24.81,0:01:26.75,Gen_Main,Friend,0000,0000,0000,,Vámonos, Yoshino.
+Dialogue: 0,0:01:29.90,0:01:32.40,Gen_Main,Honda,0000,0000,0000,,Para la próxima los mandaremos a volar.
+Dialogue: 0,0:01:32.94,0:01:34.31,Gen_Main,Nishimura,0000,0000,0000,,¡Oh, acerté!
+Dialogue: 0,0:01:34.49,0:01:36.43,Gen_Main,Friend,0000,0000,0000,,¡Oye, ¿qué crees que haces?!
+Dialogue: 0,0:01:40.07,0:01:41.28,Gen_Main,Itou,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:01:42.25,0:01:43.53,Gen_Main,Junpei,0000,0000,0000,,Pienso llevármelo.
+Dialogue: 0,0:01:54.51,0:01:56.60,Gen_Main,Junpei,0000,0000,0000,,Quita el pie.
+Dialogue: 0,0:01:59.84,0:02:01.82,Gen_Main,Friend,0000,0000,0000,,Vamos, no sigas…
+Dialogue: 0,0:02:03.64,0:02:05.00,Gen_Main,Junpei,0000,0000,0000,,Me lo llevaré a casa.
+Dialogue: 0,0:02:05.39,0:02:06.86,Gen_Main,Junpei,0000,0000,0000,,¿Podrías mover el pie?
+Dialogue: 0,0:02:18.20,0:02:20.00,Gen_Main,Friends,0000,0000,0000,,¡Esto es malo!
+Dialogue: 0,0:02:28.41,0:02:29.69,Gen_Main,Itou,0000,0000,0000,,Cierra la puerta.
+Dialogue: 0,0:02:30.25,0:02:31.40,Gen_Main,Honda,0000,0000,0000,,Entendido.
+Dialogue: 0,0:02:43.22,0:02:49.64,Cart_C_Tim,Sign,0000,0000,0000,,{\shad0\3c&H595452&\c&H000000&\pos(305,110)}Club de cine
+Dialogue: 0,0:03:00.07,0:03:06.99,Cart_TitleSerie,,0000,0000,0000,,{\blur1\fad(1191,431)\t(1192,1316,1 \c&H0700D7&\3c&H6659E4&)\t(1317,1941,1 \c&H172918&\3c&H8CCECB&)\t(6197,6529,1 \c&H0F0063&\3c&H222781&)}Jujutsu Kaisen
+Dialogue: 0,0:04:20.99,0:04:27.99,Cart_TitleEp,Screen,0000,0000,0000,,{\fad(529,530)}Episodio 10: {\fs24}Mutación Pasiva
+Dialogue: 0,0:04:30.58,0:04:34.20,Gen_Main,Junpei,0000,0000,0000,,¿Se estará pudriendo en el infierno\Nla primera persona que dijo
+Dialogue: 0,0:04:35.13,0:04:37.74,Gen_Main,Junpei,0000,0000,0000,,que lo contrario al afecto\Nes la indiferencia?
+Dialogue: 0,0:04:39.17,0:04:41.85,Gen_Main,Junpei,0000,0000,0000,,No puede ser\Nque tratar a otros con malicia
+Dialogue: 0,0:04:42.42,0:04:45.98,Gen_Main,Junpei,0000,0000,0000,,sea más apropiado\Nque dejarlos tranquilos.
+Dialogue: 0,0:04:47.47,0:04:49.57,Gen_Main,Junpei,0000,0000,0000,,"Lo contrario del afecto es el odio".
+Dialogue: 0,0:04:50.43,0:04:52.29,Gen_Main,Junpei,0000,0000,0000,,Los japoneses adoran decirlo.
+Dialogue: 0,0:04:53.02,0:04:56.52,Gen_Main,Junpei,0000,0000,0000,,Les encanta vanagloriarse\Ncomplicando una respuesta simple.
+Dialogue: 0,0:04:57.73,0:05:00.11,Gen_Main,Mahito,0000,0000,0000,,Quien acuñó esa frase no era japonés.
+Dialogue: 0,0:05:01.86,0:05:04.42,Gen_Main,Junpei,0000,0000,0000,,Me refiero al error de traducción.
+Dialogue: 0,0:05:05.99,0:05:09.84,Gen_Main,Junpei,0000,0000,0000,,La frase original era:
+Dialogue: 0,0:05:10.33,0:05:13.52,Gen_Main,Junpei,0000,0000,0000,,"Lo contrario del amor\Nes la indiferencia", ¿no?
+Dialogue: 0,0:05:15.04,0:05:20.99,Gen_Main,Junpei,0000,0000,0000,,Como "amor" tiene un sentido muy amplio,\N"indiferencia" sí cuenta como antónimo.
+Dialogue: 0,0:05:21.55,0:05:22.79,Gen_Main,Mahito,0000,0000,0000,,Supongo.
+Dialogue: 0,0:05:23.80,0:05:27.11,Gen_Main,Junpei,0000,0000,0000,,Pero en este país no se usa mucho\Nla palabra "amor".
+Dialogue: 0,0:05:27.84,0:05:29.39,Gen_Main,Junpei,0000,0000,0000,,Y es por eso que aquí
+Dialogue: 0,0:05:29.80,0:05:32.27,Gen_Main,Junpei,0000,0000,0000,,terminaron cambiándolo a "afecto".
+Dialogue: 0,0:05:33.06,0:05:37.10,Gen_Main,Junpei,0000,0000,0000,,Esa versión acabó difundiéndose\Nsin que nadie se detuviera a pensar
+Dialogue: 0,0:05:37.64,0:05:40.56,Gen_Main,Junpei,0000,0000,0000,,si "amor" e "indiferencia"\Nseguían siendo opuestos.
+Dialogue: 0,0:05:41.65,0:05:44.24,Gen_Main,Mahito,0000,0000,0000,,A todos les gusta\Njugar con las palabras.
+Dialogue: 0,0:05:44.78,0:05:49.50,Gen_Main,Mahito,0000,0000,0000,,Al fin y al cabo, los humanos\Nno pueden vivir sin inventar excusas.
+Dialogue: 0,0:05:55.05,0:05:56.21,Gen_Main,Junpei,0000,0000,0000,,¿Y eso?
+Dialogue: 0,0:05:58.58,0:06:02.09,Gen_Main,Mahito,0000,0000,0000,,Un experimento para ver cuán grande\Npodía volver a un humano.
+Dialogue: 0,0:06:05.05,0:06:09.13,Gen_Main,Mahito,0000,0000,0000,,Con ese otro, intenté ver\Ncuán pequeño podía volver a uno.
+Dialogue: 0,0:06:10.72,0:06:11.78,Gen_Main,Junpei,0000,0000,0000,,¿Esto es…
+Dialogue: 0,0:06:13.56,0:06:14.58,Gen_Main,Junpei,0000,0000,0000,,un humano?
+Dialogue: 0,0:06:17.27,0:06:20.01,Gen_Main,Mahito,0000,0000,0000,,¿Estás acostumbrado a ver cadáveres?
+Dialogue: 0,0:06:20.52,0:06:21.60,Gen_Main,Junpei,0000,0000,0000,,Lo dudo.
+Dialogue: 0,0:06:22.44,0:06:25.75,Gen_Main,Junpei,0000,0000,0000,,Si esta fuera mi madre,\Nperdería la cabeza
+Dialogue: 0,0:06:26.36,0:06:28.68,Gen_Main,Junpei,0000,0000,0000,,y seguramente te odiaría por ello.
+Dialogue: 0,0:06:29.95,0:06:33.58,Gen_Main,Junpei,0000,0000,0000,,Pero ya sé lo repugnantes\Nque pueden llegar a ser lo humanos.
+Dialogue: 0,0:06:34.99,0:06:38.48,Gen_Main,Junpei,0000,0000,0000,,Por eso nunca espero nada de nadie
+Dialogue: 0,0:06:39.50,0:06:42.96,Gen_Main,Junpei,0000,0000,0000,,y tampoco me afecta\Nla muerte de un extraño.
+Dialogue: 0,0:06:44.34,0:06:48.82,Gen_Main,Junpei,0000,0000,0000,,La indiferencia es una virtud\Na la que todos deberíamos aspirar.
+Dialogue: 0,0:06:51.22,0:06:54.48,Gen_Main,Mahito,0000,0000,0000,,Pero, pese a ello, buscas venganza.
+Dialogue: 0,0:06:55.60,0:06:58.65,Gen_Main,Junpei,0000,0000,0000,,¿Intentas decir que me contradigo?
+Dialogue: 0,0:07:01.10,0:07:03.52,Gen_Main,Mahito,0000,0000,0000,,Junpei, ¿crees que la gente\Ntiene corazón?
+Dialogue: 0,0:07:04.06,0:07:06.73,Gen_Main,Junpei,0000,0000,0000,,¿Qué? ¿No tenemos?
+Dialogue: 0,0:07:07.69,0:07:08.69,Gen_Main,Mahito,0000,0000,0000,,No.
+Dialogue: 0,0:07:10.24,0:07:11.47,Gen_Main,Mahito,0000,0000,0000,,Sí tienen un alma,
+Dialogue: 0,0:07:11.91,0:07:13.80,Gen_Main,Mahito,0000,0000,0000,,pero no podría llamarse corazón.
+Dialogue: 0,0:07:14.07,0:07:15.90,Gen_Main,Junpei,0000,0000,0000,,¿Y qué hay de mi propio…?
+Dialogue: 0,0:07:17.08,0:07:21.16,Gen_Main,Mahito,0000,0000,0000,,Soy el único en el mundo\Nque comprende la composición del alma.
+Dialogue: 0,0:07:22.83,0:07:26.89,Gen_Main,Mahito,0000,0000,0000,,Al fin y al cabo, puedo hacer que otros\Ncambien de forma al tocar su alma.
+Dialogue: 0,0:07:27.67,0:07:31.78,Gen_Main,Mahito,0000,0000,0000,,Las emociones son el resultado\Ndel metabolismo del alma.
+Dialogue: 0,0:07:32.55,0:07:35.51,Gen_Main,Mahito,0000,0000,0000,,Es algo demasiado mecánico\Ncomo para llamarlo corazón.
+Dialogue: 0,0:07:36.47,0:07:40.24,Gen_Main,Mahito,0000,0000,0000,,La gente le da demasiado valor\Na lo que no puede ver.
+Dialogue: 0,0:07:40.93,0:07:42.38,Gen_Main,Mahito,0000,0000,0000,,Yo sí puedo verla,
+Dialogue: 0,0:07:42.56,0:07:46.29,Gen_Main,Mahito,0000,0000,0000,,y el alma no se diferencia en nada\Ndel cuerpo físico.
+Dialogue: 0,0:07:48.90,0:07:50.75,Gen_Main,Mahito,0000,0000,0000,,Es algo que simplemente está allí.
+Dialogue: 0,0:07:51.36,0:07:52.37,Gen_Main,Mahito,0000,0000,0000,,¿Lo entiendes?
+Dialogue: 0,0:07:52.61,0:07:55.06,Gen_Main,Mahito,0000,0000,0000,,La vida no tiene valor\Nni importancia alguna.
+Dialogue: 0,0:07:55.82,0:07:58.08,Gen_Main,Mahito,0000,0000,0000,,La vida es parte de un ciclo mayor
+Dialogue: 0,0:07:58.49,0:08:00.75,Gen_Main,Mahito,0000,0000,0000,,que fluye\Ncomo todas las aguas del mundo.
+Dialogue: 0,0:08:02.01,0:08:03.84,Gen_Main,Mahito,0000,0000,0000,,Lo mismo ocurre con nuestras vidas,
+Dialogue: 0,0:08:05.63,0:08:07.42,Gen_Main,Mahito,0000,0000,0000,,no tienen valor ni significado.
+Dialogue: 0,0:08:09.51,0:08:10.88,Gen_Main,Bigperson,0000,0000,0000,,Licor…
+Dialogue: 0,0:08:11.17,0:08:13.42,Gen_Main,Mahito,0000,0000,0000,,Por eso podemos hacer lo que sea.
+Dialogue: 0,0:08:13.72,0:08:15.72,Gen_Main,Mahito,0000,0000,0000,,Somos libres de vivir como queramos.
+Dialogue: 0,0:08:16.51,0:08:19.50,Gen_Main,Mahito,0000,0000,0000,,No te dejes cegar\Npor el ideal de la indiferencia.
+Dialogue: 0,0:08:20.14,0:08:22.40,Gen_Main,Mahito,0000,0000,0000,,Tampoco hace falta consistencia\Nen la vida.
+Dialogue: 0,0:08:23.24,0:08:27.09,Gen_Main,Mahito,0000,0000,0000,,Come cuando sientas hambre\Ny mata cuando sientas odio.
+Dialogue: 0,0:08:28.82,0:08:31.78,Gen_Main,Mahito,0000,0000,0000,,Cuentas con todo mi apoyo.
+Dialogue: 0,0:08:53.69,0:08:54.80,Gen_Main,Ijichi,0000,0000,0000,,Allí está.
+Dialogue: 0,0:08:55.55,0:08:57.14,Gen_Main,Yuuji,0000,0000,0000,,¿Eh? ¿Ropa de calle?
+Dialogue: 0,0:08:57.30,0:09:00.59,Gen_Main,Ijichi,0000,0000,0000,,Al parecer, lleva un tiempo\Nsin asistir a clases.
+Dialogue: 0,0:09:02.52,0:09:04.92,Gen_Main,Yuuji,0000,0000,0000,,Bueno, podría decirse lo mismo de mí.
+Dialogue: 0,0:09:05.56,0:09:07.18,Gen_Main,Yuuji,0000,0000,0000,,¿Están bien los chicos?
+Dialogue: 0,0:09:10.52,0:09:12.20,Gen_Main,Toge,0000,0000,0000,,¡Atún, atún!
+Dialogue: 0,0:09:12.48,0:09:14.68,Gen_Main,Ijichi,0000,0000,0000,,Están vivitos y coleando.
+Dialogue: 0,0:09:16.61,0:09:18.13,Gen_Main,Yuuji,0000,0000,0000,,¿Y qué haremos?
+Dialogue: 0,0:09:19.03,0:09:20.40,Gen_Main,Ijichi,0000,0000,0000,,Usaremos uno de esos.
+Dialogue: 0,0:09:20.66,0:09:22.50,Gen_Main,Yuuji,0000,0000,0000,,¿Eh? ¿Son espíritus malditos?
+Dialogue: 0,0:09:23.74,0:09:27.70,Gen_Main,Ijichi,0000,0000,0000,,Es uno minúsculo, una Maldición\Nque ni llega a la categoría 4.
+Dialogue: 0,0:09:29.46,0:09:33.04,Gen_Main,Ijichi,0000,0000,0000,,Cuando lleguemos a un lugar desierto,\Nharemos que lo ataque.
+Dialogue: 0,0:09:34.63,0:09:38.18,Gen_Main,Ijichi,0000,0000,0000,,Primer caso: Si es alguien normal\Nque no percibe Maldiciones…
+Dialogue: 0,0:09:39.80,0:09:41.86,Gen_Main,Ijichi,0000,0000,0000,,protégelo, por favor.
+Dialogue: 0,0:09:42.81,0:09:47.02,Gen_Main,Ijichi,0000,0000,0000,,Segundo caso: Si puede percibirla,\Npero no protegerse de ella…
+Dialogue: 0,0:09:47.61,0:09:50.39,Gen_Main,Ijichi,0000,0000,0000,,te pido que lo ayudes, por favor.
+Dialogue: 0,0:09:50.56,0:09:52.86,Gen_Main,Ijichi,0000,0000,0000,,Luego lo interrogaremos\Nsobre el incidente.
+Dialogue: 0,0:09:53.44,0:09:59.87,Gen_Main,Ijichi,0000,0000,0000,,Tercer caso: Si exorciza la Maldición\Ncon hechicería, hay que aprehenderlo.
+Dialogue: 0,0:10:00.16,0:10:01.22,Gen_Main,Yuuji,0000,0000,0000,,¿Por la fuerza?
+Dialogue: 0,0:10:01.66,0:10:02.99,Gen_Main,Ijichi,0000,0000,0000,,Por la fuerza.
+Dialogue: 0,0:10:03.58,0:10:06.63,Gen_Main,Ijichi,0000,0000,0000,,Si resulta ser un malentendido,\Nluego pediremos perdón.
+Dialogue: 0,0:10:07.33,0:10:08.33,Gen_Main,Ijichi,0000,0000,0000,,Aunque…
+Dialogue: 0,0:10:08.96,0:10:13.83,Gen_Main,Ijichi,0000,0000,0000,,Cuarto caso: Si su potencial supera\Nal de un hechicero de 2.ª clase,
+Dialogue: 0,0:10:14.50,0:10:17.38,Gen_Main,Ijichi,0000,0000,0000,,habrá que retirarse\Ny pedirle refuerzos a Nanami.
+Dialogue: 0,0:10:18.30,0:10:21.76,Gen_Main,Yuuji,0000,0000,0000,,Creo poder\Ncontra oponentes de categoría 2.
+Dialogue: 0,0:10:21.93,0:10:23.12,Gen_Main,Ijichi,0000,0000,0000,,Solo contra espíritus.
+Dialogue: 0,0:10:25.31,0:10:27.92,Gen_Main,Ijichi,0000,0000,0000,,Fushiguro te lo mencionó\Nalguna vez, ¿no?
+Dialogue: 0,0:10:28.39,0:10:32.45,Gen_Main,Ijichi,0000,0000,0000,,Los hechiceros lidian con espíritus\Nmalditos de categoría similar.
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(375,25,375,134)}Especial
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(374,108,374,217)}Uno
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(375,167,375,276)}Dos
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(375,226,375,335)}Tres
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(377,287,377,396)}Cuatro
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(375,-20,375,94)}Espíritu\NMaldito
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_C_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(265,25,265,134)}Especial
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_C_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(266,82,266,191)}Uno
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_C_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(266,139,266,248)}Dos
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_C_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(266,200,266,309)}Tres
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_C_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(266,258,266,367)}Cuatro
+Dialogue: 0,0:10:33.44,0:10:43.41,Cart_C_Tre,Sign,0000,0000,0000,,{\fad(950,950)\fs16\move(267,-20,267,94)}Hechicero
+Dialogue: 0,0:10:33.90,0:10:38.32,Gen_Main,Ijichi,0000,0000,0000,,Para que un hechicero de 2.ª clase venza\Nfácilmente a espíritus de categoría 2,
+Dialogue: 0,0:10:38.70,0:10:42.52,Gen_Main,Ijichi,0000,0000,0000,,este ha de tener una fuerza similar\Na la de un espíritu de categoría 1.
+Dialogue: 0,0:10:44.66,0:10:47.85,Gen_Main,Yuuji,0000,0000,0000,,¿Y por qué nunca me dijeron\Nalgo tan importante?
+Dialogue: 0,0:10:48.25,0:10:50.06,Gen_Italics,Ijichi,0000,0000,0000,,Porque Gojou es un irresponsable…
+Dialogue: 0,0:10:53.63,0:10:55.60,Gen_Main,Ijichi,0000,0000,0000,,Tendremos que bajarnos aquí.
+Dialogue: 0,0:10:59.42,0:11:02.88,Gen_Main,Yuuji,0000,0000,0000,,Siento que estoy haciendo\Ntodo el trabajo, qué fastidio.
+Dialogue: 0,0:11:12.10,0:11:14.80,Gen_Main,Nanami,0000,0000,0000,,Si piensas salir, hazlo de una vez.
+Dialogue: 0,0:11:17.23,0:11:19.66,Gen_Main,Nanami,0000,0000,0000,,Puede que los hayas condenado\Nal desfigurarlos,
+Dialogue: 0,0:11:19.82,0:11:22.44,Gen_Main,Nanami,0000,0000,0000,,pero asesinarlos no me sienta nada bien.
+Dialogue: 0,0:11:25.37,0:11:28.49,Gen_Main,Mahito,0000,0000,0000,,Cielos, pero qué alivio.
+Dialogue: 0,0:11:29.45,0:11:32.08,Gen_Main,Mahito,0000,0000,0000,,Estaría en serios aprietos\Nsi fueras Gojou,
+Dialogue: 0,0:11:33.08,0:11:36.19,Gen_Main,Mahito,0000,0000,0000,,pero no podré experimentar contigo\Nsi eres demasiado débil.
+Dialogue: 0,0:11:38.34,0:11:40.76,Gen_Main,Nanami,0000,0000,0000,,Como detesto trabajar horas extras,
+Dialogue: 0,0:11:41.68,0:11:43.12,Gen_Main,Nanami,0000,0000,0000,,acabemos pronto con esto.
+Dialogue: 0,0:11:58.28,0:12:00.46,Gen_Main,Gojou,0000,0000,0000,,¡Te voy a matar!
+Dialogue: 0,0:12:02.11,0:12:03.25,Gen_Italics,Nanami,0000,0000,0000,,Se parecen.
+Dialogue: 0,0:12:03.61,0:12:05.30,Gen_Italics,Nanami,0000,0000,0000,,En su frivolidad impecable
+Dialogue: 0,0:12:05.45,0:12:07.91,Gen_Italics,Nanami,0000,0000,0000,,y la fuerza siniestra detrás de ella.
+Dialogue: 0,0:12:31.98,0:12:34.67,Gen_Main,Mahito,0000,0000,0000,,Pero si lo bloqueé con energía maldita.
+Dialogue: 0,0:12:35.44,0:12:36.80,Gen_Main,Mahito,0000,0000,0000,,¿Tu ritual es de ese tipo?
+Dialogue: 0,0:12:37.61,0:12:39.04,Gen_Main,Nanami,0000,0000,0000,,¿A qué "tipo" te refieres?
+Dialogue: 0,0:12:39.48,0:12:43.00,Gen_Main,Nanami,0000,0000,0000,,Detesto las preguntas abstractas\Nque dejan mucho a la interpretación.
+Dialogue: 0,0:12:43.61,0:12:44.66,Gen_Main,Mahito,0000,0000,0000,,Qué alivio.
+Dialogue: 0,0:12:45.24,0:12:47.52,Gen_Main,Mahito,0000,0000,0000,,Veo que no te molesta charlar.
+Dialogue: 0,0:12:48.24,0:12:49.62,Gen_Main,Nanami,0000,0000,0000,,Depende del interlocutor.
+Dialogue: 0,0:12:50.33,0:12:53.08,Gen_Italics,Nanami,0000,0000,0000,,Este espíritu maldito\Ntambién puede conversar.
+Dialogue: 0,0:12:53.79,0:12:58.46,Gen_Italics,Nanami,0000,0000,0000,,Como los dos de categoría\Nespecial en el informe de Gojou.
+Dialogue: 0,0:12:58.76,0:13:01.25,Gen_Italics,Nanami,0000,0000,0000,,Sería raro\Nque no estuvieran relacionados.
+Dialogue: 0,0:13:03.67,0:13:05.57,Gen_Main,Mahito,0000,0000,0000,,Oye, según tú,
+Dialogue: 0,0:13:06.01,0:13:08.98,Gen_Main,Mahito,0000,0000,0000,,¿qué fue primero, el cuerpo o el alma?
+Dialogue: 0,0:13:10.38,0:13:11.71,Gen_Main,Mahito,0000,0000,0000,,Vamos, ya sabes,
+Dialogue: 0,0:13:12.22,0:13:16.95,Gen_Main,Mahito,0000,0000,0000,,es como la pregunta sobre si fue primero\Nel huevo o la gallina.
+Dialogue: 0,0:13:18.81,0:13:21.15,Gen_Main,Mahito,0000,0000,0000,,¿Crees que el alma reside en el cuerpo
+Dialogue: 0,0:13:21.57,0:13:25.45,Gen_Main,Mahito,0000,0000,0000,,o que el cuerpo se forma\Nalrededor del alma?
+Dialogue: 0,0:13:26.91,0:13:29.45,Gen_Italics,Nanami,0000,0000,0000,,Supongo que tendré que responder.
+Dialogue: 0,0:13:30.76,0:13:31.87,Gen_Main,Nanami,0000,0000,0000,,Lo primero.
+Dialogue: 0,0:13:32.10,0:13:34.88,Gen_Main,Mahito,0000,0000,0000,,¡Muy mal! La respuesta era lo segundo.
+Dialogue: 0,0:13:36.83,0:13:39.84,Gen_Main,Mahito,0000,0000,0000,,El alma siempre existe\Nantes que el cuerpo.
+Dialogue: 0,0:13:40.71,0:13:44.50,Gen_Main,Mahito,0000,0000,0000,,La forma del cuerpo se deja llevar\Npor la forma del alma.
+Dialogue: 0,0:13:45.73,0:13:47.34,Gen_Main,Mahito,0000,0000,0000,,No me estoy sanando.
+Dialogue: 0,0:13:47.51,0:13:50.84,Gen_Main,Mahito,0000,0000,0000,,Simplemente hago el esfuerzo\Nde mantener la forma de mi alma.
+Dialogue: 0,0:13:53.60,0:13:55.06,Gen_Main,Mahito,0000,0000,0000,,Ya lo entiendes, ¿no?
+Dialogue: 0,0:13:55.39,0:14:00.13,Gen_Main,Mahito,0000,0000,0000,,Mi ritual me permite tocar el alma\Ny alterar su forma.
+Dialogue: 0,0:14:01.41,0:14:02.66,Gen_Main,Mahito,0000,0000,0000,,Mutación Pasiva.
+Dialogue: 0,0:14:07.72,0:14:09.65,Gen_Main,Mahito,0000,0000,0000,,Acumulo humanos.
+Dialogue: 0,0:14:10.16,0:14:11.64,Gen_Main,Mahito,0000,0000,0000,,No es nada fácil.
+Dialogue: 0,0:14:13.20,0:14:16.79,Gen_Main,Mahito,0000,0000,0000,,La gente normal suele morir\Nen cuanto la hago mutar.
+Dialogue: 0,0:14:18.00,0:14:19.72,Gen_Main,Mahito,0000,0000,0000,,Pero ¿qué hay de los hechiceros?
+Dialogue: 0,0:14:22.63,0:14:24.26,Gen_Main,Nanami,0000,0000,0000,,Son las 17:30.
+Dialogue: 0,0:14:24.42,0:14:27.04,Gen_Main,Nanami,0000,0000,0000,,Como hoy comencé a trabajar a las 10:00,
+Dialogue: 0,0:14:27.84,0:14:31.65,Gen_Main,Nanami,0000,0000,0000,,pase lo que pase,\Nacabaré mi turno a las 18:00.
+Dialogue: 0,0:14:39.06,0:14:40.27,Gen_Main,Sotomura,0000,0000,0000,,Yoshino.
+Dialogue: 0,0:14:40.56,0:14:42.05,Gen_Main,Sotomura,0000,0000,0000,,¿Dónde te habías metido?
+Dialogue: 0,0:14:44.02,0:14:46.86,Gen_Main,Sotomura,0000,0000,0000,,Sabes que está muy mal faltar a clases.
+Dialogue: 0,0:14:47.49,0:14:49.87,Gen_Main,Junpei,0000,0000,0000,,Profesor Sotomura…
+Dialogue: 0,0:14:50.90,0:14:51.97,Gen_Main,Sotomura,0000,0000,0000,,Te enteraste, ¿no?
+Dialogue: 0,0:14:52.32,0:14:55.70,Gen_Main,Sotomura,0000,0000,0000,,Sayama, Nishimura y Honda fallecieron.
+Dialogue: 0,0:14:56.01,0:14:58.87,Gen_Main,Sotomura,0000,0000,0000,,Y tú eras amigo suyo, ¿no?
+Dialogue: 0,0:15:02.29,0:15:06.25,Gen_Main,Sotomura,0000,0000,0000,,Siempre pasaban el tiempo contigo\Ncuando no tenías amigos, ¿verdad?
+Dialogue: 0,0:15:06.67,0:15:09.12,Gen_Main,Sotomura,0000,0000,0000,,Pero no fuiste a su funeral…
+Dialogue: 0,0:15:10.68,0:15:11.80,Gen_Italics,Junpei,0000,0000,0000,,¿Amigos?
+Dialogue: 0,0:15:12.21,0:15:13.22,Gen_Italics,Junpei,0000,0000,0000,,¿Yo?
+Dialogue: 0,0:15:13.68,0:15:14.82,Gen_Italics,Junpei,0000,0000,0000,,¿Y ellos?
+Dialogue: 0,0:15:15.60,0:15:17.28,Gen_Italics,Junpei,0000,0000,0000,,Está mal de la cabeza.
+Dialogue: 0,0:15:18.81,0:15:20.08,Gen_Italics,Junpei,0000,0000,0000,,Los profesores…
+Dialogue: 0,0:15:20.48,0:15:23.46,Gen_Italics,Junpei,0000,0000,0000,,se gradúan de la escuela,\Ntrabajan en otras escuelas
+Dialogue: 0,0:15:23.86,0:15:28.92,Gen_Italics,Junpei,0000,0000,0000,,y nunca experimentan\Nel mundo real, ¿no es así?
+Dialogue: 0,0:15:29.65,0:15:34.97,Gen_Italics,Junpei,0000,0000,0000,,¡Así es como acabamos con niños\Nen cuerpo de adulto como tú, ¿no?!
+Dialogue: 0,0:15:36.08,0:15:37.87,Gen_Main,Sayama,0000,0000,0000,,Vamos, abre grande.
+Dialogue: 0,0:15:38.75,0:15:41.48,Gen_Italics,Junpei,0000,0000,0000,,¡Absolutamente todos…!
+Dialogue: 0,0:15:44.44,0:15:47.88,Gen_Main,Mahito,0000,0000,0000,,Cuentas con todo mi apoyo.
+Dialogue: 0,0:15:51.09,0:15:53.43,Gen_Main,Sotomura,0000,0000,0000,,¿Qué haces murmurando?
+Dialogue: 0,0:15:53.59,0:15:56.63,Gen_Main,Sotomura,0000,0000,0000,,¿Acaso el aislamiento te volvió loco?\NBromeo.
+Dialogue: 0,0:16:03.35,0:16:05.55,Gen_Main,Yuuji,0000,0000,0000,,¡Detente!
+Dialogue: 0,0:16:08.36,0:16:09.82,Gen_Italics,Yuuji,0000,0000,0000,,Vaya, este chico…
+Dialogue: 0,0:16:11.00,0:16:12.08,Gen_Italics,Yuuji,0000,0000,0000,,sí puede verlo.
+Dialogue: 0,0:16:14.78,0:16:15.79,Gen_Main,Yuuji,0000,0000,0000,,¡Ay!
+Dialogue: 0,0:16:17.78,0:16:20.05,Gen_Main,Yuuji,0000,0000,0000,,Ay, ay, ay…
+Dialogue: 0,0:16:20.16,0:16:22.41,Cart_A_Tim,Screen,0000,0000,0000,,{\fad(520,0)\shad0\bord0\c&HF6F1F2&\fs30\bord0.2\blur4\an9\pos(460,3)}Cinco segundos\Nantes de la operación
+Dialogue: 0,0:16:20.95,0:16:21.96,Gen_Main,Yuuji,0000,0000,0000,,A ver…
+Dialogue: 0,0:16:22.96,0:16:24.48,Gen_Main,Ijichi,0000,0000,0000,,¡Aquí vamos, Itadori!
+Dialogue: 0,0:16:24.62,0:16:26.28,Gen_Main,Yuuji,0000,0000,0000,,¡Alto! ¡Hay alguien más!
+Dialogue: 0,0:16:27.29,0:16:28.30,Gen_Main,Yuuji,0000,0000,0000,,¡Ay, no!
+Dialogue: 0,0:16:29.80,0:16:31.55,Gen_Main,Yuuji,0000,0000,0000,,Menos mal.
+Dialogue: 0,0:16:32.01,0:16:34.52,Gen_Main,Sotomura,0000,0000,0000,,¿Y tú qué? ¿Eres gimnasta?
+Dialogue: 0,0:16:35.40,0:16:38.14,Gen_Main,Yuuji,0000,0000,0000,,Oye, quiero hacerte algunas preguntas,
+Dialogue: 0,0:16:38.30,0:16:39.31,Gen_Main,Yuuji,0000,0000,0000,,¿vendrías conmigo?
+Dialogue: 0,0:16:42.06,0:16:43.86,Gen_Main,Yuuji,0000,0000,0000,,-Vamos.\N{\i1}-Ese botón…{\i0}
+Dialogue: 0,0:16:44.02,0:16:46.29,Gen_Main,Sotomura,0000,0000,0000,,Espera. Estaba conversando con él.
+Dialogue: 0,0:16:46.44,0:16:47.43,Gen_Main,Sotomura,0000,0000,0000,,¡Qué grosero!
+Dialogue: 0,0:16:48.23,0:16:51.80,Gen_Main,Yuuji,0000,0000,0000,,Bueno, es que se trata\Nde un asunto muy importante.
+Dialogue: 0,0:16:51.94,0:16:53.14,Gen_Main,Sotomura,0000,0000,0000,,¿Algo importante?
+Dialogue: 0,0:16:53.32,0:16:54.82,Gen_Main,Sotomura,0000,0000,0000,,¿Qué dices, mocoso?
+Dialogue: 0,0:16:55.16,0:16:57.19,Gen_Main,Sotomura,0000,0000,0000,,-¿Y ese uniforme de dón…?\N-¡Abajo!
+Dialogue: 0,0:17:01.24,0:17:02.95,Gen_Main,Sotomura,0000,0000,0000,,¡¿Qué haces, mocoso?!
+Dialogue: 0,0:17:03.23,0:17:05.39,Gen_Main,Sotomura,0000,0000,0000,,¡Para! ¡Detente!
+Dialogue: 0,0:17:05.96,0:17:08.34,Gen_Main,Sotomura,0000,0000,0000,,¡No te los lleves!
+Dialogue: 0,0:17:09.92,0:17:13.35,Gen_Main,Sotomura,0000,0000,0000,,¡Esp…! ¡Espera!
+Dialogue: 0,0:17:17.01,0:17:18.82,Gen_Main,Junpei,0000,0000,0000,,¿Qué fue todo eso?
+Dialogue: 0,0:17:20.99,0:17:22.53,Gen_Main,Yuuji,0000,0000,0000,,Bueno, ¿nos vamos?
+Dialogue: 0,0:17:23.02,0:17:26.02,Gen_Main,Junpei,0000,0000,0000,,-¡Qué rápido! ¡¿Ya diste la vuelta?!\N-Sí.
+Dialogue: 0,0:17:26.44,0:17:28.96,Gen_Main,Junpei,0000,0000,0000,,No tenías que llegar a tales extremos.
+Dialogue: 0,0:17:29.11,0:17:31.68,Gen_Main,Junpei,0000,0000,0000,,Hubiera bastado con arrastrarme.
+Dialogue: 0,0:17:31.86,0:17:33.26,Gen_Main,Yuuji,0000,0000,0000,,Sí, supongo…
+Dialogue: 0,0:17:33.61,0:17:35.36,Gen_Main,Yuuji,0000,0000,0000,,Pero ese tipo te caía mal, ¿no?
+Dialogue: 0,0:17:36.59,0:17:37.70,Gen_Main,Junpei,0000,0000,0000,,¿Cómo es que…?
+Dialogue: 0,0:17:39.13,0:17:40.14,Gen_Main,Yuuji,0000,0000,0000,,Simple corazonada.
+Dialogue: 0,0:17:40.95,0:17:42.31,Gen_Main,Yuuji,0000,0000,0000,,¿Eh? ¿Me equivoqué?
+Dialogue: 0,0:17:42.45,0:17:43.91,Gen_Main,Junpei,0000,0000,0000,,No, acertaste.
+Dialogue: 0,0:17:44.45,0:17:48.17,Gen_Main,Yuuji,0000,0000,0000,,Y seguro que no querías tenerlo\Ndelante de tu casa para siempre, ¿o sí?
+Dialogue: 0,0:17:48.88,0:17:50.51,Gen_Main,Yuuji,0000,0000,0000,,En fin, vayamos por allá.
+Dialogue: 0,0:17:55.14,0:17:56.13,Gen_Main,Junpei,0000,0000,0000,,Bien…
+Dialogue: 0,0:18:08.56,0:18:09.96,Gen_Main,Mahito,0000,0000,0000,,Te mueves bastante bien.
+Dialogue: 0,0:18:24.08,0:18:25.09,Gen_Italics,Mahito,0000,0000,0000,,¡Qué divertido!
+Dialogue: 0,0:18:25.91,0:18:30.20,Gen_Italics,Nanami,0000,0000,0000,,¿La masa original de alguien es\Nirrelevante cuando los hace mutar?
+Dialogue: 0,0:18:32.46,0:18:36.50,Gen_Italics,Nanami,0000,0000,0000,,Sea como sea,\Nmi ritual está en clara desventaja.
+Dialogue: 0,0:18:37.17,0:18:38.17,Gen_Main,Human,0000,0000,0000,,¡…xilio!
+Dialogue: 0,0:18:39.59,0:18:41.75,Gen_Main,Human,0000,0000,0000,,¡Auxilio!
+Dialogue: 0,0:18:45.18,0:18:48.14,Gen_Main,Shouko,0000,0000,0000,,Una vez mutan, no tienen salvación.
+Dialogue: 0,0:18:48.64,0:18:50.59,Gen_Main,Shouko,0000,0000,0000,,Si te atacan, mátalos sin dudarlo.
+Dialogue: 0,0:18:50.94,0:18:52.82,Gen_Main,Shouko,0000,0000,0000,,Será lo mejor para las víctimas.
+Dialogue: 0,0:18:55.78,0:18:57.83,Gen_Main,Mahito,0000,0000,0000,,Vaya, lo siento.
+Dialogue: 0,0:18:58.74,0:19:00.68,Gen_Main,Mahito,0000,0000,0000,,Como he practicado un montón,
+Dialogue: 0,0:19:01.02,0:19:03.98,Gen_Main,Mahito,0000,0000,0000,,ya no mueren enseguida\Nal hacerlos cambiar de tamaño,
+Dialogue: 0,0:19:04.16,0:19:08.65,Gen_Main,Mahito,0000,0000,0000,,pero aún me falta precisión\Ncon sus cerebros y sus mentes,
+Dialogue: 0,0:19:08.83,0:19:11.98,Gen_Main,Mahito,0000,0000,0000,,así que de vez en cuando\Nsus almas resurgen un momento.
+Dialogue: 0,0:19:12.50,0:19:14.08,Gen_Main,Mahito,0000,0000,0000,,No te preocupes por ellos.
+Dialogue: 0,0:19:15.38,0:19:17.50,Gen_Main,Nanami,0000,0000,0000,,No me preocupan.
+Dialogue: 0,0:19:20.55,0:19:24.00,Gen_Main,Nanami,0000,0000,0000,,Tengo la política de no involucrar\Nmis sentimientos en el trabajo.
+Dialogue: 0,0:19:25.64,0:19:27.07,Gen_Main,Mahito,0000,0000,0000,,¡Qué mal mentiroso!
+Dialogue: 0,0:19:27.22,0:19:29.47,Gen_Main,Mahito,0000,0000,0000,,Tu alma está temblando.
+Dialogue: 0,0:19:29.81,0:19:32.56,Gen_Main,Mahito,0000,0000,0000,,Oye, ¿de qué clase eres?
+Dialogue: 0,0:19:32.94,0:19:34.06,Gen_Main,Nanami,0000,0000,0000,,Primera clase.
+Dialogue: 0,0:19:34.23,0:19:35.84,Gen_Main,Mahito,0000,0000,0000,,Así que eres fuerte, ¿eh?
+Dialogue: 0,0:19:36.65,0:19:39.04,Gen_Main,Mahito,0000,0000,0000,,Serás un gran sujeto de prueba.
+Dialogue: 0,0:19:39.78,0:19:41.42,Gen_Main,Mahito,0000,0000,0000,,Qué suerte tengo.
+Dialogue: 0,0:19:43.24,0:19:44.26,Gen_Main,Mahito,0000,0000,0000,,Estoy agradecido.
+Dialogue: 0,0:19:50.58,0:19:53.21,Gen_Main,Mahito,0000,0000,0000,,¿Te sorprendió que acelerara de golpe?
+Dialogue: 0,0:19:53.92,0:19:56.77,Gen_Main,Mahito,0000,0000,0000,,También puedo\Nmodificar la forma de mi alma.
+Dialogue: 0,0:19:58.00,0:20:01.26,Gen_Main,Mahito,0000,0000,0000,,Los hechiceros protegen sus cuerpos\Ncon energía maldita,
+Dialogue: 0,0:20:01.42,0:20:03.75,Gen_Main,Mahito,0000,0000,0000,,pero no protegen sus almas.
+Dialogue: 0,0:20:04.34,0:20:07.04,Gen_Main,Mahito,0000,0000,0000,,Hace falta ser consciente\Nde tu alma para ello.
+Dialogue: 0,0:20:07.64,0:20:09.48,Gen_Main,Mahito,0000,0000,0000,,Si no, no puedes protegerla.
+Dialogue: 0,0:20:10.14,0:20:14.18,Gen_Main,Mahito,0000,0000,0000,,Aun así, te las arreglaste para cubrir\Ntu alma con energía maldita.
+Dialogue: 0,0:20:14.98,0:20:17.92,Gen_Main,Mahito,0000,0000,0000,,De lo contrario,\Nya estarías bajo mi control.
+Dialogue: 0,0:20:18.94,0:20:23.46,Gen_Main,Mahito,0000,0000,0000,,En fin, si logro tocarte dos o tres\Nveces más, dejarás de ser humano.
+Dialogue: 0,0:20:32.79,0:20:34.10,Gen_Main,Mahito,0000,0000,0000,,¡No escaparás!
+Dialogue: 0,0:20:48.39,0:20:51.29,Gen_Main,Mahito,0000,0000,0000,,¿Eso fue todo, hechicero de 1.ª clase?
+Dialogue: 0,0:20:51.47,0:20:55.05,Gen_Main,Mahito,0000,0000,0000,,Eres muy bueno huyendo,\Npero ya estás al límite, ¿no?
+Dialogue: 0,0:21:02.28,0:21:03.99,Gen_Main,Nanami,0000,0000,0000,,Por desgracia…
+Dialogue: 0,0:21:05.76,0:21:06.87,Gen_Italics,Mahito,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:21:07.78,0:21:09.74,Gen_Italics,Mahito,0000,0000,0000,,¿Su energía maldita aumenta?
+Dialogue: 0,0:21:10.61,0:21:14.41,Gen_Main,Nanami,0000,0000,0000,,…tendré que hacer horas extras.
+Dialogue: 0,0:22:45.00,0:22:47.55,Cart_C_TreNo,Both&Screen,0000,0000,0000,,{\bord0\shad0\fs30\blur0.5\frz25.38\pos(440.8,67.2)}Juju-Cortos
+Dialogue: 0,0:22:45.71,0:22:47.22,Gen_Main,Both&Screen,0000,0000,0000,,Juju-Cortos.
+Dialogue: 0,0:22:48.34,0:22:51.64,Gen_Main,Kugisaki,0000,0000,0000,,Fushiguro,\N¿sabes dónde está mi chaqueta?
+Dialogue: 0,0:22:51.80,0:22:52.80,Gen_Main,Fushiguro,0000,0000,0000,,No, ni idea.
+Dialogue: 0,0:22:53.14,0:22:54.68,Gen_Main,Kugisaki,0000,0000,0000,,Qué extraño.
+Dialogue: 0,0:22:54.85,0:22:56.57,Gen_Main,Kugisaki,0000,0000,0000,,Sé que la dejé por aquí.
+Dialogue: 0,0:22:57.43,0:23:00.59,Gen_Main,Kugisaki,0000,0000,0000,,Oh, Panda. ¿Has visto\Nla chaqueta de mi uniforme?
+Dialogue: 0,0:23:01.44,0:23:05.01,Gen_Main,Panda,0000,0000,0000,,Hmm… No la he visto.
+Dialogue: 0,0:23:05.81,0:23:06.99,Gen_Main,Kugisaki,0000,0000,0000,,¿Ah, no?
+Dialogue: 0,0:23:07.28,0:23:09.36,Gen_Main,Kugisaki,0000,0000,0000,,¿Dónde podrá estar?
+Dialogue: 0,0:23:14.08,0:23:16.50,Gen_Main,Kugisaki,0000,0000,0000,,Oye, también desapareció mi falda.
+Dialogue: 0,0:23:16.66,0:23:19.06,Gen_Main,Kugisaki,0000,0000,0000,,Eso ya es pasarse de la raya.
+Dialogue: 0,0:23:21.58,0:23:22.59,Gen_Main,Toge,0000,0000,0000,,¡Hoja de mostaza!
+Dialogue: 0,0:23:23.08,0:23:24.34,Gen_Main,Toge,0000,0000,0000,,¡Hojuelas de bonito!
+Dialogue: 0,0:23:26.92,0:23:28.79,Gen_Main,Kugisaki,0000,0000,0000,,Demonios, son de lo peor.
+Dialogue: 0,0:23:29.71,0:23:31.19,Gen_Main,Fushiguro,0000,0000,0000,,Qué fea imagen.
+Dialogue: 0,0:23:32.66,0:23:33.72,Gen_Main,Kugisaki,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:23:34.51,0:23:36.10,Gen_Main,Kugisaki,0000,0000,0000,,Esta es la de Maki.
+Dialogue: 0,0:23:38.10,0:23:39.23,Gen_Main,Gojou,0000,0000,0000,,¡Buenas tardes!
+Dialogue: 0,0:23:39.60,0:23:41.74,Gen_Main,Gojou,0000,0000,0000,,¡Soy Nobara Kugisaki!
+Dialogue: 0,0:23:51.61,0:23:55.03,Cart_TitleNext,Screen,0000,0000,0000,,{\fad(984,1)}Episodio 11\N{\fs26}De mente cerrada

@@ -1,0 +1,251 @@
+riko,un mensaje de kuroi.
+riko,¿qué vamos a hacer?
+riko,¡está en apuros!
+riko,¡kuroi está en apuros!
+kuroi,puede ocurrir un imprevisto.
+kuroi,señor geto, usted es más rápido.
+kuroi,¡así que vaya antes con la señorita!
+geto,lo siento. fue mi error.
+gojo,¿tú crees? no es un error tan grave.
+geto,no tomé en cuenta el valor que tiene kuroi para el enemigo.
+gojo,el siguiente movimiento del enemigo será proponer un intercambio de rehenes.
+gojo,pedirán un intercambio entre amanai y kuroi.
+gojo,o amenazarán con ejecutar a kuroi si no matamos a la chica.
+gojo,pero la ventaja es nuestra porque tenemos a amanai.
+gojo,si podemos acordar un lugar para el trato, nos será fácil darle la vuelta.
+gojo,llevemos a la niña a la escuela de brujería.
+gojo,-y le pedimos a shoko que sea su doble… -¡un momento!
+riko,¡yo también iré al lugar del trato! ¡todavía no confío en ustedes!
+gojo,¿qué? ¿otra vez sales con eso, mocosa?
+riko,aun si pudieran rescatarla,
+riko,si ella no llegara a tiempo antes de la fusión con el señor tengen…
+riko,todavía…
+riko,no me he despedido de ella.
+gojo,el secuestrador debe comunicarse en cualquier momento.
+gojo,pero en caso de que sean más astutos de lo que creemos,
+gojo,o las probabilidades de supervivencia de kuroi se reduzcan por tu presencia,
+gojo,te dejaremos atrás antes de ir al sitio.
+riko,de acuerdo. así está bien.
+gojo,o si a la mitad te entra el pavor y te dan ganas de ir a casa, te ignoraremos.
+gojo,prepárate para lo que sigue.
+riko/gojo,¡mensore, como dicen en okinawa!
+,segundo día de escolta
+,okinawa
+,episodio 27           el tesoro escondido - parte 3 -
+,jujutsu kaisen               hidden inventory • premature death
+kuroi,no pensé que un creyente no hechicero de la secta pudiera contra mí.
+kuroi,me siento tan humillada.
+geto,no puede estar atenta en todo momento.
+geto,también fue mi culpa.
+kuroi,¿en serio habrá sido un descuido?
+kuroi,después del incidente con q, se suponía que estaba en máxima alerta.
+riko,¡kuroi!
+kuroi,no recuerdo para nada el momento cuando me atacaron.
+kuroi,por cierto, vinieron en avión, ¿verdad?
+kuroi,¿no tuvieron problemas? ¿no los atacaron mientras volaban?
+geto,satoru tiene muy buena vista.
+geto,antes de despegar, revisó a todos los pasajeros
+geto,y el interior del avión.
+geto,y una de mis maldiciones vigilaba el exterior durante el vuelo.
+geto,fue mucho más seguro que viajar por tierra.
+geto,a mí lo que me preocupa es que los secuestradores hayan elegido okinawa.
+kuroi,¿no sería para ganar tiempo?
+,resumen del viaje
+,primer día: 13:30, secuestro de kuroi. 21:00, el secuestrador propone que el intercambio se haga en okinawa.  segundo día: 09:00, gojo, geto y amanai llegamos a okinawa. 11:00, salvamos a kuroi y aprehendemos al secuestrador. 12:00, terminamos el interrogatorio. 13:00, hora de recreación en la playa. 15:00, salida de okinawa. 18:00, llegada a tokio y resguardo en la escuela de brujería.  tercer día: 11:00, se termina el plazo de la recompensa por amanai. amanai se fusiona con el señor tengen a la puesta del sol. finaliza la escolta.
+,m 0 0 l 290 0 290 260 0 260
+kuroi,para que lleguemos tarde a la luna llena de mañana en caso de que siga viva.
+,amanai se fusiona con el señor tengen a la puesta del sol. finaliza la escolta.
+,m 0 0 l 200 0 200 160 0 160
+geto,para eso habrían escogido un lugar en el campo con pocos medios de transporte.
+kuroi,¿acaso no querrán ocupar el aeropuerto?
+geto,existe esa posibilidad. pero no hay problema.
+geto,no somos los únicos que vinimos a okinawa.
+building,aeropuerto de naha
+building,vuelos nacionales
+nanami,por más que lo pienso, no me parece que sea una misión para alguien de primero.
+,m 0 0 l 130 0 130 180 0 180
+,estudiante de primer año de la escuela técnica de brujería
+,kento nanami
+,m 0 0 l 130 0 130 180 0 180
+,estudiante de primer año de la escuela técnica de brujería
+,yu haibara
+haibara,¡pues yo ando bien motivado!
+haibara,¡tengo muchas ganas de impresionar a geto!
+haibara,ambos están dando su mejor esfuerzo para proteger a una adorable jovencita.
+haibara,¡nosotros también tenemos que hacer lo mismo!
+nanami,sería una pena que todo fuera en vano si cerraran el aeropuerto por un tifón.
+screen,m 0 0 l 120 0 l 120 146 l 0 146
+screen,el de segundo que está dando su mejor esfuerzo.
+gojo,¡es un mojón de mar!
+riko,¡qué asco! ¡qué desagradable criatura!
+kuroi,¿no hay problema con que nos divirtamos?
+geto,satoru fue el que lo propuso.
+geto,él a su manera lo hizo pensando en ella.
+geto,pero ya es hora.
+geto,¡satoru, ya vámonos!
+gojo,ah, ¿ya es tan tarde?
+gojo,suguru, volvamos a tokio mañana en la mañana.
+geto,pero…
+gojo,mañana también estará despejado.
+gojo,además, a comparación de tokio, en okinawa,
+screen,hechiceros maldosos
+gojo,hay menos hechiceros maldosos.
+geto,a veces no sé si hablas en serio o no.
+gojo,es mejor que el tiempo límite de la recompensa se acabe durante el vuelo.
+geto,satoru,
+geto,no has desactivado tu técnica ritual desde ayer.
+geto,tienes que descansar. esta noche no piensas dormir, ¿verdad?
+geto,¿no hay problema si no regresamos a la escuela de brujería?
+gojo,claro que no lo hay.
+gojo,fue mucho más pesado cuando nos desvelamos jugando videojuegos, ¿no?
+gojo,además, tú estás aquí conmigo.
+haibara,nanami, dicen que nos vamos a quedar otro día.
+haibara,¿habrá pasado algo?
+,escuela de bachillerato técnico de brujería de tokio      base de la montaña mushiro
+,15:00, tercer día de escolta
+geto,chicos, fue toda una odisea,
+geto,pero ya estamos en la barrera de la escuela.
+riko,ya podemos relajarnos un poco.
+kuroi,tiene razón.
+geto,satoru,
+geto,debes estar agotado, ¿verdad?
+gojo,nunca más voy a trabajar de niñero de una mocosa malcriada.
+geto,¡no puede ser!
+geto,¡este es el interior de la barrera de la escuela de brujería!
+gojo,oye, tú, ¿no te he visto antes en algún lado?
+toji,no te preocupes. yo tampoco soy bueno
+toji,recordando nombres de hombres.
+,jujutsu kaisen
+toji,una vez se me ocurrió visitar el clan gojo por curiosidad
+toji,para ver al muchacho que nació con los seis ojos.
+toji,fue la única vez en toda mi vida
+toji,que alguien notó mi presencia a sus espaldas y se volteó a ver con sospecha.
+toji,por eso manipulé todo para diezmarlo.
+toji,hasta que bajara la guardia.
+geto,¡satoru!
+gojo,no hay ningún problema.
+gojo,no activé a tiempo mi ritual, pero no me dio en un órgano vital.
+gojo,reforcé mi cuerpo con poder maldito, así que la hoja no hizo ningún daño.
+gojo,fue como si un alfiler pasara por un suéter tejido de estambre.
+gojo,en serio, no hay problema.
+gojo,además, amanai es la prioridad.
+gojo,yo me encargaré de lidiar con él.
+gojo,ustedes adelántense al lugar del señor tengen.
+geto,satoru…
+geto,no vayas a cometer un descuido.
+geto/kuroi,-vámonos, en marcha. -¡sí!
+gojo,¿quién carajos crees que soy?
+gojo,es una espada diferente a la que usó para atravesarme.
+gojo,¿y de dónde salió ese espíritu maldito?
+gojo,este tipo es un completo misterio. ¡maldita sea!
+toji,ya no veo al cuerpo del plasma estelar.
+toji,me hubiera gustado acabar contigo con ese ataque. ¿ya me habré oxidado?
+gojo,ya se canceló la recompensa sobre amanai, pedazo de imbécil.
+toji,yo fui el que la canceló, mocoso insolente.
+toji,se trata a los que andan alerta como tú imponiéndoles un ritmo con metas falsas.
+toji,fue muy divertida la escena con los de la secta del manto estelar en okinawa.
+toji,me pareció una mierda que ninguno de tus compañeros hubiera muerto.
+toji,pero sin el tiempo límite de la recompensa,
+toji,no habrías desactivado tu técnica ritual hasta el final.
+gojo,no me digas.
+gojo,no es solo su gran velocidad.
+gojo,desde el principio, este me pareció muy extraño.
+gojo,no genera nada de poder maldito.
+gojo,es un superdotado físicamente por el hechizo de atadura celestial.
+gojo,no creo que un tipo que conoce mi técnica ritual no tenga un plan.
+gojo,¿es acaso un arma mágica legendaria?
+gojo,perdón. no dejaré que te me acerques con eso.
+gojo,no puedo detectarlo por la falta de poder maldito.
+gojo,tengo que confiar en mis sentidos. no, claro que no.
+gojo,lo que tengo que hacer es localizar
+gojo,al espíritu maldito que trae enrollado.
+gojo,no puedo creer
+gojo,lo rápido que es.
+gojo,rotación del ritual
+gojo,a la máxima potencia.
+gojo,¡azul!
+gojo,ya no hay nada que me estorbe.
+gojo,ya no podrá atacar por sorpresa. se ocultó en el bosque, ¿eh?
+gojo,¿qué es eso?
+gojo,¿cabezas de mosca?
+gojo,las guardaba dentro de aquel espíritu maldito.
+gojo,las usa como señuelo y se oculta con ellas, ¿eh?
+gojo,así no puedo ubicarlo para nada.
+gojo,me creó varios puntos muertos.
+gojo,voy a disparar azul otra vez…
+gojo,no, espera. su objetivo
+gojo,es amanai.
+toji,su percepción me detecta aun con las manos vacías.
+toji,es imposible que sus seis ojos no vayan a detectar
+toji,el poder maldito anormal que surge de esta arma mágica.
+toji,pero al fin
+toji,está usando su técnica ritual en modo de defensa.
+toji,arma mágica de grado especial: amanosaka hoko, daga celestial.
+toji,su efecto es desactivar a la fuerza técnicas rituales en uso.
+toji,ya me siento
+toji,un poco más en forma.
+kuroi,señorita riko,
+kuroi,aquí dejo de acompañarla.
+kuroi,señorita riko, por favor… ¡por favor!
+riko,kuroi, te quiero mucho.
+riko,¡para siempre! ¡te voy a querer para siempre!
+kuroi,yo también…
+kuroi,¡yo también la quiero mucho!
+riko/geto,-¿aquí es? -sí.
+geto,los cimientos de la barrera principal de japón
+geto,bajo el cuidado del señor tengen.
+geto,el centro del santuario de la muerte estelar.
+geto,baja las escaleras, cruza el portal
+geto,y ve hasta las raíces de ese árbol enorme.
+geto,ahí estarás dentro de una barrera especial aparte de la de la escuela.
+geto,solo pueden entrar quienes hayan sido invitados.
+geto,el señor tengen te protegerá hasta que comience la fusión.
+geto,¿o prefieres volver sobre tus pasos y regresar a casa junto con kuroi?
+geto,cuando nuestro maestro nos explicó el objetivo de esta misión,
+geto,llamó "eliminar" a la ceremonia de fusión,
+geto,con la intención de que fuéramos conscientes de la culpa que nos traería.
+geto,el maestro tiene músculos en la cabeza, pero a menudo habla con indirectas.
+geto,satoru y yo ya lo teníamos decidido antes de conocerte.
+gojo,¿en caso de que el cuerpo de plasma estelar rechace la fusión?
+gojo,si eso llega a pasar,
+gojo,¡no se llevará a cabo la fusión!
+geto/gojo,-¿estás seguro? -¿qué?
+geto,¿sabes que tal vez terminaríamos luchando contra el señor tengen?
+gojo,¿te da miedo?
+gojo,todo iría bien. de alguna forma saldríamos de esa.
+geto,nosotros dos somos los hechiceros más poderosos.
+geto,no importa qué elijas, nos aseguraremos de que ese futuro se cumpla.
+riko,yo…
+riko,desde que nací, siempre me decían
+riko,que era especial y diferente a todos.
+riko,pero para mí esa vida especial era lo normal.
+riko,he vivido siempre evitando el peligro lo más posible, esperando este día.
+riko,no recuerdo el día que mis padres murieron.
+riko,no estoy triste ni me siento sola por eso.
+riko,por eso creía que estaría bien aunque me separara de todos luego de la fusión.
+riko,no importaba todo lo que sufriera.
+riko,algún día ya no estaría triste ni sola.
+riko,pero…
+riko,pero…
+riko,la verdad es que
+riko,quiero estar más tiempo con todos.
+riko,quiero conocer más lugares
+riko,y ver cosas nuevas con ustedes.
+riko,¡muchas más!
+geto,vamos a casa, riko.
+riko,¡sí!
+geto,¿riko?
+toji,se terminó el espectáculo.
+toji,todos a sus casas.
+geto,¿cómo es que estás tú aquí?
+toji,¿eh? ¿en qué sentido?
+toji,ah. te refieres a eso, ¿verdad?
+toji,maté a satoru gojo.
+geto,ya veo.
+geto,muere entonces.
+,traducción: abraham gayuvas y antonio valdez edición: abraham gayuvas control de calidad: nicolás sepúlveda
+shoko,dicen que nunca es tarde para comenzar algo nuevo,
+shoko,pero la cuestión es cuándo rendirse más que cuándo empezar, ¿no?
+shoko,próximamente: "el tesoro escondido, parte 4".
+,próximo episodio           el tesoro escondido - parte 4 -
+shoko,pero no sé si deba decir eso.

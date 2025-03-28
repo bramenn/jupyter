@@ -1,0 +1,358 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,56,&H00000000,&H000000FF,&H00B7BD80,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H28FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0028,0050,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+Style: sign_845_4_Correct_Answer__,Times New Roman,18,&H00B2A1D1,&H000000FF,&H00730C91,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,2,0180,0180,0018,1
+Style: sign_12193_114_First_Grade,Arial,10,&H00000000,&H000000FF,&H00F7FAF9,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0293,0277,0065,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.98,0:00:08.46,Italics,Toudou,0000,0000,0000,,{\an8}The hands will never surpass the eyes.
+Dialogue: 0,0:00:08.90,0:00:11.69,Italics,Toudou,0000,0000,0000,,{\an8}Unless you cultivate the "eyes" \Nto discern good from bad,
+Dialogue: 0,0:00:09.23,0:00:11.69,Main,Screen,0000,0000,0000,,{\fad(272,1)\fnTimes New Roman\an8\fs20\shad0\c&H4C87B7&\b1\bord0\pos(566,26)}Class Check\N\N{\c&H262D2B&\bord1\3c&H787885&}~Production~
+Dialogue: 0,0:00:09.23,0:00:11.69,sign_845_4_Correct_Answer__,Screen,0000,0000,0000,,{\fad(523,1)\pos(510,336)}Correct Answer Waiting Room
+Dialogue: 0,0:00:11.69,0:00:14.70,Italics,Toudou,0000,0000,0000,,you cannot hope to improve the \N"hands" that create works of art.
+Dialogue: 0,0:00:15.11,0:00:18.83,Italics,Toudou,0000,0000,0000,,It's a phrase that's often \Nused among creators,
+Dialogue: 0,0:00:18.83,0:00:21.50,Italics,Toudou,0000,0000,0000,,but it applies to all kinds of fields.
+Dialogue: 0,0:00:21.50,0:00:23.71,Italics,Toudou,0000,0000,0000,,Those with good "eyes" will improve
+Dialogue: 0,0:00:23.71,0:00:27.75,Italics,Toudou,0000,0000,0000,,far more rapidly than those without!
+Dialogue: 0,0:00:41.93,0:00:44.56,Italics,Toudou,0000,0000,0000,,When I throw my right horizontal punch,
+Dialogue: 0,0:00:44.89,0:00:47.65,Italics,Toudou,0000,0000,0000,,he immediately sends a left vertical jab!
+Dialogue: 0,0:00:48.06,0:00:51.03,Italics,Toudou,0000,0000,0000,,Itadori wasn't moving like that before!
+Dialogue: 0,0:00:51.03,0:00:52.48,Italics,Toudou,0000,0000,0000,,He's improving...
+Dialogue: 0,0:00:53.69,0:00:55.57,Italics,Toudou,0000,0000,0000,,by devouring me!
+Dialogue: 0,0:00:56.74,0:00:59.66,Italics,Toudou,0000,0000,0000,,What a beautiful way to knock me down!
+Dialogue: 0,0:01:01.42,0:01:02.66,Italics,Yuuji,0000,0000,0000,,His face is wide open!
+Dialogue: 0,0:01:02.66,0:01:03.62,Italics,Yuuji,0000,0000,0000,,I can hit it!
+Dialogue: 0,0:01:03.62,0:01:05.04,Italics,Yuuji,0000,0000,0000,,Even with Divergent Fist!
+Dialogue: 0,0:01:05.54,0:01:06.96,Italics,Toudou,0000,0000,0000,,However!
+Dialogue: 0,0:01:10.88,0:01:14.40,Italics,Yuuji,0000,0000,0000,,He stopped my fist with his forehead \Nbefore it could reach full speed?!
+Dialogue: 0,0:01:16.05,0:01:19.05,Main,Toudou,0000,0000,0000,,That's not what I want you \Nto devour right now.
+Dialogue: 0,0:01:19.72,0:01:21.43,Main,Toudou,0000,0000,0000,,Your Divergent Fist
+Dialogue: 0,0:01:21.43,0:01:23.93,Main,Toudou,0000,0000,0000,,is created by your cursed energy
+Dialogue: 0,0:01:23.93,0:01:26.85,Main,Toudou,0000,0000,0000,,lagging behind your \Nsuperhuman physical prowess,
+Dialogue: 0,0:01:26.85,0:01:29.06,Main,Toudou,0000,0000,0000,,when normally it would never lag.
+Dialogue: 0,0:01:29.61,0:01:31.07,Main,Toudou,0000,0000,0000,,It's a tricky move.
+Dialogue: 0,0:01:31.07,0:01:35.32,Main,Toudou,0000,0000,0000,,Your average sorcerer wouldn't know what \Nhappened, and they'd be left disoriented.
+Dialogue: 0,0:01:35.57,0:01:37.15,Main,Toudou,0000,0000,0000,,It carries plenty of force, too.
+Dialogue: 0,0:01:37.15,0:01:39.78,Main,Toudou,0000,0000,0000,,For opponents on that level, at least!
+Dialogue: 0,0:01:40.87,0:01:43.33,Main,Toudou,0000,0000,0000,,But it won't work against special-grades.
+Dialogue: 0,0:01:44.41,0:01:46.33,Main,Toudou,0000,0000,0000,,What will you do, best friend?
+Dialogue: 0,0:01:48.25,0:01:52.00,Main,Yuuji,0000,0000,0000,,Imbue my full strength with \Ncursed energy at the right moment.
+Dialogue: 0,0:01:52.00,0:01:53.09,Main,Toudou,0000,0000,0000,,Good!
+Dialogue: 0,0:01:53.09,0:01:56.42,Main,Toudou,0000,0000,0000,,So then why is your cursed energy lagging?
+Dialogue: 0,0:01:56.42,0:01:59.89,Main,Toudou,0000,0000,0000,,It's because you're channeling it!
+Dialogue: 0,0:02:01.93,0:02:02.64,Main,Yuuji,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:03.43,0:02:07.10,Main,Yuuji,0000,0000,0000,,Wait, I thought we were talking \Nabout channeling it faster...
+Dialogue: 0,0:02:07.10,0:02:08.94,Main,Toudou,0000,0000,0000,,We channel cursed energy.
+Dialogue: 0,0:02:08.94,0:02:12.61,Main,Toudou,0000,0000,0000,,Many sorcerers do this consciously.
+Dialogue: 0,0:02:13.02,0:02:14.36,Main,Toudou,0000,0000,0000,,"My stomach's full of rage."
+Dialogue: 0,0:02:14.36,0:02:16.53,Main,Toudou,0000,0000,0000,,"The blood's boiling in my gut."
+Dialogue: 0,0:02:16.53,0:02:19.15,Main,Toudou,0000,0000,0000,,The theory is that cursed energy extracted
+Dialogue: 0,0:02:19.15,0:02:20.61,Main,Toudou,0000,0000,0000,,from such negative emotions
+Dialogue: 0,0:02:19.15,0:02:23.62,Main,Screen,0000,0000,0000,,{\fad(693,1)\c&H000000&\bord1.5\shad0\b1\pos(322,245)\fs36\t(1236,4321,1 \fs18)\3c&H8E8876&}Curse
+Dialogue: 0,0:02:20.61,0:02:23.24,Main,Toudou,0000,0000,0000,,starts in the navel and is \Nchanneled throughout the body.
+Dialogue: 0,0:02:23.87,0:02:26.12,Main,Toudou,0000,0000,0000,,They say it flows from the navel to the chest,
+Dialogue: 0,0:02:26.12,0:02:30.42,Main,Toudou,0000,0000,0000,,then the shoulders, arms, \Nand finally the fists,
+Dialogue: 0,0:02:30.42,0:02:33.13,Main,Toudou,0000,0000,0000,,but this perception of \Nthe body as individual parts
+Dialogue: 0,0:02:33.13,0:02:35.63,Main,Toudou,0000,0000,0000,,is what delays cursed energy.
+Dialogue: 0,0:02:36.05,0:02:39.63,Main,Toudou,0000,0000,0000,,The idea of channeling cursed \Nenergy isn't wrong in itself.
+Dialogue: 0,0:02:39.63,0:02:41.22,Main,Toudou,0000,0000,0000,,But that's only the first step!
+Dialogue: 0,0:02:41.22,0:02:44.05,Main,Toudou,0000,0000,0000,,You can't let yourself remain \Ntoo trapped by that concept.
+Dialogue: 0,0:02:44.05,0:02:48.14,Main,Toudou,0000,0000,0000,,The better the sorcerer, the harder it is \Nto read the flow of their cursed energy.
+Dialogue: 0,0:02:48.60,0:02:50.94,Main,Toudou,0000,0000,0000,,For a different reason from why yours is.
+Dialogue: 0,0:02:51.69,0:02:54.32,Main,Toudou,0000,0000,0000,,Do we think with our guts?
+Dialogue: 0,0:02:54.65,0:02:57.32,Main,Toudou,0000,0000,0000,,Do we express anger with our heads?
+Dialogue: 0,0:02:58.24,0:02:59.90,Main,Toudou,0000,0000,0000,,Listen to me, Itadori.
+Dialogue: 0,0:03:11.54,0:03:16.21,Main,Toudou,0000,0000,0000,,We exist in this world with our entire mind, \Nbody, and soul as one whole.
+Dialogue: 0,0:03:16.55,0:03:20.72,Main,Toudou,0000,0000,0000,,It's such a given that \Neveryone forgets about it.
+Dialogue: 0,0:03:25.97,0:03:27.97,Main,Yuuji,0000,0000,0000,,Thanks, Toudou.
+Dialogue: 0,0:03:29.18,0:03:32.48,Main,Yuuji,0000,0000,0000,,I think I get it now.
+Dialogue: 0,0:03:33.44,0:03:36.44,Main,Toudou,0000,0000,0000,,Then no more words are needed.
+Dialogue: 0,0:03:36.94,0:03:39.03,Italics,Toudou,0000,0000,0000,,I won't hold back.
+Dialogue: 0,0:03:44.62,0:03:47.53,Italics,Toudou,0000,0000,0000,,I'll guide you with my full strength!
+Dialogue: 0,0:03:48.16,0:03:49.79,Italics,Toudou,0000,0000,0000,,Don't die on me, Itadori!
+Dialogue: 0,0:03:50.05,0:03:52.96,Italics,Toudou,0000,0000,0000,,Rise up to greater heights!
+Dialogue: 0,0:05:13.04,0:05:16.79,Show_Title,,0000,0000,0000,,{\fad(1398,1)\c&H0F0D09&\3c&HB7BD80&\t(1236,1817,1 \3c&H85A2A4&)\t(1819,2945,1 \3c&H95DED9&)}JUJUTSU KAISEN
+Dialogue: 0,0:05:24.51,0:05:31.51,Ep_Title_Shadow,Screen,0000,0000,0000,,{\fad(528,518)\q2\fscx90\pos(608,305)}Episode 16: Kyoto Sister School Exchange Event - Group Battle 2 -
+Dialogue: 0,0:05:24.51,0:05:31.51,Ep_Title,Screen,0000,0000,0000,,{\fad(528,518)\q2\fscx90\pos(608,305)}Episode 16: Kyoto Sister School Exchange Event - Group Battle 2 -
+Dialogue: 0,0:05:26.97,0:05:28.59,Main,Kugisaki,0000,0000,0000,,{\an8}Hey, you.
+Dialogue: 0,0:05:28.89,0:05:32.56,Main,Kugisaki,0000,0000,0000,,{\an8}Your old fart told you to kill Itadori, right?
+Dialogue: 0,0:05:33.64,0:05:35.77,Italics,Momo,0000,0000,0000,,This girl has good intuition.
+Dialogue: 0,0:05:35.77,0:05:39.10,Italics,Momo,0000,0000,0000,,No, that was probably Panda-chan.
+Dialogue: 0,0:05:39.44,0:05:41.27,Main,Momo,0000,0000,0000,,Huh? What do you mean?
+Dialogue: 0,0:05:41.27,0:05:43.57,Main,Kugisaki,0000,0000,0000,,You really don't need to hide it.
+Dialogue: 0,0:05:43.57,0:05:45.74,Main,Kugisaki,0000,0000,0000,,I'm out to kill someone, too.
+Dialogue: 0,0:05:45.74,0:05:50.20,Main,Kugisaki,0000,0000,0000,,Especially that bitch Mai, \Nthe watered-down version of Maki.
+Dialogue: 0,0:05:50.37,0:05:51.45,Main,Momo,0000,0000,0000,,What?
+Dialogue: 0,0:05:51.74,0:05:53.70,Main,Kugisaki,0000,0000,0000,,Don't "What?" me.
+Dialogue: 0,0:05:53.70,0:05:57.16,Main,Kugisaki,0000,0000,0000,,Even Pepper-kun gives slightly \Nbetter responses than that.
+Dialogue: 0,0:05:57.16,0:05:59.21,Italics,Kugisaki,0000,0000,0000,,What, she's not getting mad?
+Dialogue: 0,0:05:59.58,0:06:02.21,Italics,Kugisaki,0000,0000,0000,,But I feel the same way right now!
+Dialogue: 0,0:06:02.42,0:06:06.59,Main,Kugisaki,0000,0000,0000,,Oh, I almost forgot. You guys \Nhave your own Pepper-kun, huh?
+Dialogue: 0,0:06:06.59,0:06:10.09,Main,Kugisaki,0000,0000,0000,,Maybe I'll scrap it and dump it somewhere.
+Dialogue: 0,0:06:12.64,0:06:13.85,Italics,Panda,0000,0000,0000,,Scary...
+Dialogue: 0,0:06:18.69,0:06:19.90,Main,Kugisaki,0000,0000,0000,,Panda-senpai!
+Dialogue: 0,0:06:22.40,0:06:23.82,Main,Mechamaru,0000,0000,0000,,It's a cursed corpse.
+Dialogue: 0,0:06:23.82,0:06:25.48,Main,Mechamaru,0000,0000,0000,,It won't die.
+Dialogue: 0,0:06:25.48,0:06:27.44,Main,Mechamaru,0000,0000,0000,,Though it won't be able to move for a while.
+Dialogue: 0,0:06:29.03,0:06:31.91,Main,Mechamaru,0000,0000,0000,,Now, who were you calling a Pepper-kun?
+Dialogue: 0,0:06:32.28,0:06:34.03,Main,Momo,0000,0000,0000,,Hold on, Mechamaru.
+Dialogue: 0,0:06:36.70,0:06:40.29,Main,Momo,0000,0000,0000,,I'll beat this first-year into cute shape.
+Dialogue: 0,0:06:40.71,0:06:42.38,Main,Momo,0000,0000,0000,,I'll show her how Mai-chan's suffered
+Dialogue: 0,0:06:42.38,0:06:46.80,Main,Momo,0000,0000,0000,,and teach her all about what it means \Nfor a woman to live as a jujutsu sorcerer.
+Dialogue: 0,0:06:47.34,0:06:48.92,Main,Panda,0000,0000,0000,,Just kidding.
+Dialogue: 0,0:06:48.92,0:06:49.88,Main,Kugisaki,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:54.14,0:06:55.61,Main,Panda,0000,0000,0000,,You looking for attention?
+Dialogue: 0,0:06:55.61,0:06:58.39,Main,Panda,0000,0000,0000,,You should focus on support \Nand staying hidden.
+Dialogue: 0,0:06:58.64,0:07:00.77,Main,Panda,0000,0000,0000,,Well, let's just get along,
+Dialogue: 0,0:07:00.77,0:07:02.69,Main,Panda,0000,0000,0000,,since we're so similar.
+Dialogue: 0,0:07:03.36,0:07:05.32,Main,Mechamaru,0000,0000,0000,,Damn puppet...
+Dialogue: 0,0:07:11.32,0:07:12.99,Main,Mechamaru,0000,0000,0000,,What do you know?!
+Dialogue: 0,0:07:15.33,0:07:19.25,Main,Panda,0000,0000,0000,,Good grief. What happened \Nto hunting cursed spirits?
+Dialogue: 0,0:07:20.29,0:07:22.00,Main,Mechamaru,0000,0000,0000,,Sword Option:
+Dialogue: 0,0:07:24.92,0:07:26.38,Main,Mechamaru,0000,0000,0000,,Boost On!
+Dialogue: 0,0:07:34.01,0:07:35.43,Main,Mechamaru,0000,0000,0000,,Ultra Spin!
+Dialogue: 0,0:07:46.15,0:07:47.94,Main,Mechamaru,0000,0000,0000,,Can't you keep still?
+Dialogue: 0,0:07:47.94,0:07:50.24,Italics,Panda,0000,0000,0000,,I need to finish this quickly.
+Dialogue: 0,0:07:50.24,0:07:55.20,Italics,Panda,0000,0000,0000,,I'd rather leave him be and go \Nhelp Nobara, but he fires at range.
+Dialogue: 0,0:07:55.20,0:07:59.08,Italics,Panda,0000,0000,0000,,We didn't have information on \NMechamaru, Nishimiya, or Miwa, but...
+Dialogue: 0,0:07:59.41,0:08:00.91,Main,Panda,0000,0000,0000,,You're strong.
+Dialogue: 0,0:08:01.25,0:08:02.46,Main,Panda,0000,0000,0000,,What grade are you?
+Dialogue: 0,0:08:03.27,0:08:09.94,sign_12193_114_First_Grade,ScreenToptoBottom,0000,0000,0000,,{\fad(274,1)\pos(335,64)}First-Grade
+Dialogue: 0,0:08:03.27,0:08:09.94,sign_12193_114_First_Grade,ScreenToptoBottom,0000,0000,0000,,{\fad(274,1)\fscx95\an5\pos(335,102)}Semi-\N\N\N\N\NFirst-Grade
+Dialogue: 0,0:08:03.27,0:08:09.94,sign_12193_114_First_Grade,ScreenToptoBottom,0000,0000,0000,,{\fad(274,1)\fscx85\pos(335,168)}Second-Grade
+Dialogue: 0,0:08:03.27,0:08:09.94,sign_12193_114_First_Grade,ScreenToptoBottom,0000,0000,0000,,{\fad(274,1)\fscx85\pos(335,190)}Semi-\N\N\N\N\NSecond-Grade
+Dialogue: 0,0:08:03.27,0:08:09.94,sign_12193_114_First_Grade,ScreenToptoBottom,0000,0000,0000,,{\fad(274,1)\fscx95\pos(335,275.333)}Third-Grade
+Dialogue: 0,0:08:05.21,0:08:07.54,Italics,Panda,0000,0000,0000,,By my guess, this is where everyone stands.
+Dialogue: 0,0:08:07.54,0:08:09.94,Italics,Panda,0000,0000,0000,,It's a little too much \Nfor Nobara to handle.
+Dialogue: 0,0:08:09.94,0:08:13.80,Main,Mechamaru,0000,0000,0000,,I don't think my rating against \Ncursed spirits is needed right now,
+Dialogue: 0,0:08:13.80,0:08:14.97,Main,Mechamaru,0000,0000,0000,,but I'll tell you.
+Dialogue: 0,0:08:17.18,0:08:18.72,Main,Mechamaru,0000,0000,0000,,Semi-first-grade.
+Dialogue: 0,0:08:19.68,0:08:20.22,Main,Panda,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:20.52,0:08:21.98,Main,Mechamaru,0000,0000,0000,,Ultra Cannon!
+Dialogue: 0,0:08:23.48,0:08:25.15,Italics,Panda,0000,0000,0000,,His area of attack is huge!
+Dialogue: 0,0:08:33.57,0:08:34.86,Italics,Panda,0000,0000,0000,,Heat emission!
+Dialogue: 0,0:08:34.86,0:08:36.95,Italics,Panda,0000,0000,0000,,It's a technique with big\Nbuild-up and cool-down.
+Dialogue: 0,0:08:37.49,0:08:42.12,Italics,Mechamaru,0000,0000,0000,,This output is pointless if \NI don't hit its core dead-on.
+Dialogue: 0,0:08:42.96,0:08:44.37,Flashback,Yaga,0000,0000,0000,,Cursed corpses.
+Dialogue: 0,0:08:44.92,0:08:47.50,Flashback,Yaga,0000,0000,0000,,That's the generic name \Nfor inanimate objects
+Dialogue: 0,0:08:47.50,0:08:50.47,Flashback,Yaga,0000,0000,0000,,that house curses and can\Noperate independently.
+Dialogue: 0,0:08:51.30,0:08:56.34,Flashback,Yaga,0000,0000,0000,,Man-made cursed corpses always have \Na core that serves as their heart.
+Dialogue: 0,0:09:02.39,0:09:06.52,Flashback,Yaga,0000,0000,0000,,Panda is the ultimate masterpiece \Nby myself, Yaga Masamichi,
+Dialogue: 0,0:09:06.52,0:09:09.48,Flashback,,0000,0000,0000,,the leading expert on \Npuppeteering cursed techniques.
+Dialogue: 0,0:09:09.48,0:09:12.15,Flashback,Yaga,0000,0000,0000,,He's a cursed corpse born with emotions...
+Dialogue: 0,0:09:21.49,0:09:24.20,Flashback,Yaga,0000,0000,0000,,A cursed corpse mutation!
+Dialogue: 0,0:09:24.79,0:09:28.21,Flashback,Yaga,0000,0000,0000,,Panda... is not a panda!
+Dialogue: 0,0:09:37.93,0:09:39.85,Italics,Mechamaru,0000,0000,0000,,I can't follow his movements!
+Dialogue: 0,0:09:57.49,0:10:01.49,Main,Panda,0000,0000,0000,,I guess if there was another like me, \NI would have at least heard rumors.
+Dialogue: 0,0:10:01.49,0:10:03.49,Main,Panda,0000,0000,0000,,The fact that I haven't
+Dialogue: 0,0:10:03.49,0:10:05.33,Main,Panda,0000,0000,0000,,means you're not a cursed corpse.
+Dialogue: 0,0:10:05.33,0:10:09.25,Main,Panda,0000,0000,0000,,You're a sorcerer who's remote-controlling \Nthis thing while your main body's elsewhere.
+Dialogue: 0,0:10:09.25,0:10:13.00,Main,Panda,0000,0000,0000,,That doesn't mean you should snap over \Nbeing treated like a cursed corpse.
+Dialogue: 0,0:10:13.00,0:10:14.71,Main,Panda,0000,0000,0000,,You don't like being similar to me?
+Dialogue: 0,0:10:15.51,0:10:17.80,Main,Panda,0000,0000,0000,,You wound me.
+Dialogue: 0,0:10:17.80,0:10:20.22,Main,Panda,0000,0000,0000,,I think it actually hurts!
+Dialogue: 0,0:10:21.10,0:10:26.43,Main,Panda,0000,0000,0000,,Judging from your cursed energy output, \Nyour main body shouldn't be that far away.
+Dialogue: 0,0:10:26.43,0:10:28.44,Main,Panda,0000,0000,0000,,No, you're just outside the arena, huh?
+Dialogue: 0,0:10:28.81,0:10:31.31,Main,Panda,0000,0000,0000,,Guess there's no point in \Nhunting you down, then.
+Dialogue: 0,0:10:31.31,0:10:33.27,Main,Panda,0000,0000,0000,,You'd just be free to act in the meantime.
+Dialogue: 0,0:10:33.27,0:10:35.44,Main,Panda,0000,0000,0000,,So I guess I'll just bust you up.
+Dialogue: 0,0:10:35.44,0:10:37.95,Main,Mechamaru,0000,0000,0000,,You won't be doing either.
+Dialogue: 0,0:10:38.49,0:10:39.86,Main,Mechamaru,0000,0000,0000,,Heavenly pact.
+Dialogue: 0,0:10:40.13,0:10:41.82,Main,Mechamaru,0000,0000,0000,,Have you heard of it?
+Dialogue: 0,0:10:42.07,0:10:46.16,Main,Mechamaru,0000,0000,0000,,It's not like a pact normally \Nforged with oneself.
+Dialogue: 0,0:10:46.16,0:10:50.25,Main,Mechamaru,0000,0000,0000,,It's a pact forced upon the body \Nfrom the moment it's born.
+Dialogue: 0,0:10:50.25,0:10:54.17,Main,Mechamaru,0000,0000,0000,,I was born without a right arm \Nor anything below my knees,
+Dialogue: 0,0:10:54.17,0:10:56.84,Main,Mechamaru,0000,0000,0000,,and I had no sensation from the waist down.
+Dialogue: 0,0:10:56.84,0:11:00.13,Main,Mechamaru,0000,0000,0000,,My skin is so fragile that\Neven moonlight burns it,
+Dialogue: 0,0:11:00.13,0:11:04.10,Main,Mechamaru,0000,0000,0000,,and it constantly feels like needles \Nare stabbing every pore of my body.
+Dialogue: 0,0:11:04.10,0:11:06.43,Main,Mechamaru,0000,0000,0000,,But in exchange, I've been granted the ability
+Dialogue: 0,0:11:06.43,0:11:09.23,Main,Mechamaru,0000,0000,0000,,to use cursed techniques over vast distances,
+Dialogue: 0,0:11:09.23,0:11:11.35,Main,Mechamaru,0000,0000,0000,,as well as immense cursed energy production.
+Dialogue: 0,0:11:11.35,0:11:14.15,Main,Mechamaru,0000,0000,0000,,I didn't ask for any of this power.
+Dialogue: 0,0:11:14.15,0:11:19.11,Main,Mechamaru,0000,0000,0000,,If I could trade my cursed techniques \Nto have a normal body, I'd gladly do so.
+Dialogue: 0,0:11:19.49,0:11:22.41,Main,Mechamaru,0000,0000,0000,,So when I see a cursed corpse like you
+Dialogue: 0,0:11:22.41,0:11:25.87,Main,Mechamaru,0000,0000,0000,,walking around in broad daylight \Nwithout a care instead of me,
+Dialogue: 0,0:11:26.24,0:11:29.50,Main,Mechamaru,0000,0000,0000,,I just cannot stand it!
+Dialogue: 0,0:11:31.75,0:11:34.08,Main,Mechamaru,0000,0000,0000,,Ultimate Mechamaru,
+Dialogue: 0,0:11:35.21,0:11:37.50,Main,Mechamaru,0000,0000,0000,,Mode: Albatross!
+Dialogue: 0,0:11:39.05,0:11:41.01,Italics,Panda,0000,0000,0000,,That's an incredible \Namount of cursed energy!
+Dialogue: 0,0:11:41.01,0:11:45.93,Italics,Panda,0000,0000,0000,,And given his position, \NNobara's in his line of fire!
+Dialogue: 0,0:11:46.43,0:11:48.14,Italics,Panda,0000,0000,0000,,I have to block it!
+Dialogue: 0,0:11:48.14,0:11:51.06,Main,Mechamaru,0000,0000,0000,,Ultimate Cannon!
+Dialogue: 0,0:12:04.49,0:12:06.12,Main,Mechamaru,0000,0000,0000,,It's dead?
+Dialogue: 0,0:12:06.49,0:12:09.75,Main,Mechamaru,0000,0000,0000,,No, the very concept of death
+Dialogue: 0,0:12:09.75,0:12:12.92,Main,Mechamaru,0000,0000,0000,,doesn't apply to you.
+Dialogue: 0,0:12:14.88,0:12:16.92,Main,Panda,0000,0000,0000,,You revealed your technique
+Dialogue: 0,0:12:16.92,0:12:20.42,Main,Panda,0000,0000,0000,,while boasting about your misfortune, then.
+Dialogue: 0,0:12:20.76,0:12:23.09,Main,Panda,0000,0000,0000,,Quite the sorcerer thing to do.
+Dialogue: 0,0:12:23.09,0:12:27.18,Italics,Mechamaru,0000,0000,0000,,It's still alive after taking a hit \Nfrom Ultimate Cannon?!
+Dialogue: 0,0:12:31.02,0:12:33.98,Main,Panda,0000,0000,0000,,I'm kind of pissed now.
+Dialogue: 0,0:12:34.77,0:12:38.98,Main,Mechamaru,0000,0000,0000,,What is that form?
+Dialogue: 0,0:12:38.98,0:12:42.61,Flashback,Yaga,0000,0000,0000,,Panda... is not a panda!
+Dialogue: 0,0:12:46.20,0:12:48.99,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:12:51.62,0:12:54.00,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:12:58.67,0:12:59.59,Flashback,Yaga,0000,0000,0000,,Panda.
+Dialogue: 0,0:13:00.46,0:13:04.38,Flashback,Yaga,0000,0000,0000,,You have an older brother \Nand an older sister.
+Dialogue: 0,0:13:05.68,0:13:07.22,Flashback,Panda,0000,0000,0000,,No, I do not.
+Dialogue: 0,0:13:07.22,0:13:08.68,Flashback,Yaga,0000,0000,0000,,Yes, you do.
+Dialogue: 0,0:13:08.68,0:13:10.68,Flashback,Yaga,0000,0000,0000,,They're inside you.
+Dialogue: 0,0:13:10.68,0:13:12.02,Flashback,Yaga,0000,0000,0000,,And why the polite tone?
+Dialogue: 0,0:13:12.26,0:13:13.73,Flashback,Panda,0000,0000,0000,,Inside me?
+Dialogue: 0,0:13:13.73,0:13:16.40,Flashback,Yaga,0000,0000,0000,,Yes. You'll understand someday.
+Dialogue: 0,0:13:16.94,0:13:19.23,Flashback,Yaga,0000,0000,0000,,Those two will always,
+Dialogue: 0,0:13:19.86,0:13:24.15,Flashback,Yaga,0000,0000,0000,,always lend you strength.
+Dialogue: 0,0:13:26.20,0:13:29.53,Main,Mechamaru,0000,0000,0000,,Sword Option: Ultra Shield!
+Dialogue: 0,0:13:36.75,0:13:40.54,Italics,Panda,0000,0000,0000,,Normally, a cursed corpse has \Na single core for its heart.
+Dialogue: 0,0:13:40.54,0:13:43.09,Italics,Panda,0000,0000,0000,,But there are three cores inside me,
+Dialogue: 0,0:13:43.09,0:13:47.01,Italics,Panda,0000,0000,0000,,and by switching out which one is \Nthe main core, I can convert my body.
+Dialogue: 0,0:13:48.55,0:13:51.35,Italics,Panda,0000,0000,0000,,There's the Panda core, focused on balance...
+Dialogue: 0,0:13:51.35,0:13:55.52,Italics,Panda,0000,0000,0000,,my older brother, Gorilla Core, \Nfocused on power for short, decisive battles...
+Dialogue: 0,0:13:55.52,0:13:57.77,Italics,Panda,0000,0000,0000,,and my bashful older sister.
+Dialogue: 0,0:13:58.77,0:14:01.36,Italics,Panda,0000,0000,0000,,His first attack got my older sister's core,
+Dialogue: 0,0:14:01.36,0:14:04.11,Italics,Panda,0000,0000,0000,,and that last one exhausted the Panda core.
+Dialogue: 0,0:14:04.99,0:14:07.74,Italics,Panda,0000,0000,0000,,I have no choice left but to \Nbeat him with Gorilla Mode!
+Dialogue: 0,0:14:16.62,0:14:19.08,Italics,Mechamaru,0000,0000,0000,,He doesn't pack as much power as Toudou.
+Dialogue: 0,0:14:19.08,0:14:20.67,Italics,Mechamaru,0000,0000,0000,,But that palm strike just now
+Dialogue: 0,0:14:21.21,0:14:23.09,Italics,Mechamaru,0000,0000,0000,,went all the way to my internals.
+Dialogue: 0,0:14:24.30,0:14:26.67,Italics,Mechamaru,0000,0000,0000,,Even if I guard, I'll still take damage.
+Dialogue: 0,0:14:26.67,0:14:28.55,Main,Panda,0000,0000,0000,,You realized it?
+Dialogue: 0,0:14:28.55,0:14:31.26,Main,Panda,0000,0000,0000,,This is Gorilla Mode's special move,
+Dialogue: 0,0:14:32.35,0:14:36.10,Main,Panda,0000,0000,0000,,the unstoppable Drumming Beat!
+Dialogue: 0,0:14:36.10,0:14:40.19,Italics,Mechamaru,0000,0000,0000,,If I take that Drumming Beat \Nto my head or chest,
+Dialogue: 0,0:14:40.19,0:14:42.86,Italics,Mechamaru,0000,0000,0000,,I won't be able to move Mechamaru anymore.
+Dialogue: 0,0:14:43.15,0:14:47.03,Italics,Mechamaru,0000,0000,0000,,My right arm, Sword Option,\Nis no longer functioning.
+Dialogue: 0,0:14:47.03,0:14:49.61,Italics,Mechamaru,0000,0000,0000,,I can't fire Ultimate Cannon anymore, either.
+Dialogue: 0,0:14:49.78,0:14:54.37,Italics,Panda,0000,0000,0000,,Gorilla Mode pounds through \Ncursed energy like a gorilla.
+Dialogue: 0,0:14:54.37,0:14:55.87,Italics,Panda,0000,0000,0000,,I need to hurry.
+Dialogue: 0,0:14:56.16,0:14:57.75,Italics,Panda,0000,0000,0000,,I crushed his right arm.
+Dialogue: 0,0:14:57.75,0:15:00.21,Italics,Panda,0000,0000,0000,,He can't fire off his \Nultimate attack anymore.
+Dialogue: 0,0:15:00.21,0:15:03.17,Italics,Panda,0000,0000,0000,,No swords in his left or his mouth, \Nso only ranged blasts left?
+Dialogue: 0,0:15:03.17,0:15:06.21,Italics,Panda,0000,0000,0000,,Even so, he shouldn't fire them haphazardly.
+Dialogue: 0,0:15:06.21,0:15:10.63,Italics,Panda,0000,0000,0000,,Mechamaru believes he failed to finish \Nme with those blasts twice already,
+Dialogue: 0,0:15:10.80,0:15:14.64,Italics,Panda,0000,0000,0000,,despite actually putting two \Nof my cores close to death.
+Dialogue: 0,0:15:15.18,0:15:18.60,Italics,Panda,0000,0000,0000,,This time he'll likely blast my core \Nwith point-blank precision
+Dialogue: 0,0:15:18.60,0:15:20.77,Italics,Panda,0000,0000,0000,,or try to finish me with a slash.
+Dialogue: 0,0:15:20.77,0:15:22.02,Italics,Panda,0000,0000,0000,,However...
+Dialogue: 0,0:15:28.53,0:15:31.45,Italics,Panda,0000,0000,0000,,I have the advantage at close range!
+Dialogue: 0,0:16:52.15,0:16:53.03,Italics,Panda,0000,0000,0000,,A tile?
+Dialogue: 0,0:16:53.03,0:16:55.49,Italics,Panda,0000,0000,0000,,Did he pick it off the roof just now?
+Dialogue: 0,0:17:02.33,0:17:04.75,Italics,Panda,0000,0000,0000,,A distraction, then jet acceleration!
+Dialogue: 0,0:17:04.75,0:17:06.38,Italics,Panda,0000,0000,0000,,He's experienced at this!
+Dialogue: 0,0:17:07.29,0:17:09.21,Italics,Mechamaru,0000,0000,0000,,This time, I won't miss!
+Dialogue: 0,0:17:10.04,0:17:12.80,Italics,Mechamaru,0000,0000,0000,,Its core is where its \Ncursed energy is densest!
+Dialogue: 0,0:17:13.67,0:17:14.88,Italics,Mechamaru,0000,0000,0000,,Right here!
+Dialogue: 0,0:17:22.18,0:17:26.06,Main,Mechamaru,0000,0000,0000,,You did well, for a puppet.
+Dialogue: 0,0:17:29.86,0:17:32.78,Main,Panda,0000,0000,0000,,Don't treat me like other cursed corpses.
+Dialogue: 0,0:17:32.78,0:17:36.11,Main,Panda,0000,0000,0000,,I know how to bluff the position of my core \Nwith cursed energy manipulation.
+Dialogue: 0,0:17:36.66,0:17:39.33,Italics,Panda,0000,0000,0000,,I'm already concealing the \Nnumber of cores, anyway.
+Dialogue: 0,0:17:51.84,0:17:55.80,Main,Panda,0000,0000,0000,,You lost because you \Nunderestimated puppets.
+Dialogue: 0,0:17:56.01,0:18:00.85,Main,Panda,0000,0000,0000,,I haven't had a single thing in common with \Nanyone around me from the moment I was born.
+Dialogue: 0,0:18:00.85,0:18:04.93,Main,Panda,0000,0000,0000,,I thought you and I could \Nunderstand each other in that sense.
+Dialogue: 0,0:18:05.56,0:18:09.56,Main,Panda,0000,0000,0000,,Though I've never once \Nbeen jealous of humans.
+Dialogue: 0,0:18:09.56,0:18:10.81,Main,Mechamaru,0000,0000,0000,,What?
+Dialogue: 0,0:18:10.81,0:18:13.32,Main,Panda,0000,0000,0000,,I mean, humans are creepy, you know?
+Dialogue: 0,0:18:16.24,0:18:19.87,Main,Panda,0000,0000,0000,,They'll risk their lives and fight \Nhard toward their goals,
+Dialogue: 0,0:18:19.87,0:18:23.83,Main,Panda,0000,0000,0000,,then they'll be laid-back or \Nwishy-washy. I don't get it.
+Dialogue: 0,0:18:24.54,0:18:28.58,Main,Panda,0000,0000,0000,,Still, I do love those aspects \Nthat I don't have,
+Dialogue: 0,0:18:28.58,0:18:29.79,Main,Panda,0000,0000,0000,,creepy as they are.
+Dialogue: 0,0:18:30.79,0:18:33.50,Main,Panda,0000,0000,0000,,I'm sure you have your own \Nhardships, too, Mechamaru.
+Dialogue: 0,0:18:33.80,0:18:37.22,Italics,Panda,0000,0000,0000,,But having more hardships \Ndoesn't make you right.
+Dialogue: 0,0:18:37.22,0:18:40.51,Italics,Panda,0000,0000,0000,,I mean, it's not like we're \Nenemies in the first place.
+Dialogue: 0,0:18:40.72,0:18:42.97,Main,Panda,0000,0000,0000,,Why are you a jujutsu \Nsorcerer to begin with?
+Dialogue: 0,0:18:42.97,0:18:45.56,Main,Panda,0000,0000,0000,,Because that's the only thing you can do?
+Dialogue: 0,0:18:45.56,0:18:47.77,Main,Panda,0000,0000,0000,,I mean, not that it really matters.
+Dialogue: 0,0:18:48.94,0:18:51.27,Main,Panda,0000,0000,0000,,But if you want to make something happen,
+Dialogue: 0,0:18:51.27,0:18:53.40,Italics,Panda,0000,0000,0000,,I'll help you.
+Dialogue: 0,0:18:57.40,0:18:58.28,Flashback,Kamo,0000,0000,0000,,Mechamaru.
+Dialogue: 0,0:18:58.99,0:19:01.16,Flashback,Kamo,0000,0000,0000,,Don't waste your powerful moves.
+Dialogue: 0,0:19:01.16,0:19:04.28,Flashback,Kamo,0000,0000,0000,,You never know when you'll be facing \Nmore than the single enemy before you.
+Dialogue: 0,0:19:05.58,0:19:07.04,Flashback,Toudou,0000,0000,0000,,Mechamaru,
+Dialogue: 0,0:19:07.04,0:19:09.58,Flashback,,0000,0000,0000,,don't go thinking someone who can't \Ninstantly state his type of woman
+Dialogue: 0,0:19:09.58,0:19:12.79,Flashback,,0000,0000,0000,,can become a full-fledged jujutsu sorcerer.
+Dialogue: 0,0:19:13.13,0:19:17.38,Flashback,Miwa,0000,0000,0000,,Mechamaru, it's just obligatory, \Nbut I got you these instead of chocolates.
+Dialogue: 0,0:19:17.38,0:19:20.34,Flashback,Miwa,0000,0000,0000,,I heard you liked AA Evoltas.
+Dialogue: 0,0:19:20.34,0:19:21.80,Flashback,Mechamaru,0000,0000,0000,,I'm not like that.
+Dialogue: 0,0:19:21.80,0:19:22.93,Flashback,Miwa,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:22.93,0:19:24.81,Flashback,Miwa,0000,0000,0000,,But Mai said—
+Dialogue: 0,0:19:26.60,0:19:28.31,Main,Mechamaru,0000,0000,0000,,One day...
+Dialogue: 0,0:19:44.58,0:19:47.95,Main,Mechamaru,0000,0000,0000,,together with everyone...
+Dialogue: 0,0:19:49.71,0:19:51.92,Main,Panda,0000,0000,0000,,Hm? Say that again?
+Dialogue: 0,0:19:52.17,0:19:56.80,Main,Mechamaru,0000,0000,0000,,I wonder if you'll still say you'll \Nhelp me after seeing what I look like.
+Dialogue: 0,0:19:59.21,0:20:02.68,Main,Panda,0000,0000,0000,,You think I'm going to \Nfuss over what you look like?
+Dialogue: 0,0:20:02.68,0:20:03.97,Main,Panda,0000,0000,0000,,I'm a panda.
+Dialogue: 0,0:20:06.47,0:20:07.51,Main,Panda,0000,0000,0000,,Later.
+Dialogue: 0,0:20:07.89,0:20:10.14,Main,Panda,0000,0000,0000,,Let me pay you a visit next time.
+Dialogue: 0,0:20:14.61,0:20:16.73,Main,Mechamaru,0000,0000,0000,,Shut up, you damn puppet.
+Dialogue: 0,0:20:22.61,0:20:23.95,Main,Panda,0000,0000,0000,,I forgot!
+Dialogue: 0,0:20:27.49,0:20:28.83,Main,Panda,0000,0000,0000,,{\an8}Lend me your phone.
+Dialogue: 0,0:20:27.49,0:20:32.50,Ep_Title,Screen,0000,0000,0000,,{\fad(1030,1)\an2\b0\shad2\pos(320,265)\fscx90}Kyoto Sister School Exchange Event Group Battle\NUltimate Mechamaru - Retired
+Dialogue: 0,0:20:39.46,0:20:40.51,Italics,Miwa,0000,0000,0000,,No way!
+Dialogue: 0,0:20:40.76,0:20:44.09,Italics,Miwa,0000,0000,0000,,This woman... is incredibly strong!
+Dialogue: 0,0:22:15.02,0:22:17.52,sign_32727_342_Juju_Stroll,Mechamaru&Screen,0000,0000,0000,,Juju Stroll
+Dialogue: 0,0:22:20.15,0:22:24.57,Main,Mai,0000,0000,0000,,Mechamaru, let Noritoshi know \NUtahime-sensei's calling for him.
+Dialogue: 0,0:22:25.51,0:22:30.02,Main,Momo,0000,0000,0000,,Mechamaru, give this to Toudou-kun.
+Dialogue: 0,0:22:30.87,0:22:33.06,Main,Miwa,0000,0000,0000,,Mechamaru! Perfect timing.
+Dialogue: 0,0:22:33.40,0:22:36.36,Main,Miwa,0000,0000,0000,,This is for Toudou-senpai and Kamo-senpai.
+Dialogue: 0,0:22:39.04,0:22:42.80,Main,Mechamaru,0000,0000,0000,,Why do you all always go through me?
+Dialogue: 0,0:22:42.80,0:22:43.80,Main,Three,0000,0000,0000,,Grk!
+Dialogue: 0,0:22:45.77,0:22:48.06,Flashback,Toudou,0000,0000,0000,,Don't talk to me right now.
+Dialogue: 0,0:22:48.75,0:22:51.80,Flashback,Toudou,0000,0000,0000,,Takada-chan's live-streaming.
+Dialogue: 0,0:22:53.36,0:22:54.79,Flashback,Kamo,0000,0000,0000,,Ibaragi?
+Dialogue: 0,0:22:55.28,0:22:56.98,Flashback,Kamo,0000,0000,0000,,It's Ibara{\i1}ki{\i0}.
+Dialogue: 0,0:22:56.98,0:22:59.03,Flashback,Kamo,0000,0000,0000,,You don't even know that?
+Dialogue: 0,0:23:00.37,0:23:03.76,Italics,Mai&Momo,0000,0000,0000,,Because they're too much trouble, obviously.
+Dialogue: 0,0:23:07.56,0:23:11.32,Italics,Miwa,0000,0000,0000,,I'm honestly still scared of them...
+Dialogue: 0,0:23:12.87,0:23:17.58,Italics,Three,0000,0000,0000,,But if I said that, I might not \Nbe able to ask him anymore.
+Dialogue: 0,0:23:19.23,0:23:20.56,Main,Miwa,0000,0000,0000,,Mechamaru!
+Dialogue: 0,0:23:23.28,0:23:24.92,Main,Miwa,0000,0000,0000,,We're counting on you!
+Dialogue: 0,0:23:27.49,0:23:30.31,Main,Momo,0000,0000,0000,,Time for our missions!
+Dialogue: 0,0:23:30.31,0:23:31.22,Main,Mechamaru,0000,0000,0000,,Wait...
+Dialogue: 0,0:23:31.66,0:23:32.86,Main,Mechamaru,0000,0000,0000,,Why?
+Dialogue: 0,0:23:37.72,0:23:42.78,Main,Mechamaru,0000,0000,0000,,Well, I guess it's good \Nthat they can rely on me.
+Dialogue: 0,0:23:51.49,0:23:55.74,Next_Ep_Title,Screen,0000,0000,0000,,{\fad(1191,1)}Episode 17:\NKyoto Sister School Exchange Event - Group Battle 3 -

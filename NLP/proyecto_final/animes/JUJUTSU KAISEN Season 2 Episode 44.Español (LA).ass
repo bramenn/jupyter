@@ -1,0 +1,267 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Box,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.94,0:00:13.61,Gen_Main,Nobara,0000,0000,0000,,¡Rayos!
+Dialogue: 0,0:00:14.09,0:00:16.72,Gen_Main,Yuji,0000,0000,0000,,Ahora sí que metiste la pata, Kugisaki.
+Dialogue: 0,0:00:16.92,0:00:19.29,Gen_Main,Yuji,0000,0000,0000,,Es la camisa del profe Gojo, ¿no?
+Dialogue: 0,0:00:25.42,0:00:30.59,Cart_C_Tim,,0000,0000,0000,,{\fnComic Sans MS\3c&HE1E6E5&\fs24\pos(487.51,73.58)}Ijichi
+Dialogue: 0,0:00:25.73,0:00:30.33,Gen_Main,Nobara,0000,0000,0000,,Entre Ijichi, que nos dejó la camisa\Nque recogió de la tintorería,
+Dialogue: 0,0:00:30.93,0:00:32.76,Cart_C_Tim,,0000,0000,0000,,{\fad(400,0)\fnComic Sans MS\3c&HE1E6E5&\fs24\pos(487.51,73.58)}Yo
+Dialogue: 0,0:00:30.94,0:00:34.31,Gen_Main,Nobara,0000,0000,0000,,y yo, que tiré el café,\N¿quién tuvo la culpa?
+Dialogue: 0,0:00:34.51,0:00:35.62,Gen_Main,Megumi/Yuji,0000,0000,0000,,¡Tú!
+Dialogue: 0,0:00:37.24,0:00:40.26,Gen_Main,Yuji/Nobara,0000,0000,0000,,-Dale golpecitos, así, {\i1}tun{\i0}, {\i1}tun{\i0}.\N-Es lo que estoy haciendo.
+Dialogue: 0,0:00:48.35,0:00:51.01,Gen_Main,Nobara,0000,0000,0000,,Se parece algo\Na los patrones de la marca Marimekko.
+Dialogue: 0,0:00:51.21,0:00:55.44,Gen_Main,Megumi,0000,0000,0000,,-Subestimas la industria de la moda.\N-Bueno, obvio que es una prenda barata.
+Dialogue: 0,0:00:55.64,0:00:58.12,Gen_Main,Nobara,0000,0000,0000,,Fushiguro,\Ninvestiga la marca de la etiqueta.
+Dialogue: 0,0:01:07.62,0:01:09.68,Gen_Main,Yuji,0000,0000,0000,,¿Con impuestos incluidos?
+Dialogue: 0,0:01:09.88,0:01:12.58,Gen_Main,Megumi,0000,0000,0000,,No, antes de impuestos.\NAdemás, ¿eso qué importa?
+Dialogue: 0,0:01:14.21,0:01:17.38,Gen_Main,Nobara,0000,0000,0000,,Qué le vamos a hacer.\NYo pondré 90 000 yenes.
+Dialogue: 0,0:01:17.58,0:01:19.43,Gen_Main,Nobara,0000,0000,0000,,Y cada uno de ustedes pondrá 80 000.
+Dialogue: 0,0:01:20.22,0:01:24.06,Gen_Main,Gojo,0000,0000,0000,,¡Buenos días, alumnitos!\NMe dijo Ijichi que tienen mi camisa.
+Dialogue: 0,0:01:25.46,0:01:27.21,Gen_Main,Gojo,0000,0000,0000,,¿Qué te pasó, Megumi?
+Dialogue: 0,0:01:27.41,0:01:28.81,Gen_Main,Megumi,0000,0000,0000,,Nada.
+Dialogue: 0,0:01:57.06,0:01:59.18,Gen_Main,Yuji,0000,0000,0000,,Kugisaki…
+Dialogue: 0,0:02:08.21,0:02:10.56,Gen_Main,Yuji,0000,0000,0000,,No. No puedo más.
+Dialogue: 0,0:02:12.84,0:02:14.57,Gen_Main,Yuji,0000,0000,0000,,Kugi…
+Dialogue: 0,0:02:25.99,0:02:29.41,Gen_Italics,Mahito,0000,0000,0000,,¡Cómo me emociona\Ny me excita mi propia genialidad!
+Dialogue: 0,0:02:29.80,0:02:32.22,Gen_Main,Mahito,0000,0000,0000,,¡Ah! ¡Nadie puede negar
+Dialogue: 0,0:02:32.63,0:02:34.48,Gen_Main,Mahito,0000,0000,0000,,que yo soy
+Dialogue: 0,0:02:34.88,0:02:36.89,Gen_Main,Mahito,0000,0000,0000,,el epítome de las maldiciones!
+Dialogue: 0,0:02:40.01,0:02:41.54,Gen_Main,Mahito,0000,0000,0000,,¡Destello Negro!
+Dialogue: 0,0:02:47.46,0:02:49.27,Gen_Main,Mahito,0000,0000,0000,,¡Apuesto a que tú solo viniste
+Dialogue: 0,0:02:49.57,0:02:51.48,Gen_Main,Mahito,0000,0000,0000,,a Shibuya con la vaga idea
+Dialogue: 0,0:02:51.72,0:02:55.17,Gen_Main,Mahito,0000,0000,0000,,de exterminar bichos o de derrotar {\i1}yokai{\i0}
+Dialogue: 0,0:02:57.18,0:03:00.61,Gen_Main,Mahito,0000,0000,0000,,como en los cuentos antiguos, ¿no?!
+Dialogue: 0,0:03:01.14,0:03:03.62,Gen_Main,Mahito,0000,0000,0000,,¡Estás pero bien menso,\Nmocoso de mierda!
+Dialogue: 0,0:03:04.20,0:03:07.08,Gen_Main,Mahito,0000,0000,0000,,¡Esta es una guerra, ¿sabes?!
+Dialogue: 0,0:03:07.45,0:03:10.29,Gen_Main,Mahito,0000,0000,0000,,¡No es una batalla\Npara exigir enmendar algún error!
+Dialogue: 0,0:03:10.49,0:03:13.29,Gen_Main,Mahito,0000,0000,0000,,¡El vencedor dirá lo que es correcto,
+Dialogue: 0,0:03:13.55,0:03:17.55,Gen_Main,Mahito,0000,0000,0000,,impondrá su justicia\Ny escribirá la historia!
+Dialogue: 0,0:03:22.20,0:03:25.74,Gen_Main,Mahito,0000,0000,0000,,Tú eres igual a mí, Yuji Itadori.
+Dialogue: 0,0:03:30.15,0:03:33.68,Gen_Main,Mahito,0000,0000,0000,,De la misma manera que mato gente\Nsin pensarlo,
+Dialogue: 0,0:03:34.62,0:03:38.82,Gen_Main,Mahito,0000,0000,0000,,¡tú salvas a la gente sin pensarlo!
+Dialogue: 0,0:03:39.02,0:03:43.87,Gen_Main,Mahito,0000,0000,0000,,¡Esta guerra es para decidir si gana\Nel instinto de las maldiciones
+Dialogue: 0,0:03:44.07,0:03:50.20,Gen_Main,Mahito,0000,0000,0000,,o la razón de los humanos y ver quién\Nsobrevivirá en los próximos 100 años!
+Dialogue: 0,0:03:51.45,0:03:55.05,Gen_Main,Mahito,0000,0000,0000,,¿Cómo me va a poder ganar un sujeto
+Dialogue: 0,0:03:55.25,0:03:57.59,Gen_Main,Mahito,0000,0000,0000,,que ni siquiera\Nse ha dado cuenta de eso?
+Dialogue: 0,0:04:03.15,0:04:05.66,Gen_Main,Mahito,0000,0000,0000,,Dime, Yuji Itadori,
+Dialogue: 0,0:04:06.44,0:04:09.17,Gen_Main,Mahito,0000,0000,0000,,¿llevas la cuenta de las maldiciones\Nque has matado?
+Dialogue: 0,0:04:11.85,0:04:14.73,Gen_Main,Mahito,0000,0000,0000,,No, ¿verdad? Yo tampoco.
+Dialogue: 0,0:04:15.27,0:04:19.24,Gen_Main,Mahito,0000,0000,0000,,El número de humanos que he asesinado\Nen serio me vale un pepino.
+Dialogue: 0,0:04:20.62,0:04:24.86,Gen_Main,Mahito,0000,0000,0000,,Llegará el día\Nen el que ya ni me acuerde de ti.
+Dialogue: 0,0:04:33.85,0:04:37.08,Gen_Main,Todo,0000,0000,0000,,El sonido de las campanas\Ndel Monasterio Jetavana
+Dialogue: 0,0:04:38.26,0:04:41.43,Gen_Main,Todo,0000,0000,0000,,reverbera a través\Nde la transitoriedad de todas las cosas.
+Dialogue: 0,0:04:42.87,0:04:46.00,Gen_Main,Todo,0000,0000,0000,,El color de la flor\Nde los árboles de sala
+Dialogue: 0,0:04:47.31,0:04:51.24,Gen_Main,Todo,0000,0000,0000,,revela la verdad de que el declive\Nde los poderosos es inevitable.
+Dialogue: 0,0:04:52.56,0:04:54.07,Gen_Main,Todo,0000,0000,0000,,Sin embargo,
+Dialogue: 0,0:04:58.04,0:05:00.55,Gen_Main,Todo,0000,0000,0000,,nosotros somos la excepción.
+Dialogue: 0,0:05:02.94,0:05:05.95,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord0}Episodio 44\N\N\N\N\N\N\N\N\N\N\N{\fs30}Lo correcto y lo incorrecto, parte tres
+Dialogue: 0,0:05:16.50,0:05:21.00,Cart_Serieslogo,,0000,0000,0000,,{\fad(0,800)\fs28\3c&H9EF2FA&\move(320,47.64,320,48.85,20,4983)}{\t(0,5050,\fs-0.3)}JUJUTSU KAISEN{\fscy100}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\bord0\c&HFFFFFF&}Shibuya Incident
+Dialogue: 0,0:06:35.95,0:06:39.16,Cart_A_Tim,,0000,0000,0000,,{\an1\fs24\bord1\blur2\shad0\3c&H919196&\pos(153.6,263.12)}Andén del piso S5 de la línea Fukutoshin\NEstación de Shibuya
+Dialogue: 0,0:06:37.29,0:06:39.16,Gen_Main_Up,Arata,0000,0000,0000,,¿Y toda esta gente?
+Dialogue: 0,0:06:39.16,0:06:41.67,Cart_A_Tim,,0000,0000,0000,,{\an1\fs24\bord1\blur2\shad0\3c&H919196&\pos(229.96,305.3)}Arata Nitta, primer año, plantel de Kioto
+Dialogue: 0,0:06:39.93,0:06:41.67,Gen_Main_Up,Arata,0000,0000,0000,,Están vivos, ¿verdad?
+Dialogue: 0,0:06:47.46,0:06:52.39,Gen_Main,Todo,0000,0000,0000,,Tal parece que Suguru Geto ya\Nse ha llevado el Gokumonkyo de aquí.
+Dialogue: 0,0:06:52.59,0:06:53.76,Gen_Main,Arata,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:06:54.73,0:06:56.22,Gen_Main,Todo,0000,0000,0000,,Cámbiate el chip.
+Dialogue: 0,0:06:56.87,0:06:59.58,Gen_Main,Todo,0000,0000,0000,,De ser una batalla\Npara recuperar a Satoru Gojo,
+Dialogue: 0,0:06:59.78,0:07:04.91,Gen_Main,Todo,0000,0000,0000,,se volvió una para mermar lo más posible\Nal enemigo y rescatar a camaradas.
+Dialogue: 0,0:07:05.11,0:07:08.66,Gen_Main,Todo,0000,0000,0000,,En este momento\Nnuestro objetivo ha cambiado.
+Dialogue: 0,0:07:10.41,0:07:14.37,Gen_Main,Todo,0000,0000,0000,,Apresurémonos.\NMi hermano debe estar muy cerca de aquí.
+Dialogue: 0,0:07:15.62,0:07:17.36,Gen_Italics,Arata,0000,0000,0000,,No sabía que tenía un hermano.
+Dialogue: 0,0:07:17.56,0:07:19.92,Gen_Italics,Arata,0000,0000,0000,,Apostaba a que era hijo único.
+Dialogue: 0,0:07:24.09,0:07:25.88,Gen_Italics,Mahito,0000,0000,0000,,¿Qué acaba de ocurrir?
+Dialogue: 0,0:07:26.65,0:07:28.26,Gen_Italics,Mahito,0000,0000,0000,,¡Una cicatriz en el rostro!
+Dialogue: 0,0:07:28.49,0:07:30.71,Gen_Italics,Mahito,0000,0000,0000,,¿Fue magia de intercambio de posiciones?
+Dialogue: 0,0:07:30.93,0:07:33.01,Gen_Italics,Mahito,0000,0000,0000,,¡Es el hechicero que acorraló a Hanami!
+Dialogue: 0,0:07:33.23,0:07:36.48,Gen_Main,Arata,0000,0000,0000,,Todo, ya terminé\Nel tratamiento de la chica.
+Dialogue: 0,0:07:36.68,0:07:38.75,Gen_Main,Arata,0000,0000,0000,,Pero tal vez ya esté muerta.
+Dialogue: 0,0:07:38.95,0:07:41.34,Gen_Main,Arata,0000,0000,0000,,Luego no me vayas a echar a mí\Nla culpa, ¿eh?
+Dialogue: 0,0:07:41.54,0:07:44.52,Gen_Main,Todo,0000,0000,0000,,Basta de excusas.\NEncárgate también de mi hermano.
+Dialogue: 0,0:07:44.75,0:07:46.34,Gen_Main,Todo,0000,0000,0000,,¡Despierta, hermano!
+Dialogue: 0,0:07:46.54,0:07:48.78,Gen_Main,Todo,0000,0000,0000,,¡Nuestra batalla apenas comienza!
+Dialogue: 0,0:07:48.98,0:07:50.28,Gen_Italics,Arata,0000,0000,0000,,Esto me da mala espina.
+Dialogue: 0,0:07:52.18,0:07:54.89,Gen_Main,Yuji,0000,0000,0000,,¿Todo…?
+Dialogue: 0,0:07:57.00,0:08:00.54,Gen_Main,Yuji,0000,0000,0000,,Yo ya
+Dialogue: 0,0:08:02.79,0:08:04.31,Gen_Main,Yuji,0000,0000,0000,,no puedo pelear.
+Dialogue: 0,0:08:05.71,0:08:07.72,Gen_Main,Yuji,0000,0000,0000,,No solo fue Kugisaki.
+Dialogue: 0,0:08:08.10,0:08:09.59,Gen_Main,Yuji,0000,0000,0000,,Nanamin también ha muerto.
+Dialogue: 0,0:08:11.21,0:08:14.92,Gen_Main,Yuji,0000,0000,0000,,Sukuna mató a muchísimas personas.
+Dialogue: 0,0:08:15.29,0:08:19.54,Gen_Main,Yuji,0000,0000,0000,,Por eso yo pensaba que tenía
+Dialogue: 0,0:08:19.93,0:08:22.33,Gen_Main,Yuji,0000,0000,0000,,que salvar a muchísimas más.
+Dialogue: 0,0:08:23.35,0:08:25.35,Gen_Main,Yuji,0000,0000,0000,,Pero ¡no pude hacerlo!
+Dialogue: 0,0:08:25.55,0:08:27.93,Gen_Main,Yuji,0000,0000,0000,,¡No soy más que un asesino!
+Dialogue: 0,0:08:28.61,0:08:32.97,Gen_Main,Yuji,0000,0000,0000,,¡Lo que pensaba que era mi convicción
+Dialogue: 0,0:08:34.33,0:08:37.37,Gen_Main,Yuji,0000,0000,0000,,no era nada más que una excusa\Npara sentirme mejor!
+Dialogue: 0,0:08:41.93,0:08:45.41,Gen_Main,Yuji,0000,0000,0000,,Yo ya no soy capaz
+Dialogue: 0,0:08:47.73,0:08:49.70,Gen_Main,Yuji,0000,0000,0000,,de perdonarme a mí mismo.
+Dialogue: 0,0:08:50.66,0:08:54.22,Gen_Main,Mahito,0000,0000,0000,,¡Alza la voz, que no te alcanzo a oír!
+Dialogue: 0,0:09:11.18,0:09:15.15,Gen_Italics,Mahito,0000,0000,0000,,Fascinante. No creí que me confundiría\Ntanto a pesar de conocer el truco.
+Dialogue: 0,0:09:15.89,0:09:21.41,Gen_Main,Todo,0000,0000,0000,,Hermano, un gran hombre como tú\Nno debe afligirse por cosas tan ínfimas.
+Dialogue: 0,0:09:21.83,0:09:24.14,Gen_Main,Todo,0000,0000,0000,,Nosotros somos hechiceros.
+Dialogue: 0,0:09:24.58,0:09:27.17,Gen_Main,Todo,0000,0000,0000,,¡Tú y yo!
+Dialogue: 0,0:09:27.37,0:09:30.08,Gen_Main,Todo,0000,0000,0000,,¡Kugisaki y el señor Nanami!
+Dialogue: 0,0:09:30.81,0:09:35.16,Gen_Main,Todo,0000,0000,0000,,Junto con todos nuestros compañeros,\Nsomos hechiceros.
+Dialogue: 0,0:09:36.11,0:09:40.43,Gen_Main,Todo,0000,0000,0000,,Mientras continuemos con vida,\Nnuestros compañeros caídos
+Dialogue: 0,0:09:40.68,0:09:43.68,Gen_Main,Todo,0000,0000,0000,,¡no conocerán la verdadera derrota!
+Dialogue: 0,0:09:44.06,0:09:47.08,Gen_Main,Todo,0000,0000,0000,,El concepto de crimen y castigo\Nno aplica para nosotros.
+Dialogue: 0,0:09:47.49,0:09:50.51,Gen_Main,Todo,0000,0000,0000,,Nuestras vidas ya no caben en ese karma
+Dialogue: 0,0:09:50.71,0:09:56.19,Gen_Main,Todo,0000,0000,0000,,desde el instante en el que decidimos\Ntomar el camino del hechicero.
+Dialogue: 0,0:09:56.67,0:10:00.57,Gen_Main,Todo,0000,0000,0000,,Tratar de encontrarles razón\Na todas las vidas que se perdieron
+Dialogue: 0,0:10:00.77,0:10:03.97,Gen_Main,Todo,0000,0000,0000,,en ocasiones puede ser una ofensa\Npara los muertos.
+Dialogue: 0,0:10:04.70,0:10:05.95,Gen_Main,Todo,0000,0000,0000,,Ahora dime,
+Dialogue: 0,0:10:08.04,0:10:10.71,Gen_Main,Todo,0000,0000,0000,,¿qué fue lo que dejaron en tus manos?
+Dialogue: 0,0:10:14.54,0:10:17.59,Gen_Main,Todo,0000,0000,0000,,No es necesario que des\Nuna respuesta ahora mismo.
+Dialogue: 0,0:10:17.94,0:10:22.47,Gen_Main,Todo,0000,0000,0000,,Pero no dejes de avanzar\Nhasta que la encuentres.
+Dialogue: 0,0:10:23.15,0:10:28.37,Gen_Main,Todo,0000,0000,0000,,Ese es el mínimo castigo que cargamos\Nlos que vivimos como hechiceros.
+Dialogue: 0,0:10:30.47,0:10:34.86,Gen_Italics,Todo,0000,0000,0000,,No hay necesidad de hablarle sobre eso\Nen el estado que se encuentra ahora.
+Dialogue: 0,0:10:43.06,0:10:45.28,Gen_Main,Arata,0000,0000,0000,,Acabo de usar mi técnica ritual en ti.
+Dialogue: 0,0:10:45.48,0:10:47.41,Gen_Main,Arata,0000,0000,0000,,Ponme atención, Itadori.
+Dialogue: 0,0:10:48.01,0:10:51.79,Gen_Main,Arata,0000,0000,0000,,Las heridas que has recibido\Nhasta el momento no empeorarán.
+Dialogue: 0,0:10:52.29,0:10:56.41,Gen_Main,Arata,0000,0000,0000,,No se han curado, pero la hemorragia\Nse detendrá y el dolor se suavizará.
+Dialogue: 0,0:10:56.61,0:10:59.43,Gen_Main,Arata,0000,0000,0000,,Pero esto solo aplica\Npara las heridas actuales.
+Dialogue: 0,0:10:59.73,0:11:02.30,Gen_Main,Arata,0000,0000,0000,,Al recibir nuevos ataques,\Ntendrás más lesiones.
+Dialogue: 0,0:11:02.50,0:11:05.94,Gen_Main,Arata,0000,0000,0000,,Pero esas ya no entran\Ndentro del efecto de mi técnica ritual.
+Dialogue: 0,0:11:06.29,0:11:09.06,Gen_Italics,Arata,0000,0000,0000,,El hermanito de Todo\Ncasi no se parece a él.
+Dialogue: 0,0:11:09.75,0:11:12.65,Gen_Main,Arata,0000,0000,0000,,Traté a la chica de allá\Nde la misma manera.
+Dialogue: 0,0:11:14.36,0:11:16.43,Gen_Main,Arata,0000,0000,0000,,Ya no respiraba ni tenía pulso,
+Dialogue: 0,0:11:16.63,0:11:20.42,Gen_Main,Arata,0000,0000,0000,,pero no había pasado mucho.\NHay posibilidades de que se salve.
+Dialogue: 0,0:11:21.30,0:11:23.80,Gen_Main,Arata,0000,0000,0000,,Me la llevaré y escaparemos de aquí.
+Dialogue: 0,0:11:24.68,0:11:28.92,Gen_Main,Arata,0000,0000,0000,,Solo dije que puede que se salve ¿eh?\NNo albergues tantas esperanzas, ¿sí?
+Dialogue: 0,0:11:32.74,0:11:34.06,Gen_Main,Yuji,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:11:34.73,0:11:37.92,Gen_Main,Mahito,0000,0000,0000,,¿Ya terminaron de hablar,\Ngorila cabeza de piña?
+Dialogue: 0,0:12:27.50,0:12:31.06,Gen_Main,Todo,0000,0000,0000,,¿Qué te pasa?\N¿No tienes caricias para mí?
+Dialogue: 0,0:12:31.90,0:12:33.60,Gen_Italics,Mahito,0000,0000,0000,,Es muy hábil.
+Dialogue: 0,0:12:33.80,0:12:38.24,Gen_Italics,Mahito,0000,0000,0000,,Me mantiene ocupado mientras nos va\Nalejando del moribundo de Itadori.
+Dialogue: 0,0:12:38.79,0:12:41.21,Gen_Main,Mahito,0000,0000,0000,,Tengo otros tipos de cariños.
+Dialogue: 0,0:12:44.00,0:12:47.32,Gen_Italics,Mahito,0000,0000,0000,,¿Logró evadirlo?\N¡Vamos, cámbianos de posición!
+Dialogue: 0,0:12:47.56,0:12:50.62,Gen_Italics,Mahito,0000,0000,0000,,¡Verás cómo domino tu estrategia!\N¡Adivinaré tu jugada!
+Dialogue: 0,0:12:51.39,0:12:54.08,Gen_Italics,Mahito,0000,0000,0000,,¡Quiero lanzar otra vez ese estallido!
+Dialogue: 0,0:12:54.55,0:12:57.34,Gen_Italics,Mahito,0000,0000,0000,,¡Creo que estoy a punto de llegar
+Dialogue: 0,0:12:57.75,0:13:00.98,Gen_Italics,Mahito,0000,0000,0000,,a la esencia de mi espíritu!
+Dialogue: 0,0:13:05.07,0:13:07.32,Gen_Italics,Yuji,0000,0000,0000,,Perdóname, Nanamin.
+Dialogue: 0,0:13:08.14,0:13:10.00,Gen_Italics,Yuji,0000,0000,0000,,Intenté irme por el camino fácil.
+Dialogue: 0,0:13:10.75,0:13:14.60,Gen_Italics,Yuji,0000,0000,0000,,Incluso me serví de mis pecados\Ncomo una excusa para huir.
+Dialogue: 0,0:13:18.04,0:13:19.82,Gen_Main,Nanami,0000,0000,0000,,Te dejo el resto a ti.
+Dialogue: 0,0:13:20.77,0:13:22.61,Gen_Main,Yuji,0000,0000,0000,,¡Destello Negro!
+Dialogue: 0,0:13:32.52,0:13:37.50,Gen_Italics,Yuji,0000,0000,0000,,Voy a sufrir lo que tengo que sufrir,\Nincluyendo la parte que te tocaba.
+Dialogue: 0,0:13:44.50,0:13:46.38,Gen_Main,Mahito,0000,0000,0000,,¡Muerto viviente del demonio!
+Dialogue: 0,0:13:55.55,0:13:57.14,Gen_Main,Todo,0000,0000,0000,,Bienvenido de vuelta.
+Dialogue: 0,0:13:57.34,0:13:58.52,Gen_Main,Yuji,0000,0000,0000,,¡Aquí estoy!
+Dialogue: 0,0:14:00.02,0:14:04.03,Cart_A_Verd,,0000,0000,0000,,{\q2\fs16\frx0\fry320\blur2\frz355.2\pos(195.87,279.15)\c&H55B5FC&}Información ferroviaria: La Estación de Shibuya ha sido acordonada
+Dialogue: 0,0:14:07.59,0:14:10.13,Gen_Italics,Minimechamaru,0000,0000,0000,,Ya deben estar en la última batalla.
+Dialogue: 0,0:14:10.33,0:14:13.19,Gen_Italics,Minimechamaru,0000,0000,0000,,Ya no tiene sentido\Nque te dirijas a Shibuya.
+Dialogue: 0,0:14:13.61,0:14:15.16,Gen_Italics,Minimechamaru,0000,0000,0000,,Regresa a Kioto,
+Dialogue: 0,0:14:15.36,0:14:16.53,Gen_Italics,Minimechamaru,0000,0000,0000,,Miwa.
+Dialogue: 0,0:14:30.73,0:14:33.58,Gen_Main,Miwa,0000,0000,0000,,¿Por qué solo Todo y Nitta?
+Dialogue: 0,0:14:34.19,0:14:38.36,Gen_Italics,Minimechamaru,0000,0000,0000,,Calculé que Todo tiene un 99 % de\Nposibilidades de sobrevivir en Shibuya.
+Dialogue: 0,0:14:38.94,0:14:41.78,Gen_Italics,Minimechamaru,0000,0000,0000,,Al igual que Nitta, que iba con él.
+Dialogue: 0,0:14:41.98,0:14:45.22,Gen_Italics,Minimechamaru,0000,0000,0000,,-Su ritual puede ser de utilidad.\N{\i0}-¡¿Y yo?!{\i1}
+Dialogue: 0,0:14:49.89,0:14:51.40,Gen_Main,Miwa,0000,0000,0000,,¿Yo soy
+Dialogue: 0,0:14:52.21,0:14:53.83,Gen_Main,Miwa,0000,0000,0000,,una inútil?
+Dialogue: 0,0:14:58.50,0:15:01.72,Gen_Italics,Minimechamaru,0000,0000,0000,,La situación\Nya ha ido mucho más lejos que eso.
+Dialogue: 0,0:15:02.10,0:15:08.09,Gen_Italics,Minimechamaru,0000,0000,0000,,No solo tú. Hackeé el sistema para\Nque el 31 de octubre también enviaran
+Dialogue: 0,0:15:08.29,0:15:13.22,Gen_Italics,Minimechamaru,0000,0000,0000,,a Mai, Kamo, Nishimiya y Utahime\Na una misión al sur de Kioto.
+Dialogue: 0,0:15:13.99,0:15:16.25,Gen_Main,Miwa,0000,0000,0000,,¿Por qué no me dijiste nada?
+Dialogue: 0,0:15:16.84,0:15:19.05,Gen_Main,Miwa,0000,0000,0000,,¿Por qué no me lo confiaste?
+Dialogue: 0,0:15:19.65,0:15:21.93,Gen_Main,Miwa,0000,0000,0000,,¿Acaso no somos amigos?
+Dialogue: 0,0:15:24.43,0:15:27.22,Gen_Main,Miwa,0000,0000,0000,,¿Es porque soy débil?
+Dialogue: 0,0:15:27.42,0:15:30.36,Gen_Italics,Minimechamaru,0000,0000,0000,,No. El débil soy yo.
+Dialogue: 0,0:15:31.66,0:15:34.35,Gen_Italics,Minimechamaru,0000,0000,0000,,Soy débil, por eso erré\Nel modo de hacer las cosas.
+Dialogue: 0,0:15:34.55,0:15:38.63,Gen_Italics,Minimechamaru,0000,0000,0000,,Soy débil, por eso no pude seguir\Nel camino equivocado hasta el final.
+Dialogue: 0,0:15:45.57,0:15:47.97,Gen_Italics,Minimechamaru,0000,0000,0000,,Había una persona que amaba.
+Dialogue: 0,0:15:48.44,0:15:50.60,Gen_Italics,Minimechamaru,0000,0000,0000,,Y pensaba que era suficiente con que yo
+Dialogue: 0,0:15:51.03,0:15:53.64,Gen_Italics,Minimechamaru,0000,0000,0000,,la protegiera\Nsin importar cómo acabara el mundo.
+Dialogue: 0,0:15:59.07,0:16:01.46,Gen_Italics,Minimechamaru,0000,0000,0000,,Pero quizá ella no quisiera
+Dialogue: 0,0:16:02.77,0:16:05.13,Gen_Italics,Minimechamaru,0000,0000,0000,,que yo la protegiera. No lo sé.
+Dialogue: 0,0:16:21.38,0:16:23.09,Gen_Italics,Minimechamaru,0000,0000,0000,,Ya es hora, Miwa.
+Dialogue: 0,0:16:23.29,0:16:24.79,Gen_Main,Miwa,0000,0000,0000,,¡No!
+Dialogue: 0,0:16:24.99,0:16:27.05,Gen_Italics,Minimechamaru,0000,0000,0000,,Adiós. Gracias por…
+Dialogue: 0,0:16:27.25,0:16:29.14,Gen_Main,Miwa,0000,0000,0000,,¡No te atrevas a decirme adiós!
+Dialogue: 0,0:16:30.42,0:16:32.30,Gen_Main,Minimechamaru/Miwa,0000,0000,0000,,-{\i1}Miwa…{\i0}\N-¡Mechamaru!
+Dialogue: 0,0:16:32.54,0:16:33.74,Gen_Italics,Minimechamaru,0000,0000,0000,,¡Miwa!
+Dialogue: 0,0:16:35.17,0:16:37.08,Gen_Main,Muta,0000,0000,0000,,Quiero que seas feliz.
+Dialogue: 0,0:16:39.35,0:16:42.83,Gen_Main,Muta,0000,0000,0000,,Mientras tú seas feliz\Nde cualquier manera,
+Dialogue: 0,0:16:43.23,0:16:45.48,Gen_Main,Muta,0000,0000,0000,,mi deseo se habrá cumplido.
+Dialogue: 0,0:16:51.22,0:16:52.78,Gen_Main,Miwa,0000,0000,0000,,Mechamaru…
+Dialogue: 0,0:17:04.97,0:17:08.46,Gen_Main,Mai,0000,0000,0000,,Profesora Utahime,\Nlo que hizo Mechamaru…
+Dialogue: 0,0:17:08.79,0:17:11.82,Gen_Main,Utahime,0000,0000,0000,,No preguntes. El pobre ya está muerto.
+Dialogue: 0,0:17:12.49,0:17:15.33,Gen_Main,Kamo,0000,0000,0000,,Me molesta\Nque haya subestimado tanto mi valía.
+Dialogue: 0,0:17:16.13,0:17:19.45,Gen_Main,Momo,0000,0000,0000,,¿Qué importa que Todo\Ntenga más posibilidades de sobrevivir?
+Dialogue: 0,0:17:19.65,0:17:22.60,Gen_Main,Momo,0000,0000,0000,,A nosotros no nos importa vivir o morir
+Dialogue: 0,0:17:23.57,0:17:27.46,Gen_Main,Momo,0000,0000,0000,,mientras matemos a los que hicieron\Nllorar a nuestros compañeritos.
+Dialogue: 0,0:17:43.66,0:17:45.79,Gen_Italics,Mahito,0000,0000,0000,,¿Cambio de posición con algo inanimado?
+Dialogue: 0,0:18:07.60,0:18:08.73,Gen_Italics,Yuji,0000,0000,0000,,¡Se dividió otra vez!
+Dialogue: 0,0:18:23.65,0:18:26.02,Gen_Main,Mahito,0000,0000,0000,,¡Espíritus Múltiples,\NRepulsión del Cuerpo!
+Dialogue: 0,0:18:44.78,0:18:48.51,Gen_Italics,Mahito,0000,0000,0000,,El espíritu del gorila cabeza de piña\Nsigue en perfectas condiciones,
+Dialogue: 0,0:18:48.71,0:18:51.52,Gen_Italics,Mahito,0000,0000,0000,,pero me pregunto\Nsi ahora podré matarlo de un toque.
+Dialogue: 0,0:18:52.23,0:18:56.29,Gen_Italics,Mahito,0000,0000,0000,,Al alma de Itadori\Nno debe quedarle más de un 10 %.
+Dialogue: 0,0:18:57.10,0:19:00.55,Gen_Italics,Mahito,0000,0000,0000,,Y a mí espíritu solo le queda un 40 %.
+Dialogue: 0,0:19:01.20,0:19:03.80,Gen_Italics,Mahito,0000,0000,0000,,Me hizo mucho daño\Ncuando destruyó a mi copia,
+Dialogue: 0,0:19:04.02,0:19:07.67,Gen_Italics,Mahito,0000,0000,0000,,con la lluvia de golpes de esa vez\Ny luego con el Destello Negro.
+Dialogue: 0,0:19:08.26,0:19:11.67,Gen_Italics,Mahito,0000,0000,0000,,Y todo fue por culpa de esa perra.
+Dialogue: 0,0:19:11.87,0:19:15.58,Gen_Italics,Mahito,0000,0000,0000,,Era débil, pero se encargó de dejarme\Nsus uñas bien marcadas en la carne.
+Dialogue: 0,0:19:16.52,0:19:19.66,Gen_Italics,Mahito,0000,0000,0000,,¡Primero eliminaré a la molestia\Ndel intercambio de lugares!
+Dialogue: 0,0:20:47.93,0:20:49.18,Gen_Main,Todo,0000,0000,0000,,¡Hermano!
+Dialogue: 0,0:20:56.72,0:20:58.97,Gen_Italics,Todo,0000,0000,0000,,Si estás a gusto con ese nivel,
+Dialogue: 0,0:20:59.17,0:21:02.41,Gen_Italics,Todo,0000,0000,0000,,tú y yo ya no podríamos ser\Nlos mejores amigos.
+Dialogue: 0,0:21:03.73,0:21:07.38,Gen_Italics,Todo,0000,0000,0000,,Este espíritu maldito es capaz\Nde llevar a cabo el Destello Negro.
+Dialogue: 0,0:21:08.21,0:21:11.29,Gen_Italics,Todo,0000,0000,0000,,El que se está quedando atrás soy yo.
+Dialogue: 0,0:21:11.62,0:21:14.07,Gen_Italics,Todo,0000,0000,0000,,Mi hermano Itadori\Nse ha vuelto muy fuerte.
+Dialogue: 0,0:21:14.27,0:21:18.17,Gen_Italics,Todo,0000,0000,0000,,Tú eres el que no se debe conformar\Ncon esto, Aoi Todo.
+Dialogue: 0,0:21:18.46,0:21:23.29,Gen_Italics,Todo,0000,0000,0000,,¡¿Acaso quieres dejar a tu hermano\Nsolo de nuevo, Aoi Todo?!
+Dialogue: 0,0:21:43.19,0:21:45.82,Gen_Italics,Takada,0000,0000,0000,,¡Tantakatan!
+Dialogue: 0,0:21:46.45,0:21:48.36,Gen_Main,Todo,0000,0000,0000,,¡Destello Negro!
+Dialogue: 0,0:21:58.28,0:22:02.51,Gen_Italics,Mahito,0000,0000,0000,,No importa que me lances el ataque\Nmás poderoso, el Destello Negro.
+Dialogue: 0,0:22:02.71,0:22:07.05,Gen_Italics,Mahito,0000,0000,0000,,No es capaz de reverberar en mi alma.\NTus ataques son irrelevantes.
+Dialogue: 0,0:22:16.01,0:22:17.26,Gen_Italics,Narradora,0000,0000,0000,,Sin embargo,
+Dialogue: 0,0:22:17.90,0:22:21.05,Gen_Italics,Narradora,0000,0000,0000,,en un momento,\Ncada uno de los tres combatientes
+Dialogue: 0,0:22:22.27,0:22:28.32,Cart_A_Tre,,0000,0000,0000,,{\fad(200,0)\fs14\fnComic Sans MS\frz13.85\pos(227.39,150.43)\3c&HE233E9&}Muac
+Dialogue: 0,0:22:22.84,0:22:27.62,Gen_Italics,Narradora,0000,0000,0000,,está a punto de extraer\Nel 120 % de su potencial.
+Dialogue: 0,0:22:34.36,0:22:37.58,Gen_Main,Mahito,0000,0000,0000,,¡Espíritus Múltiples,\NRepulsión del Cuerpo!
+Dialogue: 0,0:22:39.99,0:22:43.60,Gen_Italics,Todo,0000,0000,0000,,Ataca de todas direcciones para\Ninutilizar el intercambio de lugares.
+Dialogue: 0,0:22:43.80,0:22:45.88,Gen_Italics,Todo,0000,0000,0000,,Le trabajan los sesos a este tipo.
+Dialogue: 0,0:23:15.49,0:23:18.12,Gen_Main,Mahito,0000,0000,0000,,¡Sube el nivel, Itadori!
+Dialogue: 0,0:23:18.37,0:23:23.36,Gen_Main,Mahito,0000,0000,0000,,¡Esta será la última vez\Nque nos maldecimos el uno al otro!
+Dialogue: 0,0:23:25.62,0:23:28.38,Gen_Italics,Todo,0000,0000,0000,,El héroe siempre aparece tarde\Nen el último momento.
+Dialogue: 0,0:23:28.58,0:23:31.93,Gen_Italics,Todo,0000,0000,0000,,Pero comprenden que todos\Nlos que se esforzaron hasta ese punto
+Dialogue: 0,0:23:32.13,0:23:34.31,Gen_Italics,Todo,0000,0000,0000,,también son héroes, ¿verdad, chicos?
+Dialogue: 0,0:23:34.60,0:23:36.35,Gen_Italics,Todo,0000,0000,0000,,El próximo será: "Metamorfosis".
+Dialogue: 0,0:23:34.60,0:23:39.89,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord2.5\blur3}Próximo episodio\N\N\N\N\N\N\N\N\N\N\N{\q2\fs30}Metamorfosis
+Dialogue: 0,0:23:36.55,0:23:39.24,Gen_Italics,Utahime,0000,0000,0000,,No olviden entregar\Nsu justificante para el retardo.
+

@@ -1,0 +1,244 @@
+[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+Style: sign_1198_4_I_said_don_t_,Times New Roman,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0008,0008,0083,1
+Style: sign_2171_30_Tokyo_Metropolit,Times New Roman,24,&H00000000,&H000000FF,&HC8FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0142,0142,0018,1
+Style: sign_1408_21__If_Conventional,Trebuchet MS,16,&H005B5C5C,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0084,0066,0120,1
+Style: sign_1408_23_A_Wooden_Bat_is_,Trebuchet MS,16,&H005B5C5C,&H000000FF,&H00FEFEFE,&H00000000,0,0,0,0,100,100,0,0,3,3,0,7,0100,0353,0193,1
+Style: sign_1408_22_Grade_4,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00EBD96B,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,4,0114,0446,0000,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.86,0:00:03.15,Flashback,Grandpa,0000,0000,0000,,Yuji.
+Dialogue: 0,0:00:03.52,0:00:04.46,Flashback,Yuji,0000,0000,0000,,Hmm?
+Dialogue: 0,0:00:06.10,0:00:08.86,Flashback,Grandpa,0000,0000,0000,,You're a strong kid, so help others.
+Dialogue: 0,0:00:18.29,0:00:21.55,Ep_Title,Screen,0000,0000,0000,,Episode 41\N{\fs30\fscy150}Thunderclap, Part 2
+Dialogue: 0,0:00:21.55,0:00:26.56,Sign_Basic,Screen,0000,0000,0000,,{\fad(1,960)\an1\fnArial\bord1.5\3a&HE0&\blur1\shad0\b1\fs26\pos(30,295)}23:05      {\fs20}Dogenzaka, In Front of Shibuya 109
+Dialogue: 0,0:00:24.61,0:00:27.72,Main,Fushiguro,0000,0000,0000,,{\an8}In my Ten Shadows Technique,
+Dialogue: 0,0:00:28.18,0:00:31.82,Main,Fushiguro,0000,0000,0000,,only two Demon Dogs are \Ngranted to the user at first.
+Dialogue: 0,0:00:32.44,0:00:37.53,Main,Fushiguro,0000,0000,0000,,The other shikigami aren't granted to the \Nuser until they finish subjugating them.
+Dialogue: 0,0:00:38.84,0:00:44.75,Main,Fushiguro,0000,0000,0000,,The user must continue subjugating each one \Nto increase the shikigami available to them,
+Dialogue: 0,0:00:44.75,0:00:49.40,Main,Fushiguro,0000,0000,0000,,until they are finally able to \Ncommand all ten shikigami.
+Dialogue: 0,0:00:53.46,0:00:54.62,Main,Shigemo,0000,0000,0000,,You done?
+Dialogue: 0,0:00:55.61,0:00:59.82,Main,Shigemo,0000,0000,0000,,You're really strong, \Njust like that woman from earlier.
+Dialogue: 0,0:00:59.82,0:01:01.13,Main,Shigemo,0000,0000,0000,,Even though you're young.
+Dialogue: 0,0:01:01.96,0:01:05.23,Main,Shigemo,0000,0000,0000,,You're all beat up, yet you give \Nme no openings to get close.
+Dialogue: 0,0:01:05.64,0:01:09.73,Main,Shigemo,0000,0000,0000,,Though, with all that bleeding, \NI won't even have to do anything.
+Dialogue: 0,0:01:13.65,0:01:18.87,Main,Fushiguro,0000,0000,0000,,Thing is, this subjugation can \Nbe done with multiple people.
+Dialogue: 0,0:01:19.08,0:01:25.15,Main,Fushiguro,0000,0000,0000,,Though conducting the subjugation \Nwith multiple people voids it afterward.
+Dialogue: 0,0:01:25.15,0:01:30.99,Main,Fushiguro,0000,0000,0000,,Which means the ritual becomes \Npointless to the sorcerer themselves.
+Dialogue: 0,0:01:31.90,0:01:37.00,Main,Fushiguro,0000,0000,0000,,Still, even if it is pointless, \Nthere are ways to use it.
+Dialogue: 0,0:01:40.64,0:01:42.02,Main,Shigemo,0000,0000,0000,,Who's that?
+Dialogue: 0,0:01:42.02,0:01:43.28,Main,Shigemo,0000,0000,0000,,They're being real flashy.
+Dialogue: 0,0:01:44.40,0:01:46.12,Main,Fushiguro,0000,0000,0000,,To continue,
+Dialogue: 0,0:01:48.00,0:01:52.87,Main,Fushiguro,0000,0000,0000,,while the shikigami can't be used \Nwithout first subjugating it,
+Dialogue: 0,0:01:53.53,0:01:56.22,Main,Fushiguro,0000,0000,0000,,the user can summon them \Nas many times as necessary
+Dialogue: 0,0:01:56.22,0:01:58.28,Main,Fushiguro,0000,0000,0000,,for the purpose of subjugating them.
+Dialogue: 0,0:01:58.78,0:01:59.76,Main,Shigemo,0000,0000,0000,,You don't mean...
+Dialogue: 0,0:02:02.63,0:02:04.88,Main,Fushiguro,0000,0000,0000,,In all of sorcerer history, there's never been
+Dialogue: 0,0:02:04.88,0:02:08.39,Main,Fushiguro,0000,0000,0000,,anyone who managed \Nto subjugate this one.
+Dialogue: 0,0:02:09.44,0:02:13.50,Flashback,Gojo,0000,0000,0000,,Do you know why the Gojo clan \Nand the Zen'in clan are on bad terms?
+Dialogue: 0,0:02:14.08,0:02:16.56,Flashback,Fushiguro,0000,0000,0000,,Are they actually on bad \Nterms in the first place?
+Dialogue: 0,0:02:16.56,0:02:19.22,Flashback,Gojo,0000,0000,0000,,Sparks are constantly flying.
+Dialogue: 0,0:02:19.22,0:02:22.25,Flashback,Gojo,0000,0000,0000,,Since the Edo era? Or the Keicho era?
+Dialogue: 0,0:02:22.49,0:02:23.88,Flashback,Gojo,0000,0000,0000,,I forget when,
+Dialogue: 0,0:02:23.88,0:02:29.14,Flashback,Gojo,0000,0000,0000,,but the heads of the clans at the time \Ngot serious during a spectated match,
+Dialogue: 0,0:02:29.14,0:02:30.88,Flashback,Gojo,0000,0000,0000,,and they both died.
+Dialogue: 0,0:02:31.44,0:02:33.38,Flashback,Fushiguro,0000,0000,0000,,Were the heads of those clans...
+Dialogue: 0,0:02:33.97,0:02:39.15,Flashback,Gojo,0000,0000,0000,,One was someone like me who possessed both \Nthe Six-Eyes and the Limitless technique.
+Dialogue: 0,0:02:39.15,0:02:43.14,Flashback,Gojo,0000,0000,0000,,And the other used the same \Ntechnique as you, Megumi.
+Dialogue: 0,0:02:44.99,0:02:46.95,Flashback,Fushiguro,0000,0000,0000,,The Ten Shadows Technique.
+Dialogue: 0,0:02:49.42,0:02:52.60,Flashback,Gojo,0000,0000,0000,,Understand what I'm getting at?
+Dialogue: 0,0:02:53.24,0:02:57.97,Italics,Fushiguro,0000,0000,0000,,That doesn't mean I can actually become \Na sorcerer capable of beating you.
+Dialogue: 0,0:02:59.36,0:03:03.74,Italics,Fushiguro,0000,0000,0000,,I imagine the head of the clan used \Nthis in much the same way back then.
+Dialogue: 0,0:03:06.06,0:03:09.39,Main,Fushiguro,0000,0000,0000,,Sacred treasure swing and ring, ring.
+Dialogue: 0,0:03:13.12,0:03:14.72,Main,Uraume,0000,0000,0000,,Sukuna-sama?
+Dialogue: 0,0:03:14.72,0:03:16.20,Main,Sukuna,0000,0000,0000,,Urgent business.
+Dialogue: 0,0:03:16.66,0:03:17.99,Main,Uraume,0000,0000,0000,,I see.
+Dialogue: 0,0:03:18.73,0:03:23.16,Main,Sukuna,0000,0000,0000,,It won't be much longer before I'm free.
+Dialogue: 0,0:03:23.79,0:03:26.54,Main,Sukuna,0000,0000,0000,,Do not slack on our preparations.
+Dialogue: 0,0:03:26.54,0:03:28.32,Main,Sukuna,0000,0000,0000,,See you later, Uraume.
+Dialogue: 0,0:03:28.32,0:03:29.40,Main,Uraume,0000,0000,0000,,As you wish.
+Dialogue: 0,0:03:30.40,0:03:32.57,Main,Uraume,0000,0000,0000,,I'll be awaiting your return.
+Dialogue: 0,0:03:50.16,0:03:51.36,Italics,Shigemo,0000,0000,0000,,He tricked me!
+Dialogue: 0,0:03:52.62,0:03:53.90,Italics,Shigemo,0000,0000,0000,,He's starting that ritual!
+Dialogue: 0,0:03:53.90,0:03:58.18,Italics,Shigemo,0000,0000,0000,,And he's forcing me to participate \Nin the damn thing with him!
+Dialogue: 0,0:03:58.81,0:04:00.69,Main,Fushiguro,0000,0000,0000,,Eight-Grip Sword...
+Dialogue: 0,0:04:01.52,0:04:03.16,Main,Fushiguro,0000,0000,0000,,Divergent Sila Divine General...
+Dialogue: 0,0:04:04.00,0:04:05.16,Main,Fushiguro,0000,0000,0000,,Makora.
+Dialogue: 0,0:04:17.52,0:04:18.49,Flashback,Fushiguro,0000,0000,0000,,See you later.
+Dialogue: 0,0:04:19.03,0:04:19.95,Flashback,Yuji,0000,0000,0000,,Yeah!
+Dialogue: 0,0:04:20.84,0:04:22.94,Italics,Fushiguro,0000,0000,0000,,Sorry, Itadori.
+Dialogue: 0,0:04:23.68,0:04:25.97,Main,Fushiguro,0000,0000,0000,,Hey, you damn bastard!
+Dialogue: 0,0:04:26.46,0:04:28.31,Main,Fushiguro,0000,0000,0000,,I'll be dying first.
+Dialogue: 0,0:04:28.31,0:04:30.16,Main,Fushiguro,0000,0000,0000,,Give it your best.
+Dialogue: 0,0:04:42.34,0:04:43.36,Main,Shigemo,0000,0000,0000,,Wait!
+Dialogue: 0,0:04:43.85,0:04:46.22,Main,Shigemo,0000,0000,0000,,Wait, wait, wait, wait!
+Dialogue: 0,0:04:46.22,0:04:48.38,Main,Shigemo,0000,0000,0000,,Oh, fuck you!
+Dialogue: 0,0:04:49.04,0:04:50.38,Main,Shigemo,0000,0000,0000,,Damn it!
+Dialogue: 0,0:04:50.60,0:04:53.32,Main,Shigemo,0000,0000,0000,,Wake up, you shitty sorcerer!
+Dialogue: 0,0:04:55.01,0:04:58.06,Narration,Narrator,0000,0000,0000,,The technique of the \Ncurse user Haruta Shigemo
+Dialogue: 0,0:04:58.06,0:05:03.58,Narration,Narrator,0000,0000,0000,,erases life's little daily miracles \Nfrom his memory and stores them up.
+Dialogue: 0,0:05:03.92,0:05:07.25,Narration,Narrator,0000,0000,0000,,That stock manifests as the\Nmarkings under his eyes,
+Dialogue: 0,0:05:07.25,0:05:10.85,Narration,Narrator,0000,0000,0000,,and when he is faced with a threat \Nto his life, one miracle is released.
+Dialogue: 0,0:05:16.10,0:05:20.66,Narration,Narrator,0000,0000,0000,,However, he is unaware of this fact himself.
+Dialogue: 0,0:05:21.06,0:05:21.89,Main,Shigemo,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:28.77,0:05:30.56,Italics,Sukuna,0000,0000,0000,,Suspended animation, huh?
+Dialogue: 0,0:05:32.04,0:05:33.54,Italics,Sukuna,0000,0000,0000,,I see.
+Dialogue: 0,0:05:33.72,0:05:37.49,Italics,Sukuna,0000,0000,0000,,So saving this piece of trash \Nreally was the right move.
+Dialogue: 0,0:05:38.14,0:05:42.66,Italics,Sukuna,0000,0000,0000,,He probably sucked this thing into \Nthe subjugation ritual along with him.
+Dialogue: 0,0:05:43.14,0:05:45.97,Italics,Sukuna,0000,0000,0000,,Once this trash dies, too, \Nthe ritual will be complete.
+Dialogue: 0,0:05:45.97,0:05:49.08,Italics,Sukuna,0000,0000,0000,,Then Megumi Fushiguro's death \Nwill be established, as well.
+Dialogue: 0,0:05:50.22,0:05:51.60,Main,Sukuna,0000,0000,0000,,Don't die on me.
+Dialogue: 0,0:05:52.00,0:05:55.57,Main,Sukuna,0000,0000,0000,,There are things I need you to do for me.
+Dialogue: 0,0:05:56.74,0:05:58.76,Main,Shigemo,0000,0000,0000,,U-Um...
+Dialogue: 0,0:05:58.76,0:05:59.96,Main,Sukuna,0000,0000,0000,,Silence.
+Dialogue: 0,0:06:02.55,0:06:05.04,Italics,Sukuna,0000,0000,0000,,For Megumi Fushiguro to survive,
+Dialogue: 0,0:06:05.04,0:06:08.21,Italics,Sukuna,0000,0000,0000,,I'll have to defeat this \Nshikigami as an outsider,
+Dialogue: 0,0:06:08.68,0:06:11.98,Italics,Sukuna,0000,0000,0000,,and nullify his subjugation ritual.
+Dialogue: 0,0:06:16.28,0:06:19.88,Main,Sukuna,0000,0000,0000,,Time for a tasting, then.
+Dialogue: 0,0:06:25.19,0:06:27.95,Show_Title,Eyecatch,0000,0000,0000,,{\fad(1350,0)\1c&H213835&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:06:25.19,0:06:27.95,Show_Title,Eyecatch,0000,0000,0000,,{\fad(1350,0)\3c&HA0DCE8&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:06:53.01,0:06:53.69,Main,Sukuna,0000,0000,0000,,Dissect.
+Dialogue: 0,0:07:10.20,0:07:12.16,Italics,Sukuna,0000,0000,0000,,That sword...
+Dialogue: 0,0:07:12.16,0:07:15.29,Italics,Sukuna,0000,0000,0000,,It's the Sword of Exorcism, \Nspecialized in combating cursed spirits.
+Dialogue: 0,0:07:16.17,0:07:20.08,Italics,Sukuna,0000,0000,0000,,It's packed with the same positive energy \Ngenerated by a reverse cursed technique.
+Dialogue: 0,0:07:22.05,0:07:23.80,Italics,Sukuna,0000,0000,0000,,If I was a cursed spirit,
+Dialogue: 0,0:07:23.80,0:07:27.12,Italics,Sukuna,0000,0000,0000,,that would have eliminated \Nme on the first blow.
+Dialogue: 0,0:07:29.28,0:07:30.76,Main,Sukuna,0000,0000,0000,,Tastes awful.
+Dialogue: 0,0:07:41.31,0:07:42.20,Main,Sukuna,0000,0000,0000,,You wanna go?!
+Dialogue: 0,0:09:05.42,0:09:07.02,Main,Sukuna,0000,0000,0000,,Oh?
+Dialogue: 0,0:09:07.34,0:09:09.34,Main,Sukuna,0000,0000,0000,,You did something, didn't you?
+Dialogue: 0,0:09:48.71,0:09:50.04,Main,People,0000,0000,0000,,What the hell?!
+Dialogue: 0,0:10:00.55,0:10:02.60,Main,Sukuna,0000,0000,0000,,Now that felt odd.
+Dialogue: 0,0:10:25.90,0:10:27.20,Main,Sukuna,0000,0000,0000,,Again?!
+Dialogue: 0,0:10:59.78,0:11:00.44,Main,People,0000,0000,0000,,What is that?!
+Dialogue: 0,0:11:00.44,0:11:01.36,Main,People,0000,0000,0000,,Run!
+Dialogue: 0,0:11:01.36,0:11:02.60,Main,People,0000,0000,0000,,Help us!
+Dialogue: 0,0:11:03.05,0:11:04.18,Main,People,0000,0000,0000,,We're falling!
+Dialogue: 0,0:11:22.39,0:11:23.69,Main,Sukuna,0000,0000,0000,,Cursed energy?!
+Dialogue: 0,0:11:26.12,0:11:28.08,Main,Sukuna,0000,0000,0000,,You've done it now!
+Dialogue: 0,0:12:01.96,0:12:03.91,Main,Sukuna,0000,0000,0000,,You can see it!
+Dialogue: 0,0:12:04.32,0:12:06.57,Main,Sukuna,0000,0000,0000,,You see my technique!
+Dialogue: 0,0:14:16.64,0:14:18.10,Main,Sukuna,0000,0000,0000,,I knew it.
+Dialogue: 0,0:14:18.10,0:14:21.05,Main,Sukuna,0000,0000,0000,,You're similar to Yamata no Orochi.
+Dialogue: 0,0:14:21.68,0:14:23.92,Italics,Sukuna,0000,0000,0000,,You follow my slices,
+Dialogue: 0,0:14:23.92,0:14:26.90,Italics,Sukuna,0000,0000,0000,,and attack with cursed energy...
+Dialogue: 0,0:14:26.90,0:14:30.05,Italics,Sukuna,0000,0000,0000,,Both started happening after \Nthat great wheel revolved.
+Dialogue: 0,0:14:30.76,0:14:32.99,Italics,Sukuna,0000,0000,0000,,The incantation of sacred treasures
+Dialogue: 0,0:14:32.99,0:14:36.56,Italics,Sukuna,0000,0000,0000,,and that great wheel both represent \Nperfect cycles and harmony.
+Dialogue: 0,0:14:36.56,0:14:40.57,Italics,Sukuna,0000,0000,0000,,Which suggests that this shikigami's ability
+Dialogue: 0,0:14:40.57,0:14:43.06,Italics,Sukuna,0000,0000,0000,,is to adapt to anything and everything.
+Dialogue: 0,0:14:43.06,0:14:45.88,Italics,Sukuna,0000,0000,0000,,It's the ultimate late-throw \Nrock-paper-scissors!
+Dialogue: 0,0:14:48.12,0:14:52.84,Italics,Sukuna,0000,0000,0000,,You might have defeated me \Nin the state I was in back then.
+Dialogue: 0,0:14:58.44,0:15:01.72,Main,Sukuna,0000,0000,0000,,Now you've fascinated me, Megumi Fushiguro!
+Dialogue: 0,0:15:04.32,0:15:06.62,Main,Sukuna,0000,0000,0000,,Domain Expansion:
+Dialogue: 0,0:15:08.07,0:15:10.11,Main,Sukuna,0000,0000,0000,,Malevolent Kitchen.
+Dialogue: 0,0:15:16.78,0:15:20.79,Narration,Narrator,0000,0000,0000,,Sukuna's Domain, Malevolent Kitchen,
+Dialogue: 0,0:15:21.64,0:15:23.52,Narration,Narrator,0000,0000,0000,,is unlike others in that
+Dialogue: 0,0:15:23.52,0:15:26.56,Narration,Narrator,0000,0000,0000,,it does not cut out a \Nseparate space with a barrier.
+Dialogue: 0,0:15:27.12,0:15:31.16,Narration,Narrator,0000,0000,0000,,Manifesting an innate domain \Nwithout sealing it in a barrier
+Dialogue: 0,0:15:31.16,0:15:35.50,Narration,Narrator,0000,0000,0000,,is like trying to paint a picture \Nin the air without a canvas.
+Dialogue: 0,0:15:36.27,0:15:38.76,Narration,Narrator,0000,0000,0000,,It's truly a divine feat.
+Dialogue: 0,0:15:39.92,0:15:43.98,Narration,Narrator,0000,0000,0000,,To top it off, by adding a pact to \Nallow its victims a path of escape,
+Dialogue: 0,0:15:43.98,0:15:46.55,Narration,Narrator,0000,0000,0000,,it vastly increases the range of
+Dialogue: 0,0:15:46.56,0:15:50.47,Narration,Narrator,0000,0000,0000,,its guaranteed-hit effect to \Na maximum 200-meter radius.
+Dialogue: 0,0:15:51.76,0:15:54.84,Narration,Narrator,0000,0000,0000,,Though out of consideration for \Nits effect on Megumi Fushiguro,
+Dialogue: 0,0:15:54.84,0:16:00.43,Narration,Narrator,0000,0000,0000,,he has currently restrained the effect to \Na 140-meter radius limited to the surface.
+Dialogue: 0,0:16:07.90,0:16:08.99,Main,Keiko,0000,0000,0000,,Anything?
+Dialogue: 0,0:16:08.99,0:16:10.63,Main,A,0000,0000,0000,,Nope. No signal.
+Dialogue: 0,0:16:10.63,0:16:11.53,Main,Keiko,0000,0000,0000,,Same.
+Dialogue: 0,0:16:12.00,0:16:15.17,Main,A,0000,0000,0000,,I don't think we need to \Nworry that much, though.
+Dialogue: 0,0:16:15.17,0:16:16.04,Main,Keiko,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:16.57,0:16:19.79,Main,A,0000,0000,0000,,Remember the guy with the \Nmegaphone? He should be—
+Dialogue: 0,0:16:21.83,0:16:24.70,Narration,Narrator,0000,0000,0000,,Sukuna's slices are comprised of two types.
+Dialogue: 0,0:16:24.70,0:16:29.82,Narration,Narrator,0000,0000,0000,,"Fillet" attacks things with cursed energy \Nin the range of his guaranteed-hit effect.
+Dialogue: 0,0:16:29.82,0:16:32.55,Narration,Narrator,0000,0000,0000,,"Dissect" attacks things \Nwithout cursed energy.
+Dialogue: 0,0:16:33.32,0:16:37.02,Narration,Narrator,0000,0000,0000,,Both rain down endlessly upon everything \Nuntil Malevolent Kitchen disappears.
+Dialogue: 0,0:16:38.92,0:16:42.14,Narration,Narrator,0000,0000,0000,,The only sure way to \Ndefeat Makora is to bury it
+Dialogue: 0,0:16:42.14,0:16:46.13,Narration,Narrator,0000,0000,0000,,with the first use of an \Nattack before it can adapt.
+Dialogue: 0,0:16:47.02,0:16:49.58,Narration,Narrator,0000,0000,0000,,Fillet would have \Nfulfilled those conditions,
+Dialogue: 0,0:16:49.58,0:16:51.83,Narration,Narrator,0000,0000,0000,,but that wouldn't necessarily hold true
+Dialogue: 0,0:16:51.83,0:16:55.08,Narration,Narrator,0000,0000,0000,,if it had adapted to slices in general,
+Dialogue: 0,0:16:55.49,0:16:58.46,Narration,Narrator,0000,0000,0000,,rather than to Dissect.
+Dialogue: 0,0:17:16.95,0:17:21.02,Narration,Narrator,0000,0000,0000,,Makora was close to \Nfinishing its regeneration.
+Dialogue: 0,0:17:49.38,0:17:50.47,Main,Sukuna,0000,0000,0000,,Fuga (Open).
+Dialogue: 0,0:18:42.71,0:18:44.66,Main,Sukuna,0000,0000,0000,,What are you looking at?
+Dialogue: 0,0:18:45.34,0:18:46.57,Main,Sukuna,0000,0000,0000,,Begone.
+Dialogue: 0,0:18:51.94,0:18:55.70,Main,Shigemo,0000,0000,0000,,E-Excuse me, then!
+Dialogue: 0,0:18:55.70,0:18:58.36,Italics,Shigemo,0000,0000,0000,,I really am lucky!
+Dialogue: 0,0:18:58.86,0:18:59.96,Italics,Shigemo,0000,0000,0000,,For another day...
+Dialogue: 0,0:18:59.96,0:19:02.00,Main,Shigemo,0000,0000,0000,,I survived!
+Dialogue: 0,0:19:04.08,0:19:06.59,Narration,Narrator,0000,0000,0000,,Shigemo's stock of miracles
+Dialogue: 0,0:19:06.59,0:19:10.58,Narration,Narrator,0000,0000,0000,,had been exhausted in his \Nbattle with Kento Nanami.
+Dialogue: 0,0:19:13.69,0:19:16.22,Main,Sukuna,0000,0000,0000,,Oh, it's nearly time.
+Dialogue: 0,0:19:19.63,0:19:20.82,Main,Yaga,0000,0000,0000,,Fushiguro!
+Dialogue: 0,0:19:22.27,0:19:24.84,Italics,Yaga,0000,0000,0000,,I just saw Itadori for a moment...
+Dialogue: 0,0:19:26.04,0:19:28.58,Italics,Yaga,0000,0000,0000,,{\an8}No, was it Sukuna?!
+Dialogue: 0,0:19:27.10,0:19:31.48,Sign_Basic,Screen,0000,0000,0000,,{\an1\fnArial\bord1.5\3a&HE0&\blur1\shad0\b1\fs26\pos(30,310)}23:14         {\fs20}Dogenzaka, In Front of Shibuya 109
+Dialogue: 0,0:19:35.35,0:19:39.34,Main,Sukuna,0000,0000,0000,,Hey, brat, be sure to savor this.
+Dialogue: 0,0:20:24.29,0:20:26.05,Main,Yuji,0000,0000,0000,,Die!
+Dialogue: 0,0:20:26.86,0:20:28.64,Main,Yuji,0000,0000,0000,,Only me!
+Dialogue: 0,0:20:29.26,0:20:31.26,Main,Yuji,0000,0000,0000,,Only me!
+Dialogue: 0,0:20:32.13,0:20:33.54,Main,Yuji,0000,0000,0000,,Die!
+Dialogue: 0,0:20:34.69,0:20:36.40,Main,Yuji,0000,0000,0000,,Right now!
+Dialogue: 0,0:21:36.06,0:21:37.43,Italics,Yuji,0000,0000,0000,,I have to go.
+Dialogue: 0,0:21:39.31,0:21:40.89,Italics,Yuji,0000,0000,0000,,I have to fight.
+Dialogue: 0,0:21:49.90,0:21:51.82,Italics,Yuji,0000,0000,0000,,Otherwise, I'll just be...
+Dialogue: 0,0:21:53.25,0:21:57.76,Show_Title,Screen,0000,0000,0000,,{\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Shibuya Incident
+Dialogue: 0,0:21:54.03,0:21:55.91,Italics,Yuji,0000,0000,0000,,a murderer.
+Dialogue: 0,0:23:52.69,0:23:54.84,Main,Panda,0000,0000,0000,,This has gotten really bad!
+Dialogue: 0,0:23:54.84,0:23:57.00,Main,Panda,0000,0000,0000,,I'll count prime numbers to calm down.
+Dialogue: 0,0:23:57.00,0:24:00.28,Main,Panda,0000,0000,0000,,One, two, three... uh, nine...
+Dialogue: 0,0:24:00.28,0:24:01.69,Main,Kusakabe,0000,0000,0000,,You missed five and seven.
+Dialogue: 0,0:24:01.66,0:24:02.81,Main,Panda,0000,0000,0000,,Next time, "Right and Wrong."
+Dialogue: 0,0:24:01.79,0:24:07.00,Next_Ep_Title,Screen,0000,0000,0000,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}Right and Wrong
+Dialogue: 0,0:24:02.81,0:24:04.65,Main,Panda,0000,0000,0000,,You'll turn into a panda if you don't watch!
+Dialogue: 0,0:24:04.65,0:24:06.42,Main,Kusakabe,0000,0000,0000,,You really are an animal...
+

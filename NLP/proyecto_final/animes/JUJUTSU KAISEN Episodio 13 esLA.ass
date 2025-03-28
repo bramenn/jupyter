@@ -1,0 +1,353 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleEp,Times New Roman,22,&H00E7EAE4,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,9,0020,0028,0020,1
+Style: Cart_TitleNext,Times New Roman,20,&H00FCFFFF,&H000000FF,&H00313131,&H00313131,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0050,1
+Style: Cart_TitleSerie,Times New Roman,60,&H000F0063,&H000000FF,&H002F1595,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_C_TreNo,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.88,0:00:13.92,Gen_Main,Nanami,0000,0000,0000,,Itadori, ¿por qué le sangra la nariz?
+Dialogue: 0,0:00:14.20,0:00:15.70,Gen_Main,Yuuji,0000,0000,0000,,¿Eh? Porque lo golpeé.
+Dialogue: 0,0:00:15.91,0:00:17.96,Gen_Main,Nanami,0000,0000,0000,,-¿Cuándo?\N-Al inicio de la pelea.
+Dialogue: 0,0:00:18.37,0:00:20.90,Gen_Main,Nanami/Yuuji,0000,0000,0000,,-¿Te tocó con sus manos?\N-Sí.
+Dialogue: 0,0:00:22.75,0:00:25.13,Gen_Main,Nanami,0000,0000,0000,,Mis ataques no funcionan en su contra.
+Dialogue: 0,0:00:26.33,0:00:27.74,Gen_Main,Yuuji,0000,0000,0000,,¿Por qué no?
+Dialogue: 0,0:00:27.92,0:00:29.63,Gen_Main,Nanami,0000,0000,0000,,Dejémoslo para tu regaño.
+Dialogue: 0,0:00:30.09,0:00:33.64,Gen_Italics,Nanami,0000,0000,0000,,O su ritual no funciona contra Itadori
+Dialogue: 0,0:00:34.09,0:00:37.00,Gen_Italics,Nanami,0000,0000,0000,,o no puede matarlo por algún motivo.
+Dialogue: 0,0:00:37.34,0:00:39.11,Gen_Italics,Nanami,0000,0000,0000,,Sea lo que sea, nos conviene.
+Dialogue: 0,0:00:39.76,0:00:42.63,Gen_Main,Nanami,0000,0000,0000,,No obstante,\Nsí puedo detener sus movimientos.
+Dialogue: 0,0:00:44.39,0:00:48.48,Gen_Main,Nanami,0000,0000,0000,,En cuanto rompamos su guardia,\Nlo atacaremos sin piedad.
+Dialogue: 0,0:00:49.48,0:00:51.98,Gen_Main,Nanami,0000,0000,0000,,Lo exorcizaremos aquí mismo.
+Dialogue: 0,0:00:54.45,0:00:55.45,Gen_Main,Yuuji,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:01:02.87,0:01:05.46,Gen_Italics,Mahito,0000,0000,0000,,Mientras mantengo vigilado\Na Yuuji Itadori,
+Dialogue: 0,0:01:06.50,0:01:09.40,Gen_Italics,Mahito,0000,0000,0000,,me encargaré del hechicero\Ncon horario de oficina.
+Dialogue: 0,0:01:30.73,0:01:33.16,Gen_Italics,Mahito,0000,0000,0000,,Supuse que sería un ataque efectivo.
+Dialogue: 0,0:01:33.78,0:01:35.57,Gen_Italics,Mahito,0000,0000,0000,,Pero lo evitaron sin más.
+Dialogue: 0,0:01:36.03,0:01:39.03,Gen_Italics,Mahito,0000,0000,0000,,Y además comenzaron a cortar\Nlos extremos más débiles.
+Dialogue: 0,0:01:39.32,0:01:40.81,Gen_Italics,Mahito,0000,0000,0000,,Solo sirve contra debiluchos.
+Dialogue: 0,0:01:41.45,0:01:42.45,Gen_Italics,Mahito,0000,0000,0000,,Cambio de planes.
+Dialogue: 0,0:01:53.30,0:01:55.06,Gen_Main,Nanami,0000,0000,0000,,Cuando está por cambiar de forma…
+Dialogue: 0,0:01:55.57,0:01:57.55,Gen_Main,Yuuji/Nanami,0000,0000,0000,,-…acumula energía maldita.\N-Correcto.
+Dialogue: 0,0:01:59.43,0:02:01.38,Gen_Italics,Mahito,0000,0000,0000,,Aunque me haya encogido,
+Dialogue: 0,0:02:01.55,0:02:04.58,Gen_Italics,Mahito,0000,0000,0000,,aún existe el riesgo de que Itadori\Nme mate de un golpe.
+Dialogue: 0,0:02:04.93,0:02:07.20,Gen_Italics,Mahito,0000,0000,0000,,No podría tratarse de un peor oponente.
+Dialogue: 0,0:02:07.56,0:02:09.51,Gen_Italics,Mahito,0000,0000,0000,,Necesito que se comporte un rato.
+Dialogue: 0,0:02:11.66,0:02:13.00,Gen_Italics,Nanami,0000,0000,0000,,¡Humanos modificados!
+Dialogue: 0,0:02:13.69,0:02:15.35,Gen_Italics,Nanami,0000,0000,0000,,¡¿Aún guardaba reservas?!
+Dialogue: 0,0:02:16.15,0:02:17.97,Gen_Main,Mahito,0000,0000,0000,,Maten al mocoso de pelo corto.
+Dialogue: 0,0:02:26.37,0:02:27.91,Gen_Main,Mahito,0000,0000,0000,,Lo sabía,
+Dialogue: 0,0:02:28.71,0:02:30.66,Gen_Main,Mahito,0000,0000,0000,,¡no puede matar seres humanos!
+Dialogue: 0,0:02:45.77,0:02:47.43,Gen_Main,TransfiguredA,0000,0000,0000,,¡Juguemos!
+Dialogue: 0,0:02:56.48,0:03:00.17,Gen_Main,TrasnfiguredB,0000,0000,0000,,Por favor, mátame…
+Dialogue: 0,0:03:04.95,0:03:07.51,Gen_Main,Mahito,0000,0000,0000,,Luego haré que lo ataques tú también.
+Dialogue: 0,0:03:07.83,0:03:09.46,Gen_Main,Mahito,0000,0000,0000,,Me pregunto si llorará.
+Dialogue: 0,0:03:09.66,0:03:13.42,Gen_Main,Mahito,0000,0000,0000,,Es un mocoso estúpido incapaz de\Nconciliar sus ideales con la realidad.
+Dialogue: 0,0:03:13.79,0:03:15.42,Gen_Main,Nanami,0000,0000,0000,,Te equivocas.
+Dialogue: 0,0:03:15.71,0:03:19.02,Gen_Main,Nanami,0000,0000,0000,,Está a punto de conseguirlo.
+Dialogue: 0,0:03:19.34,0:03:20.63,Gen_Main,Nanami,0000,0000,0000,,Y si tuviera que elegir,
+Dialogue: 0,0:03:20.93,0:03:22.68,Gen_Main,Nanami,0000,0000,0000,,diría que el estúpido eres tú.
+Dialogue: 0,0:03:29.42,0:03:30.91,Gen_Main,Mahito,0000,0000,0000,,¡¿Los mató?!
+Dialogue: 0,0:03:34.19,0:03:35.83,Gen_Italics,Mahito,0000,0000,0000,,Ya conocen mis trucos.
+Dialogue: 0,0:03:36.36,0:03:38.78,Gen_Italics,Mahito,0000,0000,0000,,Cambiaré de forma\Njusto antes del impacto.
+Dialogue: 0,0:03:50.58,0:03:52.77,Gen_Italics,Mahito,0000,0000,0000,,No alcanzo a crear sustitutos.
+Dialogue: 0,0:03:53.62,0:03:55.17,Gen_Italics,Mahito,0000,0000,0000,,Pero qué buena…
+Dialogue: 0,0:03:55.50,0:03:57.88,Gen_Italics,Mahito,0000,0000,0000,,¡Qué buena fuente de inspiración!
+Dialogue: 0,0:03:58.88,0:04:00.09,Gen_Italics,Mahito,0000,0000,0000,,¿Será esto
+Dialogue: 0,0:04:00.09,0:04:02.84,Cart_A_Tre,Screen,0000,0000,0000,,{\fs36\bord0\shad0\blur0.5\c&H0000C3&}Muerte
+Dialogue: 0,0:04:01.13,0:04:02.84,Gen_Italics,Mahito,0000,0000,0000,,la muerte?
+Dialogue: 0,0:04:10.27,0:04:11.80,Gen_Italics,Mahito,0000,0000,0000,,Debería poder hacerlo ahora.
+Dialogue: 0,0:04:18.94,0:04:20.62,Gen_Italics,Mahito,0000,0000,0000,,Extensión de Dominio:
+Dialogue: 0,0:04:36.67,0:04:38.53,Gen_Italics,Mahito,0000,0000,0000,,¡Encarnación de la Perfección!
+Dialogue: 0,0:04:40.38,0:04:41.76,Gen_Main,Nanami,0000,0000,0000,,Maldita sea.
+Dialogue: 0,0:04:43.80,0:04:45.18,Gen_Main,Mahito,0000,0000,0000,,Ahora solo siento
+Dialogue: 0,0:04:47.29,0:04:48.75,Gen_Main,Mahito,0000,0000,0000,,gratitud por ti.
+Dialogue: 0,0:05:00.15,0:05:06.99,Cart_TitleSerie,,0000,0000,0000,,{\blur1\fad(1191,431)\t(1192,1316,1 \c&H0700D7&\3c&H6659E4&)\t(1317,1941,1 \c&H172918&\3c&H8CCECB&)\t(6197,6529,1 \c&H0F0063&\3c&H222781&)}Jujutsu Kaisen
+Dialogue: 0,0:06:20.44,0:06:26.69,Cart_TitleEp,Screen,0000,0000,0000,,{\fad(529,530)}Episodio 13: {\fs24}Hasta mañana
+Dialogue: 0,0:06:25.69,0:06:26.69,Gen_Main,Yuuji,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:06:29.66,0:06:31.71,Gen_Italics,Yuuji,0000,0000,0000,,¡¿Por qué solo atrapó a Nanamin?!
+Dialogue: 0,0:06:32.03,0:06:33.25,Gen_Italics,Yuuji,0000,0000,0000,,A este paso…
+Dialogue: 0,0:06:33.58,0:06:34.74,Gen_Italics,Yuuji,0000,0000,0000,,¡A este paso…!
+Dialogue: 0,0:06:39.58,0:06:41.01,Gen_Italics,Nanami,0000,0000,0000,,Extensión de Dominio.
+Dialogue: 0,0:06:41.50,0:06:44.50,Gen_Italics,Nanami,0000,0000,0000,,Dentro de un Área Innata\Ndesplegada con energía maldita,
+Dialogue: 0,0:06:44.67,0:06:48.42,Gen_Italics,Nanami,0000,0000,0000,,los rituales adquieren la característica\Nde que siempre aciertan.
+Dialogue: 0,0:06:48.92,0:06:52.08,Gen_Italics,Nanami,0000,0000,0000,,Es el punto más alto de la brujería\Nque nunca pude alcanzar.
+Dialogue: 0,0:06:53.41,0:06:57.09,Gen_Italics,Nanami,0000,0000,0000,,Imagino que para modificar almas,\Nsu ritual exige que toque al blanco
+Dialogue: 0,0:06:57.46,0:07:00.81,Gen_Italics,Nanami,0000,0000,0000,,con las palmas mientras se encuentra\Nen su forma inicial.
+Dialogue: 0,0:07:01.06,0:07:04.18,Gen_Italics,Nanami,0000,0000,0000,,Pero al estar en un dominio\Ndonde todos los golpes aciertan,
+Dialogue: 0,0:07:04.36,0:07:05.40,Gen_Italics,Nanami,0000,0000,0000,,prácticamente…
+Dialogue: 0,0:07:06.57,0:07:09.15,Gen_Italics,Nanami,0000,0000,0000,,me tiene sobre la palma de su mano.
+Dialogue: 0,0:07:10.46,0:07:11.65,Gen_Italics,Nanami,0000,0000,0000,,Maldita sea.
+Dialogue: 0,0:07:12.11,0:07:13.93,Gen_Italics,Nanami,0000,0000,0000,,Ser hechicero es un asco.
+Dialogue: 0,0:07:14.45,0:07:17.21,Gen_Italics,Nanami,0000,0000,0000,,Hay que estar preparado\Npara sacrificar la vida
+Dialogue: 0,0:07:17.37,0:07:20.16,Gen_Italics,Nanami,0000,0000,0000,,y obligar a tus compañeros\Na hacer lo mismo.
+Dialogue: 0,0:07:20.57,0:07:21.87,Gen_Main,Nanami,0000,0000,0000,,Por eso renuncié.
+Dialogue: 0,0:07:23.13,0:07:24.61,Gen_Main,Nanami,0000,0000,0000,,Mejor dicho, hui.
+Dialogue: 0,0:07:26.71,0:07:28.67,Gen_Main,Clerk,0000,0000,0000,,¿Le gusta el {\i1}casse-croûte{\i0}?
+Dialogue: 0,0:07:32.30,0:07:34.09,Gen_Main,Clerk,0000,0000,0000,,Siempre lo compra, ¿no?
+Dialogue: 0,0:07:34.51,0:07:36.04,Gen_Main,Nanami,0000,0000,0000,,Pues… sí.
+Dialogue: 0,0:07:36.60,0:07:39.14,Gen_Main,Nanami,0000,0000,0000,,Dejaron de venderlo en el minimercado.
+Dialogue: 0,0:07:39.56,0:07:41.81,Gen_Main,Clerk,0000,0000,0000,,A que este es más rico, ¿no?
+Dialogue: 0,0:07:42.19,0:07:44.31,Gen_Main,Nanami,0000,0000,0000,,Pues claro, es de panadería.
+Dialogue: 0,0:07:44.77,0:07:46.36,Gen_Main,Clerk,0000,0000,0000,,Cielos, qué áspero.
+Dialogue: 0,0:07:48.11,0:07:49.70,Gen_Main,Clerk,0000,0000,0000,,¡Vuelva pronto!
+Dialogue: 0,0:07:52.86,0:07:54.07,Gen_Italics,Nanami,0000,0000,0000,,Un Minúsculo…
+Dialogue: 0,0:07:55.82,0:07:57.93,Gen_Italics,Nanami,0000,0000,0000,,Dudo que importe ignorarlo.
+Dialogue: 0,0:07:58.98,0:08:02.59,Gen_Italics,Nanami,0000,0000,0000,,Sería peor eliminarlo y que luego piense\Nque soy algún tipo de médium.
+Dialogue: 0,0:08:07.09,0:08:09.07,Gen_Main,President,0000,0000,0000,,{\i1}Hello, everybody!{\i0}
+Dialogue: 0,0:08:09.63,0:08:11.15,Gen_Main,President,0000,0000,0000,,¿Cómo van esas ventas?
+Dialogue: 0,0:08:11.55,0:08:15.66,Gen_Main,Nanami,0000,0000,0000,,Al confiarnos su dinero,\Nla gente nos confía sus vidas.
+Dialogue: 0,0:08:15.89,0:08:19.26,Gen_Main,Nanami,0000,0000,0000,,Hay que equilibrar la búsqueda\Nde ganancias con los riesgos.
+Dialogue: 0,0:08:19.60,0:08:23.05,Gen_Main,Nanami,0000,0000,0000,,Como recién llegado, no hay mucho\Nque debas hacer en especial.
+Dialogue: 0,0:08:23.23,0:08:25.77,Gen_Main,Nanami/Newguy,0000,0000,0000,,-Sé sincero con los clientes.\N-Sí.
+Dialogue: 0,0:08:26.27,0:08:27.66,Gen_Main,Nanami,0000,0000,0000,,Nunca lo olvides.
+Dialogue: 0,0:08:28.05,0:08:29.07,Gen_Main,Newguy,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:08:29.57,0:08:33.59,Gen_Main,President,0000,0000,0000,,Nanami, no tienes que ser tan santurrón.
+Dialogue: 0,0:08:33.74,0:08:35.15,Gen_Main,President,0000,0000,0000,,Asustarás al novato.
+Dialogue: 0,0:08:35.56,0:08:39.50,Gen_Main,President,0000,0000,0000,,Mira, niño, las ganancias de la compañía\Ndeben ir por sobre todas las cosas.
+Dialogue: 0,0:08:39.69,0:08:42.28,Gen_Main,President,0000,0000,0000,,Van de la mano\Ncon las ganancias de los clientes.
+Dialogue: 0,0:08:42.75,0:08:46.13,Gen_Main,Nanami,0000,0000,0000,,¿Aun timando al cliente para que compre\Nacciones de porquería?
+Dialogue: 0,0:08:46.29,0:08:47.40,Gen_Main,President,0000,0000,0000,,¡Por supuesto!
+Dialogue: 0,0:08:47.54,0:08:52.18,Gen_Main,President,0000,0000,0000,,Es un pago más que merecido por tenernos\Nvigilando los mercados sin descanso.
+Dialogue: 0,0:08:52.34,0:08:54.15,Gen_Main,President,0000,0000,0000,,Nanami, es tu segundo año, ¿no?
+Dialogue: 0,0:08:54.30,0:08:56.34,Gen_Main,President,0000,0000,0000,,Sé que eres listo, suéltate un poco.
+Dialogue: 0,0:08:56.76,0:08:58.26,Gen_Main,President,0000,0000,0000,,Espero mucho de ti.
+Dialogue: 0,0:08:59.60,0:09:04.74,Gen_Italics,Nanami,0000,0000,0000,,Siempre me he considerado\Nalguien sin vocación o razón de ser.
+Dialogue: 0,0:09:05.31,0:09:08.83,Gen_Italics,Nanami,0000,0000,0000,,Ganaré una suma razonable de dinero\Nhasta cuando tenga 30 o 40 años
+Dialogue: 0,0:09:09.19,0:09:12.78,Gen_Italics,Nanami,0000,0000,0000,,y gozaré del resto de mis días\Nen un país con un costo de vida bajo.
+Dialogue: 0,0:09:13.69,0:09:15.33,Gen_Italics,Nanami,0000,0000,0000,,Me gradué hace cuatro años.
+Dialogue: 0,0:09:15.78,0:09:19.03,Gen_Italics,Nanami,0000,0000,0000,,Dormido o despierto,\Nsolo pienso en el dinero.
+Dialogue: 0,0:09:19.87,0:09:23.63,Gen_Italics,Nanami,0000,0000,0000,,Las Maldiciones y otras personas\Nno importan mientras tenga dinero.
+Dialogue: 0,0:09:24.45,0:09:25.46,Gen_Italics,Nanami,0000,0000,0000,,Dinero.
+Dialogue: 0,0:09:26.30,0:09:27.54,Gen_Italics,Nanami,0000,0000,0000,,Dinero.
+Dialogue: 0,0:09:27.92,0:09:28.92,Gen_Italics,Nanami,0000,0000,0000,,Dinero.
+Dialogue: 0,0:09:30.21,0:09:31.92,Gen_Italics,Nanami,0000,0000,0000,,Dinero, dinero…
+Dialogue: 0,0:09:32.42,0:09:33.98,Gen_Italics,Nanami,0000,0000,0000,,Mientras tenga dinero…
+Dialogue: 0,0:09:35.28,0:09:36.84,Gen_Main,Clerk,0000,0000,0000,,¿Se encuentra bien?
+Dialogue: 0,0:09:37.47,0:09:39.30,Gen_Main,Clerk,0000,0000,0000,,¿Está durmiendo bien?
+Dialogue: 0,0:09:39.76,0:09:41.01,Gen_Main,Nanami,0000,0000,0000,,¿Qué hay de ti?
+Dialogue: 0,0:09:41.26,0:09:43.81,Gen_Main,Nanami,0000,0000,0000,,Te noto algo fatigada.
+Dialogue: 0,0:09:44.22,0:09:46.27,Gen_Main,Clerk,0000,0000,0000,,Vaya, ¿se dio cuenta?
+Dialogue: 0,0:09:46.81,0:09:49.73,Gen_Main,Clerk,0000,0000,0000,,Últimamente siento los hombros pesados.
+Dialogue: 0,0:09:50.27,0:09:51.94,Gen_Main,Clerk,0000,0000,0000,,Y no he podido dormir bien.
+Dialogue: 0,0:09:53.28,0:09:58.45,Gen_Main,Nanami,0000,0000,0000,,Mi trabajo consiste\Nen tomar dinero de los ricos
+Dialogue: 0,0:09:59.03,0:10:01.42,Gen_Main,Nanami,0000,0000,0000,,para hacerlos aún más ricos que antes.
+Dialogue: 0,0:10:01.70,0:10:03.45,Gen_Main,Nanami,0000,0000,0000,,Es así de sencillo.
+Dialogue: 0,0:10:03.87,0:10:06.89,Gen_Main,Nanami,0000,0000,0000,,Para serte franco,\Na nadie le importaría que desapareciera.
+Dialogue: 0,0:10:07.12,0:10:10.57,Gen_Main,Nanami,0000,0000,0000,,Pero muchos se verían afectados\Nsi desapareciera su panadería.
+Dialogue: 0,0:10:11.29,0:10:15.21,Gen_Main,Nanami,0000,0000,0000,,Aun así, un trabajo tan fuera
+Dialogue: 0,0:10:15.46,0:10:18.79,Gen_Main,Nanami,0000,0000,0000,,del ciclo natural humano\Ncomo el mío paga más.
+Dialogue: 0,0:10:19.22,0:10:21.85,Gen_Main,Nanami,0000,0000,0000,,Si lo analizas de manera lógica,\Nes un disparate.
+Dialogue: 0,0:10:23.51,0:10:25.06,Gen_Main,Clerk,0000,0000,0000,,¿Está alardeando?
+Dialogue: 0,0:10:25.22,0:10:26.22,Gen_Main,Nanami,0000,0000,0000,,En absoluto.
+Dialogue: 0,0:10:27.64,0:10:30.49,Gen_Main,Clerk,0000,0000,0000,,Lo siento, fue un poquito\Ncomplicado de entender.
+Dialogue: 0,0:10:32.19,0:10:34.00,Gen_Main,Nanami,0000,0000,0000,,¿Podrías dar un paso al frente?
+Dialogue: 0,0:10:40.32,0:10:41.68,Gen_Main,Nanami,0000,0000,0000,,¿Cómo está tu hombro?
+Dialogue: 0,0:10:41.82,0:10:43.53,Gen_Main,Clerk,0000,0000,0000,,¿Eh? Pues…
+Dialogue: 0,0:10:44.16,0:10:45.79,Gen_Main,Clerk,0000,0000,0000,,¡¿Eh?! ¡Qué ligero!
+Dialogue: 0,0:10:46.04,0:10:48.41,Gen_Main,Nanami,0000,0000,0000,,Si te sientes mal, ve al hospital.
+Dialogue: 0,0:10:48.75,0:10:49.75,Gen_Main,Nanami,0000,0000,0000,,Ya me voy.
+Dialogue: 0,0:10:52.36,0:10:53.96,Gen_Main,Clerk,0000,0000,0000,,¡Oiga, espere!
+Dialogue: 0,0:10:54.38,0:10:55.58,Gen_Main,Clerk,0000,0000,0000,,¡Un momento!
+Dialogue: 0,0:10:55.88,0:10:56.88,Gen_Main,Clerk,0000,0000,0000,,Verá…
+Dialogue: 0,0:10:59.23,0:11:00.83,Gen_Main,Clerk,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:11:01.84,0:11:03.85,Gen_Main,Clerk,0000,0000,0000,,¡Vuelva pronto!
+Dialogue: 0,0:11:04.12,0:11:05.18,Gen_Italics,Nanami,0000,0000,0000,,"Gracias".
+Dialogue: 0,0:11:05.39,0:11:08.44,Gen_Main,Clerk,0000,0000,0000,,¿Eh? ¿No me escuchó? ¡Gracias!
+Dialogue: 0,0:11:08.73,0:11:10.89,Gen_Main,Clerk,0000,0000,0000,,¡Vuelva pronto!
+Dialogue: 0,0:11:11.10,0:11:15.90,Cart_C_TreNo,Phone,0000,0000,0000,,{\b0\c&H989898&\pos(436,129)\org(433,115)\frx16\fry14\frz330.2}Satoru Gojou{\b1}
+Dialogue: 0,0:11:11.52,0:11:15.90,Gen_Italics,Nanami,0000,0000,0000,,Siempre me consideré alguien\Nsin una razón de ser.
+Dialogue: 0,0:11:15.90,0:11:16.57,Cart_C_TreNo,Phone,0000,0000,0000,,{\b0\c&HC3C3C6&\pos(436,129)\org(433,115)\frx16\fry14\frz330.2}Satoru Gojou{\b1}
+Dialogue: 0,0:11:17.58,0:11:20.85,Gen_Main,Nanami,0000,0000,0000,,¿Hola? Soy Nanami.\NTenemos que hablar.
+Dialogue: 0,0:11:22.16,0:11:25.04,Gen_Main,Nanami,0000,0000,0000,,Sí, mañana iré\Na la escuela de hechicería…
+Dialogue: 0,0:11:25.62,0:11:26.99,Gen_Main,Nanami,0000,0000,0000,,¿De qué te ríes?
+Dialogue: 0,0:11:31.39,0:11:32.96,Gen_Main,Mahito,0000,0000,0000,,Mutación Pasiva.
+Dialogue: 0,0:11:33.85,0:11:35.42,Gen_Main,Mahito,0000,0000,0000,,Te doy las gracias.
+Dialogue: 0,0:11:39.89,0:11:41.56,Gen_Main,Nanami,0000,0000,0000,,No las necesito.
+Dialogue: 0,0:11:47.51,0:11:50.98,Gen_Main,Nanami,0000,0000,0000,,Ya he recibido la gratitud de muchos.
+Dialogue: 0,0:11:52.02,0:11:53.20,Gen_Main,Nanami,0000,0000,0000,,No tengo lamentos.
+Dialogue: 0,0:12:08.12,0:12:09.52,Gen_Italics,Mahito,0000,0000,0000,,¿Cómo pudo entrar?
+Dialogue: 0,0:12:10.75,0:12:14.68,Gen_Italics,Nanami,0000,0000,0000,,Ya veo, cuanto más resistente\Nes una barrera por dentro,
+Dialogue: 0,0:12:14.83,0:12:17.13,Gen_Italics,Nanami,0000,0000,0000,,más vulnerable es\Na los ataques por fuera.
+Dialogue: 0,0:12:17.54,0:12:20.66,Gen_Italics,Nanami,0000,0000,0000,,Los Dominios son barreras\Nespecializadas en atrapar,
+Dialogue: 0,0:12:21.13,0:12:23.45,Gen_Italics,Nanami,0000,0000,0000,,por lo que son fáciles de invadir.
+Dialogue: 0,0:12:24.80,0:12:28.03,Gen_Italics,Nanami,0000,0000,0000,,Más que nada,\Nporque no hay motivo para invadirlos.
+Dialogue: 0,0:12:29.53,0:12:33.19,Gen_Italics,Nanami,0000,0000,0000,,Mucho menos a unos como Vacío Infinito\No Encarnación de la Perfección,
+Dialogue: 0,0:12:33.39,0:12:38.21,Gen_Italics,Nanami,0000,0000,0000,,que garantizan la victoria\Nen cuanto atrapan a su presa.
+Dialogue: 0,0:12:40.36,0:12:43.69,Gen_Italics,Nanami,0000,0000,0000,,Sin embargo, al interior de Itadori
+Dialogue: 0,0:12:44.65,0:12:46.89,Gen_Italics,Nanami,0000,0000,0000,,reside algo que nadie debe tocar.
+Dialogue: 0,0:12:52.20,0:12:53.67,Gen_Main,Sukuna,0000,0000,0000,,Te lo advertí, ¿no?
+Dialogue: 0,0:12:56.78,0:12:58.84,Gen_Main,Sukuna,0000,0000,0000,,No te lo perdonaré esta vez.
+Dialogue: 0,0:13:04.47,0:13:07.03,Gen_Italics,Nanami,0000,0000,0000,,No hay nadie en el mundo\Nmás orgulloso y engreído.
+Dialogue: 0,0:13:08.04,0:13:11.64,Gen_Italics,Nanami,0000,0000,0000,,Vive guiado únicamente\Npor lo que le causa placer y disgusto.
+Dialogue: 0,0:13:12.22,0:13:14.14,Gen_Italics,Sukuna,0000,0000,0000,,Que mueras tú
+Dialogue: 0,0:13:14.81,0:13:16.40,Gen_Italics,Sukuna,0000,0000,0000,,o que mueras tú
+Dialogue: 0,0:13:17.27,0:13:18.61,Gen_Italics,Sukuna,0000,0000,0000,,me da exactamente igual.
+Dialogue: 0,0:13:19.98,0:13:21.94,Gen_Italics,Sukuna,0000,0000,0000,,Mientras él no esté,
+Dialogue: 0,0:13:23.11,0:13:25.81,Gen_Italics,Sukuna,0000,0000,0000,,todo me da exactamente igual.
+Dialogue: 0,0:14:02.61,0:14:04.53,Gen_Italics,Yuuji,0000,0000,0000,,¿Qué acaba de pasar?
+Dialogue: 0,0:14:11.61,0:14:12.78,Gen_Italics,Yuuji,0000,0000,0000,,¡Te mataré!
+Dialogue: 0,0:14:13.79,0:14:17.12,Gen_Italics,Mahito,0000,0000,0000,,La Extensión de Dominio\Nconsume bastante energía.
+Dialogue: 0,0:14:17.29,0:14:19.89,Gen_Italics,Mahito,0000,0000,0000,,Es una técnica final en toda regla.
+Dialogue: 0,0:14:20.04,0:14:21.38,Gen_Italics,Mahito,0000,0000,0000,,Y el infeliz de Sukuna…
+Dialogue: 0,0:14:21.78,0:14:23.94,Gen_Italics,Mahito,0000,0000,0000,,¡Este es un momento crucial!
+Dialogue: 0,0:14:24.21,0:14:27.72,Gen_Italics,Mahito,0000,0000,0000,,¡Debo exprimir\Nlo último que queda de mi energía!
+Dialogue: 0,0:14:31.58,0:14:32.89,Gen_Italics,Yuuji,0000,0000,0000,,El blanco es enorme.
+Dialogue: 0,0:14:33.35,0:14:35.11,Gen_Italics,Yuuji,0000,0000,0000,,El flujo de energía es parejo.
+Dialogue: 0,0:14:36.22,0:14:40.23,Gen_Italics,Yuuji,0000,0000,0000,,No habrá contraataque.\NPuedo asestarle un golpe sin falta.
+Dialogue: 0,0:14:40.44,0:14:41.75,Gen_Italics,Yuuji,0000,0000,0000,,Es mi última oportunidad.
+Dialogue: 0,0:14:44.21,0:14:46.49,Gen_Italics,Yuuji,0000,0000,0000,,Puedo olvidarme de las tácticas.
+Dialogue: 0,0:14:52.12,0:14:53.78,Gen_Italics,Yuuji,0000,0000,0000,,¡Puño Divergente!
+Dialogue: 0,0:15:04.75,0:15:07.24,Gen_Italics,Yuuji,0000,0000,0000,,¡¿Por qué no sentí respuesta alguna?!
+Dialogue: 0,0:15:09.93,0:15:12.39,Gen_Main,Mahito/Yuuji,0000,0000,0000,,-¡Adiós!\N-¡Alto!
+Dialogue: 0,0:15:12.55,0:15:14.43,Gen_Main,Mahito,0000,0000,0000,,¡Fue muy divertido!
+Dialogue: 0,0:15:21.92,0:15:25.07,Gen_Main,Nanami,0000,0000,0000,,Ino, su núcleo escapó\Nhacia el alcantarillado.
+Dialogue: 0,0:15:26.29,0:15:27.48,Gen_Main,Nanami,0000,0000,0000,,Sí.
+Dialogue: 0,0:15:27.78,0:15:31.39,Gen_Main,Nanami,0000,0000,0000,,Registra todo desde mi ubicación\Nhacia el sureste.
+Dialogue: 0,0:15:31.89,0:15:33.74,Gen_Main,Nanami,0000,0000,0000,,Hasta tú podrías exorcizarlo ahora.
+Dialogue: 0,0:15:34.32,0:15:35.88,Gen_Main,Nanami,0000,0000,0000,,¡También iremos tras él!
+Dialogue: 0,0:15:37.79,0:15:39.12,Gen_Main,Nanami,0000,0000,0000,,¡Itadori!
+Dialogue: 0,0:15:39.41,0:15:40.78,Gen_Italics,Yuuji,0000,0000,0000,,¡Muévete!
+Dialogue: 0,0:15:41.08,0:15:43.39,Gen_Italics,Yuuji,0000,0000,0000,,¡¿No ibas a matar a esa cosa?!
+Dialogue: 0,0:15:44.58,0:15:48.75,Gen_Italics,Nanami/Yuuji,0000,0000,0000,,-Ibas a molerlo a golpes…\N{\i0}-¡Itadori!{\i1}
+Dialogue: 0,0:16:12.07,0:16:15.56,Gen_Italics,Mahito,0000,0000,0000,,Conque ese era Ryomen Sukuna,\Nel rey de las Maldiciones.
+Dialogue: 0,0:16:16.32,0:16:21.79,Gen_Italics,Mahito,0000,0000,0000,,A estas alturas, debería poseer\Nmenos energía maldita que Jougo,
+Dialogue: 0,0:16:21.96,0:16:23.29,Gen_Italics,Mahito,0000,0000,0000,,pero era imponente.
+Dialogue: 0,0:16:23.96,0:16:26.29,Gen_Italics,Mahito,0000,0000,0000,,Su alma está a otro nivel.
+Dialogue: 0,0:16:26.92,0:16:28.45,Gen_Italics,Mahito,0000,0000,0000,,Ahora tengo la certeza.
+Dialogue: 0,0:16:29.00,0:16:30.70,Gen_Italics,Mahito,0000,0000,0000,,Aunque nos aniquilen a todos,
+Dialogue: 0,0:16:31.05,0:16:34.47,Gen_Italics,Mahito,0000,0000,0000,,si resucitamos a Sukuna,\Nla era de las Maldiciones comenzará.
+Dialogue: 0,0:16:35.26,0:16:37.47,Gen_Italics,Mahito,0000,0000,0000,,Aun así, esto es todo un problema…
+Dialogue: 0,0:16:38.26,0:16:43.87,Gen_Italics,Mahito,0000,0000,0000,,Ahora mismo, lo único que quiero hacer\Nes matar a Itadori Yuuji.
+Dialogue: 0,0:16:48.52,0:16:50.53,Gen_Main,Mahito,0000,0000,0000,,¡Qué frustrante!
+Dialogue: 0,0:16:50.98,0:16:52.87,Gen_Main,Mahito,0000,0000,0000,,Pero tendré que olvidarlo.
+Dialogue: 0,0:16:53.03,0:16:56.99,Gen_Main,Mahito,0000,0000,0000,,A diferencia del cuerpo,\Nel alma puede matarse una y otra vez.
+Dialogue: 0,0:16:58.99,0:17:02.09,Gen_Main,Mahito,0000,0000,0000,,¿Cómo debería matarlo para la próxima?
+Dialogue: 0,0:17:06.25,0:17:08.54,Gen_Main,Nanami,0000,0000,0000,,Te dijeron que reposaras, ¿no?
+Dialogue: 0,0:17:09.88,0:17:11.25,Gen_Main,Yuuji,0000,0000,0000,,¿Y mi regaño?
+Dialogue: 0,0:17:11.84,0:17:16.00,Gen_Main,Nanami,0000,0000,0000,,Regañar a quien salvó mi vida\Nsería una bajeza.
+Dialogue: 0,0:17:16.68,0:17:17.76,Gen_Main,Yuuji,0000,0000,0000,,¿Te salvé?
+Dialogue: 0,0:17:18.14,0:17:21.85,Gen_Main,Nanami,0000,0000,0000,,El ritual del espíritu de retazos\Ninterfiere con el alma.
+Dialogue: 0,0:17:22.52,0:17:27.77,Gen_Main,Nanami,0000,0000,0000,,Como invadiste su Dominio,\Nacabó tocando el alma de Sukuna.
+Dialogue: 0,0:17:28.17,0:17:29.69,Gen_Main,Nanami,0000,0000,0000,,Y eso me salvó.
+Dialogue: 0,0:17:31.27,0:17:34.32,Gen_Main,Yuuji,0000,0000,0000,,Pero no cambié de lugar con él.
+Dialogue: 0,0:17:35.45,0:17:39.59,Gen_Main,Nanami,0000,0000,0000,,Sukuna nunca salió,\Nel enemigo fue hacia él.
+Dialogue: 0,0:17:41.24,0:17:43.31,Gen_Main,Yuuji,0000,0000,0000,,Pues no te salvé yo.
+Dialogue: 0,0:17:43.75,0:17:45.50,Gen_Main,Yuuji,0000,0000,0000,,Fue capricho suyo.
+Dialogue: 0,0:17:46.41,0:17:49.60,Gen_Main,Yuuji,0000,0000,0000,,Nanamin, hoy maté a gente.
+Dialogue: 0,0:17:50.96,0:17:55.51,Gen_Main,Yuuji,0000,0000,0000,,Toda la gente muere, es algo inevitable.\NPero quería que murieran con dignidad.
+Dialogue: 0,0:17:56.22,0:17:57.73,Gen_Main,Yuuji,0000,0000,0000,,Así solía pensar.
+Dialogue: 0,0:17:58.72,0:18:01.60,Gen_Main,Yuuji,0000,0000,0000,,Por eso siempre busqué formas\Nde no tirar del gatillo.
+Dialogue: 0,0:18:02.22,0:18:03.29,Gen_Main,Yuuji,0000,0000,0000,,Pero…
+Dialogue: 0,0:18:03.97,0:18:06.60,Gen_Main,Yuuji,0000,0000,0000,,tras tirar del gatillo,\Nya no entiendo nada.
+Dialogue: 0,0:18:07.89,0:18:09.22,Gen_Main,Yuuji,0000,0000,0000,,¿Qué es una muerte digna?
+Dialogue: 0,0:18:09.40,0:18:11.81,Gen_Main,Nanami,0000,0000,0000,,Eso ni siquiera yo lo sé.
+Dialogue: 0,0:18:12.44,0:18:13.93,Gen_Main,Nanami,0000,0000,0000,,Aunque creamos
+Dialogue: 0,0:18:14.11,0:18:17.49,Gen_Main,Nanami,0000,0000,0000,,que los buenos deban morir en paz\Ny los malos siendo castigados,
+Dialogue: 0,0:18:17.70,0:18:21.04,Gen_Main,Nanami,0000,0000,0000,,la mayoría de la gente del mundo\Nno es ni buena ni mala.
+Dialogue: 0,0:18:21.41,0:18:25.18,Gen_Main,Nanami,0000,0000,0000,,La muerte es el destino de todos,\Npero no todos mueren igual.
+Dialogue: 0,0:18:25.39,0:18:29.07,Gen_Main,Nanami,0000,0000,0000,,Por lo que intentar guiarlos a todos\Na una muerte digna suena laborioso.
+Dialogue: 0,0:18:29.25,0:18:30.99,Gen_Main,Nanami,0000,0000,0000,,No te lo recomendaría.
+Dialogue: 0,0:18:32.84,0:18:36.12,Gen_Main,Nanami,0000,0000,0000,,Pero, diga lo que diga,\Nseguirás intentándolo, ¿no?
+Dialogue: 0,0:18:37.30,0:18:39.38,Gen_Main,Nanami,0000,0000,0000,,Solo procura no morir en el intento.
+Dialogue: 0,0:18:39.76,0:18:42.93,Gen_Main,Nanami,0000,0000,0000,,Así como yo habría muerto\Nsi no hubieses estado allí,
+Dialogue: 0,0:18:43.22,0:18:46.79,Gen_Main,Nanami,0000,0000,0000,,habrá muchísima gente\Nque llegará a necesitarte.
+Dialogue: 0,0:18:47.89,0:18:51.12,Gen_Main,Nanami,0000,0000,0000,,Porque ya eres un hechicero, Itadori.
+Dialogue: 0,0:18:56.90,0:18:59.71,Gen_Main,Teacher,0000,0000,0000,,Coloquen las hojas en esta caja\Nal terminar.
+Dialogue: 0,0:18:59.86,0:19:01.58,Gen_Main,Teacher,0000,0000,0000,,No tienen que poner su nombre.
+Dialogue: 0,0:19:01.58,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\pos(459,88)\fs18\shad0\fax-0.3\frz350.6\3c&HCACBCD&\b0}Encuesta sobre acoso escolar{\b1}
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs13\shad0\fax-0.3\3c&HCCCED0&\b0\pos(294,109)\frz350.2}P1 - ¿Has sufrido de acoso escolar este año?
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\frz350.2\pos(311,131)}a - Sí.   b - No.
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs13\shad0\fax-0.3\frz350.6\3c&HCCCED0&\b0\pos(277,139)}P2 - ¿Por parte de quién? Marca todas las que correspondan.
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(295,158)\frz350.1}a - Compañeros (de clase)
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(290,168)\frz350.1}b - Compañeros (de otras clases)
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(284,179)\frz349.9}c - Alumnos mayores
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(279,189)\frz349.7}d - Alumnos menores
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs13\shad0\fax-0.3\3c&HCCCED0&\b0\pos(246,198)\frz349.2}P3 - ¿Qué tipo de acoso has sufrido? Marca todas las que correspondan
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(260,218)\frz348.3}a - Provocaciones, insultos, difamación
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(256,232)\frz348.9}b - Aislamiento, ser ignorado
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(249,242)\frz347.8}c - Puñetazos, patadas, golpes
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(242,258)\frz348.3}d - Robo de dinero o pertenencias
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(236,270)\frz347.4}e - Pertenencias ensuciadas, alteradas o rotas
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(228,282)\frz347}f - Obligado a hacer cosas vergonzosas
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(222,296)\frz346.8}g - Insultos y garabatos en libros o cuadernos
+Dialogue: 0,0:19:01.74,0:19:03.28,Cart_C_Tim,Heading,0000,0000,0000,,{\an7\fs10\shad0\fax-0.3\3c&HCCCED0&\b0\pos(215,311)\frz347}h - Otros
+Dialogue: 0,0:19:23.18,0:19:27.69,Gen_Main,Sotomura,0000,0000,0000,,Tú le dejaste esas cicatrices\Na Yoshino, ¿no es así, Itou?
+Dialogue: 0,0:19:28.60,0:19:34.40,Gen_Main,Itou,0000,0000,0000,,No voy a escuchar sermones del cobarde\Nque no hizo nada cuando correspondía.
+Dialogue: 0,0:19:35.27,0:19:37.91,Gen_Main,Itou,0000,0000,0000,,Dejó la escuela y se mudó, ¿no?
+Dialogue: 0,0:19:38.07,0:19:39.15,Gen_Main,Itou,0000,0000,0000,,¿Qué importa ahora?
+Dialogue: 0,0:19:40.24,0:19:44.66,Gen_Main,Itou,0000,0000,0000,,Además, me cuesta mover el brazo\Ndesde lo que pasó ese día.
+Dialogue: 0,0:19:44.82,0:19:47.27,Gen_Main,Sotomura,0000,0000,0000,,Ahora estamos hablando\Nsobre lo que hiciste tú.
+Dialogue: 0,0:19:47.55,0:19:50.67,Gen_Main,Sotomura,0000,0000,0000,,Reflexiona sobre el castigo\Nque tú mismo te buscaste.
+Dialogue: 0,0:19:51.00,0:19:52.42,Gen_Main,Itou,0000,0000,0000,,¿Qué hay de tu castigo?
+Dialogue: 0,0:19:52.72,0:19:54.23,Gen_Main,Sotomura,0000,0000,0000,,Yo seré el próximo.
+Dialogue: 0,0:19:54.79,0:19:57.53,Gen_Main,Sotomura,0000,0000,0000,,Comenzaré por fijarme\Nen lo que pasaba por alto.
+Dialogue: 0,0:19:58.92,0:20:00.17,Cart_C_Tim,Paper,0000,0000,0000,,{\fs12\shad0\fax-0.3\3c&HA2988E&\frz325.8\2c&HA0968C&\pos(286,258)}Encuesta sobre acoso escolar
+Dialogue: 0,0:19:59.30,0:20:01.42,Gen_Main,Sotomura,0000,0000,0000,,Tanto tú como yo
+Dialogue: 0,0:20:00.17,0:20:01.42,Cart_C_Tim,Paper,0000,0000,0000,,{\shad0\bord0\fax-0.3\blur0.5\frz341.9\pos(410,209)\clip(m 270 154 l 424 209 428 219 433 225 440 229 450 233 456 235 470 234 476 232 480 230 496 224 527 240 561 251 564 289 478 301 343 256 290 214 252 191 231 172)}Encuesta sobre acoso escolar
+Dialogue: 0,0:20:02.01,0:20:05.93,Gen_Main,Sotomura,0000,0000,0000,,cargaremos con la culpa de haber\Nasesinado el corazón de Yoshino.
+Dialogue: 0,0:20:06.70,0:20:09.05,Gen_Main,Sotomura,0000,0000,0000,,Te estaré vigilando, Itou.
+Dialogue: 0,0:20:15.23,0:20:17.85,Gen_Italics,Yuuji,0000,0000,0000,,Sigo sin entender\Nqué es una muerte digna.
+Dialogue: 0,0:20:18.61,0:20:19.53,Gen_Italics,Yuuji,0000,0000,0000,,Por eso,
+Dialogue: 0,0:20:21.32,0:20:22.37,Gen_Italics,Yuuji,0000,0000,0000,,hasta entenderlo,
+Dialogue: 0,0:20:26.24,0:20:27.70,Gen_Italics,Yuuji,0000,0000,0000,,hasta matarlo,
+Dialogue: 0,0:20:39.17,0:20:40.26,Gen_Italics,Yuuji,0000,0000,0000,,no volveré…
+Dialogue: 0,0:20:43.41,0:20:44.46,Gen_Italics,Yuuji,0000,0000,0000,,a perder.
+Dialogue: 0,0:22:15.02,0:22:17.52,Cart_C_Tre,Screen&Voice,0000,0000,0000,,{\bord0\shad0\fs30\blur0.5\frz25.38\pos(440.8,67.2)}Juju-Cortos
+Dialogue: 0,0:22:15.74,0:22:17.52,Gen_Main,Voice/Toge,0000,0000,0000,,-Juju-Cortos.\N-Atún.
+Dialogue: 0,0:22:21.46,0:22:22.82,Gen_Main,Kugisaki,0000,0000,0000,,¿Ya está?
+Dialogue: 0,0:22:23.02,0:22:24.03,Gen_Main,Toge,0000,0000,0000,,Salmón, salmón.
+Dialogue: 0,0:22:30.99,0:22:32.69,Gen_Main,Maki,0000,0000,0000,,Qué ricas albóndigas.
+Dialogue: 0,0:22:32.99,0:22:33.99,Gen_Main,Maki,0000,0000,0000,,¿Quién las hizo?
+Dialogue: 0,0:22:34.40,0:22:35.41,Gen_Main,Fushiguro,0000,0000,0000,,Fui yo.
+Dialogue: 0,0:22:35.79,0:22:36.91,Gen_Main,Fushiguro,0000,0000,0000,,Son fáciles de hacer.
+Dialogue: 0,0:22:37.29,0:22:40.79,Cart_A_Ari,Screen,0000,0000,0000,,{\shad0\3c&H68A5DA&\pos(219,25)}1) Colocar todos los ingredientes\N\h\h\h\h\h\h\h\h\h\h\hUsar el doble de pasta de jengibre
+Dialogue: 0,0:22:40.79,0:22:44.30,Cart_A_Ari,Screen,0000,0000,0000,,{\shad0\3c&H68A5DA&}2) Mezclar bien y amasar
+Dialogue: 0,0:22:44.30,0:22:49.47,Cart_A_Ari,Screen,0000,0000,0000,,{\shad0\fad(0,1100)\3c&H68A5DA&}3) Dar forma con cucharas\Ny echar a la olla
+Dialogue: 0,0:22:48.30,0:22:54.06,Cart_C_Tre,Screen,0000,0000,0000,,{\fad(800,0)\an7\bord0\c&HFFFFFF&\3c&H000000&\shad2\blur0.5\fscy120\fs24\4c&H000000&\pos(298,55)}Ingredientes
+Dialogue: 0,0:22:48.30,0:22:54.06,Cart_C_Tre,Screen,0000,0000,0000,,{\fad(800,0)\an4\c&H000000&\bord0\blur0.5\shad0\3c&HFFFFFF&\fs16\pos(226,130)}Pollo molido
+Dialogue: 0,0:22:48.30,0:22:54.06,Cart_C_Tre,Screen,0000,0000,0000,,{\fad(800,0)\an4\c&H000000&\bord0\blur0.5\shad0\3c&HFFFFFF&\fs16\pos(226,167)}Cebollín picado
+Dialogue: 0,0:22:48.30,0:22:54.06,Cart_C_Tre,Screen,0000,0000,0000,,{\fad(800,0)\an4\c&H000000&\bord0\blur0.5\shad0\3c&HFFFFFF&\fs16\pos(226,201)}Pasta de jengibre
+Dialogue: 0,0:22:48.30,0:22:54.06,Cart_C_Tre,Screen,0000,0000,0000,,{\fad(800,0)\an4\c&H000000&\bord0\blur0.5\shad0\3c&HFFFFFF&\fs16\pos(226,239)}Yemas {\fs12}(deja las claras si te da pereza)
+Dialogue: 0,0:22:54.48,0:22:55.57,Gen_Main,Toge,0000,0000,0000,,Hojuelas de bonito.
+Dialogue: 0,0:22:56.97,0:23:00.52,Gen_Main,Kugisaki,0000,0000,0000,,¿Sabes cocinar?\NAunque tampoco es gran cosa.
+Dialogue: 0,0:23:01.52,0:23:04.07,Gen_Main,Fushiguro,0000,0000,0000,,No, Itadori me enseñó a prepararlas.
+Dialogue: 0,0:23:14.16,0:23:15.65,Gen_Main,Kugisaki,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:23:17.54,0:23:19.82,Gen_Main,Kugisaki,0000,0000,0000,,Son el legado de Itadori.
+Dialogue: 0,0:23:20.00,0:23:21.23,Gen_Main,Maki,0000,0000,0000,,No lo digas de ese modo.
+Dialogue: 0,0:23:24.59,0:23:26.68,Gen_Main,Gojou,0000,0000,0000,,¡Qué ricas albóndigas!
+Dialogue: 0,0:23:26.92,0:23:29.47,Gen_Main,Yuuji,0000,0000,0000,,Sí, y son muy fáciles de hacer.
+Dialogue: 0,0:23:31.38,0:23:33.22,Gen_Main,Yuuji,0000,0000,0000,,Hasta Fushiguro puede hacerlas.
+Dialogue: 0,0:23:33.47,0:23:34.48,Gen_Main,Yuuji,0000,0000,0000,,Yo le enseñé.
+Dialogue: 0,0:23:37.77,0:23:40.36,Gen_Main,Yuuji,0000,0000,0000,,Ya quiero volver a ver a esos dos.
+Dialogue: 0,0:23:51.57,0:23:54.99,Cart_TitleNext,Screen,0000,0000,0000,,{\fad(984,1)\c&HFCFFFF&}Episodio 14\N{\fs26}El evento de intercambio\Nen la escuela de Kioto -Combate grupal 0-
+Dialogue: 0,0:24:43.50,0:45:36.52,Cart_C_Tre,Screen,0000,0000,0000,,{\fad(800,0)\an4\c&H000000&\bord0\blur0.5\shad0\3c&HFFFFFF&\fs16\pos(226,278)}Sal y pimienta

@@ -1,0 +1,413 @@
+[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0060,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+Style: sign_1198_4_I_said_don_t_,Times New Roman,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0008,0008,0083,1
+Style: sign_2171_30_Tokyo_Metropolit,Times New Roman,24,&H00000000,&H000000FF,&HC8FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0142,0142,0018,1
+Style: sign_1408_21__If_Conventional,Trebuchet MS,16,&H005B5C5C,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0084,0066,0120,1
+Style: sign_1408_23_A_Wooden_Bat_is_,Trebuchet MS,16,&H005B5C5C,&H000000FF,&H00FEFEFE,&H00000000,0,0,0,0,100,100,0,0,3,3,0,7,0100,0353,0193,1
+Style: sign_1408_22_Grade_4,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00EBD96B,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,4,0114,0446,0000,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.98,0:00:04.85,Main,Yuji,0000,0000,0000,,I think I'll go see a movie.
+Dialogue: 0,0:00:05.12,0:00:06.50,Main,Yuji,0000,0000,0000,,What about you, Kugisaki?
+Dialogue: 0,0:00:06.50,0:00:09.59,Main,Kugisaki,0000,0000,0000,,It's still early. I'll go shopping or something.
+Dialogue: 0,0:00:09.68,0:00:11.71,Main,Fushiguro,0000,0000,0000,,You all have so much energy.
+Dialogue: 0,0:00:11.71,0:00:13.73,Main,Fushiguro,0000,0000,0000,,I'm going home, then.
+Dialogue: 0,0:00:14.66,0:00:16.16,Main,Yuji,0000,0000,0000,,Take care.
+Dialogue: 0,0:00:18.19,0:00:20.06,Main,Kugisaki,0000,0000,0000,,Finally done.
+Dialogue: 0,0:00:21.00,0:00:23.69,Main,Yuji,0000,0000,0000,,I'm going to the movies. What about you?
+Dialogue: 0,0:00:24.07,0:00:25.58,Main,Kugisaki,0000,0000,0000,,What are you seeing?
+Dialogue: 0,0:00:25.58,0:00:27.25,Main,Yuji,0000,0000,0000,,{\i1}Human Earthworm 4{\i0}.
+Dialogue: 0,0:00:27.25,0:00:28.24,Main,Kugisaki,0000,0000,0000,,Who'd ever go see that?
+Dialogue: 0,0:00:28.24,0:00:30.79,Main,Kugisaki,0000,0000,0000,,I haven't even seen 1, 2, or 3.
+Dialogue: 0,0:00:30.79,0:00:33.47,Main,Yuji,0000,0000,0000,,I think you'd be fine jumping in on 4.
+Dialogue: 0,0:00:34.30,0:00:37.27,Main,Yuji,0000,0000,0000,,This time, the mad scientist \Nfrom the first one,
+Dialogue: 0,0:00:37.27,0:00:40.30,Main,Yuji,0000,0000,0000,,Dr. Richter, is making his \Nlong-awaited reappearance!
+Dialogue: 0,0:00:37.65,0:00:40.94,Main,Boy,0000,0000,0000,,{\an8}Stop! Let me go!
+Dialogue: 0,0:00:40.30,0:00:43.52,Main,Yuji,0000,0000,0000,,And the hybrid human-earthworm fusion \Nborn from the doctor's experiments
+Dialogue: 0,0:00:43.52,0:00:45.92,Main,Yuji,0000,0000,0000,,is going to give rise to an \Nenhanced Human Earthworm!
+Dialogue: 0,0:00:45.92,0:00:47.80,Main,Kugisaki,0000,0000,0000,,What the hell? That's so gross.
+Dialogue: 0,0:00:48.27,0:00:52.34,Main,Yuji,0000,0000,0000,,The poor Human Earthworm, who barely \Nescaped from Dr. Richter with its life,
+Dialogue: 0,0:00:52.34,0:00:56.19,Main,Yuji,0000,0000,0000,,finally wanders into a campground \Nwhere a group of college students are,
+Dialogue: 0,0:00:56.19,0:00:58.55,Main,Yuji,0000,0000,0000,,and that's when the story really kicks off.
+Dialogue: 0,0:00:58.55,0:01:03.45,Main,Yuji,0000,0000,0000,,So, one of the people in that group is a kind \Nwoman who's an animal rights proponent,
+Dialogue: 0,0:01:03.45,0:01:06.07,Main,Yuji,0000,0000,0000,,and the Human Earthworm \Nfalls in love with her.
+Dialogue: 0,0:01:06.55,0:01:09.48,Main,Humanearthworm,0000,0000,0000,,I'm no longer human.
+Dialogue: 0,0:01:09.48,0:01:11.86,Main,Woman,0000,0000,0000,,You're more human than anyone else.
+Dialogue: 0,0:01:12.12,0:01:13.45,Main,Man,0000,0000,0000,,It's a monster! Kill it!
+Dialogue: 0,0:01:13.45,0:01:14.90,Main,Woman,0000,0000,0000,,Kevin, stop!
+Dialogue: 0,0:01:14.90,0:01:17.50,Main,Woman,0000,0000,0000,,If we kill him, then we're the monsters!
+Dialogue: 0,0:01:19.60,0:01:21.34,Main,BabyHumanEarthworm,0000,0000,0000,,Papa.
+Dialogue: 0,0:01:21.34,0:01:23.46,Main,BabyHEWs,0000,0000,0000,,{\an8}Papa?
+Dialogue: 0,0:01:21.34,0:01:23.46,Main,BabyHEWs,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:01:21.34,0:01:23.46,Main,BabyHEWs,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:01:23.46,0:01:24.85,Sign_Basic,Phone,0000,0000,0000,,{\fad(175,0)\an8\an8\fnArial\b1\bord0\shad0\c&H03006F&}Human Earthworm 4
+Dialogue: 0,0:01:25.09,0:01:28.22,Main,Yuji,0000,0000,0000,,So the theme is actually love!
+Dialogue: 0,0:01:32.22,0:01:35.86,Main,Kugisaki,0000,0000,0000,,I don't want see some wormo man, \Nregardless of the theme.
+Dialogue: 0,0:01:36.39,0:01:38.22,Main,Yuji,0000,0000,0000,,It's "Human Earthworm."
+Dialogue: 0,0:01:38.22,0:01:40.11,Main,Kugisaki,0000,0000,0000,,It doesn't matter.
+Dialogue: 0,0:01:40.11,0:01:42.84,Main,Kugisaki,0000,0000,0000,,I'm going shopping, okay?
+Dialogue: 0,0:01:43.20,0:01:44.41,Main,Kugisaki,0000,0000,0000,,Want to come with?
+Dialogue: 0,0:01:44.41,0:01:46.94,Main,Yuji,0000,0000,0000,,I just said I'm going to the movies.
+Dialogue: 0,0:01:46.94,0:01:49.58,Main,Kugisaki,0000,0000,0000,,Okay. Later, then.
+Dialogue: 0,0:01:58.37,0:02:04.50,Main,Gakuganji,0000,0000,0000,,Special-grade is a rank reserved for \Nthose sorcerers who are exceptional.
+Dialogue: 0,0:02:04.50,0:02:08.64,Main,Gakuganji,0000,0000,0000,,In my opinion, first-grade is \Nthe true rank for the sorcerers
+Dialogue: 0,0:02:08.64,0:02:12.17,Main,Gakuganji,0000,0000,0000,,who will lead other sorcerers \Nand jujutsu society.
+Dialogue: 0,0:02:12.17,0:02:18.17,Main,Gakuganji,0000,0000,0000,,They must stand above comparison to semi-first-\Ngrades in terms of peril, secrecy, and salary.
+Dialogue: 0,0:02:18.17,0:02:21.43,Main,Gakuganji,0000,0000,0000,,Now, with that in mind, \Nwhat did you just say?
+Dialogue: 0,0:02:21.43,0:02:24.31,Main,Mei,0000,0000,0000,,Maki Zen'in, Panda...
+Dialogue: 0,0:02:24.31,0:02:30.38,Main,Todo,0000,0000,0000,,...Megumi Fushiguro, Nobara Kugisaki, \Nand my brother, Yuji Itadori.
+Dialogue: 0,0:02:30.38,0:02:33.15,Main,Todo,0000,0000,0000,,On my name as Aoi Todo...
+Dialogue: 0,0:02:33.43,0:02:35.62,Main,Mei,0000,0000,0000,,And on my name as Mei Mei...
+Dialogue: 0,0:02:35.93,0:02:38.78,Main,Both,0000,0000,0000,,I recommend those five \Nfor first-grade sorcerer.
+Dialogue: 0,0:02:41.76,0:02:47.52,Main,Todo,0000,0000,0000,,Those who are recommended \Nby at least two first-grades
+Dialogue: 0,0:02:47.52,0:02:50.62,Main,Todo,0000,0000,0000,,must carry out missions under \Nan active first-grade,
+Dialogue: 0,0:02:50.62,0:02:52.60,Main,Todo,0000,0000,0000,,or first-grade equivalent sorcerer.
+Dialogue: 0,0:02:54.38,0:02:59.55,Main,Todo,0000,0000,0000,,Then, if they are deemed fit, \Nthey will be promoted to semi-first-grade
+Dialogue: 0,0:02:59.55,0:03:03.34,Main,Todo,0000,0000,0000,,and proceed to be assigned \Nfirst-grade missions on their own.
+Dialogue: 0,0:03:03.34,0:03:05.62,Main,Todo,0000,0000,0000,,Following the results of those missions,
+Dialogue: 0,0:03:05.62,0:03:10.10,Main,Todo,0000,0000,0000,,they either will or won't officially \Nbecome first-grade sorcerers.
+Dialogue: 0,0:03:10.88,0:03:14.10,Main,Todo,0000,0000,0000,,My brother will certainly accept \Nthe recommendation.
+Dialogue: 0,0:03:14.10,0:03:16.15,Main,Todo,0000,0000,0000,,With Sukuna still uncooperative,
+Dialogue: 0,0:03:16.15,0:03:18.40,Main,Todo,0000,0000,0000,,he'll need to go on more dangerous missions
+Dialogue: 0,0:03:18.40,0:03:21.78,Main,Todo,0000,0000,0000,,to raise his chances of finding more fingers.
+Dialogue: 0,0:03:21.78,0:03:25.70,Main,Todo,0000,0000,0000,,You understand what \Nthat means, right, Ms. Mei?
+Dialogue: 0,0:03:27.76,0:03:32.59,Main,Mei,0000,0000,0000,,What that means? \NThat's everything, Mr. Todo.
+Dialogue: 0,0:03:42.84,0:03:44.55,Main,Todo,0000,0000,0000,,A bright future...
+Dialogue: 0,0:03:44.55,0:03:47.65,Main,Todo,0000,0000,0000,,It means a bright future \Nwhere Aoi Todo and Yuji Itadori
+Dialogue: 0,0:03:47.65,0:03:53.98,Main,Todo,0000,0000,0000,,face missions together lies ahead of us!
+Dialogue: 0,0:03:53.98,0:03:54.75,Main,Mei,0000,0000,0000,,No...
+Dialogue: 0,0:03:54.75,0:03:56.42,Main,Todo,0000,0000,0000,,You don't have to say it.
+Dialogue: 0,0:03:56.42,0:03:59.55,Main,Todo,0000,0000,0000,,There's no guarantee I'll be the first-grade \Nsorcerer assigned to accompany him.
+Dialogue: 0,0:03:59.55,0:04:01.35,Main,Todo,0000,0000,0000,,That's what you wanted to say, right?
+Dialogue: 0,0:04:01.35,0:04:03.59,Main,Todo,0000,0000,0000,,But I'm certain of this!
+Dialogue: 0,0:04:03.60,0:04:06.46,Main,Todo,0000,0000,0000,,It's as certain as apples \Nfalling from a tree!
+Dialogue: 0,0:04:06.46,0:04:08.94,Main,Todo,0000,0000,0000,,The two of us are drawn together!
+Dialogue: 0,0:04:10.83,0:04:15.39,Main,Todo,0000,0000,0000,,Yes, it truly is destiny!
+Dialogue: 0,0:04:15.80,0:04:17.30,Main,Mei,0000,0000,0000,,No, I mean...
+Dialogue: 0,0:04:17.30,0:04:22.01,Main,Mei,0000,0000,0000,,The sorcerers who recommended him \Ncan't be assigned to accompany him.
+Dialogue: 0,0:04:23.77,0:04:26.98,Main,Mei,0000,0000,0000,,Since we're the two that \Nrecommended Itadori-kun,
+Dialogue: 0,0:04:26.98,0:04:30.99,Main,Mei,0000,0000,0000,,someone else will have to accompany him.
+Dialogue: 0,0:04:31.62,0:04:32.86,Main,Mei,0000,0000,0000,,Thanks for today.
+Dialogue: 0,0:04:32.86,0:04:35.93,Main,Mei,0000,0000,0000,,I'll be leaving now, Mr. Todo.
+Dialogue: 0,0:04:46.41,0:04:48.46,Main,Ozawa,0000,0000,0000,,Um, excuse me.
+Dialogue: 0,0:04:51.45,0:04:55.62,Main,Ozawa,0000,0000,0000,,You were with Itadori-kun earlier, right?
+Dialogue: 0,0:04:57.87,0:04:59.01,Main,Kugisaki,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:09.58,0:05:14.08,Show_Title,Screen,0000,0000,0000,,{\fad(0,825)\pos(320,10)}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Shibuya Incident
+Dialogue: 0,0:06:32.29,0:06:34.06,Main,Waitress,0000,0000,0000,,Welcome!
+Dialogue: 0,0:06:34.30,0:06:37.77,Main,Ozawa,0000,0000,0000,,This is what I looked like at our \Nmiddle school graduation ceremony.
+Dialogue: 0,0:06:37.77,0:06:40.98,Main,Kugisaki,0000,0000,0000,,Huh?! Seriously?! That was only six months ago!
+Dialogue: 0,0:06:40.98,0:06:42.95,Main,Kugisaki,0000,0000,0000,,What happened to you?!
+Dialogue: 0,0:06:42.95,0:06:47.37,Main,Ozawa,0000,0000,0000,,Well, I've grown about \N15 centimeters since then.
+Dialogue: 0,0:06:47.64,0:06:51.95,Main,Ozawa,0000,0000,0000,,That combined with the stress of moving \Nto Tokyo and changing environments...
+Dialogue: 0,0:06:51.95,0:06:53.82,Main,Kugisaki,0000,0000,0000,,Wow...
+Dialogue: 0,0:06:53.82,0:06:56.32,Main,Kugisaki,0000,0000,0000,,You're a real Kuroko Sato.
+Dialogue: 0,0:06:57.08,0:06:58.83,Main,Kugisaki,0000,0000,0000,,That's Itadori.
+Dialogue: 0,0:06:58.83,0:07:02.93,Main,Ozawa,0000,0000,0000,,On graduation day, I worked up the \Ncourage to ask for a photo with him.
+Dialogue: 0,0:07:02.93,0:07:06.15,Main,Ozawa,0000,0000,0000,,I actually wanted to ask \Nfor his phone number,
+Dialogue: 0,0:07:06.15,0:07:08.90,Main,Ozawa,0000,0000,0000,,but it was already decided \Nthat we would be moving to Tokyo...
+Dialogue: 0,0:07:09.68,0:07:12.32,Main,Ozawa,0000,0000,0000,,So when I saw Itadori-kun earlier,
+Dialogue: 0,0:07:12.66,0:07:16.38,Main,Ozawa,0000,0000,0000,,I thought maybe with \Nhow I look now, I might...
+Dialogue: 0,0:07:16.70,0:07:19.99,Main,Kugisaki,0000,0000,0000,,Wait... Yuko, you mean...
+Dialogue: 0,0:07:20.61,0:07:22.40,Main,Kugisaki,0000,0000,0000,,It's like {\i1}that{\i0}, right?
+Dialogue: 0,0:07:22.40,0:07:24.46,Main,Ozawa,0000,0000,0000,,Yes! It's like {\i1}that{\i0}!
+Dialogue: 0,0:07:27.16,0:07:28.66,Main,Kugisaki,0000,0000,0000,,Hey, Ijichi-san.
+Dialogue: 0,0:07:28.66,0:07:30.65,Main,Kugisaki,0000,0000,0000,,Is Fushiguro still riding with you?
+Dialogue: 0,0:07:30.65,0:07:32.70,Main,Kugisaki,0000,0000,0000,,I sent you the URL for the restaurant I'm at.
+Dialogue: 0,0:07:32.70,0:07:34.86,Main,Kugisaki,0000,0000,0000,,Could you turn around and bring him here?
+Dialogue: 0,0:07:34.86,0:07:37.10,Main,Kugisaki,0000,0000,0000,,Thanks! See ya soon!
+Dialogue: 0,0:07:38.72,0:07:41.69,Main,Kugisaki,0000,0000,0000,,Someone who knows Itadori well \Nis on his way here now.
+Dialogue: 0,0:07:41.69,0:07:42.68,Main,Ozawa,0000,0000,0000,,Um...
+Dialogue: 0,0:07:42.68,0:07:44.88,Main,Kugisaki,0000,0000,0000,,We'll talk to him about it first.
+Dialogue: 0,0:07:44.88,0:07:46.09,Main,Ozawa,0000,0000,0000,,Um...
+Dialogue: 0,0:07:47.51,0:07:50.38,Main,Ozawa,0000,0000,0000,,If you're also interested in Itadori-kun...
+Dialogue: 0,0:07:50.38,0:07:51.38,Main,Kugisaki,0000,0000,0000,,No.
+Dialogue: 0,0:07:51.86,0:07:54.27,Main,Kugisaki,0000,0000,0000,,Even if hell froze over \Nand danced the lambada...
+Dialogue: 0,0:07:55.00,0:07:56.24,Main,Kugisaki,0000,0000,0000,,No.
+Dialogue: 0,0:07:59.76,0:08:02.47,Italics,Kugisaki,0000,0000,0000,,My chest just felt weird.
+Dialogue: 0,0:08:03.14,0:08:04.56,Italics,Kugisaki & Screen,0000,0000,0000,,Did my heart skip a beat?
+Dialogue: 0,0:08:03.17,0:08:07.63,Sign_Basic,Screen,0000,0000,0000,,{\fad(450,0)\pos(454.667,70)\c&H391D6D&\bord0\shad0\fnComic Sans MS}Did my heart\Nskip a beat?
+Dialogue: 0,0:08:07.99,0:08:10.12,Main,Fushiguro,0000,0000,0000,,Yo, what's the big idea?
+Dialogue: 0,0:08:10.12,0:08:11.72,Main,Kugisaki,0000,0000,0000,,Hey, Fushiguro!
+Dialogue: 0,0:08:11.72,0:08:13.47,Main,Kugisaki,0000,0000,0000,,Does Itadori have a girlfriend?
+Dialogue: 0,0:08:13.47,0:08:14.38,Main,Fushiguro,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:14.38,0:08:16.14,Main,Kugisaki,0000,0000,0000,,This is Yuko Ozawa.
+Dialogue: 0,0:08:16.61,0:08:19.58,Main,Kugisaki,0000,0000,0000,,She's actually blah, blah, blah.
+Dialogue: 0,0:08:19.58,0:08:21.58,Main,Fushiguro,0000,0000,0000,,So it's like {\i1}that{\i0}?!
+Dialogue: 0,0:08:21.58,0:08:23.80,Main,Kugisaki,0000,0000,0000,,Yeah, it's like {\i1}that{\i0}!
+Dialogue: 0,0:08:24.14,0:08:25.99,Main,Fushiguro,0000,0000,0000,,He definitely doesn't have a girlfriend.
+Dialogue: 0,0:08:25.99,0:08:27.27,Main,Kugisaki,0000,0000,0000,,Your basis for that?
+Dialogue: 0,0:08:27.27,0:08:31.06,Main,Fushiguro,0000,0000,0000,,When he suddenly had to transfer to Tokyo, \Nhe didn't seem particularly upset about it.
+Dialogue: 0,0:08:31.70,0:08:34.43,Main,Fushiguro,0000,0000,0000,,He also has a pinup \Nposter hanging in his room.
+Dialogue: 0,0:08:34.43,0:08:37.82,Main,Fushiguro,0000,0000,0000,,Anyone with a girlfriend wouldn't have \Nsomething like that hanging up, right?
+Dialogue: 0,0:08:37.82,0:08:39.33,Main,Fushiguro,0000,0000,0000,,Because she'd hate it.
+Dialogue: 0,0:08:39.33,0:08:43.54,Main,Kugisaki,0000,0000,0000,,Are you the type to drink coffee black only \Nwhen women are around so you can show off?
+Dialogue: 0,0:08:43.54,0:08:44.48,Main,Kugisaki,0000,0000,0000,,Stop that.
+Dialogue: 0,0:08:44.48,0:08:47.60,Main,Fushiguro,0000,0000,0000,,You called me out here \Nto ask me about this, right?
+Dialogue: 0,0:08:47.60,0:08:49.16,Main,Fushiguro,0000,0000,0000,,And I always drink it black.
+Dialogue: 0,0:08:49.85,0:08:53.08,Main,Ozawa,0000,0000,0000,,Um, by the way, do you know what his type is?
+Dialogue: 0,0:08:55.07,0:08:57.83,Main,Fushiguro,0000,0000,0000,,He mentioned he likes tall girls.
+Dialogue: 0,0:09:01.09,0:09:02.81,Main,Kugisaki,0000,0000,0000,,You have a shot!
+Dialogue: 0,0:09:02.81,0:09:04.47,Main,Kugisaki,0000,0000,0000,,I'll summon Itadori!
+Dialogue: 0,0:09:04.47,0:09:06.30,Main,Kugisaki,0000,0000,0000,,You're okay with that, right, Yuko?!
+Dialogue: 0,0:09:06.30,0:09:07.59,Main,Ozawa,0000,0000,0000,,Yes!
+Dialogue: 0,0:09:07.59,0:09:12.06,Sign_Basic,Phone,0000,0000,0000,,{\pos(314.667,16.667)\an8\fs14\shad0\3c&H6B727F&\c&HDAE9F9&}Yuji Itadori
+Dialogue: 0,0:09:07.80,0:09:12.06,Sign_Basic,Phone,0000,0000,0000,,{\pos(377.333,121.333)\an8\fs10\shad0\3c&HF9BCA8&}Hey.
+Dialogue: 0,0:09:08.02,0:09:12.06,Sign_Basic,Phone,0000,0000,0000,,{\an8\fs10\shad0\c&H9E9CE4&\3c&HFFFFFF&\pos(380.667,187.333)}FAMILY Restaurant
+Dialogue: 0,0:09:08.22,0:09:12.06,Sign_Basic,Phone,0000,0000,0000,,{\an8\fs10\shad0\3c&HF9BCA8&\pos(377.333,246.667)}Come.
+Dialogue: 0,0:09:09.30,0:09:12.06,Sign_Basic,Phone,0000,0000,0000,,{\an8\fs10\shad0\c&HA5A79D&\3c&HFFFFFF&\pos(253.333,275)}Why?
+Dialogue: 0,0:09:09.64,0:09:12.06,Sign_Basic,Phone,0000,0000,0000,,{\an8\fs10\shad0\3c&HF9BCA8&\pos(376,310)}Come.
+Dialogue: 0,0:09:10.43,0:09:12.06,Sign_Basic,Phone,0000,0000,0000,,{\an8\fs10\shad0\c&HA5A79D&\3c&HFFFFFF&\pos(254,338)}Got it.
+Dialogue: 0,0:09:13.30,0:09:14.84,Main,Ozawa,0000,0000,0000,,That was curt.
+Dialogue: 0,0:09:15.33,0:09:16.34,Main,Kugiasawa,0000,0000,0000,,Was it?
+Dialogue: 0,0:09:16.97,0:09:18.77,Main,Yuji,0000,0000,0000,,Hey, Fushiguro's here, too!
+Dialogue: 0,0:09:18.77,0:09:19.77,Main,Kugisaki,0000,0000,0000,,That was fast!
+Dialogue: 0,0:09:21.06,0:09:23.44,Italics,Kugisaki,0000,0000,0000,,Oh, crap.
+Dialogue: 0,0:09:23.44,0:09:24.15,Main,Fushiguro,0000,0000,0000,,{\an8}What's that?
+Dialogue: 0,0:09:24.15,0:09:26.82,Italics,Kugisaki,0000,0000,0000,,I didn't tell Itadori about Yuko!
+Dialogue: 0,0:09:24.97,0:09:28.01,Main,Yuji,0000,0000,0000,,{\an8}Finding a money exchange was a pain, \Nso I traded in for prizes instead.
+Dialogue: 0,0:09:27.33,0:09:30.72,Italics,Kugisaki,0000,0000,0000,,He definitely won't recognize her \Nafter she changed so much!
+Dialogue: 0,0:09:33.05,0:09:34.17,Main,Yuji,0000,0000,0000,,Who are you?
+Dialogue: 0,0:09:34.77,0:09:40.50,Italics,Kugisaki,0000,0000,0000,,That's the number one line you don't want to \Nhear when reuniting with the one you adore!
+Dialogue: 0,0:09:41.02,0:09:41.95,Main,Kugisaki,0000,0000,0000,,Itadori!
+Dialogue: 0,0:09:41.95,0:09:43.05,Main,Kugisaki,0000,0000,0000,,This girl is—
+Dialogue: 0,0:09:41.95,0:09:43.05,Main,Yuji,0000,0000,0000,,Wait...
+Dialogue: 0,0:09:43.05,0:09:45.56,Main,Yuji,0000,0000,0000,,You're Ozawa. What are you doing here?
+Dialogue: 0,0:09:47.79,0:09:49.09,Main,Yuji,0000,0000,0000,,What a coincidence.
+Dialogue: 0,0:09:51.50,0:09:54.89,Flashback,Student,0000,0000,0000,,Okay, so which girl in our \Nclass do you like, Itadori?
+Dialogue: 0,0:10:03.12,0:10:05.02,Flashback,Yuji,0000,0000,0000,,None of them, really.
+Dialogue: 0,0:10:05.02,0:10:07.16,Flashback,Student,0000,0000,0000,,But if you {\i1}had{\i0} to pick!
+Dialogue: 0,0:10:07.81,0:10:09.02,Flashback,Yuji,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:09.02,0:10:11.99,Flashback,Yuji,0000,0000,0000,,If I had to pick, then... Ozawa.
+Dialogue: 0,0:10:12.69,0:10:14.08,Flashback,Student,0000,0000,0000,,What?!
+Dialogue: 0,0:10:14.08,0:10:17.42,Flashback,Student,0000,0000,0000,,No way, man! She's fat!
+Dialogue: 0,0:10:19.47,0:10:20.74,Flashback,Yuji,0000,0000,0000,,Is she?
+Dialogue: 0,0:10:20.74,0:10:26.35,Flashback,Yuji,0000,0000,0000,,But the way she eats and her handwriting \Nand stuff are super nice.
+Dialogue: 0,0:10:29.83,0:10:32.68,Flashback,Yuji,0000,0000,0000,,I mean, fish is hard to eat, you know?
+Dialogue: 0,0:10:32.68,0:10:36.49,Flashback,Student,0000,0000,0000,,I thought you said you liked \Ntall girls with big butts?
+Dialogue: 0,0:10:36.92,0:10:39.13,Flashback,Yuji,0000,0000,0000,,That's its own thing!
+Dialogue: 0,0:10:42.50,0:10:47.06,Italics,Ozawa,0000,0000,0000,,It's easy for girls to get fat.
+Dialogue: 0,0:10:47.06,0:10:49.72,Italics,Ozawa,0000,0000,0000,,I started off fat...
+Dialogue: 0,0:10:57.94,0:11:02.90,Italics,Ozawa,0000,0000,0000,,But even I don't have any interest in \Nchoosing someone who won't choose me.
+Dialogue: 0,0:11:15.40,0:11:19.37,Italics,Ozawa,0000,0000,0000,,Itadori-kun saw a side of me I wasn't aware of.
+Dialogue: 0,0:11:21.04,0:11:23.65,Italics,Ozawa,0000,0000,0000,,I hated all the boys other than Itadori-kun.
+Dialogue: 0,0:11:25.23,0:11:26.23,Italics,Ozawa,0000,0000,0000,,But...
+Dialogue: 0,0:11:27.18,0:11:33.30,Italics,Ozawa,0000,0000,0000,,"Maybe with how I look now, I might..."
+Dialogue: 0,0:11:34.77,0:11:40.67,Italics,Ozawa,0000,0000,0000,,I'm living by the same \Nstandards as the people I hate.
+Dialogue: 0,0:11:46.38,0:11:47.24,Flashback,Student,0000,0000,0000,,Later.
+Dialogue: 0,0:11:47.24,0:11:47.83,Flashback,Student,0000,0000,0000,,See you tomorrow.
+Dialogue: 0,0:11:47.83,0:11:48.59,Flashback,Yuji,0000,0000,0000,,Later.
+Dialogue: 0,0:11:50.85,0:11:52.03,Main,Yuji,0000,0000,0000,,See you later.
+Dialogue: 0,0:12:09.28,0:12:10.89,Main,Fushiguro,0000,0000,0000,,Was that really okay?
+Dialogue: 0,0:12:10.89,0:12:12.95,Main,Fushiguro,0000,0000,0000,,They could have at least exchanged numbers.
+Dialogue: 0,0:12:12.95,0:12:16.69,Main,Kugisaki,0000,0000,0000,,I exchanged with her. It should be fine.
+Dialogue: 0,0:12:16.69,0:12:20.72,Main,Kugisaki,0000,0000,0000,,More importantly, Fushiguro,\NI've finally realized my own feelings.
+Dialogue: 0,0:12:20.72,0:12:21.65,Main,Fushiguro,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:21.65,0:12:24.46,Main,Kugisaki,0000,0000,0000,,The thought that Itadori \Nmight land a girlfriend
+Dialogue: 0,0:12:24.46,0:12:26.74,Main,Kugisaki,0000,0000,0000,,before I get a boyfriend pisses me off.
+Dialogue: 0,0:12:26.74,0:12:27.96,Main,Fushiguro,0000,0000,0000,,That so?
+Dialogue: 0,0:12:27.96,0:12:29.58,Main,Yuji,0000,0000,0000,,Sorry for the wait.
+Dialogue: 0,0:12:29.58,0:12:31.42,Main,Kugisaki,0000,0000,0000,,Walk behind me.
+Dialogue: 0,0:12:31.42,0:12:33.70,Main,Yuji,0000,0000,0000,,Huh? Say what? What are you talking about?
+Dialogue: 0,0:12:33.70,0:12:34.71,Main,Fushiguro,0000,0000,0000,,Here.
+Dialogue: 0,0:12:34.71,0:12:36.17,Main,Yuji,0000,0000,0000,,Oh! Thanks!
+Dialogue: 0,0:12:36.17,0:12:36.91,Main,Kugisaki,0000,0000,0000,,Here.
+Dialogue: 0,0:12:36.91,0:12:39.22,Main,Yuji,0000,0000,0000,,Huh? Huh? What's this?
+Dialogue: 0,0:12:39.22,0:12:40.74,Main,Kugisaki,0000,0000,0000,,Just while you're at it.
+Dialogue: 0,0:12:40.74,0:12:41.37,Main,Yuji,0000,0000,0000,,While I'm at it?
+Dialogue: 0,0:12:41.37,0:12:44.98,Main,Kugisaki,0000,0000,0000,,You'd feel bad making \Na lady carry them, right?
+Dialogue: 0,0:12:46.53,0:12:47.79,Main,Yuji,0000,0000,0000,,Sure.
+Dialogue: 0,0:12:47.79,0:12:49.82,Main,Yuji,0000,0000,0000,,Oh, crap! The movie's starting!
+Dialogue: 0,0:12:49.82,0:12:50.89,Main,Yuji,0000,0000,0000,,Hey, let's go!
+Dialogue: 0,0:12:50.89,0:12:53.02,Main,Kugisaki,0000,0000,0000,,Huh?! Hold up!
+Dialogue: 0,0:12:51.32,0:12:53.02,Main,Yuji,0000,0000,0000,,Come on, come on, come on!
+Dialogue: 0,0:12:53.02,0:12:54.35,Main,Kugisaki,0000,0000,0000,,Don't take mine with you!
+Dialogue: 0,0:12:54.35,0:12:56.55,Main,Kugisaki,0000,0000,0000,,There's no way I'm watching some wormo man!
+Dialogue: 0,0:12:56.55,0:12:58.34,Main,Yuji,0000,0000,0000,,You want some popcorn, too, Fushiguro?
+Dialogue: 0,0:12:58.34,0:12:59.57,Main,Yuji,0000,0000,0000,,You like caramel flavor, right?
+Dialogue: 0,0:12:59.57,0:13:02.06,Main,Fushiguro,0000,0000,0000,,Don't just advance the conversation \Nassuming we're gonna see wormo man.
+Dialogue: 0,0:13:02.06,0:13:04.99,Main,Yuji,0000,0000,0000,,{\an8}I told you all, it's {\i1}Human Earthworm 4{\i0}!
+Dialogue: 0,0:13:02.95,0:13:05.96,Ep_Title,Screen,0000,0000,0000,,Episode 30\N{\fs30\fscy150}It's Like That
+Dialogue: 0,0:13:25.95,0:13:27.36,Main,Utahime,0000,0000,0000,,Impossible!
+Dialogue: 0,0:13:27.36,0:13:29.88,Main,Utahime,0000,0000,0000,,Working with a curse user is \None thing, but cursed spirits?!
+Dialogue: 0,0:13:29.88,0:13:33.62,Main,Gojo,0000,0000,0000,,Yet, lately, cursed spirits of that level \Nhave been popping up everywhere.
+Dialogue: 0,0:13:33.62,0:13:37.29,Main,Gojo,0000,0000,0000,,The person in question may think they're \Nonly working with curse users, though.
+Dialogue: 0,0:13:38.46,0:13:41.67,Main,Gojo,0000,0000,0000,,I want to leave the investigation \Nof Kyoto up to you, Utahime.
+Dialogue: 0,0:13:45.67,0:13:46.84,Main,Utahime,0000,0000,0000,,This way.
+Dialogue: 0,0:13:48.26,0:13:50.97,Main,Utahime,0000,0000,0000,,You've heard from Gojo about \Nthe person leaking intel, right?
+Dialogue: 0,0:13:51.35,0:13:52.39,Main,Three,0000,0000,0000,,Yes.
+Dialogue: 0,0:13:52.39,0:13:55.48,Main,Utahime,0000,0000,0000,,There's probably two or more people \Nin contact with the curse users.
+Dialogue: 0,0:13:55.48,0:13:58.02,Main,Utahime,0000,0000,0000,,One would be a higher-up, \Nwell above the principal.
+Dialogue: 0,0:13:58.02,0:14:00.40,Main,Utahime,0000,0000,0000,,I won't be able to do \Nanything about that one.
+Dialogue: 0,0:14:00.98,0:14:05.24,Main,Utahime,0000,0000,0000,,The other would be someone passing \Nthe information up to that higher-up.
+Dialogue: 0,0:14:05.60,0:14:07.53,Main,Utahime,0000,0000,0000,,That one is our current target.
+Dialogue: 0,0:14:08.27,0:14:11.78,Main,Utahime,0000,0000,0000,,They're only a suspect at this point, \Nso we'll capture and interrogate them.
+Dialogue: 0,0:14:12.34,0:14:14.49,Main,Kugisaki,0000,0000,0000,,So, who from Kyoto is it?
+Dialogue: 0,0:14:14.49,0:14:15.33,Main,Yuji,0000,0000,0000,,Oh?!
+Dialogue: 0,0:14:15.58,0:14:19.33,Main,Kugisaki,0000,0000,0000,,That's why you asked those \Nof us from Tokyo, right?
+Dialogue: 0,0:14:19.33,0:14:21.29,Main,Yuji,0000,0000,0000,,Kugisaki, you're incredible.
+Dialogue: 0,0:14:24.63,0:14:26.42,Main,Utahime,0000,0000,0000,,The mole is...
+Dialogue: 0,0:14:26.42,0:14:28.13,Main,Miwa,0000,0000,0000,,Mechamaru!
+Dialogue: 0,0:14:28.13,0:14:30.01,Main,Miwa,0000,0000,0000,,Oh, there you are.
+Dialogue: 0,0:14:30.44,0:14:33.14,Main,Miwa,0000,0000,0000,,Today's the last day \Nto turn in your notebook.
+Dialogue: 0,0:14:37.14,0:14:38.19,Main,Miwa,0000,0000,0000,,Mechamaru?
+Dialogue: 0,0:14:39.28,0:14:42.61,Italics,Mechamaru,0000,0000,0000,,Sorry, Miwa. I'm going to sleep for a bit.
+Dialogue: 0,0:14:44.11,0:14:46.82,Italics,Mechamaru,0000,0000,0000,,Please take the notebook from my desk.
+Dialogue: 0,0:14:46.82,0:14:49.95,Main,Miwa,0000,0000,0000,,Sleep? It's still only evening.
+Dialogue: 0,0:14:53.07,0:14:55.29,Main,Miwa,0000,0000,0000,,Jeez!
+Dialogue: 0,0:14:58.46,0:15:03.88,Sign_Basic,Screen,0000,0000,0000,,{\fad(75,150)\pos(446,93.333)\fnComic Sans MS\b1\c&H6D46CB&\shad0\bord1\3c&H4C4383&}Poke Poke Poke
+Dialogue: 0,0:14:58.75,0:15:00.46,Italics,Miwa,0000,0000,0000,,He really did go to sleep.
+Dialogue: 0,0:15:00.46,0:15:03.42,Italics,Miwa,0000,0000,0000,,I wonder where the real \NMechamaru actually is.
+Dialogue: 0,0:15:05.12,0:15:07.38,Main,Utahime,0000,0000,0000,,Mechamaru's real body,
+Dialogue: 0,0:15:07.89,0:15:09.88,Main,Utahime,0000,0000,0000,,Kokichi Muta, is in the basement here.
+Dialogue: 0,0:15:10.63,0:15:12.89,Main,Utahime,0000,0000,0000,,Now, it's not like he's suspicious.
+Dialogue: 0,0:15:12.89,0:15:15.01,Main,Utahime,0000,0000,0000,,It's more that everyone else wasn't.
+Dialogue: 0,0:15:15.01,0:15:17.40,Main,Utahime,0000,0000,0000,,So the process of elimination \Nleaves us with him.
+Dialogue: 0,0:15:30.82,0:15:33.93,Main,Utahime,0000,0000,0000,,Mechamaru's technique \Nis puppet manipulation.
+Dialogue: 0,0:15:33.93,0:15:35.62,Main,Utahime,0000,0000,0000,,Thanks to his Heavenly Pact,
+Dialogue: 0,0:15:35.62,0:15:38.50,Main,Utahime,0000,0000,0000,,the range he can manipulate puppets \Nin extends throughout all of Japan.
+Dialogue: 0,0:15:38.90,0:15:40.96,Main,Utahime,0000,0000,0000,,If he had unregistered puppets,
+Dialogue: 0,0:15:40.96,0:15:44.17,Main,Utahime,0000,0000,0000,,he could do the work of a\Nmole as much as he wanted.
+Dialogue: 0,0:15:44.17,0:15:45.50,Main,Yuji,0000,0000,0000,,Really?
+Dialogue: 0,0:15:45.50,0:15:47.67,Main,Yuji,0000,0000,0000,,That guy stood out a lot to me.
+Dialogue: 0,0:15:48.13,0:15:51.09,Main,Utahime,0000,0000,0000,,Even if the puppet was \Nthe size of a fly or a mosquito?
+Dialogue: 0,0:15:51.38,0:15:52.43,Main,Yuji,0000,0000,0000,,I see.
+Dialogue: 0,0:15:52.43,0:15:54.22,Main,Yuji,0000,0000,0000,,So those are options, too, huh?
+Dialogue: 0,0:15:56.76,0:15:57.68,Main,Utahime,0000,0000,0000,,We're here.
+Dialogue: 0,0:16:01.35,0:16:02.73,Main,Muta,0000,0000,0000,,They've arrived?
+Dialogue: 0,0:16:17.88,0:16:19.66,Main,Yuji,0000,0000,0000,,Uh...
+Dialogue: 0,0:16:20.74,0:16:22.75,Main,Utahime,0000,0000,0000,,He got us.
+Dialogue: 0,0:16:22.75,0:16:24.17,Main,Fushiguro,0000,0000,0000,,But on the other hand...
+Dialogue: 0,0:16:24.17,0:16:26.88,Main,Kugisaki,0000,0000,0000,,Now we're certain it's Mechamaru.
+Dialogue: 0,0:16:33.76,0:16:35.47,Main,Muta,0000,0000,0000,,You're late.
+Dialogue: 0,0:16:35.47,0:16:37.64,Main,Muta,0000,0000,0000,,I thought you forgot about me.
+Dialogue: 0,0:16:38.05,0:16:39.89,Main,Geto,0000,0000,0000,,We wouldn't make a blunder like that.
+Dialogue: 0,0:16:40.27,0:16:43.89,Main,Geto,0000,0000,0000,,You're personally familiar with the \Nterrifying nature of a pact, right?
+Dialogue: 0,0:16:44.39,0:16:47.44,Main,Mahito,0000,0000,0000,,He always smells moldy. I hate it.
+Dialogue: 0,0:16:48.02,0:16:51.11,Main,Mahito,0000,0000,0000,,And he's an enemy. Let's just kill him quick.
+Dialogue: 0,0:16:51.48,0:16:53.70,Main,Geto,0000,0000,0000,,You can't do that yet, Mahito.
+Dialogue: 0,0:16:54.65,0:16:57.87,Main,Geto,0000,0000,0000,,He agreed to cooperate with us \Nand provide information.
+Dialogue: 0,0:16:58.58,0:17:02.62,Main,Geto,0000,0000,0000,,In exchange, we agreed to use your \NIdle Transfiguration to fix his body.
+Dialogue: 0,0:17:03.46,0:17:07.00,Main,Geto,0000,0000,0000,,That's the pact we all forged, remember?
+Dialogue: 0,0:17:08.25,0:17:10.75,Main,Geto,0000,0000,0000,,Killing him comes after fixing him.
+Dialogue: 0,0:17:13.13,0:17:16.05,Main,Geto,0000,0000,0000,,I wanted him to do some work \Nfor us in Shibuya, too,
+Dialogue: 0,0:17:16.05,0:17:17.55,Main,Geto,0000,0000,0000,,so that's a shame.
+Dialogue: 0,0:17:18.01,0:17:20.76,Main,Muta,0000,0000,0000,,"We won't lay a hand on the people \Nfrom the Kyoto school."
+Dialogue: 0,0:17:20.76,0:17:23.89,Main,Muta,0000,0000,0000,,You're the ones who broke our pact first.
+Dialogue: 0,0:17:23.89,0:17:26.10,Main,Mahito,0000,0000,0000,,Hanami's the one who did that.
+Dialogue: 0,0:17:26.10,0:17:29.02,Main,Mahito,0000,0000,0000,,You shouldn't lash out at the wrong people.
+Dialogue: 0,0:17:29.02,0:17:31.23,Main,Muta,0000,0000,0000,,I have no intention of \Narguing with cursed spirits.
+Dialogue: 0,0:17:31.23,0:17:33.90,Main,Muta,0000,0000,0000,,Hurry up and fix me, scumbag.
+Dialogue: 0,0:17:36.20,0:17:39.45,Main,Mahito,0000,0000,0000,,Maybe I'll get carried away \Nand turn him into a caterpillar.
+Dialogue: 0,0:17:39.45,0:17:40.45,Main,Geto,0000,0000,0000,,Mahito.
+Dialogue: 0,0:17:40.45,0:17:45.68,Main,Geto,0000,0000,0000,,Pacts forged with others are very different \Nfrom pacts placed upon oneself.
+Dialogue: 0,0:17:46.16,0:17:50.17,Main,Geto,0000,0000,0000,,The first aspect of that is the \Nuncertain nature of the penalty.
+Dialogue: 0,0:17:50.86,0:17:53.71,Main,Geto,0000,0000,0000,,If you break a pact with yourself, \Nwhatever you gained,
+Dialogue: 0,0:17:53.71,0:17:57.88,Main,Geto,0000,0000,0000,,the improvement to your own ability is lost,
+Dialogue: 0,0:17:57.88,0:17:59.84,Main,Geto,0000,0000,0000,,but this time, you can't break it.
+Dialogue: 0,0:17:59.84,0:18:01.55,Main,Geto,0000,0000,0000,,If you break this pact,
+Dialogue: 0,0:18:01.55,0:18:05.92,Main,Geto,0000,0000,0000,,then we have no idea when or \Nwhat kind of disaster will befall us.
+Dialogue: 0,0:18:06.30,0:18:07.99,Main,Mahito,0000,0000,0000,,Yeah, yeah.
+Dialogue: 0,0:18:08.69,0:18:11.61,Main,Mahito,0000,0000,0000,,You're lower than a scumbag, so be grateful.
+Dialogue: 0,0:18:13.90,0:18:15.44,Main,Mahito,0000,0000,0000,,Idle Transfiguration.
+Dialogue: 0,0:18:46.68,0:18:48.60,Main,Mahito,0000,0000,0000,,No fun at all.
+Dialogue: 0,0:18:48.60,0:18:50.27,Main,Mahito,0000,0000,0000,,Celebrate a bit more.
+Dialogue: 0,0:18:52.42,0:18:55.23,Main,Muta,0000,0000,0000,,I'll do that after I'm finished here.
+Dialogue: 0,0:18:56.85,0:18:58.40,Main,Mahito,0000,0000,0000,,I suppose that's fair.
+Dialogue: 0,0:18:59.24,0:19:01.77,Main,Mahito,0000,0000,0000,,All right, shall we get started?
+Dialogue: 0,0:19:11.18,0:19:12.25,Main,Geto,0000,0000,0000,,Want my help?
+Dialogue: 0,0:19:12.25,0:19:14.88,Main,Mahito,0000,0000,0000,,Don't you dare. He's my toy.
+Dialogue: 0,0:19:44.62,0:19:46.33,Main,Mahito,0000,0000,0000,,He escaped?
+Dialogue: 0,0:19:47.20,0:19:50.41,Main,Mahito,0000,0000,0000,,Well, it's not like {\i1}we{\i0} need to kill him.
+Dialogue: 0,0:19:50.87,0:19:52.58,Main,Mahito,0000,0000,0000,,How boring.
+Dialogue: 0,0:19:53.09,0:19:56.54,Main,Mahito,0000,0000,0000,,I wanted to have a match, \Nnot go hunting, you know.
+Dialogue: 0,0:20:13.30,0:20:15.19,Main,Mahito,0000,0000,0000,,That's more like it!
+Dialogue: 0,0:20:20.01,0:20:22.99,Sign_Basic,Screen,0000,0000,0000,,{\pos(320,294)\bord3\shad0\c&H000000&\3c&HFFFFFF&\fnTimes New Roman\b1\fs20}Ultimate Mechamaru, Mode: Absolute\N“Armored Puppet Ultimate Mechamaru Prototype 0”
+Dialogue: 0,0:20:23.33,0:20:26.07,Main,Mahito,0000,0000,0000,,So you've been making \Nsomething like this in secret?
+Dialogue: 0,0:20:26.07,0:20:29.10,Main,Mahito,0000,0000,0000,,Guess you weren't a shut-in just for show.
+Dialogue: 0,0:20:29.56,0:20:31.16,Italics,Mahito,0000,0000,0000,,He's inside it, right?
+Dialogue: 0,0:20:31.16,0:20:33.62,Italics,Mahito,0000,0000,0000,,He wouldn't want me to touch him, after all.
+Dialogue: 0,0:20:33.92,0:20:35.46,Italics,Mahito,0000,0000,0000,,The cockpit...
+Dialogue: 0,0:20:35.96,0:20:37.88,Italics,Mahito,0000,0000,0000,,The seat of his soul...
+Dialogue: 0,0:20:38.21,0:20:39.46,Italics,Mahito,0000,0000,0000,,is the head!
+Dialogue: 0,0:20:39.46,0:20:41.05,Italics,SystemVoice,0000,0000,0000,,Expansion rate normal.
+Dialogue: 0,0:20:41.05,0:20:43.01,Italics,SystemVoice,0000,0000,0000,,Perception feedback severed.
+Dialogue: 0,0:20:43.01,0:20:45.47,Main,Muta,0000,0000,0000,,Tsk. They lowered a veil.
+Dialogue: 0,0:20:45.47,0:20:46.89,Main,Muta,0000,0000,0000,,Must be Geto.
+Dialogue: 0,0:20:47.72,0:20:49.64,Main,Muta,0000,0000,0000,,It's not just attempting to trap me inside.
+Dialogue: 0,0:20:50.06,0:20:52.02,Main,Muta,0000,0000,0000,,It's cutting off signal, too.
+Dialogue: 0,0:20:53.10,0:20:56.02,Main,Muta,0000,0000,0000,,This won't be as easy as \Nit was for Satoru Gojo.
+Dialogue: 0,0:20:56.27,0:21:00.15,Italics,Muta,0000,0000,0000,,That's right. My victory \Ncondition is Satoru Gojo.
+Dialogue: 0,0:21:00.65,0:21:04.36,Italics,Muta,0000,0000,0000,,I have to use any means necessary \Nto get in contact with Satoru Gojo,
+Dialogue: 0,0:21:04.36,0:21:06.03,Italics,Muta,0000,0000,0000,,and tell him about the Shibuya plot.
+Dialogue: 0,0:21:06.70,0:21:08.49,Italics,Muta,0000,0000,0000,,Then I'll have him protect me.
+Dialogue: 0,0:21:08.87,0:21:12.12,Italics,Muta,0000,0000,0000,,But even if I want to focus on Geto, \Nthe one who lowered this veil,
+Dialogue: 0,0:21:12.45,0:21:14.75,Italics,Muta,0000,0000,0000,,Mahito, is too dangerous to ignore.
+Dialogue: 0,0:21:15.08,0:21:17.29,Italics,Muta,0000,0000,0000,,I'll have to exorcise him first.
+Dialogue: 0,0:21:19.84,0:21:22.21,Italics,Geto,0000,0000,0000,,Go ahead, don't mind me.
+Dialogue: 0,0:21:23.71,0:21:25.47,Italics,Muta,0000,0000,0000,,I'm still at a disadvantage.
+Dialogue: 0,0:21:25.47,0:21:28.34,Italics,Muta,0000,0000,0000,,But I have a chance to win.
+Dialogue: 0,0:21:34.70,0:21:36.56,Italics,Muta,0000,0000,0000,,I've seen it all.
+Dialogue: 0,0:21:37.73,0:21:41.98,Italics,Muta,0000,0000,0000,,I have all the time I was bound. All the \Ncursed energy I gained from that time.
+Dialogue: 0,0:21:42.82,0:21:44.49,Italics,Muta,0000,0000,0000,,I won't hold anything back.
+Dialogue: 0,0:21:48.49,0:21:51.49,Sign_Basic,Counter,0000,0000,0000,,{\fad(225,0)\an8\c&HF3FDF7&\3c&H54DCCD&\blur1\shad0}17 years 1 month 29 days
+Dialogue: 0,0:21:51.49,0:21:52.49,Sign_Basic,Counter,0000,0000,0000,,{\an8\c&H0500E4&\3c&H050707&\blur1\shad0}16 Years
+Dialogue: 0,0:21:52.49,0:21:54.60,Main,Muta,0000,0000,0000,,Charge, one year!
+Dialogue: 0,0:21:54.60,0:21:57.29,Main,Muta,0000,0000,0000,,Burn him, Mechamaru!
+Dialogue: 0,0:22:00.25,0:22:02.75,Main,Muta,0000,0000,0000,,Ultra Cannon!
+Dialogue: 0,0:23:40.65,0:23:43.86,Main,Miwa,0000,0000,0000,,I decided I'd never tell anyone about \Nthe things I truly want to keep secret
+Dialogue: 0,0:23:43.86,0:23:46.23,Main,Miwa,0000,0000,0000,,after I wrote what type of \Nboy I like in my profile book
+Dialogue: 0,0:23:46.23,0:23:48.56,Main,Miwa,0000,0000,0000,,back in grade school \Nand had everyone find out!
+Dialogue: 0,0:23:48.56,0:23:50.32,Main,Miwa,0000,0000,0000,,Next time, "Evening Festival"!
+Dialogue: 0,0:23:48.78,0:23:54.99,Next_Ep_Title,Screen,0000,0000,0000,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}Evening Festival
+Dialogue: 0,0:23:50.32,0:23:51.42,Main,Mai,0000,0000,0000,,What did you write?
+Dialogue: 0,0:23:51.42,0:23:52.65,Main,Miwa,0000,0000,0000,,Mittermeyer.
+Dialogue: 0,0:23:52.65,0:23:54.54,Main,Mai,0000,0000,0000,,He does seem like he'd be fast.
+

@@ -1,0 +1,391 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,56,&H00000000,&H000000FF,&H00B7BD80,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H28FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0028,0050,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+Style: sign_7796_80_Tokyo,Times New Roman,30,&H00030303,&H000000FF,&H00E0E5E4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0273,0273,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:20.01,0:01:23.81,Show_Title,,0000,0000,0000,,{\fad(1398,1)\c&H0F0D09&\3c&HB7BD80&\t(1236,1817,1 \3c&H85A2A4&)\t(1819,2945,1 \3c&H95DED9&)}JUJUTSU KAISEN
+Dialogue: 0,0:01:30.26,0:01:32.00,Flashback,Mai,0000,0000,0000,,{\an8}Maki?
+Dialogue: 0,0:01:31.48,0:01:38.49,Ep_Title_Shadow,Screen,0000,0000,0000,,{\fad(528,518)\q2\fscx91\pos(610,310)}Episode 17: Kyoto Sister School Exchange Event - Group Battle 3 -
+Dialogue: 0,0:01:31.48,0:01:38.49,Ep_Title,Screen,0000,0000,0000,,{\fad(528,518)\q2\fscx91\pos(610,310)}Episode 17: Kyoto Sister School Exchange Event - Group Battle 3 -
+Dialogue: 0,0:01:32.00,0:01:34.57,Flashback,Mai,0000,0000,0000,,{\an8}She's just a weakling.
+Dialogue: 0,0:01:34.57,0:01:36.36,Flashback,Mai,0000,0000,0000,,{\an8}She can't even see curses.
+Dialogue: 0,0:01:36.36,0:01:38.91,Flashback,Mai,0000,0000,0000,,{\an8}She's just a normal person \Nswinging around cursed tools.
+Dialogue: 0,0:01:39.26,0:01:41.04,Flashback,Mai,0000,0000,0000,,She's forever a fourth-grade.
+Dialogue: 0,0:01:41.44,0:01:44.71,Flashback,Mai,0000,0000,0000,,Why is she even a jujutsu sorcerer at all?
+Dialogue: 0,0:01:45.14,0:01:46.98,Flashback,Utahime,0000,0000,0000,,Break's over.
+Dialogue: 0,0:01:46.98,0:01:48.59,Flashback,Mai,0000,0000,0000,,Okay.
+Dialogue: 0,0:01:48.59,0:01:49.71,Flashback_Italics,Miwa,0000,0000,0000,,I see.
+Dialogue: 0,0:01:50.74,0:01:52.18,Flashback_Italics,Miwa,0000,0000,0000,,That's a relief.
+Dialogue: 0,0:01:53.15,0:01:54.26,Italics,Miwa,0000,0000,0000,,Stupid Mai!
+Dialogue: 0,0:01:54.64,0:01:57.80,Italics,Miwa,0000,0000,0000,,This woman is incredibly strong!
+Dialogue: 0,0:01:58.58,0:02:01.42,Italics,Miwa,0000,0000,0000,,She's using a longer weapon, \Nso I'd like to close the distance,
+Dialogue: 0,0:02:01.42,0:02:03.46,Italics,Miwa,0000,0000,0000,,but it's all I can do \Nto dodge and parry her!
+Dialogue: 0,0:02:03.46,0:02:05.36,Italics,Miwa,0000,0000,0000,,If she were using the blade,
+Dialogue: 0,0:02:06.25,0:02:08.69,Italics,Miwa,0000,0000,0000,,I would've died twice!
+Dialogue: 0,0:02:08.69,0:02:10.41,Italics,Miwa,0000,0000,0000,,She's only fourth-grade?!
+Dialogue: 0,0:02:11.21,0:02:14.46,Italics,Miwa,0000,0000,0000,,She could easily defeat \Nsecond-grade cursed spirits!
+Dialogue: 0,0:02:16.12,0:02:21.21,Italics,Miwa,0000,0000,0000,,And how is she able to swing such a long sword \Nin this forest with so much stuff in the way?!
+Dialogue: 0,0:02:41.68,0:02:46.17,Italics,,0000,0000,0000,,New Shadow Style: Simple Domain!
+Dialogue: 0,0:02:47.72,0:02:51.39,Italics,,0000,0000,0000,,This allows me to attack anything that \Nenters the 2.21-meter radius of my domain
+Dialogue: 0,0:02:51.39,0:02:53.34,Italics,,0000,0000,0000,,on full-auto reflex.
+Dialogue: 0,0:02:53.88,0:02:57.66,Italics,,0000,0000,0000,,It's released if my feet move from \Nthe point they're at when it's activated.
+Dialogue: 0,0:02:58.38,0:02:59.40,Italics,,0000,0000,0000,,On top of that,
+Dialogue: 0,0:02:59.40,0:03:02.02,Italics,,0000,0000,0000,,my Quick Draw is specialized \Nagainst enemies attacking head-on.
+Dialogue: 0,0:03:02.02,0:03:05.43,Italics,,0000,0000,0000,,It's the fastest technique of the \NNew Shadow School, wrapping my blade
+Dialogue: 0,0:03:05.83,0:03:08.30,Italics,,0000,0000,0000,,in cursed energy while it's in \Nthe sheath to accelerate it.
+Dialogue: 0,0:03:08.30,0:03:10.56,Italics,,0000,0000,0000,,But don't think this will settle the match.
+Dialogue: 0,0:03:10.56,0:03:12.96,Italics,,0000,0000,0000,,Focus my full strength \Non creating an opening first.
+Dialogue: 0,0:03:12.96,0:03:14.42,Italics,Maki,0000,0000,0000,,Iaijutsu, huh?
+Dialogue: 0,0:03:14.42,0:03:16.68,Italics,Maki,0000,0000,0000,,Looks like she has some trick, too.
+Dialogue: 0,0:03:17.00,0:03:18.87,Italics,Maki,0000,0000,0000,,But there's a difference in our reach.
+Dialogue: 0,0:03:18.87,0:03:22.13,Italics,Maki,0000,0000,0000,,Rather than hit me, she likely wants to knock \Naway my cursed tool and create an opening.
+Dialogue: 0,0:03:23.80,0:03:25.76,Main,Maki,0000,0000,0000,,In which case...
+Dialogue: 0,0:03:26.35,0:03:27.30,Italics,Miwa,0000,0000,0000,,She broke it?!
+Dialogue: 0,0:03:27.30,0:03:29.44,Italics,Miwa,0000,0000,0000,,She's throwing away her \Nreach advantage now?!
+Dialogue: 0,0:03:31.24,0:03:31.90,Italics,Miwa,0000,0000,0000,,She threw it?!
+Dialogue: 0,0:03:33.77,0:03:34.48,Italics,Miwa,0000,0000,0000,,A hidden weapon?!
+Dialogue: 0,0:03:34.48,0:03:35.36,Italics,Miwa,0000,0000,0000,,Her intuition's sharp!
+Dialogue: 0,0:03:35.36,0:03:37.37,Italics,Miwa,0000,0000,0000,,She's trying to close the gap with a decoy!
+Dialogue: 0,0:03:41.51,0:03:42.79,Italics,Miwa,0000,0000,0000,,My legs moved!
+Dialogue: 0,0:03:43.15,0:03:46.83,Italics,Miwa,0000,0000,0000,,But that's fine. I'll pull back and \Ndraw her in just close enough, then—
+Dialogue: 0,0:03:50.14,0:03:52.44,Italics,Miwa,0000,0000,0000,,Aikidou?! What a clever woman!
+Dialogue: 0,0:03:53.94,0:03:54.84,Main,Miwa,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:55.66,0:03:57.92,Main,Maki,0000,0000,0000,,Nice sword you've got here.
+Dialogue: 0,0:03:58.56,0:04:00.25,Main,Miwa,0000,0000,0000,,Sword-stealing?
+Dialogue: 0,0:04:00.65,0:04:01.93,Main,Miwa,0000,0000,0000,,Give it back?
+Dialogue: 0,0:04:07.50,0:04:09.52,Main,Mei Mei,0000,0000,0000,,What an interesting girl.
+Dialogue: 0,0:04:09.52,0:04:12.97,Main,Mei Mei,0000,0000,0000,,You should promote her \Nto second-grade already.
+Dialogue: 0,0:04:12.97,0:04:15.40,Main,Gojou,0000,0000,0000,,I feel the same way,
+Dialogue: 0,0:04:15.40,0:04:17.82,Main,Gojou,0000,0000,0000,,but the Zenin clan keeps getting in the way.
+Dialogue: 0,0:04:17.82,0:04:21.02,Main,Gojou,0000,0000,0000,,They should just change their \Nposition and accept her already.
+Dialogue: 0,0:04:22.55,0:04:26.10,Main,Mei Mei,0000,0000,0000,,I just can't understand such \Nrestraints, aside from money.
+Dialogue: 0,0:04:26.10,0:04:28.20,Main,Gojou,0000,0000,0000,,I see you're just as miserly as ever.
+Dialogue: 0,0:04:28.20,0:04:32.54,Main,Gojou,0000,0000,0000,,More importantly, the footage showing \Nthe area around Yuuji keeps cutting out a lot.
+Dialogue: 0,0:04:32.54,0:04:34.86,Main,Mei Mei,0000,0000,0000,,Animals are fickle.
+Dialogue: 0,0:04:34.86,0:04:37.29,Main,Mei Mei,0000,0000,0000,,Sharing my senses with them is tiring, too.
+Dialogue: 0,0:04:37.29,0:04:39.59,Main,Gojou,0000,0000,0000,,Huh? Is that true?
+Dialogue: 0,0:04:39.59,0:04:42.17,Main,Gojou,0000,0000,0000,,Let's be blunt. Which side \Nare you on, Mei-san?
+Dialogue: 0,0:04:42.17,0:04:43.48,Main,Mei Mei,0000,0000,0000,,Which side?
+Dialogue: 0,0:04:43.48,0:04:45.63,Main,Mei Mei,0000,0000,0000,,I'm on money's side.
+Dialogue: 0,0:04:45.63,0:04:48.44,Main,Mei Mei,0000,0000,0000,,There's no value to anything \Nthat can't be traded for money.
+Dialogue: 0,0:04:48.44,0:04:51.53,Main,Mei Mei,0000,0000,0000,,You can't make money out of it, after all.
+Dialogue: 0,0:04:51.88,0:04:54.01,Main,Gojou,0000,0000,0000,,Just how much have you saved up?
+Dialogue: 0,0:04:55.05,0:04:58.19,Italics,Gojou,0000,0000,0000,,I don't know what he's planning,
+Dialogue: 0,0:04:58.19,0:05:02.28,Italics,Gojou,0000,0000,0000,,but it won't be that easy to \Ndeal with Yuuji anymore.
+Dialogue: 0,0:05:03.12,0:05:06.57,Main,Gojou,0000,0000,0000,,Oh, they're moving.
+Dialogue: 0,0:05:07.99,0:05:12.03,Main,Ijichi,0000,0000,0000,,All the cursed spirits released \Ninto the area have charms on them,
+Dialogue: 0,0:05:12.03,0:05:14.30,Main,Ijichi,0000,0000,0000,,and when the cursed spirit disappears,
+Dialogue: 0,0:05:13.37,0:05:14.29,Main,Screen,0000,0000,0000,,{\fad(50,268)\an8\fs40\fnTimes New Roman\b1\c&H05050B&\bord0\shad0\t(\fscx400\blur3)}Curse
+Dialogue: 0,0:05:15.38,0:05:19.38,Main,Ijichi,0000,0000,0000,,the corresponding charm here, in the viewing \Narea, is extinguished simultaneously.
+Dialogue: 0,0:05:20.16,0:05:22.72,Main,Ijichi,0000,0000,0000,,Each charm is extinguished \Ndifferently according to
+Dialogue: 0,0:05:22.72,0:05:25.13,Main,Ijichi,0000,0000,0000,,the cursed energy registered beforehand.
+Dialogue: 0,0:05:25.13,0:05:28.72,sign_7796_80_Tokyo,Screen,0000,0000,0000,,{\t(2364,2404,1 \c&HE1E5F0&\3c&H0200E2&)}Tokyo
+Dialogue: 0,0:05:25.58,0:05:28.73,Main,Ijichi,0000,0000,0000,,When the Tokyo school \Nexorcises one, they burn red.
+Dialogue: 0,0:05:28.72,0:05:32.43,sign_7796_80_Tokyo,Screen,0000,0000,0000,,{\t(1819,1859,1 \c&HFAF3ED&\3c&H88653B&)}Kyoto
+Dialogue: 0,0:05:28.73,0:05:32.43,Main,Ijichi,0000,0000,0000,,When the Kyoto school \Nexorcises one, they burn blue.
+Dialogue: 0,0:05:32.84,0:05:38.40,Main,Ijichi,0000,0000,0000,,Since Maki-san is in the match, any extinguished \Nby unregistered responses burn red, as well.
+Dialogue: 0,0:05:35.93,0:05:38.40,sign_7796_80_Tokyo,Screen,0000,0000,0000,,{\fad(280,1)\3c&H241FD8&\blur2}Tokyo
+Dialogue: 0,0:05:38.92,0:05:40.87,Main,Gojou,0000,0000,0000,,One to one, huh?
+Dialogue: 0,0:05:40.87,0:05:43.59,Main,Gojou,0000,0000,0000,,No one's paying enough attention to the game.
+Dialogue: 0,0:05:43.59,0:05:46.52,Main,Utahime,0000,0000,0000,,Why can't they just get along?
+Dialogue: 0,0:05:46.52,0:05:48.40,Main,Gojou,0000,0000,0000,,They must take after you, Utahime.
+Dialogue: 0,0:05:48.40,0:05:49.99,Main,Utahime,0000,0000,0000,,You're the only one I have an issue with!
+Dialogue: 0,0:05:49.99,0:05:52.84,Main,Ijichi,0000,0000,0000,,By the way, Panda-kun's \Nthe one who exorcised it.
+Dialogue: 0,0:05:53.04,0:05:54.75,Main,Panda,0000,0000,0000,,Lucky!
+Dialogue: 0,0:05:54.99,0:05:57.58,Main,Kugisaki,0000,0000,0000,,Get down here, you damn witch!
+Dialogue: 0,0:05:58.08,0:06:01.00,Main,Momo,0000,0000,0000,,I've come down a few times already.
+Dialogue: 0,0:06:01.00,0:06:04.97,Main,Momo,0000,0000,0000,,Hurry up and try to catch me, first-year!
+Dialogue: 0,0:06:07.20,0:06:09.54,Italics,Kugisaki,0000,0000,0000,,Her cursed energy wind \Nis strong enough to lift me!
+Dialogue: 0,0:06:09.54,0:06:11.92,Italics,Kugisaki,0000,0000,0000,,It hurts like hell when pebbles \Nand branches get caught in it, too!
+Dialogue: 0,0:06:11.92,0:06:14.34,Italics,Kugisaki,0000,0000,0000,,If I drop my guard, it'll gouge my flesh!
+Dialogue: 0,0:06:22.56,0:06:25.03,Main,Kugisaki,0000,0000,0000,,How dare you hurt my precious face?
+Dialogue: 0,0:06:25.30,0:06:28.27,Main,Momo,0000,0000,0000,,A scar on the face is a \Nbadge of honor for a man.
+Dialogue: 0,0:06:29.32,0:06:32.16,Main,Momo,0000,0000,0000,,Though it's only a flaw on a woman.
+Dialogue: 0,0:06:32.16,0:06:33.40,Main,Kugisaki,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:33.79,0:06:36.99,Main,Momo,0000,0000,0000,,You think being a jujutsu sorcerer \Nis all about strength, don't you?
+Dialogue: 0,0:06:36.99,0:06:38.75,Main,Kugisaki,0000,0000,0000,,And it actually is.
+Dialogue: 0,0:06:38.75,0:06:41.20,Main,Momo,0000,0000,0000,,That's only for men.
+Dialogue: 0,0:06:41.20,0:06:42.04,Main,Kugisaki,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:42.04,0:06:47.14,Main,Momo,0000,0000,0000,,Even if they are strong, women have to \Nbe cute, or they'll be undervalued.
+Dialogue: 0,0:06:47.14,0:06:51.64,Main,Momo,0000,0000,0000,,Of course, even if they're cute, they'll still \Nbe undervalued if they're not also strong.
+Dialogue: 0,0:06:52.08,0:06:53.39,Main,Momo,0000,0000,0000,,Do you get it?
+Dialogue: 0,0:06:53.76,0:06:57.89,Main,Momo,0000,0000,0000,,They don't demand strength \Nfrom female jujutsu sorcerers.
+Dialogue: 0,0:06:57.89,0:06:59.44,Main,Momo,0000,0000,0000,,They demand perfection!
+Dialogue: 0,0:07:00.43,0:07:01.84,Main,Momo,0000,0000,0000,,And on top of that,
+Dialogue: 0,0:07:01.84,0:07:05.27,Main,Momo,0000,0000,0000,,Mai-chan is also fighting against \Neven more outrageous demands.
+Dialogue: 0,0:07:06.07,0:07:10.46,Main,Kugisaki,0000,0000,0000,,I get that you're a pain in the ass!
+Dialogue: 0,0:07:16.82,0:07:20.88,Italics,Momo,0000,0000,0000,,She's only a first-year, and she's \Nalready used to fighting?
+Dialogue: 0,0:07:21.71,0:07:24.80,Italics,Momo,0000,0000,0000,,She's still going strong, \Nno matter how often I blast her.
+Dialogue: 0,0:07:25.47,0:07:30.59,Main,Kugisaki,0000,0000,0000,,I'm used to getting knocked around.
+Dialogue: 0,0:07:31.15,0:07:34.21,Italics,Momo,0000,0000,0000,,If I up my output any further, \NI might kill her.
+Dialogue: 0,0:07:34.60,0:07:37.13,Italics,Kugisaki,0000,0000,0000,,No, that's just an excuse.
+Dialogue: 0,0:07:37.13,0:07:39.61,Italics,Kugisaki,0000,0000,0000,,The main reason I can't attack her
+Dialogue: 0,0:07:39.61,0:07:41.00,Italics,Kugisaki,0000,0000,0000,,is Inumaki-kun.
+Dialogue: 0,0:07:42.33,0:07:44.16,Flashback,Kamo,0000,0000,0000,,Cursed speech uses the power of words.
+Dialogue: 0,0:07:44.16,0:07:46.24,Flashback,Kamo,0000,0000,0000,,It imbues cursed energy into sound,
+Dialogue: 0,0:07:46.24,0:07:50.11,Flashback,Kamo,0000,0000,0000,,so you just have to protect your brain \Nand your ears with cursed energy.
+Dialogue: 0,0:07:50.48,0:07:54.11,Flashback,Kamo,0000,0000,0000,,Cursed speech is a technique specialized \Nfor use against cursed spirits.
+Dialogue: 0,0:07:54.11,0:07:59.75,Flashback,Kamo,0000,0000,0000,,Like I said before, it's nothing for a sorcerer \Nto be afraid of if you know it's coming.
+Dialogue: 0,0:08:00.15,0:08:05.25,Italics,Momo,0000,0000,0000,,Conversely, if you don't know whether or not \Nit's coming, you're constantly distracted.
+Dialogue: 0,0:08:05.97,0:08:09.68,Italics,Momo,0000,0000,0000,,I'm not used to protecting the inside \Nof my head in the first place...
+Dialogue: 0,0:08:10.06,0:08:12.97,Italics,Momo,0000,0000,0000,,He's such a nuisance whether he's here or not!
+Dialogue: 0,0:08:13.78,0:08:16.56,Main,Kugisaki,0000,0000,0000,,All done with your lecture?!
+Dialogue: 0,0:08:16.56,0:08:22.01,Main,Momo,0000,0000,0000,,Perfection is easy compared \Nto what's demanded of Mai-chan!
+Dialogue: 0,0:08:22.55,0:08:27.84,Main,Momo,0000,0000,0000,,She's from the Zenin clan, one of the three major clans of elite jujutsu sorcerers.
+Dialogue: 0,0:08:27.84,0:08:30.70,Main,Momo,0000,0000,0000,,Perfection is expected \Nas a matter of course there.
+Dialogue: 0,0:08:30.70,0:08:34.33,Main,Momo,0000,0000,0000,,"Inherit the Zenin clan's \Nhereditary technique."
+Dialogue: 0,0:08:34.33,0:08:38.65,Main,Momo,0000,0000,0000,,Any who don't meet that demand start their sorcerer lives as failures.
+Dialogue: 0,0:08:38.92,0:08:43.92,Main,Momo,0000,0000,0000,,Among those, women aren't even \Nallowed to stand at the starting line.
+Dialogue: 0,0:08:44.41,0:08:47.82,Main,Momo,0000,0000,0000,,Without the Zenin clan lineage, \Nthey're not considered jujutsu sorcerers.
+Dialogue: 0,0:08:47.82,0:08:51.14,Main,Momo,0000,0000,0000,,And if they're not jujutsu sorcerers, \Nthey're not considered people.
+Dialogue: 0,0:08:51.14,0:08:56.51,Main,Momo,0000,0000,0000,,She's lived her entire life with such scorn \Nin a family without a shred of affection.
+Dialogue: 0,0:08:57.56,0:09:02.14,Main,Momo,0000,0000,0000,,Can you imagine how much \NMai-chan and others suffered
+Dialogue: 0,0:09:02.14,0:09:05.27,Main,,0000,0000,0000,,just to obtain what we \Nenjoy as a matter of course?
+Dialogue: 0,0:09:07.22,0:09:10.82,Main,Momo,0000,0000,0000,,Why don't you try thinking that \Nover with that brain of yours
+Dialogue: 0,0:09:11.70,0:09:13.48,Main,Momo,0000,0000,0000,,that confuses curses for friends?
+Dialogue: 0,0:09:15.71,0:09:17.43,Main,Kugisaki,0000,0000,0000,,Shut up.
+Dialogue: 0,0:09:17.43,0:09:20.52,Main,Kugisaki,0000,0000,0000,,You think misfortune is \Na free pass to do anything?
+Dialogue: 0,0:09:21.28,0:09:22.86,Main,Kugisaki,0000,0000,0000,,What, then?
+Dialogue: 0,0:09:22.86,0:09:26.46,Main,Kugisaki,0000,0000,0000,,You're satisfied with those who are blessed \Ngetting trash-talked behind their backs?
+Dialogue: 0,0:09:26.79,0:09:29.08,Main,Kugisaki,0000,0000,0000,,That's how Saori-chan...
+Dialogue: 0,0:09:30.72,0:09:34.64,Main,Kugisaki,0000,0000,0000,,I can't stand her,\Nregardless of her upbringing,
+Dialogue: 0,0:09:35.23,0:09:39.34,Main,Kugisaki,0000,0000,0000,,and I love Maki-san, who \Nendured the same upbringing.
+Dialogue: 0,0:09:39.86,0:09:44.56,Main,Kugisaki,0000,0000,0000,,Have you all even bothered to \Nthink about what kind of person
+Dialogue: 0,0:09:44.87,0:09:47.43,Main,Kugisaki,0000,0000,0000,,the idiot you're trying to curse is?
+Dialogue: 0,0:09:48.10,0:09:51.53,Main,Kugisaki,0000,0000,0000,,What makes us obligated to meet such \Nperfection or such absurd demands?
+Dialogue: 0,0:09:52.65,0:09:55.82,Main,Kugisaki,0000,0000,0000,,Is your entire life just a job?!
+Dialogue: 0,0:09:55.82,0:09:59.08,Italics,,0000,0000,0000,,Straw Doll Technique: Hairpin!
+Dialogue: 0,0:10:04.53,0:10:08.42,Italics,Momo,0000,0000,0000,,This is why she kept shooting those \Nnails that didn't land any hits?!
+Dialogue: 0,0:10:09.93,0:10:11.05,Main,Momo,0000,0000,0000,,Tsk!
+Dialogue: 0,0:10:25.19,0:10:28.52,Main,Momo,0000,0000,0000,,You might have brought me down, \Nbut you still won't reach me!
+Dialogue: 0,0:10:30.98,0:10:33.36,Main,Kugisaki,0000,0000,0000,,No, I reached you.
+Dialogue: 0,0:10:33.95,0:10:36.15,Main,Kugisaki,0000,0000,0000,,This is plenty!
+Dialogue: 0,0:10:36.15,0:10:37.90,Italics,Momo,0000,0000,0000,,My broom's bristle?
+Dialogue: 0,0:10:37.90,0:10:39.40,Italics,Momo,0000,0000,0000,,She grazed it just now?
+Dialogue: 0,0:10:40.00,0:10:43.37,Main,Kugisaki,0000,0000,0000,,I don't give a damn about \N"men" this and "women" that!
+Dialogue: 0,0:10:43.45,0:10:46.38,Main,Kugisaki,0000,0000,0000,,You can keep that shit to yourselves!
+Dialogue: 0,0:10:46.38,0:10:49.84,Main,Kugisaki,0000,0000,0000,,I love myself when I'm pretty \Nand all dressed up!
+Dialogue: 0,0:10:49.84,0:10:52.92,Main,Kugisaki,0000,0000,0000,,And I love myself when I'm being strong!
+Dialogue: 0,0:10:53.55,0:10:54.64,Main,Kugisaki,0000,0000,0000,,I am...
+Dialogue: 0,0:10:56.06,0:10:58.48,Main,Kugisaki,0000,0000,0000,,Kugisaki Nobara!
+Dialogue: 0,0:11:01.27,0:11:03.35,Italics,Momo,0000,0000,0000,,I can't control my broom!
+Dialogue: 0,0:11:03.35,0:11:06.47,Italics,Kugisaki,0000,0000,0000,,If I hit her with my hammer, \NI might kill her.
+Dialogue: 0,0:11:08.14,0:11:09.15,Italics,Kugisaki,0000,0000,0000,,So...
+Dialogue: 0,0:11:11.02,0:11:12.11,Italics,Momo,0000,0000,0000,,A squeaky hammer?!
+Dialogue: 0,0:11:21.42,0:11:23.20,Main,Kugisaki,0000,0000,0000,,One more time!
+Dialogue: 0,0:11:31.02,0:11:33.59,Main,Mai,0000,0000,0000,,Just barely within effective range.
+Dialogue: 0,0:11:34.15,0:11:38.01,Main,Mai,0000,0000,0000,,I'm so glad it hit.
+Dialogue: 0,0:11:40.22,0:11:43.01,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:11:45.68,0:11:48.01,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:11:48.95,0:11:50.97,Main,Mai,0000,0000,0000,,Hello? Momo?
+Dialogue: 0,0:11:51.95,0:11:54.20,Main,Mai,0000,0000,0000,,Don't worry, it was a rubber bullet.
+Dialogue: 0,0:11:54.20,0:11:58.41,Main,Mai,0000,0000,0000,,More importantly, that light \Nwas Ultimate Cannon, right?
+Dialogue: 0,0:11:58.41,0:12:01.28,Main,Mai,0000,0000,0000,,But I can't get in touch with Mechamaru.
+Dialogue: 0,0:12:01.28,0:12:04.25,Italics,Mai,0000,0000,0000,,If he was cornered enough to use such \Na powerful technique, and now this,
+Dialogue: 0,0:12:04.25,0:12:05.91,Italics,Mai,0000,0000,0000,,he most likely lost.
+Dialogue: 0,0:12:05.91,0:12:08.32,Italics,Mai,0000,0000,0000,,Panda will likely be returning.
+Dialogue: 0,0:12:08.32,0:12:10.95,Italics,Mai,0000,0000,0000,,You should leave that spot and \Nsupport everyone from the air.
+Dialogue: 0,0:12:11.68,0:12:13.69,Italics,Mai,0000,0000,0000,,We're all in trouble without you.
+Dialogue: 0,0:12:14.20,0:12:15.07,Main,Momo,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:15.90,0:12:18.51,Italics,Momo,0000,0000,0000,,Mai-chan, I...
+Dialogue: 0,0:12:19.11,0:12:21.85,Main,Mai,0000,0000,0000,,It's all right, Momo. I know.
+Dialogue: 0,0:12:22.50,0:12:23.92,Italics,Momo,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:23.92,0:12:28.02,Main,Maki,0000,0000,0000,,What, not going to call your friends?
+Dialogue: 0,0:12:28.02,0:12:31.81,Main,Maki,0000,0000,0000,,I don't mind going two-on-one.
+Dialogue: 0,0:12:31.81,0:12:35.74,Main,Mai,0000,0000,0000,,There are many ways to enjoy this, right?
+Dialogue: 0,0:12:36.34,0:12:38.53,Main,Mai,0000,0000,0000,,I could have everyone beat you together,
+Dialogue: 0,0:12:38.53,0:12:40.71,Main,Mai,0000,0000,0000,,but I'd like to enjoy you...
+Dialogue: 0,0:12:41.65,0:12:42.78,Main,Mai,0000,0000,0000,,by myself.
+Dialogue: 0,0:12:43.04,0:12:46.74,Main,Maki,0000,0000,0000,,Call me "Onee-chan," little sister.
+Dialogue: 0,0:12:47.87,0:12:50.63,Flashback,Kugisaki,0000,0000,0000,,What do you think of Maki-san?
+Dialogue: 0,0:12:50.63,0:12:53.71,Flashback,Yuuji,0000,0000,0000,,She'll be mad no matter how I answer!
+Dialogue: 0,0:12:54.15,0:12:57.25,Flashback,Yuuji,0000,0000,0000,,I-I think she's a wonderful woman.
+Dialogue: 0,0:12:57.25,0:13:00.27,Flashback,Kugisaki,0000,0000,0000,,Huh? I'm talking about as a sorcerer.
+Dialogue: 0,0:13:00.27,0:13:02.88,Flashback,Yuuji,0000,0000,0000,,Oh, that? Good...
+Dialogue: 0,0:13:04.54,0:13:08.60,Flashback,Yuuji,0000,0000,0000,,Honestly, I still don't know \Nthat much about jujutsu,
+Dialogue: 0,0:13:09.11,0:13:11.40,Flashback,Yuuji,0000,0000,0000,,but she's really strong in a fight.
+Dialogue: 0,0:13:11.40,0:13:14.76,Flashback,Yuuji,0000,0000,0000,,Maybe it's her balance? The way \Nshe walks is scary on its own.
+Dialogue: 0,0:13:15.11,0:13:17.16,Flashback,Kugisaki,0000,0000,0000,,Maki-san's a fourth-grade.
+Dialogue: 0,0:13:17.16,0:13:19.06,Flashback,Yuuji,0000,0000,0000,,Huh? Seriously?
+Dialogue: 0,0:13:19.54,0:13:22.42,Flashback,Kugisaki,0000,0000,0000,,Her family's an annoying clan of sorcerers,
+Dialogue: 0,0:13:23.45,0:13:25.67,Flashback,Kugisaki,0000,0000,0000,,so after she kind of \Nemancipated herself and left,
+Dialogue: 0,0:13:25.67,0:13:28.00,Flashback,Kugisaki,0000,0000,0000,,they've been interfering with her promotion.
+Dialogue: 0,0:13:28.49,0:13:32.96,Flashback,Yuuji,0000,0000,0000,,I thought families of jujutsu sorcerers \Nwelcomed powerful sorcerers.
+Dialogue: 0,0:13:32.96,0:13:36.03,Flashback,Kugisaki,0000,0000,0000,,They won't acknowledge what \Nthey've already rejected,
+Dialogue: 0,0:13:36.03,0:13:37.50,Flashback,Kugisaki,0000,0000,0000,,because they're idiots.
+Dialogue: 0,0:13:37.85,0:13:40.62,Flashback,Panda,0000,0000,0000,,But if she performs well \Nat the exchange event
+Dialogue: 0,0:13:40.62,0:13:43.44,Flashback,Panda,0000,0000,0000,,and her name gets spread around,
+Dialogue: 0,0:13:43.44,0:13:46.38,Flashback,Panda,0000,0000,0000,,it'll be harder for them to harass her like that.
+Dialogue: 0,0:13:46.67,0:13:50.01,Flashback,Kugisaki,0000,0000,0000,,So let's start by winning the group battle!
+Dialogue: 0,0:13:50.01,0:13:52.97,Flashback,Kugisaki,0000,0000,0000,,Fight like you're going to die again!
+Dialogue: 0,0:13:52.97,0:13:54.10,Flashback,Yuuji,0000,0000,0000,,Sure.
+Dialogue: 0,0:13:54.10,0:13:55.81,Flashback,Maki,0000,0000,0000,,I can hear you.
+Dialogue: 0,0:13:57.20,0:13:58.34,Flashback,Maki,0000,0000,0000,,Jeez.
+Dialogue: 0,0:13:59.39,0:14:03.07,Italics,Maki,0000,0000,0000,,I shouldn't let myself get distracted.
+Dialogue: 0,0:14:03.53,0:14:06.38,Main,Mai,0000,0000,0000,,What are you smiling about?!
+Dialogue: 0,0:14:14.60,0:14:17.45,Main,Mai,0000,0000,0000,,So what if she hides out of sight?
+Dialogue: 0,0:14:17.95,0:14:21.04,Main,Mai,0000,0000,0000,,Is she an idiot, trying \Nto gain distance from me?
+Dialogue: 0,0:14:22.14,0:14:22.63,Main,Mai,0000,0000,0000,,Tsk!
+Dialogue: 0,0:14:22.63,0:14:24.00,Italics,Mai,0000,0000,0000,,From below?!
+Dialogue: 0,0:14:28.23,0:14:29.26,Italics,Mai,0000,0000,0000,,I already knew.
+Dialogue: 0,0:14:29.98,0:14:33.77,Italics,Mai,0000,0000,0000,,Maki has a talent I don't.
+Dialogue: 0,0:14:34.69,0:14:37.97,Flashback,Voice A,0000,0000,0000,,Have you heard about Ougi's daughters?
+Dialogue: 0,0:14:37.97,0:14:41.49,Flashback,Voice A,0000,0000,0000,,One can't even see curses, \Nlet alone use techniques.
+Dialogue: 0,0:14:41.49,0:14:43.77,Flashback,Voice B,0000,0000,0000,,Twins are a sign of ill fortune.
+Dialogue: 0,0:14:44.22,0:14:46.87,Flashback,Voice C,0000,0000,0000,,This might actually be a good thing.
+Dialogue: 0,0:14:46.87,0:14:49.93,Flashback,Voice C,0000,0000,0000,,I couldn't bear to see \Nan eldest son as a servant.
+Dialogue: 0,0:14:54.92,0:14:55.88,Flashback,Maki,0000,0000,0000,,Mai.
+Dialogue: 0,0:14:56.46,0:14:59.37,Flashback,Maki,0000,0000,0000,,What's the matter? Hurry up.
+Dialogue: 0,0:15:01.28,0:15:02.67,Flashback,Mai,0000,0000,0000,,No.
+Dialogue: 0,0:15:02.67,0:15:04.19,Flashback,Maki,0000,0000,0000,,What is it?
+Dialogue: 0,0:15:04.19,0:15:06.77,Flashback,Maki,0000,0000,0000,,We'll get in trouble if we're late again.
+Dialogue: 0,0:15:08.24,0:15:09.38,Flashback,Mai,0000,0000,0000,,They're there.
+Dialogue: 0,0:15:12.17,0:15:13.40,Flashback,Maki,0000,0000,0000,,Again?
+Dialogue: 0,0:15:15.89,0:15:18.27,Flashback,Maki,0000,0000,0000,,All right, fine.
+Dialogue: 0,0:15:18.27,0:15:23.28,Flashback,Spirit,0000,0000,0000,,{\an8}Are you ho... ho...
+Dialogue: 0,0:15:20.08,0:15:20.77,Flashback,Maki,0000,0000,0000,,Come on.
+Dialogue: 0,0:15:21.20,0:15:22.78,Flashback,Maki,0000,0000,0000,,Close your eyes.
+Dialogue: 0,0:15:22.78,0:15:23.28,Flashback,Mai,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:28.52,0:15:31.32,Flashback,Maki,0000,0000,0000,,If you can't see them, \Nit's the same as if they're not there.
+Dialogue: 0,0:15:33.03,0:15:36.28,Italics,Mai,0000,0000,0000,,You've always acted like you had no fear
+Dialogue: 0,0:15:37.06,0:15:40.06,Italics,Mai,0000,0000,0000,,and plowed forward toward your future.
+Dialogue: 0,0:15:40.06,0:15:42.53,Italics,Mai,0000,0000,0000,,I hated you.
+Dialogue: 0,0:15:44.29,0:15:47.13,Flashback,Naobito,0000,0000,0000,,You're leaving the clan, Maki?
+Dialogue: 0,0:15:47.60,0:15:49.92,Flashback,Maki,0000,0000,0000,,You have plenty of servants, right?
+Dialogue: 0,0:15:49.92,0:15:54.60,Flashback,Maki,0000,0000,0000,,Don't worry, though. I'll come \Nback someday, Clan Leader.
+Dialogue: 0,0:15:56.61,0:15:57.94,Flashback,Naobito,0000,0000,0000,,Why would you return?
+Dialogue: 0,0:15:58.64,0:16:01.98,Flashback,Maki,0000,0000,0000,,Because I'm going to be \Nthe head of the Zenin clan!
+Dialogue: 0,0:16:05.25,0:16:09.40,Flashback,Naobito,0000,0000,0000,,Then I'll put you through \Nordeals befitting that!
+Dialogue: 0,0:16:11.05,0:16:12.70,Flashback,Maki,0000,0000,0000,,Do as you please.
+Dialogue: 0,0:16:13.49,0:16:15.29,Flashback,Naobito,0000,0000,0000,,And Mai, as well.
+Dialogue: 0,0:16:18.38,0:16:20.36,Flashback,Maki,0000,0000,0000,,She has nothing to do with this.
+Dialogue: 0,0:16:29.70,0:16:30.96,Flashback,Mai,0000,0000,0000,,Liar.
+Dialogue: 0,0:16:33.96,0:16:35.52,Italics,Mai,0000,0000,0000,,I hate you!
+Dialogue: 0,0:17:22.54,0:17:24.07,Italics,Maki,0000,0000,0000,,You fired six shots!
+Dialogue: 0,0:17:24.07,0:17:25.27,Italics,Maki,0000,0000,0000,,I won't let you reload!
+Dialogue: 0,0:17:25.27,0:17:30.24,Italics,Mai,0000,0000,0000,,I hate you!
+Dialogue: 0,0:17:31.74,0:17:32.73,Italics,Mai,0000,0000,0000,,Which is why
+Dialogue: 0,0:17:35.39,0:17:38.67,Italics,Mai,0000,0000,0000,,I never told you about my first love
+Dialogue: 0,0:17:39.62,0:17:43.10,Italics,Mai,0000,0000,0000,,or my technique!
+Dialogue: 0,0:17:44.59,0:17:50.09,Italics,Utahime,0000,0000,0000,,"Construction" uses one's cursed energy \Nto create matter from nothing.
+Dialogue: 0,0:17:50.55,0:17:52.38,Italics,Utahime,0000,0000,0000,,It differs from the manifestation
+Dialogue: 0,0:17:52.38,0:17:56.00,Italics,Utahime,0000,0000,0000,,of an innate domain within the \Nbarrier of a domain expansion.
+Dialogue: 0,0:17:56.00,0:18:02.08,Italics,Utahime,0000,0000,0000,,The matter produced by Construction doesn't \Ndisappear when the cursed technique ends.
+Dialogue: 0,0:18:02.95,0:18:05.98,Italics,Utahime,0000,0000,0000,,Because of that, it consumes \Na lot of cursed energy
+Dialogue: 0,0:18:05.98,0:18:07.97,Italics,Utahime,0000,0000,0000,,and puts a heavy strain on the body.
+Dialogue: 0,0:18:08.72,0:18:12.14,Italics,Utahime,0000,0000,0000,,Creating one bullet a day is Mai's maximum.
+Dialogue: 0,0:18:13.74,0:18:18.13,Italics,Utahime,0000,0000,0000,,That's why she uses a revolver to create \Nan obvious bluff of her bullet count.
+Dialogue: 0,0:18:19.39,0:18:22.16,Italics,Mai,0000,0000,0000,,I win.
+Dialogue: 0,0:18:28.40,0:18:31.31,Italics,Mai,0000,0000,0000,,She caught the bullet?
+Dialogue: 0,0:18:32.11,0:18:33.55,Main,,0000,0000,0000,,Ow...
+Dialogue: 0,0:18:34.80,0:18:37.60,Main,Maki,0000,0000,0000,,I shouldn't touch that with my bare hands.
+Dialogue: 0,0:18:42.29,0:18:45.31,Italics,Mai,0000,0000,0000,,Maki has a talent I don't.
+Dialogue: 0,0:18:46.49,0:18:48.21,Italics,Mai,0000,0000,0000,,She's similar to Mechamaru,
+Dialogue: 0,0:18:48.21,0:18:50.51,Italics,Mai,0000,0000,0000,,with a Heavenly Pact that's \Nsomewhat the opposite.
+Dialogue: 0,0:18:51.38,0:18:54.44,Italics,Mai,0000,0000,0000,,Normally, she would have been \Nborn with a cursed technique.
+Dialogue: 0,0:18:55.10,0:18:56.60,Italics,Mai,0000,0000,0000,,But in exchange for that,
+Dialogue: 0,0:18:56.60,0:18:59.88,Italics,Mai,0000,0000,0000,,she was granted superhuman \Nphysical abilities.
+Dialogue: 0,0:19:00.92,0:19:03.08,Italics,Mai,0000,0000,0000,,The Zenin clan wouldn't acknowledge it.
+Dialogue: 0,0:19:04.17,0:19:08.78,Italics,Mai,0000,0000,0000,,That talent I lacked.
+Dialogue: 0,0:19:09.90,0:19:13.05,Main,Maki,0000,0000,0000,,I think we can call this settled?
+Dialogue: 0,0:19:15.47,0:19:18.30,Main,Mai,0000,0000,0000,,Why did you leave the clan?
+Dialogue: 0,0:19:18.30,0:19:21.16,Main,Maki,0000,0000,0000,,Huh? Do I have to spell it out?
+Dialogue: 0,0:19:21.16,0:19:23.05,Main,Maki,0000,0000,0000,,You joined Jujutsu Tech \Nyourself, didn't you?
+Dialogue: 0,0:19:23.05,0:19:24.06,Main,Mai,0000,0000,0000,,I...
+Dialogue: 0,0:19:24.63,0:19:27.34,Main,Mai,0000,0000,0000,,never wanted to be a jujutsu sorcerer!
+Dialogue: 0,0:19:28.51,0:19:30.17,Main,Mai,0000,0000,0000,,It's your fault!
+Dialogue: 0,0:19:30.17,0:19:31.93,Main,Mai,0000,0000,0000,,Because you tried so hard to be one,
+Dialogue: 0,0:19:31.93,0:19:34.19,Main,Mai,0000,0000,0000,,I was forced to put forth effort, too!
+Dialogue: 0,0:19:34.96,0:19:39.11,Main,Mai,0000,0000,0000,,I'm so sick of trying so hard, \Nfacing pain and scary things!
+Dialogue: 0,0:19:39.84,0:19:42.92,Main,Mai,0000,0000,0000,,What was so bad about being \Nordered around back home?!
+Dialogue: 0,0:19:42.92,0:19:46.94,Main,Mai,0000,0000,0000,,We could have just done a few \Nchores and lived a normal life!
+Dialogue: 0,0:19:49.92,0:19:54.48,Main,Mai,0000,0000,0000,,Why wouldn't you stay at \Nthe bottom with me?
+Dialogue: 0,0:20:01.14,0:20:06.28,Main,Maki,0000,0000,0000,,Because I would have \Nhated myself if I did that.
+Dialogue: 0,0:20:06.82,0:20:08.24,Main,Maki,0000,0000,0000,,That's the only reason.
+Dialogue: 0,0:20:09.98,0:20:11.17,Main,Maki,0000,0000,0000,,Sorry.
+Dialogue: 0,0:20:15.24,0:20:18.52,Flashback,Mai,0000,0000,0000,,Onee-chan, don't let go!
+Dialogue: 0,0:20:18.52,0:20:20.14,Flashback,Maki,0000,0000,0000,,I won't let go.
+Dialogue: 0,0:20:20.14,0:20:21.40,Flashback,Mai,0000,0000,0000,,Never?
+Dialogue: 0,0:20:21.90,0:20:23.73,Flashback,Maki,0000,0000,0000,,Jeez, give it a rest.
+Dialogue: 0,0:20:23.73,0:20:26.90,Flashback,Mai,0000,0000,0000,,Never leave me behind.
+Dialogue: 0,0:20:26.90,0:20:28.48,Flashback,Maki,0000,0000,0000,,Of course I won't.
+Dialogue: 0,0:20:28.96,0:20:30.54,Flashback,Maki,0000,0000,0000,,We're sisters.
+Dialogue: 0,0:20:36.02,0:20:37.63,Main,Mai,0000,0000,0000,,You liar.
+Dialogue: 0,0:20:38.62,0:20:40.64,Main,Mai,0000,0000,0000,,I hate you.
+Dialogue: 0,0:20:40.51,0:20:45.01,Ep_Title,Screen,0000,0000,0000,,{\fad(521,1)\an1\fscx90\pos(34,250)\c&HFFFFFF&}Kyoto Sister School Exchange Event Group Battle\NZenin Mai\NKugisaki Nobara
+Dialogue: 0,0:20:40.51,0:20:45.01,Ep_Title,Screen,0000,0000,0000,,{\fad(521,1)\an4\fscx90\c&HFFFFFF&\pos(184,226)}— Retired
+Dialogue: 0,0:22:15.02,0:22:17.52,sign_32727_342_Juju_Stroll,Screen&Three,0000,0000,0000,,Juju Stroll
+Dialogue: 0,0:22:24.71,0:22:27.02,Italics,Miwa,0000,0000,0000,,I'm hungry.
+Dialogue: 0,0:22:27.60,0:22:32.79,Italics,Miwa,0000,0000,0000,,If I recall, the edamame I had left over \Nfrom lunch was in the fridge...
+Dialogue: 0,0:22:45.40,0:22:46.43,Main,Momo,0000,0000,0000,,Sorry.
+Dialogue: 0,0:22:46.43,0:22:49.92,Main,Miwa,0000,0000,0000,,Please look at least a little guilty!
+Dialogue: 0,0:22:49.93,0:22:56.68,Main,Cup,0000,0000,0000,,{\fnArial\b1\fs14\c&H62CEDC&\3c&HA2774A&\shad0\pos(320.667,270.667)}Seafood
+Dialogue: 0,0:22:50.48,0:22:52.81,Main,Momo,0000,0000,0000,,Here, have this and forgive me.
+Dialogue: 0,0:22:52.81,0:22:56.68,Main,Miwa,0000,0000,0000,,No, I'm not interested \Nin late-night cup ramen.
+Dialogue: 0,0:22:58.31,0:23:00.69,Main,,0000,0000,0000,,{\fad(275,1)\pos(164,190)\fs16\c&H383733&\3c&HAEA5A6&\bord1\shad0\frz20.54}Hot\NChili\NPepper
+Dialogue: 0,0:22:58.31,0:23:00.69,Main,,0000,0000,0000,,{\fad(275,1)\c&H9A85E7&\3c&HF9F6FE&\fnTimes New Roman\shad0\fs18\b1\pos(548.667,185.333)\frz314.5}Milk
+Dialogue: 0,0:22:59.46,0:23:00.69,Main,Momo,0000,0000,0000,,How about this?!
+Dialogue: 0,0:23:00.69,0:23:03.69,Main,Momo&Screen,0000,0000,0000,,{\pos(139,60)\fs20\b1\an8\c&HBBEC62&\3c&HFEFEFE&\shad0}Nishimiya-style
+Dialogue: 0,0:23:00.69,0:23:03.69,Main,Momo&Screen,0000,0000,0000,,{\fnArial\b1\pos(310,148)\frz4.48\fs30\c&H8066EC&\3c&HFFFFFF&\4c&HD6A3D7&\shad2}Seafood Cup Ramen
+Dialogue: 0,0:23:00.69,0:23:03.69,Main,Momo&Screen,0000,0000,0000,,{\fnArial\b1\frz4.48\fs30\c&HECE464&\3c&HFFFFFF&\4c&H7F85B0&\shad2\pos(396,289.333)}Ar{\c&HE29CD4&}ra{\c&HBA6FE6&}n{\c&H53A2EB&}ge{\c&H9EDE7B&}me{\c&H80FDFC&}nt!!
+Dialogue: 0,0:23:00.88,0:23:03.69,Main,Momo&Screen,0000,0000,0000,,Nishimiya-style Seafood Cup Ramen arrangement!
+Dialogue: 0,0:23:04.37,0:23:07.15,Main,Momo&Screen,0000,0000,0000,,One: use scissors to chop up hot chili peppers
+Dialogue: 0,0:23:07.15,0:23:08.84,Main,Momo&Screen,0000,0000,0000,,into the seafood cup ramen!
+Dialogue: 0,0:23:09.73,0:23:13.23,Main,Momo&Screen,0000,0000,0000,,Two: fill the container halfway with milk.
+Dialogue: 0,0:23:13.23,0:23:16.41,Main,Momo&Screen,0000,0000,0000,,Three: add hot water up to the line inside!
+Dialogue: 0,0:23:16.41,0:23:19.64,Main,Momo&Screen,0000,0000,0000,,Since we're using milk, \Nmake sure the water's boiling hot!
+Dialogue: 0,0:23:24.25,0:23:25.96,Italics,Miwa,0000,0000,0000,,I-It's good!
+Dialogue: 0,0:23:26.68,0:23:28.65,Main,Miwa,0000,0000,0000,,This is really good!
+Dialogue: 0,0:23:28.65,0:23:29.82,Main,Momo,0000,0000,0000,,Right?
+Dialogue: 0,0:23:29.82,0:23:31.96,Main,Mai,0000,0000,0000,,Maybe I'll try it next time, too.
+Dialogue: 0,0:23:31.96,0:23:35.93,Main,Miwa,0000,0000,0000,,You could've just eaten \Nthis if it's so good.
+Dialogue: 0,0:23:37.66,0:23:42.30,Main,Momo,0000,0000,0000,,Well, you still pay for late-night \Ncup ramen the next day.
+Dialogue: 0,0:23:42.30,0:23:44.39,Main,Mai,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:23:51.53,0:23:54.99,Next_Ep_Title,Screen,0000,0000,0000,,{\fad(1026,1)}Episode 18:\NSage

@@ -1,0 +1,445 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,60,&H000F0063,&H000000FF,&H002F1595,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,60,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H28FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0028,0050,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.50,0:00:03.47,Main,Mahito,0000,0000,0000,,Was that it, grade 1 sorcerer?
+Dialogue: 0,0:00:03.47,0:00:07.08,Main,Mahito,0000,0000,0000,,You did well running around, \Nbut you're at your limit, aren't you?
+Dialogue: 0,0:00:13.05,0:00:14.94,Main,Nanami,0000,0000,0000,,Unfortunately...
+Dialogue: 0,0:00:16.75,0:00:17.61,Italics,Mahito,0000,0000,0000,,What?
+Dialogue: 0,0:00:18.46,0:00:20.71,Italics,Mahito,0000,0000,0000,,His cursed energy's increasing?
+Dialogue: 0,0:00:21.40,0:00:25.21,Main,Nanami,0000,0000,0000,,I'm going into overtime now.
+Dialogue: 0,0:00:26.88,0:00:28.69,Italics,Mahito,0000,0000,0000,,Overtime?
+Dialogue: 0,0:00:29.47,0:00:31.20,Italics,Mahito,0000,0000,0000,,A time-based pact!
+Dialogue: 0,0:00:31.71,0:00:35.02,Italics,Mahito,0000,0000,0000,,He was limiting his own cursed \Nenergy this whole time?!
+Dialogue: 0,0:00:36.30,0:00:37.71,Main,Mahito,0000,0000,0000,,Fun!
+Dialogue: 0,0:00:39.91,0:00:44.00,Main,Nanami,0000,0000,0000,,My cursed technique draws \Na line along the target and,
+Dialogue: 0,0:00:44.00,0:00:48.98,Main,Nanami,0000,0000,0000,,using a ratio of 7:3, \Ncreates a weak point at that location.
+Dialogue: 0,0:00:49.73,0:00:53.99,Main,Nanami,0000,0000,0000,,I can create this line along more than \Njust their full height or wingspan.
+Dialogue: 0,0:00:54.37,0:01:01.60,Main,Nanami,0000,0000,0000,,I can designate it along various parts, such \Nas the head, upper arm, forearm, and so on.
+Dialogue: 0,0:01:02.57,0:01:07.63,Main,Nanami,0000,0000,0000,,This cursed technique can affect more \Nthan just living creatures, as well.
+Dialogue: 0,0:01:09.20,0:01:11.04,Italics,Mahito,0000,0000,0000,,He's revealing his technique?
+Dialogue: 0,0:01:11.85,0:01:13.01,Main,Mahito,0000,0000,0000,,You're serious, huh?
+Dialogue: 0,0:01:15.99,0:01:20.99,Italics,Nanami,0000,0000,0000,,At present, the first way I can \Nsee to exorcise this cursed spirit
+Dialogue: 0,0:01:17.36,0:01:18.84,Main,Mahito,0000,0000,0000,,{\an8}Playing tag again?
+Dialogue: 0,0:01:21.32,0:01:25.19,Italics,Nanami,0000,0000,0000,,is to continue damaging him until \Nhe runs out of cursed energy.
+Dialogue: 0,0:01:25.19,0:01:27.99,Italics,Nanami,0000,0000,0000,,However, that's not very realistic for me.
+Dialogue: 0,0:01:29.00,0:01:33.64,Italics,Nanami,0000,0000,0000,,The second way is to reduce him \Nto smithereens with a single blow.
+Dialogue: 0,0:01:34.74,0:01:36.89,Main,,0000,0000,0000,,Ratio Technique: Collapse!
+Dialogue: 0,0:01:38.80,0:01:40.38,Italics,Mahito,0000,0000,0000,,What power!
+Dialogue: 0,0:01:40.38,0:01:43.27,Italics,Mahito,0000,0000,0000,,No, more importantly,\Ncursed energy raced through it?
+Dialogue: 0,0:01:43.27,0:01:44.33,Italics,Mahito,0000,0000,0000,,No way!
+Dialogue: 0,0:01:45.33,0:01:49.13,Italics,Mahito,0000,0000,0000,,It's an expanded technique that imbues \Nthe destroyed target with cursed energy!
+Dialogue: 0,0:01:49.41,0:01:52.05,Italics,Mahito,0000,0000,0000,,It's a wide-range attack \Nthat puts him at risk, too.
+Dialogue: 0,0:01:52.05,0:01:53.76,Italics,Mahito,0000,0000,0000,,So I guess...
+Dialogue: 0,0:01:54.96,0:01:56.63,Main,Mahito,0000,0000,0000,,I should dodge this one.
+Dialogue: 0,0:01:59.92,0:02:01.52,Main,Nanami,0000,0000,0000,,I'm retreating for now.
+Dialogue: 0,0:02:02.83,0:02:05.61,Main,Nanami,0000,0000,0000,,You should get that leg healed quickly.
+Dialogue: 0,0:02:06.37,0:02:10.05,Main,Nanami,0000,0000,0000,,If we both manage to survive, let's meet again.
+Dialogue: 0,0:02:27.04,0:02:34.00,Show_Title,,0000,0000,0000,,{\blur1\fad(1191,431)\t(1192,1316,1 \c&H0700D7&\3c&H6659E4&)\t(1317,1941,1 \c&H172918&\3c&H8CCECB&)\t(6197,6529,1 \c&H0F0063&\3c&H222781&)}JUJUTSU KAISEN
+Dialogue: 0,0:03:48.49,0:03:55.49,Ep_Title_Shadow,Screen,0000,0000,0000,,{\fad(529,562)\fs22\pos(612,310)}Episode 11:  Narrow-minded
+Dialogue: 0,0:03:48.49,0:03:55.49,Ep_Title,Screen,0000,0000,0000,,{\fad(529,562)\fs22\pos(612,310)}Episode 11:  Narrow-minded
+Dialogue: 0,0:03:50.19,0:03:50.95,Main,Yuuji,0000,0000,0000,,{\an8}Huh?
+Dialogue: 0,0:03:51.45,0:03:52.90,Main,Yuuji,0000,0000,0000,,{\an8}Did the ground just shake?
+Dialogue: 0,0:03:52.90,0:03:55.98,Main,Junpei,0000,0000,0000,,{\an8}Yeah, it did. Intensity 2 or so?
+Dialogue: 0,0:03:59.85,0:04:01.76,Main,Yuuji,0000,0000,0000,,Nope, Ijichi-san's not answering.
+Dialogue: 0,0:04:03.29,0:04:05.78,Main,Yuuji,0000,0000,0000,,Should I really be the one to ask this?
+Dialogue: 0,0:04:06.40,0:04:10.16,Italics,Yuuji,0000,0000,0000,,Is it really okay to just ask him \Nstraight-up about that, though?
+Dialogue: 0,0:04:10.16,0:04:13.84,Italics,Yuuji,0000,0000,0000,,How much am I allowed to reveal \Nabout Jujutsu Tech, anyway?
+Dialogue: 0,0:04:15.65,0:04:19.61,Main,Screen,0000,0000,0000,,{\pos(311.333,139.333)\fs15\b1\bord0\shad0\c&HA3A6AA&\frz11}Ijichi Kiyotaka
+Dialogue: 0,0:04:15.76,0:04:19.36,Italics,Phone,0000,0000,0000,,{\an8}The number you have dialed \Ncannot be reached at this time.
+Dialogue: 0,0:04:18.40,0:04:19.36,Main,Yuuji,0000,0000,0000,,Just answer!
+Dialogue: 0,0:04:22.77,0:04:24.00,Main,Ijichi,0000,0000,0000,,Wait!
+Dialogue: 0,0:04:24.23,0:04:27.17,Main,Yuuji,0000,0000,0000,,I wonder what's going on.
+Dialogue: 0,0:04:28.27,0:04:30.00,Flashback,Junpei,0000,0000,0000,,A button with a swirl?
+Dialogue: 0,0:04:30.56,0:04:31.35,Flashback,Mahito,0000,0000,0000,,Yup.
+Dialogue: 0,0:04:31.77,0:04:36.77,Flashback,Mahito,0000,0000,0000,,If you meet a student wearing this button \Nwith a swirl, you should be friendly to them.
+Dialogue: 0,0:04:37.23,0:04:39.27,Flashback,Mahito,0000,0000,0000,,Because they're jujutsu sorcerers.
+Dialogue: 0,0:04:39.27,0:04:41.31,Flashback,Mahito,0000,0000,0000,,I'm sure you'll get along with them.
+Dialogue: 0,0:04:42.80,0:04:46.74,Italics,Junpei,0000,0000,0000,,But the jujutsu sorcerers are \NMahito-san's enemies, right?
+Dialogue: 0,0:04:48.12,0:04:50.06,Main,Yuuji,0000,0000,0000,,Forget it! I'm just going to ask!
+Dialogue: 0,0:04:50.64,0:04:54.10,Main,Yuuji,0000,0000,0000,,Listen, there were people who died at \Nthe theater you went to the other day.
+Dialogue: 0,0:04:54.85,0:04:56.36,Main,Yuuji,0000,0000,0000,,Did you happen to see anything?
+Dialogue: 0,0:04:56.66,0:04:58.36,Main,Yuuji,0000,0000,0000,,A creepy thing like this, maybe?
+Dialogue: 0,0:04:58.94,0:05:00.98,Main,Junpei,0000,0000,0000,,No, I didn't.
+Dialogue: 0,0:05:01.27,0:05:04.73,Main,Junpei,0000,0000,0000,,I've only recently started \Nseeing those clearly.
+Dialogue: 0,0:05:05.09,0:05:06.60,Main,Yuuji,0000,0000,0000,,I see.
+Dialogue: 0,0:05:07.01,0:05:09.11,Main,Yuuji,0000,0000,0000,,Well, I've got nothing else to ask, then!
+Dialogue: 0,0:05:09.11,0:05:10.28,Main,Junpei,0000,0000,0000,,Huh? That's it?
+Dialogue: 0,0:05:10.97,0:05:15.04,Main,Yuuji,0000,0000,0000,,But could you still wait until my... \NI guess he's like my boss... shows up?
+Dialogue: 0,0:05:15.41,0:05:16.37,Main,Junpei,0000,0000,0000,,Yeah, sure.
+Dialogue: 0,0:05:16.74,0:05:17.67,Main,Yuuji,0000,0000,0000,,Thanks!
+Dialogue: 0,0:05:18.95,0:05:19.69,Main,Yuuji,0000,0000,0000,,Hey.
+Dialogue: 0,0:05:19.69,0:05:21.76,Main,Yuuji,0000,0000,0000,,What were you watching at that theater?
+Dialogue: 0,0:05:21.76,0:05:25.50,Main,Junpei,0000,0000,0000,,It was a repeat screening of an old movie. \NI doubt you'd know it if I told you.
+Dialogue: 0,0:05:25.50,0:05:27.18,Main,Yuuji,0000,0000,0000,,Come on, just tell me.
+Dialogue: 0,0:05:28.14,0:05:29.97,Main,Poster,0000,0000,0000,,{\b1\c&H291A9B&\shad0\bord0\blur.5\frz17.66\pos(287.333,63.333)}Human Earthworm
+Dialogue: 0,0:05:28.45,0:05:29.99,Main,Junpei,0000,0000,0000,,{\i1}Human Earthworm 3{\i0}.
+Dialogue: 0,0:05:29.99,0:05:31.78,Main,Yuuji,0000,0000,0000,,That one was super boring!
+Dialogue: 0,0:05:31.78,0:05:34.40,Main,Yuuji,0000,0000,0000,,I got hit so many times over that.
+Dialogue: 0,0:05:34.74,0:05:36.12,Main,Junpei,0000,0000,0000,,You got hit?
+Dialogue: 0,0:05:36.69,0:05:38.19,Main,Junpei,0000,0000,0000,,Honestly, it was.
+Dialogue: 0,0:05:38.72,0:05:40.91,Main,Junpei,0000,0000,0000,,But it's just a splatter film,
+Dialogue: 0,0:05:40.91,0:05:44.90,Main,Junpei,0000,0000,0000,,so maybe it's our own fault for \Nasking it to deliver more than that.
+Dialogue: 0,0:05:45.27,0:05:46.22,Main,Junpei,0000,0000,0000,,But 2 was—
+Dialogue: 0,0:05:46.22,0:05:48.32,Main,Yuuji,0000,0000,0000,,But 2 was pretty good, right?
+Dialogue: 0,0:05:49.87,0:05:51.70,Main,Junpei,0000,0000,0000,,Yeah! Yeah, it was!
+Dialogue: 0,0:05:51.89,0:05:54.06,Main,Junpei,0000,0000,0000,,It was the only one with \Na way you could enjoy it!
+Dialogue: 0,0:05:54.06,0:05:55.36,Main,Yuuji,0000,0000,0000,,{\an8}Huh? A way to enjoy it?
+Dialogue: 0,0:05:55.20,0:05:56.36,Main,Getou,0000,0000,0000,,Bingo.
+Dialogue: 0,0:05:55.36,0:05:58.64,Main,Junpei,0000,0000,0000,,{\an8}Have you seen the entire series?
+Dialogue: 0,0:06:00.10,0:06:05.49,Main,Junpei,0000,0000,0000,,At first, 2 looks like it wouldn't \Nbe any different from 1 or 3,
+Dialogue: 0,0:06:05.49,0:06:07.27,Main,Junpei,0000,0000,0000,,but it actually captures
+Dialogue: 0,0:06:07.27,0:06:11.19,Main,Junpei,0000,0000,0000,,the changing emotions of the perfectionist \Nwho abandons everything.
+Dialogue: 0,0:06:12.55,0:06:13.55,Italics,MainChar,0000,0000,0000,,Mama...
+Dialogue: 0,0:06:14.72,0:06:17.29,Main,Yuuji,0000,0000,0000,,Ah, so that's why I was able to watch 2.
+Dialogue: 0,0:06:17.29,0:06:18.51,Italics,MainChar,0000,0000,0000,,Why?
+Dialogue: 0,0:06:19.20,0:06:22.43,Main,Junpei,0000,0000,0000,,At first, I couldn't understand \Nwhat was good about it,
+Dialogue: 0,0:06:22.43,0:06:24.25,Main,Junpei,0000,0000,0000,,so I made myself watch it three times.
+Dialogue: 0,0:06:24.25,0:06:27.76,Main,Junpei,0000,0000,0000,,It had the most effective gory scenes, \Ntoo, so it wasn't easy to rewatch.
+Dialogue: 0,0:06:28.64,0:06:30.32,Main,Yuuji,0000,0000,0000,,Why'd you go that far?
+Dialogue: 0,0:06:31.76,0:06:34.00,Main,Junpei,0000,0000,0000,,Do you like movies, Itadori-kun?
+Dialogue: 0,0:06:34.00,0:06:37.47,Main,Yuuji,0000,0000,0000,,I've been watching a lot of them \Nlately, for certain reasons.
+Dialogue: 0,0:06:37.82,0:06:40.71,Main,Yuuji,0000,0000,0000,,Though I haven't been seeing them in theaters.
+Dialogue: 0,0:06:40.71,0:06:41.54,Main,Junpei,0000,0000,0000,,What?
+Dialogue: 0,0:06:41.54,0:06:45.61,Main,Junpei,0000,0000,0000,,But the emotional impact of finding \Na good one at the theater is huge.
+Dialogue: 0,0:06:45.61,0:06:47.74,Main,Junpei,0000,0000,0000,,Even if on-demand is more convenient.
+Dialogue: 0,0:06:47.74,0:06:50.22,Main,Yuuji,0000,0000,0000,,When was the last time I saw one in a theater?
+Dialogue: 0,0:06:51.28,0:06:53.39,Main,Yuuji,0000,0000,0000,,Take me with you next time \Nthere's one you're into.
+Dialogue: 0,0:06:53.39,0:06:54.00,Main,Junpei,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:54.73,0:06:56.03,Main,Yuuji,0000,0000,0000,,Oh, need my contact info?
+Dialogue: 0,0:06:57.13,0:06:57.76,Main,Yuuji,0000,0000,0000,,Here.
+Dialogue: 0,0:06:59.96,0:07:03.04,Main,Yuuji,0000,0000,0000,,How do I add friends again?
+Dialogue: 0,0:07:03.04,0:07:04.77,Main,Nagi,0000,0000,0000,,Oh, Junpei?
+Dialogue: 0,0:07:05.76,0:07:06.87,Main,Junpei,0000,0000,0000,,Mom.
+Dialogue: 0,0:07:06.87,0:07:09.31,Main,Nagi,0000,0000,0000,,It's unusual to see you out here.
+Dialogue: 0,0:07:09.31,0:07:10.47,Main,Nagi,0000,0000,0000,,Is this a friend?
+Dialogue: 0,0:07:10.47,0:07:12.36,Main,Junpei,0000,0000,0000,,We just met, actually.
+Dialogue: 0,0:07:12.36,0:07:16.36,Main,Yuuji,0000,0000,0000,,We may have just met, \Nbut I think we can be friends.
+Dialogue: 0,0:07:16.36,0:07:19.48,Main,Nagi,0000,0000,0000,,Really? I hope you get along well, then.
+Dialogue: 0,0:07:20.48,0:07:21.45,Main,Junpei,0000,0000,0000,,Mom!
+Dialogue: 0,0:07:22.38,0:07:23.38,Main,Junpei,0000,0000,0000,,I asked you...
+Dialogue: 0,0:07:25.12,0:07:26.87,Main,Junpei,0000,0000,0000,,to quit smoking.
+Dialogue: 0,0:07:27.51,0:07:29.35,Main,Nagi,0000,0000,0000,,Oh, right, sorry.
+Dialogue: 0,0:07:29.35,0:07:32.23,Main,Nagi,0000,0000,0000,,I did promise not to smoke \Nin front of you anymore.
+Dialogue: 0,0:07:33.87,0:07:35.41,Main,Nagi,0000,0000,0000,,What's your friend's name?
+Dialogue: 0,0:07:35.74,0:07:37.22,Main,Yuuji,0000,0000,0000,,Itadori Yuuji.
+Dialogue: 0,0:07:37.22,0:07:39.50,Main,Yuuji,0000,0000,0000,,The green onion doesn't suit your look.
+Dialogue: 0,0:07:39.50,0:07:40.95,Main,Nagi,0000,0000,0000,,Oh, you can tell?
+Dialogue: 0,0:07:40.95,0:07:43.54,Main,Nagi,0000,0000,0000,,I'm trying to be a woman who doesn't \Nlook good with green onions.
+Dialogue: 0,0:07:43.54,0:07:45.26,Main,Junpei,0000,0000,0000,,What are you even talking about?
+Dialogue: 0,0:07:45.26,0:07:47.95,Main,Nagi,0000,0000,0000,,So, Yuuji-kun, care to join us for dinner?
+Dialogue: 0,0:07:47.95,0:07:50.33,Main,Junpei,0000,0000,0000,,H-Hey! You're just bothering him.
+Dialogue: 0,0:07:50.33,0:07:53.03,Main,Nagi,0000,0000,0000,,Huh? Are you saying my cooking is a nuisance?
+Dialogue: 0,0:07:53.07,0:07:53.53,Main,Flash,0000,0000,0000,,{\fad(225,225)\an8\fnArial\b1\c&H140F10&\3c&HF5F5F3&\4c&H22271E&\bord4\shad3}Cramp
+Dialogue: 0,0:07:54.45,0:07:56.95,Main,Screen,0000,0000,0000,,{\fad(524,1)\an5\pos(88,126.667)\b1\fscy80\c&H202121&\bord1\3c&HF0F1EE&\shad1}R\Nu\Nm\Nb\Nl\Ne
+Dialogue: 0,0:07:57.94,0:08:00.28,Main,Nagi,0000,0000,0000,,Anything you don't like? Any allergies?
+Dialogue: 0,0:08:00.28,0:08:01.15,Main,Yuuji,0000,0000,0000,,Nope!
+Dialogue: 0,0:08:20.10,0:08:23.60,Main,Mahito,0000,0000,0000,,That sorcerer's more reckless than he looks!
+Dialogue: 0,0:08:23.97,0:08:25.87,Main,Getou,0000,0000,0000,,You two went at it quite hard.
+Dialogue: 0,0:08:25.87,0:08:27.08,Main,Mahito,0000,0000,0000,,Getou!
+Dialogue: 0,0:08:27.08,0:08:28.74,Main,Mahito,0000,0000,0000,,That guy was interesting.
+Dialogue: 0,0:08:28.74,0:08:30.52,Main,Mahito,0000,0000,0000,,I learned a lot from him.
+Dialogue: 0,0:08:30.52,0:08:31.27,Main,Getou,0000,0000,0000,,Oh?
+Dialogue: 0,0:08:31.82,0:08:36.52,Main,Mahito,0000,0000,0000,,Even if I'm pulverized, I won't die as \Nlong as I maintain the shape of my soul.
+Dialogue: 0,0:08:36.83,0:08:40.58,Main,Mahito,0000,0000,0000,,Consumption of cursed energy counts \Ntoward supplementation of the self.
+Dialogue: 0,0:08:40.91,0:08:43.52,Main,Mahito,0000,0000,0000,,Also, it looks like there's no risk to me,
+Dialogue: 0,0:08:43.52,0:08:46.10,Main,Mahito,0000,0000,0000,,no matter how much I tweak \Nthe shape of my own soul.
+Dialogue: 0,0:08:46.47,0:08:49.48,Main,Mahito,0000,0000,0000,,Next time, I'll let loose and \Ntry all kinds of things.
+Dialogue: 0,0:08:49.48,0:08:51.26,Main,Mahito,0000,0000,0000,,Getou, get me some clothes.
+Dialogue: 0,0:08:51.75,0:08:52.59,Main,Getou,0000,0000,0000,,Nope.
+Dialogue: 0,0:08:52.99,0:08:54.52,Main,Getou,0000,0000,0000,,What happened to the guy you fought?
+Dialogue: 0,0:08:54.87,0:08:56.18,Main,Mahito,0000,0000,0000,,I don't know.
+Dialogue: 0,0:08:56.18,0:08:59.84,Main,Mahito,0000,0000,0000,,He said he was retreating, but he \Nmight be buried under the rubble.
+Dialogue: 0,0:09:01.26,0:09:04.07,Main,Ijichi,0000,0000,0000,,What? You're at Yoshino Junpei's home?!
+Dialogue: 0,0:09:04.07,0:09:05.40,Main,Ijichi,0000,0000,0000,,That's a bit of a...
+Dialogue: 0,0:09:05.40,0:09:06.60,Italics,Yuji,0000,0000,0000,,Oh, it's fine.
+Dialogue: 0,0:09:07.05,0:09:08.75,Italics,Yuji,0000,0000,0000,,Well, I'm about to have dinner.
+Dialogue: 0,0:09:08.75,0:09:09.81,Main,Ijichi,0000,0000,0000,,Dinner?!
+Dialogue: 0,0:09:10.14,0:09:12.06,Main,Ijichi,0000,0000,0000,,I'll head there at once.
+Dialogue: 0,0:09:12.06,0:09:15.12,Main,Ijichi,0000,0000,0000,,If you sense anything odd, \Nplease run immediately.
+Dialogue: 0,0:09:16.24,0:09:21.07,Italics,Ijichi,0000,0000,0000,,Even if Yoshino Junpei is involved \Nin this incident as a perpetrator,
+Dialogue: 0,0:09:21.41,0:09:25.28,Italics,Ijichi,0000,0000,0000,,I doubt he could quickly kill \NItadori-kun as he is now.
+Dialogue: 0,0:09:26.36,0:09:30.17,Italics,Ijichi,0000,0000,0000,,But still, this is a huge blunder \Non my part as his supervisor.
+Dialogue: 0,0:09:30.17,0:09:32.53,Italics,Ijichi,0000,0000,0000,,As blithe as Gojou-san is, he might not mind,
+Dialogue: 0,0:09:32.53,0:09:35.50,Italics,Ijichi,0000,0000,0000,,but if the adult-of-adults, \NNanami-san, chews me out...
+Dialogue: 0,0:09:36.57,0:09:38.53,Italics,Ijichi,0000,0000,0000,,I'll probably cry!
+Dialogue: 0,0:09:38.85,0:09:40.10,Main,Ijichi,0000,0000,0000,,Hurry up now!
+Dialogue: 0,0:09:40.34,0:09:43.02,Main,Ijichi,0000,0000,0000,,You don't want to cry in front \Nof others at your age, do you?!
+Dialogue: 0,0:09:45.31,0:09:50.31,Main,Phone,0000,0000,0000,,{\fs15\b1\bord0\blur.5\shad0\c&HD6E5F7&\pos(309.334,114)\frz358.1}Nanami Kento
+Dialogue: 0,0:09:46.77,0:09:48.80,Main,Ijichi,0000,0000,0000,,He's calling me earlier than scheduled!
+Dialogue: 0,0:09:48.80,0:09:50.32,Main,Ijichi,0000,0000,0000,,Yeah, he's going to chew me out!
+Dialogue: 0,0:09:50.97,0:09:52.44,Italics,Ijichi,0000,0000,0000,,Hello, I'm sorry.
+Dialogue: 0,0:09:53.77,0:09:57.72,Main,Nanami,0000,0000,0000,,I just sent you my location data. \NPlease come and pick me up.
+Dialogue: 0,0:09:57.72,0:10:02.02,Main,Nanami,0000,0000,0000,,I'm going back to Jujutsu Tech to \Nreceive treatment from Ieiri-san.
+Dialogue: 0,0:10:02.70,0:10:03.79,Italics,Ijichi,0000,0000,0000,,Treatment?
+Dialogue: 0,0:10:03.79,0:10:05.05,Main,Nanami,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:10:05.05,0:10:07.20,Main,Nanami,0000,0000,0000,,It's not an injury that'll kill me.
+Dialogue: 0,0:10:07.44,0:10:08.59,Main,Ijichi,0000,0000,0000,,That's good.
+Dialogue: 0,0:10:09.04,0:10:10.91,Main,Ijichi,0000,0000,0000,,I'll join up with Itadori-kun soon,
+Dialogue: 0,0:10:10.91,0:10:12.37,Main,Ijichi,0000,0000,0000,,then I'll head your way.
+Dialogue: 0,0:10:12.93,0:10:14.56,Italics,Nanami,0000,0000,0000,,He's not with you?
+Dialogue: 0,0:10:15.58,0:10:17.72,Italics,Ijichi,0000,0000,0000,,I'm such an idiot!
+Dialogue: 0,0:10:23.55,0:10:25.79,Flashback,Mahito,0000,0000,0000,,I've practiced a lot...
+Dialogue: 0,0:10:26.84,0:10:29.19,Flashback,Mahito,0000,0000,0000,,You'll make the best test subject.
+Dialogue: 0,0:10:29.80,0:10:31.59,Flashback,Mahito,0000,0000,0000,,Luck's really on my side.
+Dialogue: 0,0:10:34.78,0:10:37.12,Italics,Nanami,0000,0000,0000,,That cursed spirit is a child.
+Dialogue: 0,0:10:37.96,0:10:41.84,Italics,Nanami,0000,0000,0000,,It probably hasn't been very \Nlong since he sprang into being.
+Dialogue: 0,0:10:41.84,0:10:44.99,Italics,Nanami,0000,0000,0000,,He's greedily enjoying his own growth.
+Dialogue: 0,0:10:46.11,0:10:51.28,Italics,Nanami,0000,0000,0000,,The special-grade cursed spirits that Gojou-san \Nfought had mastered domain expansion.
+Dialogue: 0,0:10:51.71,0:10:57.21,Italics,Nanami,0000,0000,0000,,If he managed to survive, it won't be much \Nlonger before he reaches that stage, too.
+Dialogue: 0,0:10:57.87,0:11:01.60,Italics,Nanami,0000,0000,0000,,On top of that, his victim count \Nfar exceeded our expectations.
+Dialogue: 0,0:11:02.02,0:11:04.24,Flashback,Boy,0000,0000,0000,,Help... me!
+Dialogue: 0,0:11:05.38,0:11:07.88,Italics,Nanami,0000,0000,0000,,We need to exorcise him as soon as possible,
+Dialogue: 0,0:11:08.42,0:11:10.94,Italics,Nanami,0000,0000,0000,,before it's too late.
+Dialogue: 0,0:11:16.73,0:11:17.91,Main,Mother,0000,0000,0000,,And then?
+Dialogue: 0,0:11:18.14,0:11:21.12,Main,Yuuji,0000,0000,0000,,So then Takashi-kun says, full of confidence...
+Dialogue: 0,0:11:21.37,0:11:23.67,Flashback,Takashi-kun,0000,0000,0000,,This is the larva of an invasive species!
+Dialogue: 0,0:11:23.67,0:11:25.16,Flashback,Takashi-kun,0000,0000,0000,,It might be poisonous!
+Dialogue: 0,0:11:25.16,0:11:26.63,Flashback,Takashi,0000,0000,0000,,Nobody touch it!
+Dialogue: 0,0:11:26.63,0:11:28.86,Main,Yuuji,0000,0000,0000,,So then I tried picking it up,
+Dialogue: 0,0:11:28.86,0:11:31.12,Main,Yuuji,0000,0000,0000,,and it turned out to be a \Nkonjac noodle from lunch!
+Dialogue: 0,0:11:33.10,0:11:35.85,Main,Nagi,0000,0000,0000,,Wait, konjac? It was a konjac noodle?!
+Dialogue: 0,0:11:35.85,0:11:37.56,Main,Junpei,0000,0000,0000,,Mom, you've had too much to drink.
+Dialogue: 0,0:11:37.56,0:11:38.75,Main,Nagi,0000,0000,0000,,You're funny, Yuuji-kun.
+Dialogue: 0,0:11:38.75,0:11:41.37,Main,Nagi,0000,0000,0000,,Here, do something funny with these!
+Dialogue: 0,0:11:41.37,0:11:43.33,Italics,Junpei,0000,0000,0000,,She's the worst kind of drunk.
+Dialogue: 0,0:11:44.12,0:11:46.56,Main,Yuuji,0000,0000,0000,,Wilson! Wilson!
+Dialogue: 0,0:11:46.56,0:11:48.97,Main,Yuuji,0000,0000,0000,,Forgive me, Wilson!
+Dialogue: 0,0:11:48.21,0:11:50.33,Main,Junpei,0000,0000,0000,,That's from {\i1}Cast Away{\i0}, isn't it?
+Dialogue: 0,0:11:50.33,0:11:51.82,Main,Yuuji,0000,0000,0000,,You got it!
+Dialogue: 0,0:11:51.82,0:11:54.63,Main,Nagi,0000,0000,0000,,I don't get it. Is that a movie reference?
+Dialogue: 0,0:11:54.63,0:11:56.66,Main,Yuuji,0000,0000,0000,,Fire!
+Dialogue: 0,0:12:07.51,0:12:10.50,Main,Yuuji,0000,0000,0000,,Your mom's really nice.
+Dialogue: 0,0:12:12.15,0:12:12.90,Main,Junpei,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:15.24,0:12:16.46,Flashback,Nagi,0000,0000,0000,,School?
+Dialogue: 0,0:12:19.62,0:12:21.96,Flashback,Nagi,0000,0000,0000,,It's okay. You don't have to go.
+Dialogue: 0,0:12:21.96,0:12:22.74,Flashback,Junpei,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:22.74,0:12:27.18,Flashback,Nagi,0000,0000,0000,,Kids your age tend to take \Neverything too seriously.
+Dialogue: 0,0:12:27.58,0:12:30.62,Flashback,Nagi,0000,0000,0000,,School is just a tiny aquarium.
+Dialogue: 0,0:12:32.56,0:12:35.75,Flashback,Nagi,0000,0000,0000,,There's a whole ocean out there, \Nand other aquariums, too.
+Dialogue: 0,0:12:35.75,0:12:37.20,Flashback,Nagi,0000,0000,0000,,Pick the one you want.
+Dialogue: 0,0:12:37.57,0:12:40.39,Flashback,Nagi,0000,0000,0000,,Hey, that was a really cool \Nthing to say, wasn't it?
+Dialogue: 0,0:12:40.71,0:12:43.80,Flashback,Nagi,0000,0000,0000,,What a brilliant saying. Way to go, me!
+Dialogue: 0,0:12:49.15,0:12:51.69,Main,Junpei,0000,0000,0000,,What's your mom like?
+Dialogue: 0,0:12:52.00,0:12:54.61,Main,Yuuji,0000,0000,0000,,Uh, I've never met her.
+Dialogue: 0,0:12:54.61,0:12:57.46,Main,Yuuji,0000,0000,0000,,Though I have a few faint \Nmemories of my father...
+Dialogue: 0,0:12:58.02,0:13:00.21,Main,Yuuji,0000,0000,0000,,But my grandpa was there for me.
+Dialogue: 0,0:13:03.07,0:13:04.64,Main,Yuuji,0000,0000,0000,,Oh, sorry. Got a call.
+Dialogue: 0,0:13:05.47,0:13:07.00,Main,Yuuji,0000,0000,0000,,Hello, Ijichi-san?
+Dialogue: 0,0:13:07.95,0:13:09.44,Main,Yuuji,0000,0000,0000,,Yeah, I'm fine.
+Dialogue: 0,0:13:11.50,0:13:13.50,Main,Yuuji,0000,0000,0000,,But we're about to watch a movie.
+Dialogue: 0,0:13:14.35,0:13:15.17,Main,Yuuji,0000,0000,0000,,Okay.
+Dialogue: 0,0:13:15.56,0:13:16.73,Main,Yuuji,0000,0000,0000,,Two hours from now, then.
+Dialogue: 0,0:13:16.73,0:13:17.71,Italics,Ijichi,0000,0000,0000,,Two ho—
+Dialogue: 0,0:13:19.26,0:13:21.85,Main,Junpei,0000,0000,0000,,You're a jujutsu sorcerer, right?
+Dialogue: 0,0:13:22.35,0:13:23.12,Main,Yuuji,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:23.61,0:13:25.65,Italics,Yuuji,0000,0000,0000,,Should I have said that?
+Dialogue: 0,0:13:26.36,0:13:28.83,Main,Junpei,0000,0000,0000,,Have you... ever killed someone?
+Dialogue: 0,0:13:30.78,0:13:31.52,Main,Yuuji,0000,0000,0000,,No.
+Dialogue: 0,0:13:32.79,0:13:36.79,Main,Junpei,0000,0000,0000,,But someday you'll have to fight \Nbad jujutsu sorcerers, right?
+Dialogue: 0,0:13:37.17,0:13:38.74,Main,Junpei,0000,0000,0000,,What will you do then?
+Dialogue: 0,0:13:39.69,0:13:42.80,Main,Yuuji,0000,0000,0000,,I still wouldn't want to kill them.
+Dialogue: 0,0:13:43.23,0:13:45.56,Main,Junpei,0000,0000,0000,,Why not? They're bad people.
+Dialogue: 0,0:13:46.10,0:13:49.33,Main,Yuuji,0000,0000,0000,,It's like... I just think, if I killed anyone,
+Dialogue: 0,0:13:49.33,0:13:53.20,Main,Yuuji,0000,0000,0000,,the option of "killing" would \Nforce its way into my life.
+Dialogue: 0,0:13:53.57,0:13:56.42,Main,Yuuji,0000,0000,0000,,The value of life would become ambiguous...
+Dialogue: 0,0:13:56.42,0:13:59.34,Main,Yuuji,0000,0000,0000,,I wouldn't even understand the importance \Nof those I care about anymore.
+Dialogue: 0,0:14:00.53,0:14:01.79,Main,Yuuji,0000,0000,0000,,And that scares me.
+Dialogue: 0,0:14:05.87,0:14:08.07,Italics,Junpei,0000,0000,0000,,People don't have hearts.
+Dialogue: 0,0:14:08.69,0:14:10.67,Italics,Junpei,0000,0000,0000,,That idea saved me.
+Dialogue: 0,0:14:11.59,0:14:14.09,Italics,Junpei,0000,0000,0000,,It gave me strength.
+Dialogue: 0,0:14:14.88,0:14:17.58,Italics,Junpei,0000,0000,0000,,But if killing someone
+Dialogue: 0,0:14:18.40,0:14:20.79,Italics,Junpei,0000,0000,0000,,would mean tainting my soul...
+Dialogue: 0,0:14:24.61,0:14:27.31,Italics,Junpei,0000,0000,0000,,then I can't kill anyone.
+Dialogue: 0,0:14:34.90,0:14:36.97,Main,Nagi,0000,0000,0000,,Darn, I feel asleep.
+Dialogue: 0,0:14:36.97,0:14:39.61,Main,Nagi,0000,0000,0000,,Did Yuuji-kun go home already?
+Dialogue: 0,0:14:39.61,0:14:41.50,Main,Nagi,0000,0000,0000,,Gah! It's already this late?
+Dialogue: 0,0:14:41.50,0:14:42.69,Main,Nagi,0000,0000,0000,,I need to clean up.
+Dialogue: 0,0:14:44.76,0:14:46.07,Main,Nagi,0000,0000,0000,,What's this?
+Dialogue: 0,0:14:48.83,0:14:49.88,Main,Nagi,0000,0000,0000,,A finger?
+Dialogue: 0,0:14:58.16,0:15:00.95,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:15:03.62,0:15:05.96,Eyecatch_Title,,0000,0000,0000,,{\blur1\fad(864,1)}JUJUTSU KAISEN
+Dialogue: 0,0:15:06.09,0:15:11.47,sign_26840_306_One_Month_Later,Screen,0000,0000,0000,,{\clip(95,200,120,230)\t(24,3318,1 \clips(95,200,550,230)}After the Satozakura High School Incident
+Dialogue: 0,0:15:08.98,0:15:11.47,Main,Ijichi,0000,0000,0000,,After the incident at Satozakura High School,
+Dialogue: 0,0:15:11.73,0:15:16.37,Main,Ijichi,0000,0000,0000,,we discovered the corpse of Yoshino Nagi, \NYoshino Junpei's mother, at their home,
+Dialogue: 0,0:15:16.37,0:15:19.86,Main,Ijichi,0000,0000,0000,,along with an unsealed Sukuna's Finger—\Nhis second left arm's pinky finger.
+Dialogue: 0,0:15:20.43,0:15:25.49,Main,Ijichi,0000,0000,0000,,We believe Yoshino Nagi was attacked by \Ncursed spirits drawn to Sukuna's Finger.
+Dialogue: 0,0:15:25.96,0:15:29.00,Main,Ijichi,0000,0000,0000,,Her remains were missing \Neverything from the waist down.
+Dialogue: 0,0:15:29.44,0:15:33.01,Main,Ijichi,0000,0000,0000,,There were no visible or detectable \Ntraces of blood found on-site,
+Dialogue: 0,0:15:33.55,0:15:37.38,Main,Ijichi,0000,0000,0000,,and Yoshino Nagi's body was \Nlying down in her bedroom.
+Dialogue: 0,0:15:37.93,0:15:43.57,Main,Ijichi,0000,0000,0000,,Lifting up the blanket revealed only cold \Npacks and ice bags spread out beneath it.
+Dialogue: 0,0:15:45.26,0:15:48.00,Main,Yuuji,0000,0000,0000,,Are you saying I'd get in the way, Nanamin?
+Dialogue: 0,0:15:48.38,0:15:49.53,Main,Yuuji,0000,0000,0000,,You're injured, aren't you?
+Dialogue: 0,0:15:49.53,0:15:51.48,Main,Yuuji,0000,0000,0000,,Next time, take me with you.
+Dialogue: 0,0:15:52.88,0:15:54.53,Main,Yuuji,0000,0000,0000,,"My partner died.
+Dialogue: 0,0:15:54.53,0:15:56.53,Main,Yuuji,0000,0000,0000,,But I wasn't there at the time.
+Dialogue: 0,0:15:56.53,0:15:59.54,Main,Yuuji,0000,0000,0000,,Why? Because I'm a child."
+Dialogue: 0,0:16:02.64,0:16:05.32,Flashback,Grandpa,0000,0000,0000,,You're a strong kid, so help others.
+Dialogue: 0,0:16:06.63,0:16:08.86,Main,Yuuji,0000,0000,0000,,I don't want any of that.
+Dialogue: 0,0:16:09.07,0:16:09.94,Main,Nanami,0000,0000,0000,,You can't.
+Dialogue: 0,0:16:10.88,0:16:15.82,Main,Nanami,0000,0000,0000,,As you already know, this patchwork \Ncursed spirit uses transfigured people.
+Dialogue: 0,0:16:16.92,0:16:20.00,Main,Nanami,0000,0000,0000,,There are some people who are beyond saving.
+Dialogue: 0,0:16:21.16,0:16:22.96,Main,Nanami,0000,0000,0000,,If you continue this work,
+Dialogue: 0,0:16:22.96,0:16:26.58,Main,Nanami,0000,0000,0000,,there will a come a time when you're \Nforced to kill a person yourself.
+Dialogue: 0,0:16:27.50,0:16:29.42,Main,Nanami,0000,0000,0000,,But this is not that time.
+Dialogue: 0,0:16:30.08,0:16:32.60,Flashback,Yuuji,0000,0000,0000,,I still wouldn't want to kill them.
+Dialogue: 0,0:16:32.97,0:16:34.31,Flashback,Yuuji,0000,0000,0000,,And that scares me.
+Dialogue: 0,0:16:36.43,0:16:38.12,Main,Nanami,0000,0000,0000,,Please understand this.
+Dialogue: 0,0:16:38.12,0:16:41.53,Main,Nanami,0000,0000,0000,,Being a child is not a sin.
+Dialogue: 0,0:16:42.16,0:16:46.22,Main,Nanami,0000,0000,0000,,I would like to ask you to continue \Nmonitoring Yoshino Junpei.
+Dialogue: 0,0:16:50.38,0:16:53.06,Italics,Junpei,0000,0000,0000,,I didn't own any black clothing,
+Dialogue: 0,0:16:53.06,0:16:55.27,Italics,Junpei,0000,0000,0000,,so I opened my mom's closet
+Dialogue: 0,0:16:55.27,0:16:58.03,Italics,Junpei,0000,0000,0000,,and put on the first \Nthing that caught my eye.
+Dialogue: 0,0:16:59.91,0:17:04.82,Italics,Junpei,0000,0000,0000,,The smell of the morning air and the \Ncommute to school were all familiar,
+Dialogue: 0,0:17:05.81,0:17:06.72,Italics,Junpei,0000,0000,0000,,but today...
+Dialogue: 0,0:17:08.49,0:17:09.38,Flashback,Mahito,0000,0000,0000,,This is
+Dialogue: 0,0:17:09.83,0:17:13.65,Flashback,Mahito,0000,0000,0000,,a cursed object known as "Sukuna" \Nthat attracts other curses.
+Dialogue: 0,0:17:13.65,0:17:16.66,Flashback,Junpei,0000,0000,0000,,What was a thing like that doing in my home?!
+Dialogue: 0,0:17:16.66,0:17:20.35,Flashback,Mahito,0000,0000,0000,,There are many curse users who \Nearn money by cursing people.
+Dialogue: 0,0:17:20.35,0:17:22.32,Flashback,Mahito,0000,0000,0000,,It was probably done by one of them.
+Dialogue: 0,0:17:23.07,0:17:27.52,Flashback,Mahito,0000,0000,0000,,With money and connections, \Nit's easy to curse someone to death.
+Dialogue: 0,0:17:27.92,0:17:29.65,Flashback,Mahito,0000,0000,0000,,Can you think of anyone?
+Dialogue: 0,0:17:29.65,0:17:32.44,Flashback,Mahito,0000,0000,0000,,Anyone who might hold a grudge \Nagainst you or your mother?
+Dialogue: 0,0:17:33.45,0:17:34.28,Flashback,Mahito,0000,0000,0000,,Or perhaps...
+Dialogue: 0,0:17:34.99,0:17:39.25,Flashback,Mahito,0000,0000,0000,,someone dark and gloomy, \Nwith plenty of money and free time?
+Dialogue: 0,0:17:40.22,0:17:41.49,Main,Principal,0000,0000,0000,,The certificate of commendation
+Dialogue: 0,0:17:42.01,0:17:46.41,Main,Principal,0000,0000,0000,,and the prize for the finest work in the \Nnational book report competition goes to
+Dialogue: 0,0:17:46.75,0:17:48.15,Main,Principal,0000,0000,0000,,Itou Shouta.
+Dialogue: 0,0:17:49.30,0:17:50.44,Main,Girls,0000,0000,0000,,One, two...
+Dialogue: 0,0:17:50.44,0:17:52.85,Main,Girls,0000,0000,0000,,Shouta-senpai!
+Dialogue: 0,0:17:55.47,0:17:57.83,Main,Itou,0000,0000,0000,,Gosh, they're embarrassing me.
+Dialogue: 0,0:18:00.78,0:18:03.65,Main,Principal,0000,0000,0000,,{\an8}We are extremely pleased to have
+Dialogue: 0,0:18:03.65,0:18:08.52,Main,Principal,0000,0000,0000,,{\an8}a student of our school as the winner \Nof such an honorable award.
+Dialogue: 0,0:18:04.04,0:18:05.83,Main,Itou,0000,0000,0000,,What the hell were you thinking?
+Dialogue: 0,0:18:05.83,0:18:07.79,Main,Itou,0000,0000,0000,,I told you to just write whatever,
+Dialogue: 0,0:18:07.79,0:18:10.42,Main,Itou,0000,0000,0000,,but you made me win top damn prize.
+Dialogue: 0,0:18:09.45,0:18:13.59,Main,Principal,0000,0000,0000,,{\an8}This is all thanks to constant, \Ndaily efforts finally bearing fruit.
+Dialogue: 0,0:18:11.27,0:18:12.39,Main,Itou,0000,0000,0000,,You want to die?
+Dialogue: 0,0:18:12.42,0:18:14.12,Main,Male Student A,0000,0000,0000,,I-I'm sorry.
+Dialogue: 0,0:18:14.36,0:18:16.99,Main,Principal,0000,0000,0000,,{\an8}I hope all of you will take this opportunity
+Dialogue: 0,0:18:14.66,0:18:17.41,Main,Itou,0000,0000,0000,,Yet you only landed a participation prize.
+Dialogue: 0,0:18:16.99,0:18:19.95,Main,Principal,0000,0000,0000,,{\an8}to cultivate a habit of reading \Nin your daily lives.
+Dialogue: 0,0:18:18.69,0:18:21.42,Main,Male Student B,0000,0000,0000,,Shouta-senpai really is cool.
+Dialogue: 0,0:18:21.06,0:18:25.06,Main,Principal,0000,0000,0000,,{\an8}Next we have the award of \Nexcellence for Matsutani Tooru.
+Dialogue: 0,0:18:21.42,0:18:22.51,Main,Female Student B,0000,0000,0000,,Right?
+Dialogue: 0,0:18:22.51,0:18:25.82,Main,Female Student A,0000,0000,0000,,That so? Well, I'll give \Nhim props for being rich.
+Dialogue: 0,0:18:27.51,0:18:29.06,Main,Girl,0000,0000,0000,,What's that black stuff?
+Dialogue: 0,0:18:29.06,0:18:30.82,Main,Male Student B,0000,0000,0000,,Huh? Where?
+Dialogue: 0,0:18:33.88,0:18:36.65,Main,Mahito,0000,0000,0000,,Emerge from darkness, \Nblacker than darkness.
+Dialogue: 0,0:18:36.97,0:18:39.38,Main,Mahito,0000,0000,0000,,Purify that which is impure.
+Dialogue: 0,0:18:45.58,0:18:47.96,Main,Mahito,0000,0000,0000,,Hey, I did it.
+Dialogue: 0,0:18:47.96,0:18:49.62,Main,Getou,0000,0000,0000,,Thanks, Mahito.
+Dialogue: 0,0:18:49.62,0:18:52.58,Main,Getou,0000,0000,0000,,I can't afford to leave any \Nresiduals of me behind.
+Dialogue: 0,0:18:53.14,0:18:54.55,Main,Getou,0000,0000,0000,,What are the veil's effects?
+Dialogue: 0,0:18:55.83,0:18:57.54,Main,Mahito,0000,0000,0000,,They cannot escape from inside.
+Dialogue: 0,0:18:57.54,0:18:59.03,Main,Mahito,0000,0000,0000,,Some can enter from outside,
+Dialogue: 0,0:18:59.44,0:19:02.21,Main,Mahito,0000,0000,0000,,but only those with weak cursed energy.
+Dialogue: 0,0:19:02.66,0:19:05.55,Main,Getou,0000,0000,0000,,It's an unannounced veil \Nin a residential area.
+Dialogue: 0,0:19:06.33,0:19:08.62,Main,Getou,0000,0000,0000,,The windows will report it right away.
+Dialogue: 0,0:19:09.37,0:19:12.31,Main,Getou,0000,0000,0000,,I hope this plays out as you believe it will.
+Dialogue: 0,0:19:13.16,0:19:14.88,Main,Mahito,0000,0000,0000,,I think it'll go fine.
+Dialogue: 0,0:19:16.19,0:19:21.65,Main,Mahito,0000,0000,0000,,The general course was already set \Nonce Junpei landed Sukuna's vessel.
+Dialogue: 0,0:19:22.36,0:19:26.02,Main,Mahito,0000,0000,0000,,I'll cause the two of them to clash, \Nand force Itadori Yuuji
+Dialogue: 0,0:19:26.50,0:19:29.16,Main,Mahito,0000,0000,0000,,into a pact giving Sukuna dominance.
+Dialogue: 0,0:19:29.16,0:19:32.71,Main,Getou,0000,0000,0000,,I sure wish Jougo was as level-headed as you.
+Dialogue: 0,0:19:32.71,0:19:35.56,Main,Mahito,0000,0000,0000,,But it's cute how honest \Nand straightforward he is.
+Dialogue: 0,0:19:35.56,0:19:37.11,Main,Mahito,0000,0000,0000,,Anyway, you okay with this?
+Dialogue: 0,0:19:37.11,0:19:39.92,Main,Mahito,0000,0000,0000,,That finger was a precious resource, right?
+Dialogue: 0,0:19:40.37,0:19:41.48,Main,Getou,0000,0000,0000,,It's fine.
+Dialogue: 0,0:19:41.48,0:19:46.25,Main,Getou,0000,0000,0000,,The finger from the juvenile center was \Nquickly absorbed into Itadori Yuuji, after all.
+Dialogue: 0,0:19:46.25,0:19:50.80,Main,Getou,0000,0000,0000,,I'd like to have Jujutsu Tech retrieve the one \Nwe placed at Yoshino Junpei's home, as well.
+Dialogue: 0,0:19:52.52,0:19:53.81,Main,Mahito,0000,0000,0000,,Another ploy?
+Dialogue: 0,0:19:53.81,0:19:54.71,Main,Getou,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:55.30,0:19:57.93,Main,Getou,0000,0000,0000,,Well, I'll be taking my leave.
+Dialogue: 0,0:19:57.93,0:19:59.95,Main,Mahito,0000,0000,0000,,Huh? You're leaving?
+Dialogue: 0,0:19:59.95,0:20:01.83,Main,Mahito,0000,0000,0000,,You should stay and watch, too.
+Dialogue: 0,0:20:02.30,0:20:03.95,Main,Mahito,0000,0000,0000,,I'm sure it'll be fun...
+Dialogue: 0,0:20:06.07,0:20:08.35,Main,Mahito,0000,0000,0000,,watching foolish kids die.
+Dialogue: 0,0:20:10.82,0:20:13.29,Main,Sotomura,0000,0000,0000,,H-Hey! What's wrong with you guys?!
+Dialogue: 0,0:20:13.29,0:20:15.73,Main,Sotomura,0000,0000,0000,,Get a grip! Are you okay?!
+Dialogue: 0,0:20:16.79,0:20:18.40,Main,Junpei,0000,0000,0000,,They're not dead.
+Dialogue: 0,0:20:20.61,0:20:21.66,Main,Sotomura,0000,0000,0000,,Yoshino?
+Dialogue: 0,0:20:22.19,0:20:23.07,Main,Sotomura,0000,0000,0000,,Why...
+Dialogue: 0,0:20:23.72,0:20:27.89,Main,Sotomura,0000,0000,0000,,Wait, do you know what's going on here?
+Dialogue: 0,0:20:28.34,0:20:29.34,Main,Junpei,0000,0000,0000,,Sensei.
+Dialogue: 0,0:20:30.77,0:20:32.38,Main,Junpei,0000,0000,0000,,Make sure you're watching...
+Dialogue: 0,0:20:33.41,0:20:35.51,Main,Sotomura,0000,0000,0000,,You... Those scars...
+Dialogue: 0,0:20:37.24,0:20:38.04,Main,Sotomura,0000,0000,0000,,That's—
+Dialogue: 0,0:20:38.47,0:20:40.13,Main,Junpei,0000,0000,0000,,...what's already happened,
+Dialogue: 0,0:20:40.52,0:20:42.42,Main,Junpei,0000,0000,0000,,and what's about to happen.
+Dialogue: 0,0:20:43.06,0:20:44.29,Main,Itou,0000,0000,0000,,Yoshino...
+Dialogue: 0,0:20:46.84,0:20:48.43,Main,Junpei,0000,0000,0000,,I have a question for you.
+Dialogue: 0,0:20:49.38,0:20:52.85,Main,Junpei,0000,0000,0000,,Are you the one who left that in my home?
+Dialogue: 0,0:20:53.88,0:20:55.27,Main,Itou,0000,0000,0000,,What are you—
+Dialogue: 0,0:20:59.46,0:21:01.82,Main,Itou,0000,0000,0000,,Wh-What is this?
+Dialogue: 0,0:21:01.82,0:21:03.17,Main,Itou,0000,0000,0000,,What did you do?!
+Dialogue: 0,0:21:04.13,0:21:05.82,Main,Junpei,0000,0000,0000,,That's no good.
+Dialogue: 0,0:21:07.82,0:21:12.32,Main,Junpei,0000,0000,0000,,Do you still think you're in a position to \Nanswer questions with your own questions?
+Dialogue: 0,0:21:12.99,0:21:14.97,Main,Junpei,0000,0000,0000,,{\i1}You{\i0} are going to die.
+Dialogue: 0,0:21:15.38,0:21:17.97,Main,Junpei,0000,0000,0000,,Whether your answer is yes or no.
+Dialogue: 0,0:21:18.57,0:21:21.87,Main,Junpei,0000,0000,0000,,After all, I don't have a technique \Nto see through your lies,
+Dialogue: 0,0:21:21.87,0:21:25.33,Main,Junpei,0000,0000,0000,,and you've already done more \Nthan enough to earn it!
+Dialogue: 0,0:21:26.70,0:21:29.73,Main,Junpei,0000,0000,0000,,So show some sincerity in \Nyour final moments, at least.
+Dialogue: 0,0:21:30.37,0:21:33.07,Main,Itou,0000,0000,0000,,I'm... sorry...
+Dialogue: 0,0:21:34.36,0:21:35.10,Main,Junpei,0000,0000,0000,,And?
+Dialogue: 0,0:21:38.30,0:21:39.24,Main,Junpei,0000,0000,0000,,Come on!
+Dialogue: 0,0:21:48.71,0:21:51.52,Main,Yuuji,0000,0000,0000,,What are you doing, Junpei?!
+Dialogue: 0,0:21:54.84,0:21:57.50,Main,Junpei,0000,0000,0000,,Stay out of this, jujutsu sorcerer.
+Dialogue: 0,0:23:29.92,0:23:31.18,sign_32727_342_Juju_Stroll,Screen,0000,0000,0000,,Juju Stroll
+Dialogue: 0,0:23:30.52,0:23:33.43,Narration,Narrator,0000,0000,0000,,The layout was great, but a \Nthree-burner range portends death.
+Dialogue: 0,0:23:33.43,0:23:36.16,Narration,Narrator,0000,0000,0000,,Set it ablaze, Mt. Hiei! \NMatsutake for aroma, shimeji for flavor!
+Dialogue: 0,0:23:36.16,0:23:37.55,Narration,Narrator,0000,0000,0000,,The tones of autumn disappear,
+Dialogue: 0,0:23:37.58,0:23:39.48,Narration,Narrator,0000,0000,0000,,together with the tears of the beloved!
+Dialogue: 0,0:23:39.48,0:23:41.49,Narration,,0000,0000,0000,,Next time on {\i0}Jujutsu Kaisen{\i1}, episode 12:
+Dialogue: 0,0:23:41.49,0:23:42.87,Narration,,0000,0000,0000,,"Bloody Autumn Leaf-viewing."
+Dialogue: 0,0:23:42.87,0:23:44.94,Narration,,0000,0000,0000,,The hunt is on... for your heart.
+Dialogue: 0,0:23:43.19,0:23:44.94,Main,Screen,0000,0000,0000,,{\pos(320,25)\an8\fnTimes New Roman\b1\blur.5\bord0\shad0}Next Episode:
+Dialogue: 0,0:23:43.19,0:23:44.94,Main,Screen,0000,0000,0000,,{\an8\fnTimes New Roman\b1\fs30\blur.5\bord0\shad0\pos(320,250)}Bloody Autumn Leaf-viewing
+Dialogue: 0,0:23:51.53,0:23:54.95,Next_Ep_Title,Screen,0000,0000,0000,,{\fad(1152,1)}Episode 12: \NTo You, Someday

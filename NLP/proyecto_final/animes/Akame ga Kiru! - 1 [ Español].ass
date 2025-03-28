@@ -1,0 +1,426 @@
+﻿[Script Info]
+Title: Español
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 624
+PlayResY: 366
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0008,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,1,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Default - flashback,Trebuchet MS,24,&H00F2EEEE,&H000000FF,&H003B1903,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Title1a,Times New Roman,24,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0018,0
+Style: Title1b,Times New Roman,24,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,0040,0040,0018,0
+Style: Title2,Times New Roman,24,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,0040,0040,0018,0
+Style: SignA,Arial,18,&H002E0E95,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,9,0040,0025,0220,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.80,0:00:14.61,Default,Driver A,0000,0000,0000,,¡U-un dragón de tierra!
+Dialogue: 0,0:00:24.02,0:00:26.33,Default,Tatsumi,0000,0000,0000,,Un dragón de tierra, una Bestia \NPeligrosa de primera categoría.
+Dialogue: 0,0:00:26.66,0:00:28.64,Default,Tatsumi,0000,0000,0000,,Es un digno oponente.
+Dialogue: 0,0:00:34.47,0:00:35.55,Default,Tatsumi,0000,0000,0000,,¿Estás enojado?
+Dialogue: 0,0:00:37.66,0:00:38.68,Default,Tatsumi,0000,0000,0000,,Este será tu fin.
+Dialogue: 0,0:00:54.40,0:00:56.07,Default,Driver A,0000,0000,0000,,¡Eso fue increíble!
+Dialogue: 0,0:00:56.07,0:00:59.41,Default,Driver B,0000,0000,0000,,¡Pudiste acabar con una \NBestia Peligrosa tú solo!
+Dialogue: 0,0:01:00.66,0:01:02.26,Default,Tatsumi,0000,0000,0000,,¡Claro que sí!
+Dialogue: 0,0:01:02.26,0:01:05.33,Default,Tatsumi,0000,0000,0000,,Derrotar a bestias así es\N pan comido para mí.
+Dialogue: 0,0:01:05.33,0:01:07.66,Default,Tatsumi,0000,0000,0000,,Por cierto, soy Tatsumi...
+Dialogue: 0,0:01:07.66,0:01:10.08,Default,Tatsumi,0000,0000,0000,,Mi nombre será famoso \Nen la capital imperial.
+Dialogue: 0,0:01:10.08,0:01:11.75,Default,Tatsumi,0000,0000,0000,,Será mejor que lo recuerden.
+Dialogue: 0,0:01:12.02,0:01:15.40,Default,Driver A,0000,0000,0000,,¿Buscas el éxito en la capital imperial?
+Dialogue: 0,0:01:15.40,0:01:16.44,Default,Tatsumi,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:01:16.44,0:01:19.51,Default,Tatsumi,0000,0000,0000,,¡El éxito y la fortuna en la capital \Nson el sueño de todo campesino!
+Dialogue: 0,0:01:19.82,0:01:23.22,Default,Driver A,0000,0000,0000,,La capital no es el lugar de \Nensueño que crees.
+Dialogue: 0,0:01:23.55,0:01:28.48,Default,Driver A,0000,0000,0000,,Está llena de vida, pero encontrarás \Nun montón de monstruos peores que ese dragón.
+Dialogue: 0,0:01:28.48,0:01:29.45,Default,Tatsumi,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:01:29.45,0:01:31.65,Default,Tatsumi,0000,0000,0000,,¿Hay Bestias Peligrosas dentro de la ciudad?
+Dialogue: 0,0:01:31.65,0:01:33.07,Default,Driver A,0000,0000,0000,,Son las personas...
+Dialogue: 0,0:01:33.07,0:01:35.03,Default,Driver A,0000,0000,0000,,Son humanos con corazón de monstruo.
+Dialogue: 0,0:01:35.61,0:01:37.82,Default,Driver A,0000,0000,0000,,La capital está repleta de gente así.
+Dialogue: 0,0:01:38.79,0:01:43.08,Default,Tatsumi,0000,0000,0000,,Aprecio su advertencia,\N pero ya no puedo dar marcha atrás.
+Dialogue: 0,0:01:43.31,0:01:44.42,Default,Tatsumi,0000,0000,0000,,Yo...
+Dialogue: 0,0:01:44.42,0:01:45.74,Default,Tatsumi,0000,0000,0000,,No, nosotros...
+Dialogue: 0,0:01:45.74,0:01:48.97,Default,Tatsumi,0000,0000,0000,,{\fad(1,821)}triunfaremos en la capital \Npara salvar nuestra aldea.
+Dialogue: 0,0:01:51.79,0:01:54.49,Default,Narration,0000,0000,0000,,De la misma manera en que \Nlos humanos se descomponen,
+Dialogue: 0,0:01:54.49,0:01:56.85,Default,Narration,0000,0000,0000,,los países se derrumban.
+Dialogue: 0,0:01:57.69,0:02:00.35,Default,Narraton,0000,0000,0000,,Tras miles de años de prosperidad, \Nincluso la capital imperial
+Dialogue: 0,0:02:00.35,0:02:03.11,Default,Narration,0000,0000,0000,,se encuentra en un estado \Nde corrupción total.
+Dialogue: 0,0:02:03.11,0:02:05.95,Default,Narration,0000,0000,0000,,Espíritus malignos causan \Nestragos en forma humana,
+Dialogue: 0,0:02:05.95,0:02:08.22,Default,Narration,0000,0000,0000,,adueñándose de todo a su paso.
+Dialogue: 0,0:02:10.23,0:02:12.59,Default,Narration,0000,0000,0000,,Son males que el Cielo no puede juzgar...
+Dialogue: 0,0:02:13.06,0:02:15.07,Default,Narration,0000,0000,0000,,Es algo que debemos resolver en la oscuridad.
+Dialogue: 0,0:02:16.35,0:02:18.14,Default,Narration,0000,0000,0000,,Nosotros,
+Dialogue: 0,0:02:18.14,0:02:19.99,Default,Narration,0000,0000,0000,,los asesinos.
+Dialogue: 0,0:03:51.25,0:03:52.79,Title1a,Title,0000,0000,0000,,{\fad(857,1)}Aniquila la oscuridad
+Dialogue: 0,0:03:52.79,0:03:54.63,Title1b,,0000,0000,0000,,{\fad(1,1564)}Aniquila la oscuridad
+Dialogue: 0,0:03:56.22,0:03:57.77,Default,Tatsumi,0000,0000,0000,,¡Increíble!
+Dialogue: 0,0:03:57.77,0:03:59.92,Default,Tatsumi,0000,0000,0000,,Esta es la capital imperial...
+Dialogue: 0,0:04:00.33,0:04:03.30,Default,Tatsumi,0000,0000,0000,,¡Si consiguiese suficiente dinero, \Npodría comprar toda la aldea!
+Dialogue: 0,0:04:03.30,0:04:05.31,Default,Tatsumi,0000,0000,0000,,¡Iré a las barracas!
+Dialogue: 0,0:04:07.68,0:04:08.74,Default,Reception,0000,0000,0000,,Vaya...
+Dialogue: 0,0:04:08.74,0:04:10.77,Default,Reception,0000,0000,0000,,¿Eres otro postulante?
+Dialogue: 0,0:04:10.77,0:04:13.44,Default,Reception,0000,0000,0000,,Tráeme este formulario \Ncuando lo hayas completado.
+Dialogue: 0,0:04:13.44,0:04:14.98,Default,Tatsumi,0000,0000,0000,,Entonces...
+Dialogue: 0,0:04:15.37,0:04:17.76,Default,Tatsumi,0000,0000,0000,,¿comenzaré en la infantería?
+Dialogue: 0,0:04:17.76,0:04:18.69,Default,Reception,0000,0000,0000,,Por supuesto.
+Dialogue: 0,0:04:18.69,0:04:20.99,Default,Tatsumi,0000,0000,0000,,¡¿Crees que tengo tiempo para eso?!
+Dialogue: 0,0:04:20.99,0:04:22.91,Default,Tatsumi,0000,0000,0000,,Mira mi técnica.
+Dialogue: 0,0:04:22.91,0:04:26.16,Default,Tatsumi,0000,0000,0000,,Si crees que lo hago bien,\N ¿qué tal si empiezo como comandante?
+Dialogue: 0,0:04:26.16,0:04:27.49,Default,Reception,0000,0000,0000,,¡Fuera!
+Dialogue: 0,0:04:28.62,0:04:29.69,Default,Tatsumi,0000,0000,0000,,¿Qué haces?
+Dialogue: 0,0:04:29.69,0:04:30.83,Default,Tatsumi,0000,0000,0000,,¡Al menos podrías probarme!
+Dialogue: 0,0:04:30.83,0:04:31.93,Default,Reception,0000,0000,0000,,¡No seas estúpido!
+Dialogue: 0,0:04:31.93,0:04:33.87,Default,Reception,0000,0000,0000,,Estamos colmados de postulantes \Npor culpa de la recesión.
+Dialogue: 0,0:04:33.87,0:04:36.75,Default,Reception,0000,0000,0000,,¡No los podemos contratar a todos!
+Dialogue: 0,0:04:36.75,0:04:38.08,Default,Tatsumi,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:04:38.08,0:04:39.87,Default,Reception,0000,0000,0000,,¡Si ya lo entendiste, lárgate!
+Dialogue: 0,0:04:44.67,0:04:47.90,Default - italics,Tatsumi,0000,0000,0000,,¿Y si monto una escena para \Ndisparar mi reputación?
+Dialogue: 0,0:04:47.90,0:04:49.76,Default - italics,Tatsumi,0000,0000,0000,,Pero podrían capturarme...
+Dialogue: 0,0:04:49.76,0:04:51.23,Default,Leone,0000,0000,0000,,¡Hola!
+Dialogue: 0,0:04:53.39,0:04:55.88,Default,Leone,0000,0000,0000,,Parece que estás en problemas, joven.
+Dialogue: 0,0:04:55.88,0:04:57.73,Default,Leone,0000,0000,0000,,¿Quieres que te dé una mano?
+Dialogue: 0,0:04:59.27,0:05:01.89,Default,Tatsumi,0000,0000,0000,,Conque esta es la capital imperial...
+Dialogue: 0,0:05:03.78,0:05:04.86,Default,Leone,0000,0000,0000,,¿Qué te pasa?
+Dialogue: 0,0:05:06.70,0:05:10.94,Default,Leone,0000,0000,0000,,Viniste del campo siguiendo tu sueño de \Nllegar al éxito en la capital, ¿cierto?
+Dialogue: 0,0:05:10.94,0:05:12.17,Default,Tatsumi,0000,0000,0000,,¿Cómo lo supiste?
+Dialogue: 0,0:05:12.17,0:05:13.83,Default,Leone,0000,0000,0000,,Es evidente.
+Dialogue: 0,0:05:13.83,0:05:16.50,Default,Leone,0000,0000,0000,,No es difícil identificar a los \Nforasteros cuando vives en la capital.
+Dialogue: 0,0:05:16.50,0:05:17.58,Default,Leone,0000,0000,0000,,En fin...
+Dialogue: 0,0:05:17.58,0:05:20.91,Default,Leone,0000,0000,0000,,Conozco una manera para que el \NGobierno te contrate de inmediato.
+Dialogue: 0,0:05:20.91,0:05:21.94,Default,Leone,0000,0000,0000,,¡¿De verdad?!
+Dialogue: 0,0:05:21.94,0:05:23.05,Default,Leone,0000,0000,0000,,¿Te gustaría saberla?
+Dialogue: 0,0:05:23.05,0:05:24.09,Default,Tatsumi,0000,0000,0000,,¡Sí, sí!
+Dialogue: 0,0:05:24.44,0:05:27.05,Default,Leone,0000,0000,0000,,¡Entonces invítame a almorzar!
+Dialogue: 0,0:05:31.86,0:05:35.22,Default,Leone,0000,0000,0000,,¡Beber durante el día es lo mejor!
+Dialogue: 0,0:05:35.22,0:05:36.59,Default,Leone,0000,0000,0000,,¡Acompáñame, joven!
+Dialogue: 0,0:05:36.59,0:05:37.42,Default,Leone,0000,0000,0000,,¡Divirtámonos!
+Dialogue: 0,0:05:37.42,0:05:39.94,Default,Tatsumi,0000,0000,0000,,¡Dime qué hacer para que me contraten!
+Dialogue: 0,0:05:40.30,0:05:42.69,Default,Leone,0000,0000,0000,,Bueno, es tan simple como...
+Dialogue: 0,0:05:44.12,0:05:45.90,Default,Leone,0000,0000,0000,,tener conexiones y dinero.
+Dialogue: 0,0:05:46.05,0:05:47.98,Default,Tatsumi,0000,0000,0000,,¿Di-dinero?
+Dialogue: 0,0:05:47.98,0:05:50.44,Default,Leone,0000,0000,0000,,Conozco a un chico en el ejército.
+Dialogue: 0,0:05:50.44,0:05:53.36,Default,Leone,0000,0000,0000,,¡Si lo sobornas, entrarás en un santiamén!
+Dialogue: 0,0:05:54.41,0:05:55.91,Default,Tatsumi,0000,0000,0000,,Entiendo.
+Dialogue: 0,0:05:55.91,0:05:56.87,Default,Tatsumi,0000,0000,0000,,Entonces...
+Dialogue: 0,0:05:57.12,0:05:58.29,Default,Tatsumi,0000,0000,0000,,¿Esto será suficiente?
+Dialogue: 0,0:05:58.29,0:06:00.08,Default,Leone,0000,0000,0000,,¡Por supuesto!
+Dialogue: 0,0:06:00.08,0:06:03.59,Default,Tatsumi,0000,0000,0000,,Hice mucho dinero exterminando Bestias \NPeligrosas de camino a la capital.
+Dialogue: 0,0:06:04.75,0:06:06.05,Default,Leone,0000,0000,0000,,Eres fuerte.
+Dialogue: 0,0:06:06.45,0:06:08.38,Default,Leone,0000,0000,0000,,¡Serás comandante en cuestión de segundos!
+Dialogue: 0,0:06:08.38,0:06:10.01,Default,Tatsumi,0000,0000,0000,,¡Claro! ¡Te lo encargo!
+Dialogue: 0,0:06:11.90,0:06:16.17,Default,Leone,0000,0000,0000,,Creo que nuestro encuentro \Nte dejará una valiosa lección.
+Dialogue: 0,0:06:16.17,0:06:19.06,Default,Leone,0000,0000,0000,,Yo me encargaré de todo, espérame aquí.
+Dialogue: 0,0:06:19.06,0:06:21.11,Default,Tatsumi,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:06:32.27,0:06:34.95,Default,Owner,0000,0000,0000,,Señor, cerraremos dentro de poco.
+Dialogue: 0,0:06:34.95,0:06:37.33,Default,Tatsumi,0000,0000,0000,,Estoy esperando a alguien.
+Dialogue: 0,0:06:37.33,0:06:40.60,Default,Owner,0000,0000,0000,,Lamento decirle que esa mujer lo estafó.
+Dialogue: 0,0:06:43.96,0:06:47.09,Default,Owner,0000,0000,0000,,Nunca pensé que vería a alguien \Ntan iluso en estos días...
+Dialogue: 0,0:06:47.09,0:06:48.83,Default,Tatsumi,0000,0000,0000,,¡M-me estafaron!
+Dialogue: 0,0:06:48.83,0:06:49.68,Default,Tatsumi,0000,0000,0000,,¡La demandaré!
+Dialogue: 0,0:06:49.68,0:06:50.63,Default,Owner,0000,0000,0000,,Es inútil.
+Dialogue: 0,0:06:50.63,0:06:52.59,Default,Owner,0000,0000,0000,,Es culpa del que se dejó engañar.
+Dialogue: 0,0:06:55.66,0:06:57.11,Default,Tatsumi,0000,0000,0000,,Maldición...
+Dialogue: 0,0:06:57.11,0:06:59.48,Default,Tatsumi,0000,0000,0000,,Ese almuerzo me dejó en bancarrota.
+Dialogue: 0,0:06:59.48,0:07:00.79,Default,Tatsumi,0000,0000,0000,,Esos senos...
+Dialogue: 0,0:07:00.79,0:07:02.80,Default,Tatsumi,0000,0000,0000,,Digo, ¡esa mujer!
+Dialogue: 0,0:07:02.80,0:07:05.19,Default,Tastumi,0000,0000,0000,,¿Esta es la lección de \Nla que estabas hablando?
+Dialogue: 0,0:07:06.76,0:07:08.17,Default,Tatsumi,0000,0000,0000,,Rayos...
+Dialogue: 0,0:07:08.17,0:07:11.01,Default,Tatsumi,0000,0000,0000,,En el campo no hay\N personas tan mentirosas...
+Dialogue: 0,0:07:12.55,0:07:13.87,Default,Tatsumi,0000,0000,0000,,Bueno, no importa.
+Dialogue: 0,0:07:14.34,0:07:15.72,Default,Tatsumi,0000,0000,0000,,Pasaré la noche al aire libre.
+Dialogue: 0,0:07:15.72,0:07:17.24,Default,Tatsumi,0000,0000,0000,,Puedo dormir en cualquier lugar.
+Dialogue: 0,0:07:18.10,0:07:18.75,Default,Aria,0000,0000,0000,,Alto.
+Dialogue: 0,0:07:22.69,0:07:24.63,Default,Driver,0000,0000,0000,,¿Otra vez, señorita?
+Dialogue: 0,0:07:24.63,0:07:26.08,Default,Aria,0000,0000,0000,,Ya saben que no puedo evitarlo.
+Dialogue: 0,0:07:26.08,0:07:27.55,Default,Aria,0000,0000,0000,,Está en mi naturaleza.
+Dialogue: 0,0:07:30.16,0:07:33.64,Default,Aria,0000,0000,0000,,Si no tienes dónde dormir, \N¿te gustaría ir a mi hogar?
+Dialogue: 0,0:07:33.80,0:07:35.60,SignA,Sign,0000,0000,0000,,{\fad(487,1)}Escepticismo total
+Dialogue: 0,0:07:35.60,0:07:37.73,Default,Tatsumi,0000,0000,0000,,No tengo dinero...
+Dialogue: 0,0:07:38.85,0:07:41.06,Default,Aria,0000,0000,0000,,No dormirías aquí si lo tuvieras, ¿cierto?
+Dialogue: 0,0:07:41.06,0:07:44.65,Default,Driver,0000,0000,0000,,La señorita Aria no puede \Nignorar a personas como tú.
+Dialogue: 0,0:07:44.89,0:07:46.61,Default,Driver,0000,0000,0000,,Deberías aceptar su propuesta.
+Dialogue: 0,0:07:46.61,0:07:47.57,Default,Aria,0000,0000,0000,,¿Qué harás?
+Dialogue: 0,0:07:49.05,0:07:50.24,Default,Tatsumi,0000,0000,0000,,Bueno...
+Dialogue: 0,0:07:50.24,0:07:52.32,Default,Tatsumi,0000,0000,0000,,Supongo que será mejor\N que dormir al aire libre...
+Dialogue: 0,0:07:52.62,0:07:54.28,Default,Aria,0000,0000,0000,,¡Está decidido!
+Dialogue: 0,0:07:55.11,0:07:57.24,Default,Father,0000,0000,0000,,Aria volvió a traer a alguien.
+Dialogue: 0,0:07:57.24,0:07:58.12,Default,Mother,0000,0000,0000,,Cielos...
+Dialogue: 0,0:07:58.12,0:07:59.31,Default,Mother,0000,0000,0000,,Es todo un hábito.
+Dialogue: 0,0:07:59.31,0:08:00.58,Default,Mother,0000,0000,0000,,Me pregunto cuántas veces van ya.
+Dialogue: 0,0:08:00.58,0:08:01.94,Default,Aria,0000,0000,0000,,¡Madre!
+Dialogue: 0,0:08:01.94,0:08:05.17,Default,Tatsumi,0000,0000,0000,,Gra-gracias...
+Dialogue: 0,0:08:05.24,0:08:08.10,Default - italics,Tatsumi,0000,0000,0000,,Esos tipos lucen muy fuertes...
+Dialogue: 0,0:08:05.44,0:08:08.10,Default,Father,0000,0000,0000,,{\an8}No te pongas nervioso.
+Dialogue: 0,0:08:08.10,0:08:09.84,Default - italics,Tatsumi,0000,0000,0000,,Tal vez es gracias a ellos
+Dialogue: 0,0:08:08.10,0:08:10.10,Default,Mother,0000,0000,0000,,{\an8}Apostaría a que tienes hambre.
+Dialogue: 0,0:08:09.84,0:08:13.03,Default - italics,Tatsumi,0000,0000,0000,,que no se sienten amenazados al \Nrecibir a un completo extraño.
+Dialogue: 0,0:08:14.35,0:08:18.85,Default - italics,Tatsumi,0000,0000,0000,,Saber que existe gente amable\N en la capital me hace tan feliz...
+Dialogue: 0,0:08:18.85,0:08:21.31,Default,Tatsumi,0000,0000,0000,,¡Muchísimas gracias por su hospitalidad!
+Dialogue: 0,0:08:28.05,0:08:29.19,Default,Father,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:08:29.19,0:08:32.60,Default,Father,0000,0000,0000,,Quieres triunfar en el ejército \Npara salvar tu aldea.
+Dialogue: 0,0:08:32.60,0:08:33.40,Default,Tatsumi,0000,0000,0000,,Sí.
+Dialogue: 0,0:08:34.17,0:08:35.11,Default,Father,0000,0000,0000,,Sabes...
+Dialogue: 0,0:08:35.64,0:08:38.02,Default,Father,0000,0000,0000,,La paz reina dentro de la capital imperial.
+Dialogue: 0,0:08:38.02,0:08:41.66,Default,Father,0000,0000,0000,,Sin embargo, este país está \Nrodeado por otras tres razas...
+Dialogue: 0,0:08:41.66,0:08:45.94,Default,Father,0000,0000,0000,,Podrían enviarte a pelear \Nen alguna de las fronteras.
+Dialogue: 0,0:08:46.53,0:08:47.88,Default,Tatsumi,0000,0000,0000,,Estoy preparado.
+Dialogue: 0,0:08:48.12,0:08:49.42,Default,Father,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:08:49.42,0:08:50.96,Default,Father,0000,0000,0000,,¡Cuánto espíritu!
+Dialogue: 0,0:08:50.96,0:08:53.09,Default,Father,0000,0000,0000,,Así deberían ser todos los jóvenes.
+Dialogue: 0,0:08:53.09,0:08:55.38,Default,Aria,0000,0000,0000,,¿Saliste de la aldea tú solo, Tatsumi?
+Dialogue: 0,0:08:55.38,0:08:56.84,Default,Tatsumi,0000,0000,0000,,No, éramos tres.
+Dialogue: 0,0:08:57.41,0:08:58.75,Default,Tatsumi,0000,0000,0000,,En realidad...
+Dialogue: 0,0:09:02.96,0:09:05.10,Default - flashback,Tatsumi,0000,0000,0000,,¡Bien! ¡Ya nos vamos, jefe!
+Dialogue: 0,0:09:05.10,0:09:06.05,Default - flashback,Chief,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:06.05,0:09:09.24,Default - flashback,Chief,0000,0000,0000,,Ustedes se han fortalecido\N mutuamente desde pequeños.
+Dialogue: 0,0:09:09.24,0:09:12.07,Default - flashback,Chief,0000,0000,0000,,Utilicen esa habilidad \Npara alcanzar el éxito.
+Dialogue: 0,0:09:12.07,0:09:15.11,Default - flashback,Sayo,0000,0000,0000,,Cuente con nosotros. \NHaremos que la aldea prospere.
+Dialogue: 0,0:09:15.11,0:09:17.98,Default - flashback,Ieyasu,0000,0000,0000,,¡Así nadie tendrá que morir de hambre!
+Dialogue: 0,0:09:17.98,0:09:22.58,Default - flashback,Ieyasu,0000,0000,0000,,Supongo que tomará unos diez años para \Nque todos conozcan al gran Ieyasu.
+Dialogue: 0,0:09:22.58,0:09:25.91,Default - flashback,Sayo,0000,0000,0000,,Seguramente te sentenciarán a la \Nguillotina por quebrantar la ley.
+Dialogue: 0,0:09:25.91,0:09:27.08,Default - flashback,Ieyasu,0000,0000,0000,,¡Oye, Sayo!
+Dialogue: 0,0:09:27.08,0:09:28.92,Default - flashback,Ieyasu,0000,0000,0000,,¡No digas cosas que puedan \Nllegar a hacerse realidad!
+Dialogue: 0,0:09:28.92,0:09:31.47,Default - flashback,Chief,0000,0000,0000,,Los veo muy animados.
+Dialogue: 0,0:09:32.03,0:09:33.31,Default - flashback,Chief,0000,0000,0000,,Bien, Tatsumi...
+Dialogue: 0,0:09:33.31,0:09:35.07,Default - flashback,Chief,0000,0000,0000,,Este es mi regalo de despedida.
+Dialogue: 0,0:09:35.07,0:09:36.47,Default - flashback,Chief,0000,0000,0000,,Llévalo contigo.
+Dialogue: 0,0:09:37.10,0:09:38.62,Default - flashback,Chief,0000,0000,0000,,En momentos de necesidad...
+Dialogue: 0,0:09:38.62,0:09:39.30,Default - flashback,Tatsumi,0000,0000,0000,,¡Lo vendo!
+Dialogue: 0,0:09:39.30,0:09:40.26,Default - flashback,Chief,0000,0000,0000,,¡No!
+Dialogue: 0,0:09:41.88,0:09:43.68,Default - flashback,Chief,0000,0000,0000,,Mantenlo cerca.
+Dialogue: 0,0:09:44.19,0:09:46.62,Default - flashback,Chief,0000,0000,0000,,Dios te brindará su ayuda.
+Dialogue: 0,0:09:47.38,0:09:50.11,Default - flashback,Tatsumi,0000,0000,0000,,Sí. Gracias, jefe.
+Dialogue: 0,0:09:51.42,0:09:54.33,Default,Tatsumi,0000,0000,0000,,Partimos con mucho ánimo,
+Dialogue: 0,0:09:54.33,0:09:58.02,Default,Tatsumi,0000,0000,0000,,pero nos separamos cuando\N nos atacó un grupo de bandidos.
+Dialogue: 0,0:09:58.02,0:09:58.86,Default,Mother,0000,0000,0000,,Cielos...
+Dialogue: 0,0:09:59.30,0:10:02.87,Default,Tatsumi,0000,0000,0000,,Son fuertes, así que no estoy \Nmuy preocupado por ellos,
+Dialogue: 0,0:10:02.87,0:10:05.87,Default,Tatsumi,0000,0000,0000,,pero Ieyasu es increíblemente despistado.
+Dialogue: 0,0:10:05.87,0:10:07.40,Default - italics,Ieyasu,0000,0000,0000,,¡¿Qué dijiste?!
+Dialogue: 0,0:10:07.40,0:10:10.87,Default,Tatsumi,0000,0000,0000,,Me pregunto si encontrará el lugar \Nen el que acordamos encontrarnos...
+Dialogue: 0,0:10:10.87,0:10:11.92,Default,Father,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:10:12.46,0:10:15.10,Default,Father,0000,0000,0000,,Le hablaré bien de ti a alguien \Nque conozco en el ejército.
+Dialogue: 0,0:10:15.10,0:10:18.04,Default,Father,0000,0000,0000,,Y también haré que busquen a tus amigos.
+Dialogue: 0,0:10:18.82,0:10:19.64,Default,Tatsumi,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:10:20.53,0:10:21.97,Default,Tatsumi,0000,0000,0000,,¡Muchísimas gracias!
+Dialogue: 0,0:10:21.97,0:10:24.79,Default,Aria,0000,0000,0000,,Mi intuición nunca falla.
+Dialogue: 0,0:10:24.79,0:10:27.60,Default,Aria,0000,0000,0000,,Creo que los verás dentro de poco.
+Dialogue: 0,0:10:27.95,0:10:29.56,Default,Tatsumi,0000,0000,0000,,Señorita Aria...
+Dialogue: 0,0:10:33.86,0:10:35.10,Default - italics,Tastumi,0000,0000,0000,,Qué afortunado soy.
+Dialogue: 0,0:10:35.10,0:10:37.79,Default - italics,Tatsumi,0000,0000,0000,,Al final, me salvó gente muy amable.
+Dialogue: 0,0:10:38.61,0:10:40.82,Default - italics,Tatsumi,0000,0000,0000,,Ahora solo faltan Sayo e Ieyasu...
+Dialogue: 0,0:10:41.79,0:10:45.27,Default - italics,Tastumi,0000,0000,0000,,Espero que lleguen a la \Ncapital sanos y salvos.
+Dialogue: 0,0:10:47.79,0:10:49.87,Default,Aria,0000,0000,0000,,¡Ahora quiero ir a esa tienda!
+Dialogue: 0,0:10:49.87,0:10:51.79,Default,Guards,0000,0000,0000,,¡Espere, señorita!
+Dialogue: 0,0:10:52.99,0:10:55.59,Default,Tatsumi,0000,0000,0000,,Sus compras son algo excesivas, ¿no?
+Dialogue: 0,0:10:56.57,0:10:59.46,Default,Tatsumi,0000,0000,0000,,Esto ya parece una broma.
+Dialogue: 0,0:10:59.88,0:11:03.51,Default,Guard,0000,0000,0000,,La señorita no es la única,\N todas las mujeres son así.
+Dialogue: 0,0:11:03.71,0:11:05.24,Default,Tatsumi,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:11:05.24,0:11:08.06,Default,Tatsumi,0000,0000,0000,,Las que conozco no tienen problemas \Npara escoger su atuendo.
+Dialogue: 0,0:11:08.06,0:11:09.64,Default - italics,Sayo,0000,0000,0000,,¡Porque no tenemos nada para ponernos!
+Dialogue: 0,0:11:09.64,0:11:11.05,Default,Guard,0000,0000,0000,,Por cierto, Tatsumi.
+Dialogue: 0,0:11:11.05,0:11:11.70,Default,Tatsumi,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:11:11.70,0:11:12.72,Default,Guard,0000,0000,0000,,Mira eso.
+Dialogue: 0,0:11:13.36,0:11:17.72,Default,Guard,0000,0000,0000,,Lo que ves allá a la distancia es\N el centro de la capital, el palacio.
+Dialogue: 0,0:11:17.72,0:11:19.32,Default,Tatsumi,0000,0000,0000,,¡Es enorme!
+Dialogue: 0,0:11:19.67,0:11:23.24,Default,Tatsumi,0000,0000,0000,,¿Allí se encuentra el gran \Nemperador que dirige nuestro país?
+Dialogue: 0,0:11:23.24,0:11:24.32,Default,Guard,0000,0000,0000,,No...
+Dialogue: 0,0:11:24.32,0:11:25.84,Default,Guard,0000,0000,0000,,Es un poco diferente.
+Dialogue: 0,0:11:27.11,0:11:29.96,Default,Guard,0000,0000,0000,,Hay un emperador, \Npero no es más que un niño.
+Dialogue: 0,0:11:30.78,0:11:33.82,Default,Guard,0000,0000,0000,,El primer ministro controla al \Nemperador desde las sombras.
+Dialogue: 0,0:11:33.82,0:11:35.84,Default,Guard,0000,0000,0000,,Él tiene la culpa de la decadencia actual.
+Dialogue: 0,0:11:36.15,0:11:36.77,Default,Tatsumi,0000,0000,0000,,¿El prim...?
+Dialogue: 0,0:11:36.33,0:11:39.24,Default - margin,Guard,0000,0000,0000,,No digas nada.
+Dialogue: 0,0:11:39.24,0:11:41.06,Default,Guard,0000,0000,0000,,Si alguien nos escucha, \Nestaremos muertos.
+Dialogue: 0,0:11:42.73,0:11:43.89,Default,Tatsumi,0000,0000,0000,,Entonces...
+Dialogue: 0,0:11:43.89,0:11:46.45,Default,Tatsumi,0000,0000,0000,,Los impuestos que agobian a mi aldea...
+Dialogue: 0,0:11:46.45,0:11:47.77,Default,Guard,0000,0000,0000,,Es una práctica aceptada en la capital.
+Dialogue: 0,0:11:51.71,0:11:53.65,Default,Guard,0000,0000,0000,,También hay personas como ellos.
+Dialogue: 0,0:11:56.77,0:11:58.07,Default,Tatsumi,0000,0000,0000,,¿Night Raid?
+Dialogue: 0,0:11:58.07,0:12:01.27,Default,Guard,0000,0000,0000,,Son un grupo de asesinos que \Naterra a la capital imperial.
+Dialogue: 0,0:12:01.82,0:12:05.57,Default,Guard,0000,0000,0000,,Como su nombre sugiere, \Nsolo atacan de noche.
+Dialogue: 0,0:12:05.57,0:12:09.54,Default,Guard,0000,0000,0000,,Sus principales objetivos son los \Naltos funcionarios y aristócratas.
+Dialogue: 0,0:12:09.99,0:12:11.80,Default,Guard,0000,0000,0000,,Debes estar preparado.
+Dialogue: 0,0:12:11.80,0:12:12.78,Default,Tatsumi,0000,0000,0000,,Sí.
+Dialogue: 0,0:12:12.78,0:12:16.18,Default,Guard,0000,0000,0000,,Por cierto, ¿podrías ayudarnos con eso?
+Dialogue: 0,0:12:18.04,0:12:19.71,Default,Tatsumi,0000,0000,0000,,¡¿Qué rayos es eso?!
+Dialogue: 0,0:12:25.90,0:12:29.05,Default,Mother,0000,0000,0000,,Bien, es hora de escribir en mi diario.
+Dialogue: 0,0:12:29.68,0:12:32.23,Default,Mother,0000,0000,0000,,No puedo dejar este pasatiempo.
+Dialogue: 0,0:12:47.44,0:12:48.70,Default,Shelle,0000,0000,0000,,Mis disculpas.
+Dialogue: 0,0:12:50.12,0:12:51.25,Default,Tatsumi,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:12:51.78,0:12:53.00,Default,Tatsumi,0000,0000,0000,,¿Un aura asesina?
+Dialogue: 0,0:12:55.47,0:12:56.42,Default - italics,Tatsumi,0000,0000,0000,,No puede ser...
+Dialogue: 0,0:13:02.16,0:13:03.55,Default - italics,Tatsumi,0000,0000,0000,,Esos son...
+Dialogue: 0,0:13:16.53,0:13:18.03,Default - italics,Tatsumi,0000,0000,0000,,¡Night Raid!
+Dialogue: 0,0:13:19.97,0:13:21.44,Default,Tatsumi,0000,0000,0000,,Night Raid...
+Dialogue: 0,0:13:21.78,0:13:24.19,Default,Tatsumi,0000,0000,0000,,¿Atacan este lugar porque\N vive una familia acaudalada?
+Dialogue: 0,0:13:25.91,0:13:27.21,Default - italics,Tatsumi,0000,0000,0000,,¿Qué hago?
+Dialogue: 0,0:13:27.21,0:13:28.62,Default - italics,Tatsumi,0000,0000,0000,,¿Ayudo a atacarlos?
+Dialogue: 0,0:13:28.62,0:13:30.08,Default - italics,Tatsumi,0000,0000,0000,,¿O me quedo haciendo guardia?
+Dialogue: 0,0:13:30.08,0:13:33.09,Default,Lubbock,0000,0000,0000,,Nuestros objetivos son tres guardias, Akame.
+Dialogue: 0,0:13:34.63,0:13:35.83,Default,Akame,0000,0000,0000,,Acabaré con ellos.
+Dialogue: 0,0:13:48.43,0:13:50.93,Default,Guard,0000,0000,0000,,No toquen esa espada.
+Dialogue: 0,0:14:02.16,0:14:06.74,Default,Guard,0000,0000,0000,,Un final apropiado para alguien\N con un alma podrida como la mía...
+Dialogue: 0,0:14:07.45,0:14:09.23,Default,Guard B,0000,0000,0000,,¿Qué son estos tipos?
+Dialogue: 0,0:14:09.23,0:14:10.41,Default,Guard B,0000,0000,0000,,¡Son monstruos!
+Dialogue: 0,0:14:12.87,0:14:16.01,Default,Mine,0000,0000,0000,,Qué patético.\N Le da la espalda al enemigo.
+Dialogue: 0,0:14:16.01,0:14:18.62,Default,Lubbock,0000,0000,0000,,¿Quién no escaparía \Nen estas circunstancias?
+Dialogue: 0,0:14:18.62,0:14:21.27,Default - italics,Tatsumi,0000,0000,0000,,Acabaron con ellos en un instante...
+Dialogue: 0,0:14:21.81,0:14:23.88,Default - italics,Tatsumi,0000,0000,0000,,¡Debo proteger a Aria!
+Dialogue: 0,0:14:25.45,0:14:27.22,Default,Father,0000,0000,0000,,A-ayuda...
+Dialogue: 0,0:14:27.22,0:14:29.46,Default,Father,0000,0000,0000,,Tengo una hija...
+Dialogue: 0,0:14:29.46,0:14:30.92,Default,Leone,0000,0000,0000,,Tranquilo.
+Dialogue: 0,0:14:30.92,0:14:32.35,Default,Leone,0000,0000,0000,,Las verás en el más allá.
+Dialogue: 0,0:14:32.65,0:14:34.34,Default,Father,0000,0000,0000,,¿A mi hija también...?
+Dialogue: 0,0:14:34.34,0:14:35.60,Default,Father,0000,0000,0000,,¿No tienen piedad?
+Dialogue: 0,0:14:35.60,0:14:36.86,Default,Leone,0000,0000,0000,,¿Piedad?
+Dialogue: 0,0:14:37.71,0:14:39.06,Default,Leone,0000,0000,0000,,No sé de qué hablas.
+Dialogue: 0,0:14:43.29,0:14:45.16,Default,Guard C,0000,0000,0000,,¡Rápido, señorita! ¡Por aquí!
+Dialogue: 0,0:14:45.16,0:14:46.58,Default,Aria,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:14:46.58,0:14:49.20,Default,Guard C,0000,0000,0000,,¡Debemos ir al almacén! \N¡Ahí estará a salvo!
+Dialogue: 0,0:14:50.18,0:14:51.18,Default,Tatsumi,0000,0000,0000,,¡Los encontré!
+Dialogue: 0,0:14:52.87,0:14:54.13,Default,Aria,0000,0000,0000,,¿Tatsumi?
+Dialogue: 0,0:14:55.77,0:14:57.37,Default,Guard C,0000,0000,0000,,Llegas justo a tiempo.
+Dialogue: 0,0:14:57.37,0:15:00.43,Default,Guard C,0000,0000,0000,,Iremos al almacén mientras \Nesperamos a las autoridades.
+Dialogue: 0,0:15:00.43,0:15:02.10,Default,Guard C,0000,0000,0000,,Detenlos mientras tanto.
+Dialogue: 0,0:15:02.66,0:15:04.15,Default,Tatsumi,0000,0000,0000,,Es imposible...
+Dialogue: 0,0:15:07.72,0:15:09.22,Default,Tatsumi,0000,0000,0000,,¡No tengo alternativa!
+Dialogue: 0,0:15:12.05,0:15:13.28,Default,Akame,0000,0000,0000,,No eres un objetivo.
+Dialogue: 0,0:15:16.99,0:15:17.85,Default,Guard C,0000,0000,0000,,¡Maldita sea!
+Dialogue: 0,0:15:18.86,0:15:20.27,Default,Akame,0000,0000,0000,,Mi objetivo.
+Dialogue: 0,0:15:25.58,0:15:26.53,Default - italics,Akame,0000,0000,0000,,Aniquilar.
+Dialogue: 0,0:15:41.14,0:15:42.15,Default,Akame,0000,0000,0000,,Aniquilar.
+Dialogue: 0,0:15:42.15,0:15:43.33,Default,Tatsumi,0000,0000,0000,,¡Alto!
+Dialogue: 0,0:15:45.72,0:15:47.52,Default,Akame,0000,0000,0000,,No eres mi objetivo.
+Dialogue: 0,0:15:47.52,0:15:48.67,Default,Akame,0000,0000,0000,,No tengo por qué matarte.
+Dialogue: 0,0:15:48.67,0:15:51.18,Default,Tatsumi,0000,0000,0000,,Pero tienes pensado \Nmatar a esta chica, ¿verdad?
+Dialogue: 0,0:15:51.18,0:15:51.92,Default,Akame,0000,0000,0000,,Ajá.
+Dialogue: 0,0:15:51.92,0:15:53.01,Default,Tatsumi,0000,0000,0000,,¡¿"Ajá"?!
+Dialogue: 0,0:15:53.28,0:15:54.87,Default,Akame,0000,0000,0000,,Si interfieres, te mataré.
+Dialogue: 0,0:15:54.87,0:15:56.63,Default,Tatsumi,0000,0000,0000,,¡No escaparé!
+Dialogue: 0,0:15:56.63,0:15:57.56,Default,Akame,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:15:58.05,0:15:59.02,Default,Akame,0000,0000,0000,,Entonces, te aniquilaré.
+Dialogue: 0,0:16:00.21,0:16:02.19,Default,Leone,0000,0000,0000,,¡Qué sucio!
+Dialogue: 0,0:16:04.00,0:16:08.09,Default - italics,Leone,0000,0000,0000,,Qué inusual... ¿Akame aún \Nno ha acabado con ellos?
+Dialogue: 0,0:16:08.09,0:16:09.11,Default,Leone,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:16:09.11,0:16:10.93,Default,Leone,0000,0000,0000,,Santo cielo...
+Dialogue: 0,0:16:10.93,0:16:13.86,Default,Leone,0000,0000,0000,,Ese joven no puede\N ser más desafortunado...
+Dialogue: 0,0:16:15.43,0:16:18.99,Default - italics,Tatsumi,0000,0000,0000,,No es alguien a quien pueda derrotar \Nen mi estado actual.
+Dialogue: 0,0:16:18.99,0:16:21.96,Default - italics,Tatsumi,0000,0000,0000,,Pero no puedo pensar en eso ahora.
+Dialogue: 0,0:16:22.29,0:16:26.46,Default - italics,Tatsumi,0000,0000,0000,,Si no puedo salvar a esta chica, \N¿cómo podría salvar a mi aldea?
+Dialogue: 0,0:16:34.50,0:16:35.27,Default,Tatsumi,0000,0000,0000,,¡No!
+Dialogue: 0,0:16:39.05,0:16:39.97,Default,Aria,0000,0000,0000,,¡Tatsumi!
+Dialogue: 0,0:16:47.93,0:16:50.80,Default,Tatsumi,0000,0000,0000,,¿Ni siquiera bajaste la \Nguarda para acercarte?
+Dialogue: 0,0:16:50.80,0:16:53.14,Default,Aria,0000,0000,0000,,No sentí ningún tejido.
+Dialogue: 0,0:16:54.54,0:16:56.82,Default,Tatsumi,0000,0000,0000,,Mi aldea me protege.
+Dialogue: 0,0:16:58.62,0:17:02.04,Default - italics,Leone,0000,0000,0000,,Sobrevivió a un ataque de Akame...
+Dialogue: 0,0:17:02.04,0:17:03.71,Default - italics,Leone,0000,0000,0000,,No está nada mal.
+Dialogue: 0,0:17:05.45,0:17:06.42,Default,Akame,0000,0000,0000,,Aniquilar.
+Dialogue: 0,0:17:07.38,0:17:08.58,Default,Tatsumi,0000,0000,0000,,¡Un momento!
+Dialogue: 0,0:17:08.58,0:17:10.29,Default,Tatsumi,0000,0000,0000,,¿No buscan dinero?
+Dialogue: 0,0:17:10.29,0:17:11.63,Default,Tatsumi,0000,0000,0000,,¡Déjenla ir!
+Dialogue: 0,0:17:11.63,0:17:13.16,Default,Tatsumi,0000,0000,0000,,¡No estamos en guerra!
+Dialogue: 0,0:17:13.16,0:17:15.22,Default,Tatsumi,0000,0000,0000,,¡¿Matarás a una chica inocente?!
+Dialogue: 0,0:17:15.55,0:17:18.05,Default - italics,Tatsumi,0000,0000,0000,,Es inútil. No escucha \Nnada de lo que digo.
+Dialogue: 0,0:17:20.76,0:17:21.68,Default,Leone,0000,0000,0000,,Alto.
+Dialogue: 0,0:17:23.53,0:17:24.64,Default,Akame,0000,0000,0000,,¿Qué haces?
+Dialogue: 0,0:17:24.64,0:17:26.52,Default,Leone,0000,0000,0000,,Aún tenemos tiempo, ¿no?
+Dialogue: 0,0:17:26.52,0:17:28.78,Default,Leone,0000,0000,0000,,Le debo un favor a ese joven.
+Dialogue: 0,0:17:28.78,0:17:30.90,Default,Leone,0000,0000,0000,,Es un buen momento para devolvérselo.
+Dialogue: 0,0:17:32.94,0:17:34.79,Default,Tatsumi,0000,0000,0000,,¡Son los senos de esa vez!
+Dialogue: 0,0:17:34.79,0:17:36.78,Default,Leone,0000,0000,0000,,¡Exacto! ¡Soy esa señorita tan bonita!
+Dialogue: 0,0:17:37.19,0:17:38.31,Default,Leone,0000,0000,0000,,Joven...
+Dialogue: 0,0:17:38.31,0:17:42.08,Default,Leone,0000,0000,0000,,Dijiste algo sobre matar a una \N chica inocente, ¿cierto?
+Dialogue: 0,0:17:42.35,0:17:45.50,Default,Leone,0000,0000,0000,,¿Podrás decir lo mismo luego de ver esto?
+Dialogue: 0,0:17:48.97,0:17:52.18,Default,Leone,0000,0000,0000,,Mira bien. Esta es la \Noscuridad de la capital.
+Dialogue: 0,0:17:54.88,0:17:58.22,Default,Tatsumi,0000,0000,0000,,¿Qu-qué es esto?
+Dialogue: 0,0:17:58.69,0:18:02.29,Default,Leone,0000,0000,0000,,Atraen a campesinos con palabras dulces,
+Dialogue: 0,0:18:02.29,0:18:06.02,Default,Leone,0000,0000,0000,,para luego jugar con ellos y \Ntorturarlos hasta que mueran.
+Dialogue: 0,0:18:06.58,0:18:08.73,Default,Leone,0000,0000,0000,,Esta es la verdad detrás de esta familia.
+Dialogue: 0,0:18:11.20,0:18:12.37,Default,Tatsumi,0000,0000,0000,,Sayo...
+Dialogue: 0,0:18:13.03,0:18:15.36,Default,Tatsumi,0000,0000,0000,,Oye... ¿Sayo?
+Dialogue: 0,0:18:15.36,0:18:16.36,Default,Tatsumi,0000,0000,0000,,¿Eres tú, Sayo?
+Dialogue: 0,0:18:16.36,0:18:18.19,Default,Leone,0000,0000,0000,,¿La conocías?
+Dialogue: 0,0:18:19.84,0:18:20.87,Default,Leone,0000,0000,0000,,Alto ahí.
+Dialogue: 0,0:18:21.69,0:18:24.59,Default,Leone,0000,0000,0000,,¿Crees que podrás escapar tan fácilmente?
+Dialogue: 0,0:18:24.59,0:18:26.46,Default,Tatsumi,0000,0000,0000,,¿Fue obra de esta familia?
+Dialogue: 0,0:18:26.77,0:18:27.88,Default,Leone,0000,0000,0000,,Sí.
+Dialogue: 0,0:18:27.88,0:18:30.39,Default,Leone,0000,0000,0000,,Los guardias son cómplices.
+Dialogue: 0,0:18:30.39,0:18:33.71,Default,Aria,0000,0000,0000,,¡Es mentira! ¡No sabía\N que existía este lugar!
+Dialogue: 0,0:18:33.71,0:18:37.53,Default,Aria,0000,0000,0000,,¡¿Creerás a quien te salvó\N o a esas personas?!
+Dialogue: 0,0:18:38.31,0:18:39.70,Default,Ieyasu,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:18:40.60,0:18:43.06,Default,Ieyasu,0000,0000,0000,,¿E-eres tú, Tatsumi?
+Dialogue: 0,0:18:43.42,0:18:44.34,Default,Ieyasu,0000,0000,0000,,Soy yo...
+Dialogue: 0,0:18:45.62,0:18:47.77,Default,Tatsumi,0000,0000,0000,,¿I-Ieyasu?
+Dialogue: 0,0:18:47.95,0:18:51.50,Default,Ieyasu,0000,0000,0000,,Esa chica nos invitó a su hogar.
+Dialogue: 0,0:18:51.50,0:18:53.89,Default,Ieyasu,0000,0000,0000,,Nos desmayamos después de comer.
+Dialogue: 0,0:18:53.89,0:18:56.03,Default,Ieyasu,0000,0000,0000,,Luego despertamos en este lugar...
+Dialogue: 0,0:18:56.41,0:19:01.22,Default,Ieyasu,0000,0000,0000,,¡E-esa chica torturó \Na Sayo hasta la muerte!
+Dialogue: 0,0:19:03.91,0:19:06.05,Default,Aria,0000,0000,0000,,¡¿Qué tiene de malo?!
+Dialogue: 0,0:19:06.94,0:19:10.27,Default,Aria,0000,0000,0000,,¡No son más que un montón \Nde campesinos inútiles!
+Dialogue: 0,0:19:10.27,0:19:11.38,Default,Aria,0000,0000,0000,,¡Son como el ganado!
+Dialogue: 0,0:19:11.38,0:19:14.28,Default,Aria,0000,0000,0000,,¡Puedo hacer lo que quiera con ellos, ¿no?!
+Dialogue: 0,0:19:14.28,0:19:17.11,Default,Aria,0000,0000,0000,,¡Y esa mujer tenía un hermoso\N cabello a pesar de ser ganado!
+Dialogue: 0,0:19:17.11,0:19:19.91,Default,Aria,0000,0000,0000,,¡¿Quién se creía que era?! ¡Yo tengo\N muchos problemas con mi cabello!
+Dialogue: 0,0:19:20.20,0:19:22.60,Default,Aria,0000,0000,0000,,¡Por eso la hice sufrir lo más que pude!
+Dialogue: 0,0:19:22.60,0:19:25.51,Default,Aria,0000,0000,0000,,¡Debería estar agradecida de que alguien \Nle haya prestado tanta atención!
+Dialogue: 0,0:19:25.51,0:19:28.51,Default,Leone,0000,0000,0000,,Una familia de sádicos disfrazados \Nde buenos samaritanos.
+Dialogue: 0,0:19:29.51,0:19:31.38,Default,Leone,0000,0000,0000,,Lamento haberte interrumpido.
+Dialogue: 0,0:19:31.38,0:19:32.30,Default,Akame,0000,0000,0000,,Aniquilar.
+Dialogue: 0,0:19:32.30,0:19:33.19,Default,Tatsumi,0000,0000,0000,,Espera.
+Dialogue: 0,0:19:33.67,0:19:34.77,Default,Leone,0000,0000,0000,,No me digas que...
+Dialogue: 0,0:19:34.77,0:19:35.94,Default,Leone,0000,0000,0000,,¿Aún quieres defenderla?
+Dialogue: 0,0:19:36.47,0:19:37.40,Default,Tatsumi,0000,0000,0000,,No.
+Dialogue: 0,0:19:37.74,0:19:39.11,Default,Tatsumi,0000,0000,0000,,¡La mataré yo!
+Dialogue: 0,0:19:54.77,0:19:56.50,Default - italics,Leone,0000,0000,0000,,Sé que la despreciaba,
+Dialogue: 0,0:19:56.50,0:19:58.96,Default - italics,Leone,0000,0000,0000,,pero la mató sin titubear.
+Dialogue: 0,0:20:01.59,0:20:03.46,Default,Ieyasu,0000,0000,0000,,Ese es nuestro Tatsumi...
+Dialogue: 0,0:20:03.46,0:20:04.68,Default,Ieyasu,0000,0000,0000,,¡Fue genial!
+Dialogue: 0,0:20:06.33,0:20:07.31,Default,Tatsumi,0000,0000,0000,,¡Ieyasu!
+Dialogue: 0,0:20:09.49,0:20:10.61,Default,Tatsumi,0000,0000,0000,,Ieyasu...
+Dialogue: 0,0:20:10.61,0:20:12.27,Default,Akame,0000,0000,0000,,Son las últimas etapas del Lubora.
+Dialogue: 0,0:20:12.83,0:20:15.52,Default,Akame,0000,0000,0000,,La madre drogaba a sus víctimas.
+Dialogue: 0,0:20:15.52,0:20:18.65,Default,Akame,0000,0000,0000,,Escribía cada detalle en su diario.
+Dialogue: 0,0:20:19.26,0:20:21.06,Default,Akame,0000,0000,0000,,Ya no tiene salvación.
+Dialogue: 0,0:20:21.90,0:20:23.40,Default,Ieyasu,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:20:23.40,0:20:24.07,Default,Tatsumi,0000,0000,0000,,¡Ieyasu!
+Dialogue: 0,0:20:24.47,0:20:27.58,Default,Ieyasu,0000,0000,0000,,Sayo... nunca se rindió.
+Dialogue: 0,0:20:27.58,0:20:30.21,Default,Ieyasu,0000,0000,0000,,Luchó hasta el final.
+Dialogue: 0,0:20:30.21,0:20:32.31,Default,Ieyasu,0000,0000,0000,,Estuvo estupenda...
+Dialogue: 0,0:20:32.31,0:20:37.71,Default,Ieyasu,0000,0000,0000,,Por eso... el gran Ieyasu también \Ntendrá un final espectacular...
+Dialogue: 0,0:20:40.21,0:20:43.16,Default,Akame,0000,0000,0000,,Su fuerza de voluntad era lo \Núnico que lo mantenía con vida.
+Dialogue: 0,0:20:44.63,0:20:46.63,Default,Tatsumi,0000,0000,0000,,¿Qué sucede en la capital?
+Dialogue: 0,0:20:48.22,0:20:48.85,Default,Akame,0000,0000,0000,,Vámonos.
+Dialogue: 0,0:20:48.85,0:20:49.78,Default,Leone,0000,0000,0000,,Oye...
+Dialogue: 0,0:20:50.23,0:20:51.93,Default,Leone,0000,0000,0000,,¿Qué tal si lo llevamos con nosotras?
+Dialogue: 0,0:20:54.94,0:20:57.18,Default,Leone,0000,0000,0000,,¡Nuestra base secreta\N siempre necesita personal!
+Dialogue: 0,0:20:55.45,0:20:57.69,Default,Tatsumi,0000,0000,0000,,{\an8}¿Qué haces? ¡Suéltame!
+Dialogue: 0,0:20:57.18,0:21:00.19,Default,Leone,0000,0000,0000,,Tiene suerte, agallas y talento, ¿no crees?
+Dialogue: 0,0:20:57.69,0:21:00.54,Default,Tatsumi,0000,0000,0000,,{\an8}¡Debo sepultarlos!
+Dialogue: 0,0:21:00.54,0:21:03.99,Default,Leone,0000,0000,0000,,Bueno. Luego llevaré sus \Ncadáveres a la base secreta,
+Dialogue: 0,0:21:03.99,0:21:04.80,Default,Leone,0000,0000,0000,,así que no te preocupes.
+Dialogue: 0,0:21:05.41,0:21:06.24,Default,Tatsumi,0000,0000,0000,,¡Suéltame!
+Dialogue: 0,0:21:06.24,0:21:07.44,Default,Mine,0000,0000,0000,,¡Llegan tarde!
+Dialogue: 0,0:21:07.44,0:21:08.74,Default,Mine,0000,0000,0000,,¿Qué estaban haciendo?
+Dialogue: 0,0:21:07.44,0:21:08.74,Default,Tatsumi,0000,0000,0000,,{\an8}¡Que me sueltes!
+Dialogue: 0,0:21:08.74,0:21:10.59,Default,Mine,0000,0000,0000,,¿Y eso qué es?
+Dialogue: 0,0:21:10.59,0:21:11.57,Default,Leone,0000,0000,0000,,¡Un compañero!
+Dialogue: 0,0:21:12.33,0:21:14.21,Default,Leone,0000,0000,0000,,¿Eh? ¿No te lo dije?
+Dialogue: 0,0:21:15.08,0:21:18.29,Default,Leone,0000,0000,0000,,Ahora eres uno de los nuestros.
+Dialogue: 0,0:21:18.29,0:21:20.75,Default,Leone,0000,0000,0000,,¡Felicidades, ahora eres \Nun integrante de Night Raid!
+Dialogue: 0,0:21:22.38,0:21:24.14,Default,Tatsumi,0000,0000,0000,,¡¿Por qué yo?!
+Dialogue: 0,0:21:24.14,0:21:25.09,Default,Akame,0000,0000,0000,,Ríndete.
+Dialogue: 0,0:21:25.09,0:21:27.39,Default,Akame,0000,0000,0000,,No puedes llevarle la contraria a Leone.
+Dialogue: 0,0:21:27.39,0:21:30.13,Default,Leone,0000,0000,0000,,Me conoces muy bien, \Nse nota que eres mi mejor amiga.
+Dialogue: 0,0:21:30.13,0:21:32.27,Default,Leone,0000,0000,0000,,¡Bulatcchi, encárgate de él!
+Dialogue: 0,0:21:33.06,0:21:34.25,Default,Tatsumi,0000,0000,0000,,Suéltame...
+Dialogue: 0,0:21:34.25,0:21:36.02,Default,Tatsumi,0000,0000,0000,,¡No quiero ser un asesino!
+Dialogue: 0,0:21:34.54,0:21:35.73,Default,Bulacchi,0000,0000,0000,,Tranquilo...
+Dialogue: 0,0:21:36.02,0:21:37.40,Default,Bulacchi,0000,0000,0000,,Todo saldrá bien.
+Dialogue: 0,0:21:37.40,0:21:39.48,Default,Tatsumi,0000,0000,0000,,¿Qu-qué cosa?
+Dialogue: 0,0:21:39.94,0:21:41.98,Default,Akame,0000,0000,0000,,Misión cumplida. Regresemos.
+Dialogue: 0,0:21:45.95,0:21:48.89,Default,Tatsumi,0000,0000,0000,,¡¿Cómo me vi envuelto en esto?!
+Dialogue: 0,0:21:51.80,0:21:55.08,Default,Tatsumi,0000,0000,0000,,¿Qué va a pasar conmigo?
+Dialogue: 0,0:23:35.89,0:23:40.94,Title2,Title,0000,0000,0000,,{\fad(442,1)}Aniquila la autoridad
