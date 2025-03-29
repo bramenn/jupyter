@@ -1,48 +1,45 @@
 [
     {
-        "What should I do for training?": {
+        "what should i do for training": {
             "phrases": [
-                "What should I do for training?"
+                "what should i do for training"
             ],
             "words": [
-                "What",
-                "should",
-                "I",
-                "do",
-                "for",
-                "training",
-                "?"
-            ]
-        }
-    },
-    {
-        "W- what should I do to train?": {
-            "phrases": [
-                "W- what should I do to train?"
-            ],
-            "words": [
-                "W-",
                 "what",
                 "should",
-                "I",
+                "i",
                 "do",
-                "to",
-                "train",
-                "?"
+                "for",
+                "training"
             ]
         }
     },
     {
-        "To begin with, you don't need to do anything. Just live.": {
+        "w what should i do to train": {
             "phrases": [
-                "To begin with, you do not need to do anything.",
-                "Just live."
+                "w what should i do to train"
             ],
             "words": [
-                "To",
+                "w",
+                "what",
+                "should",
+                "i",
+                "do",
+                "to",
+                "train"
+            ]
+        }
+    },
+    {
+        "to begin with you dont need to do anything just live": {
+            "phrases": [
+                "to begin with you do not need to do anything",
+                "just live"
+            ],
+            "words": [
+                "to",
                 "begin",
                 "with",
-                ",",
                 "you",
                 "do",
                 "not",
@@ -50,34 +47,30 @@
                 "to",
                 "do",
                 "anything",
-                ".",
-                "Just",
-                "live",
-                "."
+                "just",
+                "live"
             ]
         }
     },
     {
-        "Live?": {
+        "live": {
             "phrases": [
-                "Live?"
+                "live"
             ],
             "words": [
-                "Live",
-                "?"
+                "live"
             ]
         }
     },
     {
-        "Right. Try surviving all by yourself without anything happening to you.": {
+        "right try surviving all by yourself without anything happening to you": {
             "phrases": [
-                "Right.",
-                "Try surviving all by yourself without anything happening to you."
+                "right",
+                "try surviving all by yourself without anything happening to you"
             ],
             "words": [
-                "Right",
-                ".",
-                "Try",
+                "right",
+                "try",
                 "surviving",
                 "all",
                 "by",
@@ -86,18 +79,17 @@
                 "anything",
                 "happening",
                 "to",
-                "you",
-                "."
+                "you"
             ]
         }
     },
     {
-        "If you can survive without incident for six months, I'll teach you how to fight.": {
+        "if you can survive without incident for six months ill teach you how to fight": {
             "phrases": [
-                "If you can survive without incident for six months, I will teach you how to fight."
+                "if you can survive without incident for six months i will teach you how to fight"
             ],
             "words": [
-                "If",
+                "if",
                 "you",
                 "can",
                 "survive",
@@ -106,78 +98,70 @@
                 "for",
                 "six",
                 "months",
-                ",",
-                "I",
+                "i",
                 "will",
                 "teach",
                 "you",
                 "how",
                 "to",
-                "fight",
-                "."
+                "fight"
             ]
         }
     },
     {
-        "Six months, by myself, in this place?": {
+        "six months by myself in this place": {
             "phrases": [
-                "Six months, by myself, in this place?"
+                "six months by myself in this place"
             ],
             "words": [
-                "Six",
+                "six",
                 "months",
-                ",",
                 "by",
                 "myself",
-                ",",
                 "in",
                 "this",
-                "place",
-                "?"
+                "place"
             ]
         }
     },
     {
-        "No way! I'll die of loneliness!": {
+        "no way ill die of loneliness": {
             "phrases": [
-                "No way!",
-                "I will die of loneliness!"
+                "no way",
+                "i will die of loneliness"
             ],
             "words": [
-                "No",
+                "no",
                 "way",
-                "!",
-                "I",
+                "i",
                 "will",
                 "die",
                 "of",
-                "loneliness",
-                "!"
+                "loneliness"
             ]
         }
     },
     {
-        "You won't be lonesome.": {
+        "you wont be lonesome": {
             "phrases": [
-                "You will not be lonesome."
+                "you will not be lonesome"
             ],
             "words": [
-                "You",
+                "you",
                 "will",
                 "not",
                 "be",
-                "lonesome",
-                "."
+                "lonesome"
             ]
         }
     },
     {
-        "This place is teaming with beasts that are thirsting for blood.": {
+        "this place is teaming with beasts that are thirsting for blood": {
             "phrases": [
-                "This place is teaming with beasts that are thirsting for blood."
+                "this place is teaming with beasts that are thirsting for blood"
             ],
             "words": [
-                "This",
+                "this",
                 "place",
                 "is",
                 "teaming",
@@ -187,43 +171,38 @@
                 "are",
                 "thirsting",
                 "for",
-                "blood",
-                "."
+                "blood"
             ]
         }
     },
     {
-        "No, don't do this! Don't leave me here!": {
+        "no dont do this dont leave me here": {
             "phrases": [
-                "No, do not do this!",
-                "Do not leave me here!"
+                "no do not do this",
+                "do not leave me here"
             ],
             "words": [
-                "No",
-                ",",
+                "no",
                 "do",
                 "not",
                 "do",
                 "this",
-                "!",
-                "Do",
+                "do",
                 "not",
                 "leave",
                 "me",
-                "here",
-                "!"
+                "here"
             ]
         }
     },
     {
-        "Right now, you don't have time to be spoiled!": {
+        "right now you dont have time to be spoiled": {
             "phrases": [
-                "Right now, you do not have time to be spoiled!"
+                "right now you do not have time to be spoiled"
             ],
             "words": [
-                "Right",
+                "right",
                 "now",
-                ",",
                 "you",
                 "do",
                 "not",
@@ -231,65 +210,60 @@
                 "time",
                 "to",
                 "be",
-                "spoiled",
-                "!"
+                "spoiled"
             ]
         }
     },
     {
-        "But...": {
+        "but": {
             "phrases": [
-                "But..."
+                "but"
             ],
             "words": [
-                "But",
-                "..."
+                "but"
             ]
         }
     },
     {
-        "Survive somehow for the next six months, and make yourself tougher,": {
+        "survive somehow for the next six months and make yourself tougher": {
             "phrases": [
-                "Survive somehow for the next six months, and make yourself tougher,"
+                "survive somehow for the next six months and make yourself tougher"
             ],
             "words": [
-                "Survive",
+                "survive",
                 "somehow",
                 "for",
                 "the",
                 "next",
                 "six",
                 "months",
-                ",",
                 "and",
                 "make",
                 "yourself",
-                "tougher",
-                ","
+                "tougher"
             ]
         }
     },
     {
-        "both physically and mentally.": {
+        "both physically and mentally": {
             "phrases": [
-                "both physically and mentally."
+                "both physically and mentally"
             ],
             "words": [
                 "both",
                 "physically",
                 "and",
-                "mentally",
-                "."
+                "mentally"
             ]
         }
     },
     {
-        "Do not forget that you hold the key to earth's fate in your hand.": {
+        "do not forget that you hold the key to earths fate in your hand": {
             "phrases": [
-                "Do not forget that you hold the key to earth's fate in your hand."
+                "do not forget that you hold the key to earths fate in your hand"
             ],
             "words": [
-                "Do",
+                "do",
                 "not",
                 "forget",
                 "that",
@@ -299,37 +273,35 @@
                 "key",
                 "to",
                 "earth",
-                "'s",
+                "s",
                 "fate",
                 "in",
                 "your",
-                "hand",
-                "."
+                "hand"
             ]
         }
     },
     {
-        "Believe in your own power.": {
+        "believe in your own power": {
             "phrases": [
-                "Believe in your own power."
+                "believe in your own power"
             ],
             "words": [
-                "Believe",
+                "believe",
                 "in",
                 "your",
                 "own",
-                "power",
-                "."
+                "power"
             ]
         }
     },
     {
-        "And learn some way to effectively draw out that power.": {
+        "and learn some way to effectively draw out that power": {
             "phrases": [
-                "And learn some way to effectively draw out that power."
+                "and learn some way to effectively draw out that power"
             ],
             "words": [
-                "And",
+                "and",
                 "learn",
                 "some",
                 "way",
@@ -338,50 +310,44 @@
                 "draw",
                 "out",
                 "that",
-                "power",
-                "."
+                "power"
             ]
         }
     },
     {
-        "But I...": {
+        "but i": {
             "phrases": [
-                "But I..."
+                "but i"
             ],
             "words": [
-                "But",
-                "I",
-                "..."
+                "but",
+                "i"
             ]
         }
     },
     {
-        "See you later. Oh, right, right.": {
+        "see you later oh right right": {
             "phrases": [
-                "See you later.",
-                "Oh, right, right."
+                "see you later",
+                "oh right right"
             ],
             "words": [
-                "See",
+                "see",
                 "you",
                 "later",
-                ".",
-                "Oh",
-                ",",
+                "oh",
                 "right",
-                ",",
-                "right",
-                "."
+                "right"
             ]
         }
     },
     {
-        "Don't think about trying to escape from here.": {
+        "dont think about trying to escape from here": {
             "phrases": [
-                "Do not think about trying to escape from here."
+                "do not think about trying to escape from here"
             ],
             "words": [
-                "Do",
+                "do",
                 "not",
                 "think",
                 "about",
@@ -389,18 +355,17 @@
                 "to",
                 "escape",
                 "from",
-                "here",
-                "."
+                "here"
             ]
         }
     },
     {
-        "This place is surrounded by nothing but expansive hellish desert.": {
+        "this place is surrounded by nothing but expansive hellish desert": {
             "phrases": [
-                "This place is surrounded by nothing but expansive hellish desert."
+                "this place is surrounded by nothing but expansive hellish desert"
             ],
             "words": [
-                "This",
+                "this",
                 "place",
                 "is",
                 "surrounded",
@@ -409,28 +374,26 @@
                 "but",
                 "expansive",
                 "hellish",
-                "desert",
-                "."
+                "desert"
             ]
         }
     },
     {
-        "In other words,": {
+        "in other words": {
             "phrases": [
-                "In other words,"
+                "in other words"
             ],
             "words": [
-                "In",
+                "in",
                 "other",
-                "words",
-                ","
+                "words"
             ]
         }
     },
     {
-        "it's a world of death that's enough to make this place look like heaven.": {
+        "its a world of death thats enough to make this place look like heaven": {
             "phrases": [
-                "it is a world of death that is enough to make this place look like heaven."
+                "it is a world of death that is enough to make this place look like heaven"
             ],
             "words": [
                 "it",
@@ -448,68 +411,59 @@
                 "place",
                 "look",
                 "like",
-                "heaven",
-                "."
+                "heaven"
             ]
         }
     },
     {
-        "Wait! Where is there any food? What about baths?": {
+        "wait where is there any food what about baths": {
             "phrases": [
-                "Wait!",
-                "Where is there any food?",
-                "What about baths?"
+                "wait",
+                "where is there any food",
+                "what about baths"
             ],
             "words": [
-                "Wait",
-                "!",
-                "Where",
+                "wait",
+                "where",
                 "is",
                 "there",
                 "any",
                 "food",
-                "?",
-                "What",
+                "what",
                 "about",
-                "baths",
-                "?"
+                "baths"
             ]
         }
     },
     {
-        "What about a bed? What about books, and notebooks, and pencils, and...": {
+        "what about a bed what about books and notebooks and pencils and": {
             "phrases": [
-                "What about a bed?",
-                "What about books, and notebooks, and pencils, and..."
+                "what about a bed",
+                "what about books and notebooks and pencils and"
             ],
             "words": [
-                "What",
+                "what",
                 "about",
                 "a",
                 "bed",
-                "?",
-                "What",
+                "what",
                 "about",
                 "books",
-                ",",
                 "and",
                 "notebooks",
-                ",",
                 "and",
                 "pencils",
-                ",",
-                "and",
-                "..."
+                "and"
             ]
         }
     },
     {
-        "You think there's any of that arranged for you here, sonny boy?": {
+        "you think theres any of that arranged for you here sonny boy": {
             "phrases": [
-                "You think there is any of that arranged for you here, sonny boy?"
+                "you think there is any of that arranged for you here sonny boy"
             ],
             "words": [
-                "You",
+                "you",
                 "think",
                 "there",
                 "is",
@@ -520,163 +474,147 @@
                 "for",
                 "you",
                 "here",
-                ",",
                 "sonny",
-                "boy",
-                "?"
+                "boy"
             ]
         }
     },
     {
-        "Oh, no!": {
+        "oh no": {
             "phrases": [
-                "Oh, no!"
+                "oh no"
             ],
             "words": [
-                "Oh",
-                ",",
-                "no",
-                "!"
+                "oh",
+                "no"
             ]
         }
     },
     {
-        "That's horrible!": {
+        "thats horrible": {
             "phrases": [
-                "That is horrible!"
+                "that is horrible"
             ],
             "words": [
-                "That",
+                "that",
                 "is",
-                "horrible",
-                "!"
+                "horrible"
             ]
         }
     },
     {
-        "If you have to blame something, then blame your own fate. The way I do.": {
+        "if you have to blame something then blame your own fate the way i do": {
             "phrases": [
-                "If you have to blame something, then blame your own fate.",
-                "The way I do."
+                "if you have to blame something then blame your own fate",
+                "the way i do"
             ],
             "words": [
-                "If",
+                "if",
                 "you",
                 "have",
                 "to",
                 "blame",
                 "something",
-                ",",
                 "then",
                 "blame",
                 "your",
                 "own",
                 "fate",
-                ".",
-                "The",
+                "the",
                 "way",
-                "I",
-                "do",
-                "."
+                "i",
+                "do"
             ]
         }
     },
     {
-        "Wait!": {
+        "wait": {
             "phrases": [
-                "Wait!"
+                "wait"
             ],
             "words": [
-                "Wait",
-                "!"
+                "wait"
             ]
         }
     },
     {
-        "I'm scared! Don't leave me here!": {
+        "im scared dont leave me here": {
             "phrases": [
-                "I am scared!",
-                "Do not leave me here!"
+                "i am scared",
+                "do not leave me here"
             ],
             "words": [
-                "I",
+                "i",
                 "am",
                 "scared",
-                "!",
-                "Do",
+                "do",
                 "not",
                 "leave",
                 "me",
-                "here",
-                "!"
+                "here"
             ]
         }
     },
     {
-        "Kami- sama look strange. Something wrong?": {
+        "kami sama look strange something wrong": {
             "phrases": [
-                "Kami- sama look strange.",
-                "Something wrong?"
+                "kami sama look strange",
+                "something wrong"
             ],
             "words": [
-                "Kami-",
+                "kami",
                 "sama",
                 "look",
                 "strange",
-                ".",
-                "Something",
-                "wrong",
-                "?"
+                "something",
+                "wrong"
             ]
         }
     },
     {
-        "Sure enough, there's something different about Piccolo from how he was before.": {
+        "sure enough theres something different about piccolo from how he was before": {
             "phrases": [
-                "Sure enough, there is something different about Piccolo from how he was before."
+                "sure enough there is something different about piccolo from how he was before"
             ],
             "words": [
-                "Sure",
+                "sure",
                 "enough",
-                ",",
                 "there",
                 "is",
                 "something",
                 "different",
                 "about",
-                "Piccolo",
+                "piccolo",
                 "from",
                 "how",
                 "he",
                 "was",
-                "before",
-                "."
+                "before"
             ]
         }
     },
     {
-        "He's still unmistakably evil,": {
+        "hes still unmistakably evil": {
             "phrases": [
-                "He is still unmistakably evil,"
+                "he is still unmistakably evil"
             ],
             "words": [
-                "He",
+                "he",
                 "is",
                 "still",
                 "unmistakably",
-                "evil",
-                ","
+                "evil"
             ]
         }
     },
     {
-        "but I sense that the devious abrasiveness he had in the past is fading away.": {
+        "but i sense that the devious abrasiveness he had in the past is fading away": {
             "phrases": [
-                "but I sense that the devious abrasiveness he had in the past is fading away."
+                "but i sense that the devious abrasiveness he had in the past is fading away"
             ],
             "words": [
                 "but",
-                "I",
+                "i",
                 "sense",
                 "that",
                 "the",
@@ -689,44 +627,41 @@
                 "past",
                 "is",
                 "fading",
-                "away",
-                "."
+                "away"
             ]
         }
     },
     {
-        "Popo thinks so too. The old Daimao not make Son Goku's son strong.": {
+        "popo thinks so too the old daimao not make son gokus son strong": {
             "phrases": [
-                "Popo thinks so too.",
-                "The old Daimao not make Son Goku's son strong."
+                "popo thinks so too",
+                "the old daimao not make son gokus son strong"
             ],
             "words": [
-                "Popo",
+                "popo",
                 "thinks",
                 "so",
                 "too",
-                ".",
-                "The",
+                "the",
                 "old",
-                "Daimao",
+                "daimao",
                 "not",
                 "make",
-                "Son",
-                "Goku",
-                "'s",
                 "son",
-                "strong",
-                "."
+                "goku",
+                "s",
+                "son",
+                "strong"
             ]
         }
     },
     {
-        "What made me clearly realize that there was something strange about Piccolo...": {
+        "what made me clearly realize that there was something strange about piccolo": {
             "phrases": [
-                "What made me clearly realize that there was something strange about Piccolo..."
+                "what made me clearly realize that there was something strange about piccolo"
             ],
             "words": [
-                "What",
+                "what",
                 "made",
                 "me",
                 "clearly",
@@ -737,15 +672,14 @@
                 "something",
                 "strange",
                 "about",
-                "Piccolo",
-                "..."
+                "piccolo"
             ]
         }
     },
     {
-        "his spirit went right to the Other World.": {
+        "his spirit went right to the other world": {
             "phrases": [
-                "his spirit went right to the Other World."
+                "his spirit went right to the other world"
             ],
             "words": [
                 "his",
@@ -754,38 +688,35 @@
                 "right",
                 "to",
                 "the",
-                "Other",
-                "World",
-                "."
+                "other",
+                "world"
             ]
         }
     },
     {
-        "Up until now, whenever anyone was killed by the Demon Clan,": {
+        "up until now whenever anyone was killed by the demon clan": {
             "phrases": [
-                "Up until now, whenever anyone was killed by the Demon Clan,"
+                "up until now whenever anyone was killed by the demon clan"
             ],
             "words": [
-                "Up",
+                "up",
                 "until",
                 "now",
-                ",",
                 "whenever",
                 "anyone",
                 "was",
                 "killed",
                 "by",
                 "the",
-                "Demon",
-                "Clan",
-                ","
+                "demon",
+                "clan"
             ]
         }
     },
     {
-        "their spirit had been unable to pass beyond,": {
+        "their spirit had been unable to pass beyond": {
             "phrases": [
-                "their spirit had been unable to pass beyond,"
+                "their spirit had been unable to pass beyond"
             ],
             "words": [
                 "their",
@@ -795,15 +726,14 @@
                 "unable",
                 "to",
                 "pass",
-                "beyond",
-                ","
+                "beyond"
             ]
         }
     },
     {
-        "and they drifted through the air, as they suffered.": {
+        "and they drifted through the air as they suffered": {
             "phrases": [
-                "and they drifted through the air, as they suffered."
+                "and they drifted through the air as they suffered"
             ],
             "words": [
                 "and",
@@ -812,77 +742,70 @@
                 "through",
                 "the",
                 "air",
-                ",",
                 "as",
                 "they",
-                "suffered",
-                "."
+                "suffered"
             ]
         }
     },
     {
-        "Did a guy named Raditz wash up here?": {
+        "did a guy named raditz wash up here": {
             "phrases": [
-                "Did a guy named Raditz wash up here?"
+                "did a guy named raditz wash up here"
             ],
             "words": [
-                "Did",
+                "did",
                 "a",
                 "guy",
                 "named",
-                "Raditz",
+                "raditz",
                 "wash",
                 "up",
-                "here",
-                "?"
+                "here"
             ]
         }
     },
     {
-        "Yeah, he was here all right.": {
+        "yeah he was here all right": {
             "phrases": [
-                "Yeah, he was here all right."
+                "yeah he was here all right"
             ],
             "words": [
-                "Yeah",
-                ",",
+                "yeah",
                 "he",
                 "was",
                 "here",
                 "all",
-                "right",
-                "."
+                "right"
             ]
         }
     },
     {
-        "And yet, since Raditz had gone to the Other World,": {
+        "and yet since raditz had gone to the other world": {
             "phrases": [
-                "And yet, since Raditz had gone to the Other World,"
+                "and yet since raditz had gone to the other world"
             ],
             "words": [
-                "And",
+                "and",
                 "yet",
-                ",",
                 "since",
-                "Raditz",
+                "raditz",
                 "had",
                 "gone",
                 "to",
                 "the",
-                "Other",
-                "World",
-                ","
+                "other",
+                "world"
             ]
         }
     },
     {
-        "Piccolo is clearly different from how he was before.": {
+        "piccolo is clearly different from how he was before": {
             "phrases": [
-                "Piccolo is clearly different from how he was before."
+                "piccolo is clearly different from how he was before"
             ],
             "words": [
-                "Piccolo",
+                "piccolo",
                 "is",
                 "clearly",
                 "different",
@@ -890,58 +813,53 @@
                 "how",
                 "he",
                 "was",
-                "before",
-                "."
+                "before"
             ]
         }
     },
     {
-        "You mean Piccolo has good heart?": {
+        "you mean piccolo has good heart": {
             "phrases": [
-                "You mean Piccolo has good heart?"
+                "you mean piccolo has good heart"
             ],
             "words": [
-                "You",
+                "you",
                 "mean",
-                "Piccolo",
+                "piccolo",
                 "has",
                 "good",
-                "heart",
-                "?"
+                "heart"
             ]
         }
     },
     {
-        "Perhaps he realizes it too. My life- and thus Piccolo's life": {
+        "perhaps he realizes it too my life and thus piccolos life": {
             "phrases": [
-                "Perhaps he realizes it too.",
-                "My life- and thus Piccolo's life"
+                "perhaps he realizes it too",
+                "my life and thus piccolos life"
             ],
             "words": [
-                "Perhaps",
+                "perhaps",
                 "he",
                 "realizes",
                 "it",
                 "too",
-                ".",
-                "My",
+                "my",
                 "life",
-                "-",
                 "and",
                 "thus",
-                "Piccolo",
-                "'s",
+                "piccolo",
+                "s",
                 "life"
             ]
         }
     },
     {
-        "-has only one more year left in it.": {
+        "has only one more year left in it": {
             "phrases": [
-                "-has only one more year left in it."
+                "has only one more year left in it"
             ],
             "words": [
-                "-",
                 "has",
                 "only",
                 "one",
@@ -949,35 +867,33 @@
                 "year",
                 "left",
                 "in",
-                "it",
-                "."
+                "it"
             ]
         }
     },
     {
-        "One more year?": {
+        "one more year": {
             "phrases": [
-                "One more year?"
+                "one more year"
             ],
             "words": [
-                "One",
+                "one",
                 "more",
-                "year",
-                "?"
+                "year"
             ]
         }
     },
     {
-        "Whether it's because Piccolo will be killed": {
+        "whether its because piccolo will be killed": {
             "phrases": [
-                "Whether it is because Piccolo will be killed"
+                "whether it is because piccolo will be killed"
             ],
             "words": [
-                "Whether",
+                "whether",
                 "it",
                 "is",
                 "because",
-                "Piccolo",
+                "piccolo",
                 "will",
                 "be",
                 "killed"
@@ -985,29 +901,28 @@
         }
     },
     {
-        "by the Saiyans that are to arrive in another year,": {
+        "by the saiyans that are to arrive in another year": {
             "phrases": [
-                "by the Saiyans that are to arrive in another year,"
+                "by the saiyans that are to arrive in another year"
             ],
             "words": [
                 "by",
                 "the",
-                "Saiyans",
+                "saiyans",
                 "that",
                 "are",
                 "to",
                 "arrive",
                 "in",
                 "another",
-                "year",
-                ","
+                "year"
             ]
         }
     },
     {
-        "or whether it's because that is when my lifetime will run out, I do not know.": {
+        "or whether its because that is when my lifetime will run out i do not know": {
             "phrases": [
-                "or whether it is because that is when my lifetime will run out, I do not know."
+                "or whether it is because that is when my lifetime will run out i do not know"
             ],
             "words": [
                 "or",
@@ -1023,69 +938,63 @@
                 "will",
                 "run",
                 "out",
-                ",",
-                "I",
+                "i",
                 "do",
                 "not",
-                "know",
-                "."
+                "know"
             ]
         }
     },
     {
-        "Kami- sama...": {
+        "kami sama": {
             "phrases": [
-                "Kami- sama..."
+                "kami sama"
             ],
             "words": [
-                "Kami-",
-                "sama",
-                "..."
+                "kami",
+                "sama"
             ]
         }
     },
     {
-        "My death means death for Piccolo, and Piccolo's death means death for me.": {
+        "my death means death for piccolo and piccolos death means death for me": {
             "phrases": [
-                "My death means death for Piccolo, and Piccolo's death means death for me."
+                "my death means death for piccolo and piccolos death means death for me"
             ],
             "words": [
-                "My",
+                "my",
                 "death",
                 "means",
                 "death",
                 "for",
-                "Piccolo",
-                ",",
+                "piccolo",
                 "and",
-                "Piccolo",
-                "'s",
+                "piccolo",
+                "s",
                 "death",
                 "means",
                 "death",
                 "for",
-                "me",
-                "."
+                "me"
             ]
         }
     },
     {
-        "Even being Kami,": {
+        "even being kami": {
             "phrases": [
-                "Even being Kami,"
+                "even being kami"
             ],
             "words": [
-                "Even",
+                "even",
                 "being",
-                "Kami",
-                ","
+                "kami"
             ]
         }
     },
     {
-        "it is not a pleasant thing to know the time when one's death will come.": {
+        "it is not a pleasant thing to know the time when ones death will come": {
             "phrases": [
-                "it is not a pleasant thing to know the time when one's death will come."
+                "it is not a pleasant thing to know the time when ones death will come"
             ],
             "words": [
                 "it",
@@ -1100,38 +1009,36 @@
                 "time",
                 "when",
                 "one",
-                "'s",
+                "s",
                 "death",
                 "will",
-                "come",
-                "."
+                "come"
             ]
         }
     },
     {
-        "He has to be sensing it too.": {
+        "he has to be sensing it too": {
             "phrases": [
-                "He has to be sensing it too."
+                "he has to be sensing it too"
             ],
             "words": [
-                "He",
+                "he",
                 "has",
                 "to",
                 "be",
                 "sensing",
                 "it",
-                "too",
-                "."
+                "too"
             ]
         }
     },
     {
-        "Maybe he just wants to leave something of himself behind,": {
+        "maybe he just wants to leave something of himself behind": {
             "phrases": [
-                "Maybe he just wants to leave something of himself behind,"
+                "maybe he just wants to leave something of himself behind"
             ],
             "words": [
-                "Maybe",
+                "maybe",
                 "he",
                 "just",
                 "wants",
@@ -1140,15 +1047,14 @@
                 "something",
                 "of",
                 "himself",
-                "behind",
-                ","
+                "behind"
             ]
         }
     },
     {
-        "even if it is to Son Goku's son.": {
+        "even if it is to son gokus son": {
             "phrases": [
-                "even if it is to Son Goku's son."
+                "even if it is to son gokus son"
             ],
             "words": [
                 "even",
@@ -1156,92 +1062,85 @@
                 "it",
                 "is",
                 "to",
-                "Son",
-                "Goku",
-                "'s",
                 "son",
-                "."
+                "goku",
+                "s",
+                "son"
             ]
         }
     },
     {
-        "Then, possibility of using Dragon Balls...": {
+        "then possibility of using dragon balls": {
             "phrases": [
-                "Then, possibility of using Dragon Balls..."
+                "then possibility of using dragon balls"
             ],
             "words": [
-                "Then",
-                ",",
+                "then",
                 "possibility",
                 "of",
                 "using",
-                "Dragon",
-                "Balls",
-                "..."
+                "dragon",
+                "balls"
             ]
         }
     },
     {
-        "This next time will be the last one.": {
+        "this next time will be the last one": {
             "phrases": [
-                "This next time will be the last one."
+                "this next time will be the last one"
             ],
             "words": [
-                "This",
+                "this",
                 "next",
                 "time",
                 "will",
                 "be",
                 "the",
                 "last",
-                "one",
-                "."
+                "one"
             ]
         }
     },
     {
-        "I'm scared!": {
+        "im scared": {
             "phrases": [
-                "I am scared!"
+                "i am scared"
             ],
             "words": [
-                "I",
+                "i",
                 "am",
-                "scared",
-                "!"
+                "scared"
             ]
         }
     },
     {
-        "Ee-yow!": {
+        "eeyow": {
             "phrases": [
-                "Ee-yow!"
+                "eeyow"
             ],
             "words": [
-                "Ee-yow",
-                "!"
+                "eeyow"
             ]
         }
     },
     {
-        "Wait up!": {
+        "wait up": {
             "phrases": [
-                "Wait up!"
+                "wait up"
             ],
             "words": [
-                "Wait",
-                "up",
-                "!"
+                "wait",
+                "up"
             ]
         }
     },
     {
-        "You didn't have to go around my neck like that.": {
+        "you didnt have to go around my neck like that": {
             "phrases": [
-                "You did not have to go around my neck like that."
+                "you did not have to go around my neck like that"
             ],
             "words": [
-                "You",
+                "you",
                 "did",
                 "not",
                 "have",
@@ -1251,64 +1150,59 @@
                 "my",
                 "neck",
                 "like",
-                "that",
-                "."
+                "that"
             ]
         }
     },
     {
-        "I had no idea at all that Gohan was as strong as all that.": {
+        "i had no idea at all that gohan was as strong as all that": {
             "phrases": [
-                "I had no idea at all that Gohan was as strong as all that."
+                "i had no idea at all that gohan was as strong as all that"
             ],
             "words": [
-                "I",
+                "i",
                 "had",
                 "no",
                 "idea",
                 "at",
                 "all",
                 "that",
-                "Gohan",
+                "gohan",
                 "was",
                 "as",
                 "strong",
                 "as",
                 "all",
-                "that",
-                "."
+                "that"
             ]
         }
     },
     {
-        "He is my son, after all...": {
+        "he is my son after all": {
             "phrases": [
-                "He is my son, after all..."
+                "he is my son after all"
             ],
             "words": [
-                "He",
+                "he",
                 "is",
                 "my",
                 "son",
-                ",",
                 "after",
-                "all",
-                "..."
+                "all"
             ]
         }
     },
     {
-        "That's right! I don't have to run along the entire road at all, huh?": {
+        "thats right i dont have to run along the entire road at all huh": {
             "phrases": [
-                "That is right!",
-                "I do not have to run along the entire road at all, huh?"
+                "that is right",
+                "i do not have to run along the entire road at all huh"
             ],
             "words": [
-                "That",
+                "that",
                 "is",
                 "right",
-                "!",
-                "I",
+                "i",
                 "do",
                 "not",
                 "have",
@@ -1320,97 +1214,86 @@
                 "road",
                 "at",
                 "all",
-                ",",
-                "huh",
-                "?"
+                "huh"
             ]
         }
     },
     {
-        "All right then!": {
+        "all right then": {
             "phrases": [
-                "All right then!"
+                "all right then"
             ],
             "words": [
-                "All",
+                "all",
                 "right",
-                "then",
-                "!"
+                "then"
             ]
         }
     },
     {
-        "At this rate, I'll get there in no time!": {
+        "at this rate ill get there in no time": {
             "phrases": [
-                "At this rate, I will get there in no time!"
+                "at this rate i will get there in no time"
             ],
             "words": [
-                "At",
+                "at",
                 "this",
                 "rate",
-                ",",
-                "I",
+                "i",
                 "will",
                 "get",
                 "there",
                 "in",
                 "no",
-                "time",
-                "!"
+                "time"
             ]
         }
     },
     {
-        "That was close, that was close! That's hell there beneath the clouds.": {
+        "that was close that was close thats hell there beneath the clouds": {
             "phrases": [
-                "That was close, that was close!",
-                "That is hell there beneath the clouds."
+                "that was close that was close",
+                "that is hell there beneath the clouds"
             ],
             "words": [
-                "That",
-                "was",
-                "close",
-                ",",
                 "that",
                 "was",
                 "close",
-                "!",
-                "That",
+                "that",
+                "was",
+                "close",
+                "that",
                 "is",
                 "hell",
                 "there",
                 "beneath",
                 "the",
-                "clouds",
-                "."
+                "clouds"
             ]
         }
     },
     {
-        "Son Goku has... unfortunately... been killed.": {
+        "son goku has unfortunately been killed": {
             "phrases": [
-                "Son Goku has... unfortunately... been killed."
+                "son goku has unfortunately been killed"
             ],
             "words": [
-                "Son",
-                "Goku",
+                "son",
+                "goku",
                 "has",
-                "...",
                 "unfortunately",
-                "...",
                 "been",
-                "killed",
-                "."
+                "killed"
             ]
         }
     },
     {
-        "I wonder if the shock will be too much like that.": {
+        "i wonder if the shock will be too much like that": {
             "phrases": [
-                "I wonder if the shock will be too much like that."
+                "i wonder if the shock will be too much like that"
             ],
             "words": [
-                "I",
+                "i",
                 "wonder",
                 "if",
                 "the",
@@ -1420,38 +1303,34 @@
                 "too",
                 "much",
                 "like",
-                "that",
-                "."
+                "that"
             ]
         }
     },
     {
-        "Um, I'm terribly sorry, but Goku will not be returning,": {
+        "um im terribly sorry but goku will not be returning": {
             "phrases": [
-                "Um, I am terribly sorry, but Goku will not be returning,"
+                "um i am terribly sorry but goku will not be returning"
             ],
             "words": [
-                "Um",
-                ",",
-                "I",
+                "um",
+                "i",
                 "am",
                 "terribly",
                 "sorry",
-                ",",
                 "but",
-                "Goku",
+                "goku",
                 "will",
                 "not",
                 "be",
-                "returning",
-                ","
+                "returning"
             ]
         }
     },
     {
-        "and has entered his eternal sleep.": {
+        "and has entered his eternal sleep": {
             "phrases": [
-                "and has entered his eternal sleep."
+                "and has entered his eternal sleep"
             ],
             "words": [
                 "and",
@@ -1459,64 +1338,56 @@
                 "entered",
                 "his",
                 "eternal",
-                "sleep",
-                "."
+                "sleep"
             ]
         }
     },
     {
-        "Then again, he is coming back to life, huh?": {
+        "then again he is coming back to life huh": {
             "phrases": [
-                "Then again, he is coming back to life, huh?"
+                "then again he is coming back to life huh"
             ],
             "words": [
-                "Then",
+                "then",
                 "again",
-                ",",
                 "he",
                 "is",
                 "coming",
                 "back",
                 "to",
                 "life",
-                ",",
-                "huh",
-                "?"
+                "huh"
             ]
         }
     },
     {
-        "That's it! I'll do it cheerfully! Yeah!": {
+        "thats it ill do it cheerfully yeah": {
             "phrases": [
-                "That is it!",
-                "I will do it cheerfully!",
-                "Yeah!"
+                "that is it",
+                "i will do it cheerfully",
+                "yeah"
             ],
             "words": [
-                "That",
+                "that",
                 "is",
                 "it",
-                "!",
-                "I",
+                "i",
                 "will",
                 "do",
                 "it",
                 "cheerfully",
-                "!",
-                "Yeah",
-                "!"
+                "yeah"
             ]
         }
     },
     {
-        "Goku died, but he's coming back to life right away, so don't worry.": {
+        "goku died but hes coming back to life right away so dont worry": {
             "phrases": [
-                "Goku died, but he is coming back to life right away, so do not worry."
+                "goku died but he is coming back to life right away so do not worry"
             ],
             "words": [
-                "Goku",
+                "goku",
                 "died",
-                ",",
                 "but",
                 "he",
                 "is",
@@ -1526,249 +1397,219 @@
                 "life",
                 "right",
                 "away",
-                ",",
                 "so",
                 "do",
                 "not",
-                "worry",
-                "."
+                "worry"
             ]
         }
     },
     {
-        "Kuririn!": {
+        "kuririn": {
             "phrases": [
-                "Kuririn!"
+                "kuririn"
             ],
             "words": [
-                "Kuririn",
-                "!"
+                "kuririn"
             ]
         }
     },
     {
-        "G- g- good afternoon.": {
+        "g g good afternoon": {
             "phrases": [
-                "G- g- good afternoon."
+                "g g good afternoon"
             ],
             "words": [
-                "G-",
-                "g-",
+                "g",
+                "g",
                 "good",
-                "afternoon",
-                "."
+                "afternoon"
             ]
         }
     },
     {
-        "What are you doing out here, mumbling to yourself?": {
+        "what are you doing out here mumbling to yourself": {
             "phrases": [
-                "What are you doing out here, mumbling to yourself?"
+                "what are you doing out here mumbling to yourself"
             ],
             "words": [
-                "What",
+                "what",
                 "are",
                 "you",
                 "doing",
                 "out",
                 "here",
-                ",",
                 "mumbling",
                 "to",
-                "yourself",
-                "?"
+                "yourself"
             ]
         }
     },
     {
-        "W- well, you see, um... as it happens...": {
+        "w well you see um as it happens": {
             "phrases": [
-                "W- well, you see, um... as it happens..."
+                "w well you see um as it happens"
             ],
             "words": [
-                "W-",
+                "w",
                 "well",
-                ",",
                 "you",
                 "see",
-                ",",
                 "um",
-                "...",
                 "as",
                 "it",
-                "happens",
-                "..."
+                "happens"
             ]
         }
     },
     {
-        "Heya! It's been a while!": {
+        "heya its been a while": {
             "phrases": [
-                "Heya!",
-                "It is been a while!"
+                "heya",
+                "it is been a while"
             ],
             "words": [
-                "Heya",
-                "!",
-                "It",
+                "heya",
+                "it",
                 "is",
                 "been",
                 "a",
-                "while",
-                "!"
+                "while"
             ]
         }
     },
     {
-        "G- good afternoon... That's nice of you...": {
+        "g good afternoon thats nice of you": {
             "phrases": [
-                "G- good afternoon...",
-                "That is nice of you..."
+                "g good afternoon",
+                "that is nice of you"
             ],
             "words": [
-                "G-",
+                "g",
                 "good",
                 "afternoon",
-                "...",
-                "That",
+                "that",
                 "is",
                 "nice",
                 "of",
-                "you",
-                "..."
+                "you"
             ]
         }
     },
     {
-        "Aren't you together with Goku- sa and the others?": {
+        "arent you together with goku sa and the others": {
             "phrases": [
-                "Are not you together with Goku- sa and the others?"
+                "are not you together with goku sa and the others"
             ],
             "words": [
-                "Are",
+                "are",
                 "not",
                 "you",
                 "together",
                 "with",
-                "Goku-",
+                "goku",
                 "sa",
                 "and",
                 "the",
-                "others",
-                "?"
+                "others"
             ]
         }
     },
     {
-        "Yeah, um, the truth is, Goku has d- d- ...": {
+        "yeah um the truth is goku has d d": {
             "phrases": [
-                "Yeah, um, the truth is, Goku has d- d- ..."
+                "yeah um the truth is goku has d d"
             ],
             "words": [
-                "Yeah",
-                ",",
+                "yeah",
                 "um",
-                ",",
                 "the",
                 "truth",
                 "is",
-                ",",
-                "Goku",
+                "goku",
                 "has",
-                "d-",
-                "d-",
-                "..."
+                "d",
+                "d"
             ]
         }
     },
     {
-        "What?": {
+        "what": {
             "phrases": [
-                "What?"
+                "what"
             ],
             "words": [
-                "What",
-                "?"
+                "what"
             ]
         }
     },
     {
-        "What's that? So he is goin' to be late?": {
+        "whats that so he is goin to be late": {
             "phrases": [
-                "What is that?",
-                "So he is going to be late?"
+                "what is that",
+                "so he is going to be late"
             ],
             "words": [
-                "What",
+                "what",
                 "is",
                 "that",
-                "?",
-                "So",
+                "so",
                 "he",
                 "is",
                 "going",
                 "to",
                 "be",
-                "late",
-                "?"
+                "late"
             ]
         }
     },
     {
-        "Yeah, um, yes. The truth is, the late Goku will not be returning...": {
+        "yeah um yes the truth is the late goku will not be returning": {
             "phrases": [
-                "Yeah, um, yes.",
-                "The truth is, the late Goku will not be returning..."
+                "yeah um yes",
+                "the truth is the late goku will not be returning"
             ],
             "words": [
-                "Yeah",
-                ",",
+                "yeah",
                 "um",
-                ",",
                 "yes",
-                ".",
-                "The",
+                "the",
                 "truth",
                 "is",
-                ",",
                 "the",
                 "late",
-                "Goku",
+                "goku",
                 "will",
                 "not",
                 "be",
-                "returning",
-                "..."
+                "returning"
             ]
         }
     },
     {
-        "He said he's not comin' home?": {
+        "he said hes not comin home": {
             "phrases": [
-                "He said he is not comin' home?"
+                "he said he is not comin home"
             ],
             "words": [
-                "He",
+                "he",
                 "said",
                 "he",
                 "is",
                 "not",
-                "comin'",
-                "home",
-                "?"
+                "comin",
+                "home"
             ]
         }
     },
     {
-        "Er, no, he'll be returning to us very soon...": {
+        "er no hell be returning to us very soon": {
             "phrases": [
-                "Er, no, he will be returning to us very soon..."
+                "er no he will be returning to us very soon"
             ],
             "words": [
-                "Er",
-                ",",
+                "er",
                 "no",
-                ",",
                 "he",
                 "will",
                 "be",
@@ -1776,18 +1617,17 @@
                 "to",
                 "us",
                 "very",
-                "soon",
-                "..."
+                "soon"
             ]
         }
     },
     {
-        "I don't get what it is you're sayin'!": {
+        "i dont get what it is youre sayin": {
             "phrases": [
-                "I do not get what it is you are sayin'!"
+                "i do not get what it is you are sayin"
             ],
             "words": [
-                "I",
+                "i",
                 "do",
                 "not",
                 "get",
@@ -1796,22 +1636,18 @@
                 "is",
                 "you",
                 "are",
-                "sayin",
-                "'",
-                "!"
+                "sayin"
             ]
         }
     },
     {
-        "Now, now, it's no good to stand here talkin' like this!": {
+        "now now its no good to stand here talkin like this": {
             "phrases": [
-                "Now, now, it is no good to stand here talkin' like this!"
+                "now now it is no good to stand here talkin like this"
             ],
             "words": [
-                "Now",
-                ",",
                 "now",
-                ",",
+                "now",
                 "it",
                 "is",
                 "no",
@@ -1820,42 +1656,37 @@
                 "stand",
                 "here",
                 "talkin",
-                "'",
                 "like",
-                "this",
-                "!"
+                "this"
             ]
         }
     },
     {
-        "Come on in the house! Come on, come on!": {
+        "come on in the house come on come on": {
             "phrases": [
-                "Come on in the house!",
-                "Come on, come on!"
+                "come on in the house",
+                "come on come on"
             ],
             "words": [
-                "Come",
+                "come",
                 "on",
                 "in",
                 "the",
                 "house",
-                "!",
-                "Come",
-                "on",
-                ",",
                 "come",
                 "on",
-                "!"
+                "come",
+                "on"
             ]
         }
     },
     {
-        "I can't wait to see my grandson's happy face!": {
+        "i cant wait to see my grandsons happy face": {
             "phrases": [
-                "I cannot wait to see my grandson's happy face!"
+                "i cannot wait to see my grandsons happy face"
             ],
             "words": [
-                "I",
+                "i",
                 "can",
                 "not",
                 "wait",
@@ -1863,20 +1694,19 @@
                 "see",
                 "my",
                 "grandson",
-                "'s",
+                "s",
                 "happy",
-                "face",
-                "!"
+                "face"
             ]
         }
     },
     {
-        "I ain't even seen him in a over year now.": {
+        "i aint even seen him in a over year now": {
             "phrases": [
-                "I are not even seen him in a over year now."
+                "i are not even seen him in a over year now"
             ],
             "words": [
-                "I",
+                "i",
                 "are",
                 "not",
                 "even",
@@ -1886,18 +1716,17 @@
                 "a",
                 "over",
                 "year",
-                "now",
-                "."
+                "now"
             ]
         }
     },
     {
-        "I bet he's gotten a lot bigger, huh?": {
+        "i bet hes gotten a lot bigger huh": {
             "phrases": [
-                "I bet he is gotten a lot bigger, huh?"
+                "i bet he is gotten a lot bigger huh"
             ],
             "words": [
-                "I",
+                "i",
                 "bet",
                 "he",
                 "is",
@@ -1905,18 +1734,16 @@
                 "a",
                 "lot",
                 "bigger",
-                ",",
-                "huh",
-                "?"
+                "huh"
             ]
         }
     },
     {
-        "l can't handle this. I can't tell them. Not that he won't be back for a year...": {
+        "l cant handle this i cant tell them not that he wont be back for a year": {
             "phrases": [
-                "l cannot handle this.",
-                "I cannot tell them.",
-                "Not that he will not be back for a year..."
+                "l cannot handle this",
+                "i cannot tell them",
+                "not that he will not be back for a year"
             ],
             "words": [
                 "l",
@@ -1924,14 +1751,12 @@
                 "not",
                 "handle",
                 "this",
-                ".",
-                "I",
+                "i",
                 "can",
                 "not",
                 "tell",
                 "them",
-                ".",
-                "Not",
+                "not",
                 "that",
                 "he",
                 "will",
@@ -1940,70 +1765,63 @@
                 "back",
                 "for",
                 "a",
-                "year",
-                "..."
+                "year"
             ]
         }
     },
     {
-        "Nobody's told me anythin', so I called the Kame House earlier,": {
+        "nobodys told me anythin so i called the kame house earlier": {
             "phrases": [
-                "Nobody's told me anythin', so I called the Kame House earlier,"
+                "nobodys told me anythin so i called the kame house earlier"
             ],
             "words": [
-                "Nobody",
-                "'s",
+                "nobody",
+                "s",
                 "told",
                 "me",
                 "anythin",
-                "'",
-                ",",
                 "so",
-                "I",
+                "i",
                 "called",
                 "the",
-                "Kame",
-                "House",
-                "earlier",
-                ","
+                "kame",
+                "house",
+                "earlier"
             ]
         }
     },
     {
-        "but nobody was there.": {
+        "but nobody was there": {
             "phrases": [
-                "but nobody was there."
+                "but nobody was there"
             ],
             "words": [
                 "but",
                 "nobody",
                 "was",
-                "there",
-                "."
+                "there"
             ]
         }
     },
     {
-        "Y- yeah, come to mention it,": {
+        "y yeah come to mention it": {
             "phrases": [
-                "Y- yeah, come to mention it,"
+                "y yeah come to mention it"
             ],
             "words": [
-                "Y-",
+                "y",
                 "yeah",
-                ",",
                 "come",
                 "to",
                 "mention",
-                "it",
-                ","
+                "it"
             ]
         }
     },
     {
-        "everyone's gone off to some uninhabited island somewhere to play.": {
+        "everyones gone off to some uninhabited island somewhere to play": {
             "phrases": [
-                "everyone is gone off to some uninhabited island somewhere to play."
+                "everyone is gone off to some uninhabited island somewhere to play"
             ],
             "words": [
                 "everyone",
@@ -2016,32 +1834,30 @@
                 "island",
                 "somewhere",
                 "to",
-                "play",
-                "."
+                "play"
             ]
         }
     },
     {
-        "That must be it.": {
+        "that must be it": {
             "phrases": [
-                "That must be it."
+                "that must be it"
             ],
             "words": [
-                "That",
+                "that",
                 "must",
                 "be",
-                "it",
-                "."
+                "it"
             ]
         }
     },
     {
-        "You wouldn't be able to reach them there... would you?": {
+        "you wouldnt be able to reach them there would you": {
             "phrases": [
-                "You would not be able to reach them there... would you?"
+                "you would not be able to reach them there would you"
             ],
             "words": [
-                "You",
+                "you",
                 "would",
                 "not",
                 "be",
@@ -2050,21 +1866,19 @@
                 "reach",
                 "them",
                 "there",
-                "...",
                 "would",
-                "you",
-                "?"
+                "you"
             ]
         }
     },
     {
-        "But Goku- sa and them will be back by nighttime, yeah?": {
+        "but goku sa and them will be back by nighttime yeah": {
             "phrases": [
-                "But Goku- sa and them will be back by nighttime, yeah?"
+                "but goku sa and them will be back by nighttime yeah"
             ],
             "words": [
-                "But",
-                "Goku-",
+                "but",
+                "goku",
                 "sa",
                 "and",
                 "them",
@@ -2073,118 +1887,101 @@
                 "back",
                 "by",
                 "nighttime",
-                ",",
-                "yeah",
-                "?"
+                "yeah"
             ]
         }
     },
     {
-        "Y- yeah... I suppose...": {
+        "y yeah i suppose": {
             "phrases": [
-                "Y- yeah...",
-                "I suppose..."
+                "y yeah",
+                "i suppose"
             ],
             "words": [
-                "Y-",
+                "y",
                 "yeah",
-                "...",
-                "I",
-                "suppose",
-                "..."
+                "i",
+                "suppose"
             ]
         }
     },
     {
-        "Goku- sa aside, Gohan has his studyin', you know? He can't just skip it.": {
+        "goku sa aside gohan has his studyin you know he cant just skip it": {
             "phrases": [
-                "Goku- sa aside, Gohan has his studyin', you know?",
-                "He cannot just skip it."
+                "goku sa aside gohan has his studyin you know",
+                "he cannot just skip it"
             ],
             "words": [
-                "Goku",
-                "-",
+                "goku",
                 "sa",
                 "aside",
-                ",",
-                "Gohan",
+                "gohan",
                 "has",
                 "his",
-                "studyin'",
-                ",",
+                "studyin",
                 "you",
                 "know",
-                "?",
-                "He",
+                "he",
                 "can",
                 "not",
                 "just",
                 "skip",
-                "it",
-                "."
+                "it"
             ]
         }
     },
     {
-        "You know, Goku- sa can't do anythin' as a parent!": {
+        "you know goku sa cant do anythin as a parent": {
             "phrases": [
-                "You know, Goku- sa cannot do anythin' as a parent!"
+                "you know goku sa cannot do anythin as a parent"
             ],
             "words": [
-                "You",
+                "you",
                 "know",
-                ",",
-                "Goku",
-                "-",
+                "goku",
                 "sa",
                 "can",
                 "not",
                 "do",
                 "anythin",
-                "'",
                 "as",
                 "a",
-                "parent",
-                "!"
+                "parent"
             ]
         }
     },
     {
-        "Don't go gettin' so jumpy, Chichi. This is Goku we're talkin' about.": {
+        "dont go gettin so jumpy chichi this is goku were talkin about": {
             "phrases": [
-                "Do not go gettin' so jumpy, Chichi.",
-                "This is Goku we are talkin' about."
+                "do not go gettin so jumpy chichi",
+                "this is goku we are talkin about"
             ],
             "words": [
-                "Do",
+                "do",
                 "not",
                 "go",
                 "gettin",
-                "'",
                 "so",
                 "jumpy",
-                ",",
-                "Chichi",
-                ".",
-                "This",
+                "chichi",
+                "this",
                 "is",
-                "Goku",
+                "goku",
                 "we",
                 "are",
-                "talkin'",
-                "about",
-                "."
+                "talkin",
+                "about"
             ]
         }
     },
     {
-        "He'll be sure to bring him home. Just relax.": {
+        "hell be sure to bring him home just relax": {
             "phrases": [
-                "He will be sure to bring him home.",
-                "Just relax."
+                "he will be sure to bring him home",
+                "just relax"
             ],
             "words": [
-                "He",
+                "he",
                 "will",
                 "be",
                 "sure",
@@ -2192,614 +1989,544 @@
                 "bring",
                 "him",
                 "home",
-                ".",
-                "Just",
-                "relax",
-                "."
+                "just",
+                "relax"
             ]
         }
     },
     {
-        "Really? You're right. Good. They'll probably be comin' back hungry,": {
+        "really youre right good theyll probably be comin back hungry": {
             "phrases": [
-                "Really?",
-                "You are right.",
-                "Good.",
-                "They will probably be comin' back hungry,"
+                "really",
+                "you are right",
+                "good",
+                "they will probably be comin back hungry"
             ],
             "words": [
-                "Really",
-                "?",
-                "You",
+                "really",
+                "you",
                 "are",
                 "right",
-                ".",
-                "Good",
-                ".",
-                "They",
+                "good",
+                "they",
                 "will",
                 "probably",
                 "be",
-                "comin'",
+                "comin",
                 "back",
-                "hungry",
-                ","
+                "hungry"
             ]
         }
     },
     {
-        "so I better go make some dinner.": {
+        "so i better go make some dinner": {
             "phrases": [
-                "so I better go make some dinner."
+                "so i better go make some dinner"
             ],
             "words": [
                 "so",
-                "I",
+                "i",
                 "better",
                 "go",
                 "make",
                 "some",
-                "dinner",
-                "."
+                "dinner"
             ]
         }
     },
     {
-        "Um...": {
+        "um": {
             "phrases": [
-                "Um..."
+                "um"
             ],
             "words": [
-                "Um",
-                "..."
+                "um"
             ]
         }
     },
     {
-        "I should be heading on back soon...": {
+        "i should be heading on back soon": {
             "phrases": [
-                "I should be heading on back soon..."
+                "i should be heading on back soon"
             ],
             "words": [
-                "I",
+                "i",
                 "should",
                 "be",
                 "heading",
                 "on",
                 "back",
-                "soon",
-                "..."
+                "soon"
             ]
         }
     },
     {
-        "B- but why? You just barely got here, didn'cha?": {
+        "b but why you just barely got here didncha": {
             "phrases": [
-                "B- but why?",
-                "You just barely got here, didn'cha?"
+                "b but why",
+                "you just barely got here didncha"
             ],
             "words": [
-                "B-",
+                "b",
                 "but",
                 "why",
-                "?",
-                "You",
+                "you",
                 "just",
                 "barely",
                 "got",
                 "here",
-                ",",
-                "didn'cha",
-                "?"
+                "didncha"
             ]
         }
     },
     {
-        "You could wait here until Goku- sa and Gohan get back.": {
+        "you could wait here until goku sa and gohan get back": {
             "phrases": [
-                "You could wait here until Goku- sa and Gohan get back."
+                "you could wait here until goku sa and gohan get back"
             ],
             "words": [
-                "You",
+                "you",
                 "could",
                 "wait",
                 "here",
                 "until",
-                "Goku-",
+                "goku",
                 "sa",
                 "and",
-                "Gohan",
+                "gohan",
                 "get",
-                "back",
-                "."
+                "back"
             ]
         }
     },
     {
-        "At least have some dinner first!": {
+        "at least have some dinner first": {
             "phrases": [
-                "At least have some dinner first!"
+                "at least have some dinner first"
             ],
             "words": [
-                "At",
+                "at",
                 "least",
                 "have",
                 "some",
                 "dinner",
-                "first",
-                "!"
+                "first"
             ]
         }
     },
     {
-        "B- but I have things to attend to...": {
+        "b but i have things to attend to": {
             "phrases": [
-                "B- but I have things to attend to..."
+                "b but i have things to attend to"
             ],
             "words": [
-                "B-",
+                "b",
                 "but",
-                "I",
+                "i",
                 "have",
                 "things",
                 "to",
                 "attend",
-                "to",
-                "..."
+                "to"
             ]
         }
     },
     {
-        "Look, don't worry, don't worry.": {
+        "look dont worry dont worry": {
             "phrases": [
-                "Look, do not worry, do not worry."
+                "look do not worry do not worry"
             ],
             "words": [
-                "Look",
-                ",",
+                "look",
                 "do",
                 "not",
                 "worry",
-                ",",
                 "do",
                 "not",
-                "worry",
-                "."
+                "worry"
             ]
         }
     },
     {
-        "Mother!": {
+        "mother": {
             "phrases": [
-                "Mother!"
+                "mother"
             ],
             "words": [
-                "Mother",
-                "!"
+                "mother"
             ]
         }
     },
     {
-        "Help! Somebody help!": {
+        "help somebody help": {
             "phrases": [
-                "Help!",
-                "Somebody help!"
-            ],
-            "words": [
-                "Help",
-                "!",
-                "Somebody",
                 "help",
-                "!"
+                "somebody help"
+            ],
+            "words": [
+                "help",
+                "somebody",
+                "help"
             ]
         }
     },
     {
-        "I can't get down!": {
+        "i cant get down": {
             "phrases": [
-                "I cannot get down!"
+                "i cannot get down"
             ],
             "words": [
-                "I",
+                "i",
                 "can",
                 "not",
                 "get",
-                "down",
-                "!"
+                "down"
             ]
         }
     },
     {
-        "Come on, come on, they're goin' to burn!": {
+        "come on come on theyre goin to burn": {
             "phrases": [
-                "Come on, come on, they are going to burn!"
+                "come on come on they are going to burn"
             ],
             "words": [
-                "Come",
-                "on",
-                ",",
                 "come",
                 "on",
-                ",",
+                "come",
+                "on",
                 "they",
                 "are",
                 "going",
                 "to",
-                "burn",
-                "!"
+                "burn"
             ]
         }
     },
     {
-        "Eat up, eat up!": {
+        "eat up eat up": {
             "phrases": [
-                "Eat up, eat up!"
+                "eat up eat up"
             ],
             "words": [
-                "Eat",
-                "up",
-                ",",
                 "eat",
                 "up",
-                "!"
+                "eat",
+                "up"
             ]
         }
     },
     {
-        "Before long, Goku will be bringin' Gohan home!": {
+        "before long goku will be bringin gohan home": {
             "phrases": [
-                "Before long, Goku will be bringin' Gohan home!"
+                "before long goku will be bringin gohan home"
             ],
             "words": [
-                "Before",
+                "before",
                 "long",
-                ",",
-                "Goku",
+                "goku",
                 "will",
                 "be",
-                "bringin'",
-                "Gohan",
-                "home",
-                "!"
+                "bringin",
+                "gohan",
+                "home"
             ]
         }
     },
     {
-        "I can't stand for this any longer!": {
+        "i cant stand for this any longer": {
             "phrases": [
-                "I cannot stand for this any longer!"
+                "i cannot stand for this any longer"
             ],
             "words": [
-                "I",
+                "i",
                 "can",
                 "not",
                 "stand",
                 "for",
                 "this",
                 "any",
-                "longer",
-                "!"
+                "longer"
             ]
         }
     },
     {
-        "Ogre spirits.": {
+        "ogre spirits": {
             "phrases": [
-                "Ogre spirits."
+                "ogre spirits"
             ],
             "words": [
-                "Ogre",
-                "spirits",
-                "."
+                "ogre",
+                "spirits"
             ]
         }
     },
     {
-        "One crazy dancer drink.": {
+        "one crazy dancer drink": {
             "phrases": [
-                "One crazy dancer drink."
+                "one crazy dancer drink"
             ],
             "words": [
-                "One",
+                "one",
                 "crazy",
                 "dancer",
-                "drink",
-                "."
+                "drink"
             ]
         }
     },
     {
-        "Sure, sure...": {
+        "sure sure": {
             "phrases": [
-                "Sure, sure..."
+                "sure sure"
             ],
             "words": [
-                "Sure",
-                ",",
                 "sure",
-                "..."
+                "sure"
             ]
         }
     },
     {
-        "Here's my check.": {
+        "heres my check": {
             "phrases": [
-                "Here is my check."
+                "here is my check"
             ],
             "words": [
-                "Here",
+                "here",
                 "is",
                 "my",
-                "check",
-                "."
+                "check"
             ]
         }
     },
     {
-        "Thanks for coming. Here's your change.": {
+        "thanks for coming heres your change": {
             "phrases": [
-                "Thanks for coming.",
-                "Here is your change."
+                "thanks for coming",
+                "here is your change"
             ],
             "words": [
-                "Thanks",
+                "thanks",
                 "for",
                 "coming",
-                ".",
-                "Here",
+                "here",
                 "is",
                 "your",
-                "change",
-                "."
+                "change"
             ]
         }
     },
     {
-        "10,000... 20,000... 30,000... 40,000... I'm 10,000 short.": {
+        "im  short": {
             "phrases": [
-                "10,000... 20,000... 30,000... 40,000... I am 10,000 short."
+                "i am  short"
             ],
             "words": [
-                "10,000",
-                "...",
-                "20,000",
-                "...",
-                "30,000",
-                "...",
-                "40,000",
-                "...",
-                "I",
+                "i",
                 "am",
-                "10,000",
-                "short",
-                "."
+                "short"
             ]
         }
     },
     {
-        "I beg your pardon.": {
+        "i beg your pardon": {
             "phrases": [
-                "I beg your pardon."
+                "i beg your pardon"
             ],
             "words": [
-                "I",
+                "i",
                 "beg",
                 "your",
-                "pardon",
-                "."
+                "pardon"
             ]
         }
     },
     {
-        "H - how creepy!": {
+        "h  how creepy": {
             "phrases": [
-                "H - how creepy!"
+                "h  how creepy"
             ],
             "words": [
-                "H",
-                "-",
+                "h",
                 "how",
-                "creepy",
-                "!"
+                "creepy"
             ]
         }
     },
     {
-        "I see. And I should tell this to the Turtle guy?": {
+        "i see and i should tell this to the turtle guy": {
             "phrases": [
-                "I see.",
-                "And I should tell this to the Turtle guy?"
+                "i see",
+                "and i should tell this to the turtle guy"
             ],
             "words": [
-                "I",
+                "i",
                 "see",
-                ".",
-                "And",
-                "I",
+                "and",
+                "i",
                 "should",
                 "tell",
                 "this",
                 "to",
                 "the",
-                "Turtle",
-                "guy",
-                "?"
+                "turtle",
+                "guy"
             ]
         }
     },
     {
-        "Yes. Please be sure not to forget.": {
+        "yes please be sure not to forget": {
             "phrases": [
-                "Yes.",
-                "Please be sure not to forget."
+                "yes",
+                "please be sure not to forget"
             ],
             "words": [
-                "Yes",
-                ".",
-                "Please",
+                "yes",
+                "please",
                 "be",
                 "sure",
                 "not",
                 "to",
-                "forget",
-                "."
+                "forget"
             ]
         }
     },
     {
-        "Goku is a curious one, huh? He still wants to become stronger?": {
+        "goku is a curious one huh he still wants to become stronger": {
             "phrases": [
-                "Goku is a curious one, huh?",
-                "He still wants to become stronger?"
+                "goku is a curious one huh",
+                "he still wants to become stronger"
             ],
             "words": [
-                "Goku",
+                "goku",
                 "is",
                 "a",
                 "curious",
                 "one",
-                ",",
                 "huh",
-                "?",
-                "He",
+                "he",
                 "still",
                 "wants",
                 "to",
                 "become",
-                "stronger",
-                "?"
+                "stronger"
             ]
         }
     },
     {
-        "Damn... that guy lied to me!": {
+        "damn that guy lied to me": {
             "phrases": [
-                "Damn... that guy lied to me!"
+                "damn that guy lied to me"
             ],
             "words": [
-                "Damn",
-                "...",
+                "damn",
                 "that",
                 "guy",
                 "lied",
                 "to",
-                "me",
-                "!"
+                "me"
             ]
         }
     },
     {
-        "He said I wouldn't get hungry, but here I am, hungry!": {
+        "he said i wouldnt get hungry but here i am hungry": {
             "phrases": [
-                "He said I would not get hungry, but here I am, hungry!"
+                "he said i would not get hungry but here i am hungry"
             ],
             "words": [
-                "He",
+                "he",
                 "said",
-                "I",
+                "i",
                 "would",
                 "not",
                 "get",
                 "hungry",
-                ",",
                 "but",
                 "here",
-                "I",
+                "i",
                 "am",
-                ",",
-                "hungry",
-                "!"
+                "hungry"
             ]
         }
     },
     {
-        "I'm scared and cold!": {
+        "im scared and cold": {
             "phrases": [
-                "I am scared and cold!"
+                "i am scared and cold"
             ],
             "words": [
-                "I",
+                "i",
                 "am",
                 "scared",
                 "and",
-                "cold",
-                "!"
+                "cold"
             ]
         }
     },
     {
-        "I'm so hungry I could die!": {
+        "im so hungry i could die": {
             "phrases": [
-                "I am so hungry I could die!"
+                "i am so hungry i could die"
             ],
             "words": [
-                "I",
+                "i",
                 "am",
                 "so",
                 "hungry",
-                "I",
+                "i",
                 "could",
-                "die",
-                "!"
+                "die"
             ]
         }
     },
     {
-        "Apples! Some apples fell down! How lucky!": {
+        "apples some apples fell down how lucky": {
             "phrases": [
-                "Apples!",
-                "Some apples fell down!",
-                "How lucky!"
+                "apples",
+                "some apples fell down",
+                "how lucky"
             ],
             "words": [
-                "Apples",
-                "!",
-                "Some",
+                "apples",
+                "some",
                 "apples",
                 "fell",
                 "down",
-                "!",
-                "How",
-                "lucky",
-                "!"
+                "how",
+                "lucky"
             ]
         }
     },
     {
-        "Oh well...": {
+        "oh well": {
             "phrases": [
-                "Oh well..."
+                "oh well"
             ],
             "words": [
-                "Oh",
-                "well",
-                "..."
+                "oh",
+                "well"
             ]
         }
     },
     {
-        "Yuck, they're sour!": {
+        "yuck theyre sour": {
             "phrases": [
-                "Yuck, they are sour!"
+                "yuck they are sour"
             ],
             "words": [
-                "Yuck",
-                ",",
+                "yuck",
                 "they",
                 "are",
-                "sour",
-                "!"
+                "sour"
             ]
         }
     },
     {
-        "I want some juice or something to drink! I want to eat shao mai dumplings!": {
+        "i want some juice or something to drink i want to eat shao mai dumplings": {
             "phrases": [
-                "I want some juice or something to drink!",
-                "I want to eat shao mai dumplings!"
+                "i want some juice or something to drink",
+                "i want to eat shao mai dumplings"
             ],
             "words": [
-                "I",
+                "i",
                 "want",
                 "some",
                 "juice",
@@ -2807,114 +2534,103 @@
                 "something",
                 "to",
                 "drink",
-                "!",
-                "I",
+                "i",
                 "want",
                 "to",
                 "eat",
                 "shao",
                 "mai",
-                "dumplings",
-                "!"
+                "dumplings"
             ]
         }
     },
     {
-        "I want my mother's curry!": {
+        "i want my mothers curry": {
             "phrases": [
-                "I want my mother's curry!"
+                "i want my mothers curry"
             ],
             "words": [
-                "I",
+                "i",
                 "want",
                 "my",
                 "mother",
-                "'s",
-                "curry",
-                "!"
+                "s",
+                "curry"
             ]
         }
     },
     {
-        "Dirty brat! Give me trouble, will you?": {
+        "dirty brat give me trouble will you": {
             "phrases": [
-                "Dirty brat!",
-                "Give me trouble, will you?"
+                "dirty brat",
+                "give me trouble will you"
             ],
             "words": [
-                "Dirty",
+                "dirty",
                 "brat",
-                "!",
-                "Give",
+                "give",
                 "me",
                 "trouble",
-                ",",
                 "will",
-                "you",
-                "?"
+                "you"
             ]
         }
     },
     {
-        "I'm scared!": {
+        "im scared": {
             "phrases": [
-                "I am scared!"
+                "i am scared"
             ],
             "words": [
-                "I",
+                "i",
                 "am",
-                "scared",
-                "!"
+                "scared"
             ]
         }
     },
     {
-        "Now listen, this is the last time I lend you a hand..": {
+        "now listen this is the last time i lend you a hand": {
             "phrases": [
-                "Now listen, this is the last time I lend you a hand.."
+                "now listen this is the last time i lend you a hand"
             ],
             "words": [
-                "Now",
+                "now",
                 "listen",
-                ",",
                 "this",
                 "is",
                 "the",
                 "last",
                 "time",
-                "I",
+                "i",
                 "lend",
                 "you",
                 "a",
-                "hand",
-                ".."
+                "hand"
             ]
         }
     },
     {
-        "From here on, if you are unable to survive,": {
+        "from here on if you are unable to survive": {
             "phrases": [
-                "From here on, if you are unable to survive,"
+                "from here on if you are unable to survive"
             ],
             "words": [
-                "From",
+                "from",
                 "here",
                 "on",
-                ",",
                 "if",
                 "you",
                 "are",
                 "unable",
                 "to",
-                "survive",
-                ","
+                "survive"
             ]
         }
     },
     {
-        "then that's all you're worth as a kid.": {
+        "then thats all youre worth as a kid": {
             "phrases": [
-                "then that is all you are worth as a kid."
+                "then that is all you are worth as a kid"
             ],
             "words": [
                 "then",
@@ -2926,33 +2642,30 @@
                 "worth",
                 "as",
                 "a",
-                "kid",
-                "."
+                "kid"
             ]
         }
     },
     {
-        "Exhausted, Son Gohan sleeps.": {
+        "exhausted son gohan sleeps": {
             "phrases": [
-                "Exhausted, Son Gohan sleeps."
+                "exhausted son gohan sleeps"
             ],
             "words": [
-                "Exhausted",
-                ",",
-                "Son",
-                "Gohan",
-                "sleeps",
-                "."
+                "exhausted",
+                "son",
+                "gohan",
+                "sleeps"
             ]
         }
     },
     {
-        "There's no way he could have known": {
+        "theres no way he could have known": {
             "phrases": [
-                "There is no way he could have known"
+                "there is no way he could have known"
             ],
             "words": [
-                "There",
+                "there",
                 "is",
                 "no",
                 "way",
@@ -2964,9 +2677,9 @@
         }
     },
     {
-        "that one of his moments of destiny was drawing near.": {
+        "that one of his moments of destiny was drawing near": {
             "phrases": [
-                "that one of his moments of destiny was drawing near."
+                "that one of his moments of destiny was drawing near"
             ],
             "words": [
                 "that",
@@ -2978,8 +2691,7 @@
                 "destiny",
                 "was",
                 "drawing",
-                "near",
-                "."
+                "near"
             ]
         }
     }
